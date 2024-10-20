@@ -1,0 +1,212 @@
+<script>
+  import FaqItem from '$lib/components/FAQItem.svelte';
+  import Header from '$lib/components/Header.svelte';
+  import ImageCard from '$lib/components/ImageCard.svelte';
+  import '$lib/css/app.css';
+
+  // import JumpIcon from "$lib/icons/JumpIcon.svelte";
+  // import PeopleIcon from "$lib/icons/PeopleIcon.svelte";
+  import { getAndLoadTheme } from '$lib/theme';
+  import CONFIG from '$lib/config';
+  import SocialMedia from '$lib/components/SocialMedia.svelte';
+
+  void getAndLoadTheme();
+
+  export let data;
+</script>
+
+<svelte:head>
+  <title>{CONFIG.info.serp_title}</title>
+  <meta name="description" content={CONFIG.info.misioni} />
+  <!-- OG params for sharable content -->
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content={CONFIG.info.title} />
+  <meta property="og:description" content={CONFIG.info.misioni} />
+  <meta property="og:site_name" content={CONFIG.info.title} />
+  <meta property="og:locale" content="sq_AL" />
+
+  <!-- Canonical -->
+  <link rel="canonical" href="https://fletoret.com" />
+
+  <!--twitter important OG data-->
+  <meta name="twitter:title" content={CONFIG.info.title} />
+  <meta name="twitter:description" content={CONFIG.info.description} />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@fletoretSQ" />
+</svelte:head>
+
+<Header borderBottom={false} />
+
+<main>
+  <section class="header-wrapper">
+    <div class="header-content container">
+      <h1 class="title">{CONFIG.info.title}</h1>
+      <h3 class="section-desc">
+        {CONFIG.info.misioni}
+      </h3>
+    </div>
+  </section>
+
+  <section class="bg-secondary">
+    <div
+      style="gap: 4rem; border-radius: var(--radius-xl)"
+      class="center container"
+    >
+      <div class="section-heading">
+        <h2 class="section-header">Shkrimtarë</h2>
+        <h4 class="section-desc">
+          Disa nga shkrimtarët e parë qe do mundohemi të sjellim.
+        </h4>
+      </div>
+
+      <div class="authors flex-align-center">
+        {#each data.authorsIndex as [_, author]}
+          <ImageCard {author} />
+        {/each}
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="container">
+      <div class="section-heading">
+        <h2 class="section-header">Pyetje? Përgjigje.</h2>
+      </div>
+      <div>
+        {#each data.faqEntries as faq}
+          <FaqItem question={faq.title} answer={faq.answer} />
+        {/each}
+      </div>
+    </div>
+  </section>
+</main>
+
+<section class="footer bg-secondary">
+  <div class="container">
+    <div class="col">
+      Përmbajtja e shkrimtarëve në fletoret.com mund të përdoret lirisht.
+    </div>
+    <div class="col">
+      <SocialMedia />
+    </div>
+  </div>
+</section>
+
+<style>
+  main {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    min-height: 100vh;
+  }
+  section {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: var(--spacing-2xxl) 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .container {
+    padding: calc(2 * var(--spacing-xxl));
+  }
+  .header-wrapper {
+    background-color: var(--bg-primary);
+    background-size: 10px 10px;
+    min-height: 50vh;
+  }
+  .header-content {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+  }
+  .title {
+    color: var(--text-primary);
+    font-size: 4rem;
+    font-family: var(--serif-display);
+    font-weight: 600;
+    margin-bottom: var(--spacing-xxl);
+  }
+  .section-heading {
+    margin-bottom: calc(3 * var(--spacing-xxl));
+  }
+  .section-header {
+    color: var(--text-primary);
+    font-family: var(--serif-display);
+    font-size: 2.5rem;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: var(--spacing-lg);
+  }
+  .section-desc {
+    line-height: 1.5;
+    font-size: var(--text-lg);
+    font-weight: 400;
+    max-width: 600px;
+    margin: auto;
+    color: var(--text-secondary);
+    text-align: center;
+  }
+
+  .authors {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 2rem;
+    gap: 2rem;
+    justify-content: center;
+  }
+
+  .footer {
+    padding: 0 !important;
+  }
+
+  .footer .container {
+    display: flex;
+    align-items: flex-start;
+    gap: 2rem;
+    justify-content: space-between;
+    font-size: var(--text-sm);
+    color: var(--text-secondary);
+    /* padding: calc(2 * var(--spacing-xxl)); */
+  }
+  .footer .container .col {
+    min-width: 200px;
+    max-width: 40%;
+    flex: 1;
+    line-height: 1.5;
+  }
+
+  @media (max-width: 600px) {
+    .container {
+      padding: var(--spacing-xxl);
+    }
+
+    .header-wrapper {
+      min-height: 50vh;
+    }
+    .title {
+      font-size: 3.5rem;
+    }
+
+    .section-header {
+      font-size: 1.5rem;
+    }
+    .section-desc {
+      font-size: var(--text-md);
+    }
+
+    .authors {
+      gap: 1rem;
+    }
+
+    .footer .container {
+      flex-wrap: wrap;
+    }
+    .footer .container .col {
+      width: 100% !important;
+    }
+  }
+</style>

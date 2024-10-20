@@ -1,0 +1,3 @@
+# iiif-downloader==0.0.8 # Patched version in data-pipeline/downloader
+ocrmac==0.1.4
+rich==13.7.0

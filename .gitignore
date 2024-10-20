@@ -1,0 +1,17 @@
+.DS_Store
+node_modules
+/build
+/.svelte-kit
+/package
+.env
+.env.*
+.wrangler
+!.env.example
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
+__pycache__
+venv
+
+iiif-downloads
+output.json
+output.txt

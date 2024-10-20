@@ -1,0 +1,265 @@
+{
+  "migjeni": {
+    "folder": "migjeni",
+    "name": "Migjeni",
+    "description": "Migjeni (pseudonimi i Millosh Gjergj Nikollës) është nga shkrimtarët më të shquar të letërsisë shqiptare. Me një realizëm të thellë, të panjohur deri atëherë në letërsinë tonë, ai pasqyroi jetën e përditshme të shoqërisë shqiptare, sidomos të shtresave të varfëra të qytetit e fshatit, duke demaskuar sistemin e prapambetur shoqëror si dhe fashizmin që po kërcënonte Evropën.",
+    "thumbnail": "/images/migjeni.avif",
+    "progressState": "complete",
+    "author": {
+      "@type": "Person",
+      "givenName": "Millosh",
+      "familyName": "Gjergj Nikolla",
+      "additionalName": "Migjeni",
+      "birthDate": "1911-10-13",
+      "birthPlace": {
+        "@type": "Place",
+        "address": "Shkodër, Albania"
+      },
+      "deathDate": "1938-08-26",
+      "deathPlace": {
+        "@type": "Place",
+        "address": "Torre Pellice, Torino, Italy"
+      },
+      "image": "/images/migjeni.png"
+    },
+    "books": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BookSeries",
+        "name": "Vargjet e lira",
+        "folder": "migjeni/vargjet-e-lira",
+        "genre": "albanian poetry classics",
+        "datePublished": "1936",
+        "thumbnail": "/images/covers/vargjet-e-lira.avif",
+        "abstract": "Këto janë poezitë e Migjenit, në themelin e të cilave qëndron aspirata për një botë të re, ku njerëzit e thjeshtë e të varfër të jetojnë të lirë, të lumtur, me dinjitet njerëzor dhe pa frikë për të nesërmen."
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BookSeries",
+        "name": "Novelat e qytetit të veriut",
+        "folder": "migjeni/novelat-e-qytetit-te-veriut",
+        "genre": "albanian novels classics",
+        "datePublished": "1936",
+        "thumbnail": "/images/covers/novelat-e-qytetit-te-veriut.avif",
+        "abstract": "Heronjtë e veprave të tij më të mira ishin të papunë që rropateshin gjithë ditën për të nxjerrë kafshatën e gojës, malësorë që qëndronin në zgrip të jetës, të mjerë që nuk u kishte ecur në jetë dhe ishin flakur jashtë shoqërisë."
+      }
+    ]
+  },
+  "konica": {
+    "folder": "konica",
+    "name": "Faik Konica",
+    "description": "Faik Konica ka qenë figurë qëndrore e lëvizjes kombëtare, studiues i historisë dhe gjuhës shqipe, botues, publicist dhe diplomat shqiptar. E përkohshmja e tij Albania ka qenë ndër tribunat e publicistikës shqiptare për trembëdhjetë vjet. Vetë Konica është i njohur për erudicionin, publicistikën, stilin dhe ndikimin që pati në kulturën dhe politikën shqiptare.",
+    "thumbnail": "/images/faik-konica.avif",
+    "progressState": "partial",
+    "books": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BookSeries",
+        "name": "Ese",
+        "folder": "konica/ese",
+        "genre": "albanian poetry classics",
+        "startDate": "1932",
+        "endDate": "1938",
+        "datePublished": "1938",
+        "thumbnail": "/images/covers/ese-faik-konica.avif",
+        "abstract": "Përmbledhje esesh nga Faik Konica. Një pjesë e tyre u publikuan në revistën Albania."
+      }
+    ]
+  },
+  "fishta": {
+    "folder": "fishta",
+    "name": "Gjergj Fishta",
+    "description": "Gjergj Fishta (1871 - 1940) ka qenë frat françeskan, arsimtar, shkrimtar, përkthyes dhe po ashtu kryetar i komisionit për hartimin e alfabetit në Kongresin e Manastirit, anëtar i delegacionit të qeverisë Përmeti në Konferencën e Versajës, zëvendëskryetar i legjislativit shqiptar më 1921 si dhe përfaqësues diplomatik i shtetit shqiptar ndër disa konferenca ballkanike gjatë viteve '30.",
+    "thumbnail": "/images/gjergj-fishta.avif",
+    "progressState": "partial",
+    "books": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BookSeries",
+        "name": "Mrizi i Zânavet",
+        "folder": "fishta/mrizi-i-zanave",
+        "genre": "albanian poetry classics",
+        "datePublished": "1913",
+        "abstract": "Këngë për atdheun.",
+        "thumbnail": "/images/covers/mrizi-i-zanave.avif"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BookSeries",
+        "name": "Gomari i Babatasit",
+        "folder": "fishta/gomari-i-babatasit",
+        "genre": "dramatic poem",
+        "datePublished": "1923",
+        "abstract": "Satirë politike për demagogët qe udhëheqin vendin.",
+        "thumbnail": "/images/covers/gomari-i-babatasit.avif"
+      }
+    ]
+  },
+  "leke-dukagjini": {
+    "folder": "leke-dukagjini",
+    "name": "Lekë Dukagjini",
+    "description": "Fisnik arbëror, bashkëkohës i Skënderbeut, i njohur per Kanunin, ku mblidhen ligjësitë zakonore të Shqipërisë Veriore.",
+    "thumbnail": "/images/leke-dukagjini.avif",
+    "progressState": "complete",
+    "books": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BookSeries",
+        "name": "Kanuni",
+        "folder": "leke-dukagjini/kanuni",
+        "genre": "medieval honor code",
+        "datePublished": "1933",
+        "thumbnail": "/images/covers/kanuni.avif",
+        "abstract": "Kodi i etikës i një strukture shoqërore pa shtet – besa, nderi, gjaku, hakmarrja (gjakmarrja), buka dhe miku. Ligjësitë zakonore të Shqipërisë Veriore."
+      }
+    ]
+  },
+  "sami-frasheri": {
+    "folder": "sami-frasheri",
+    "name": "Sami Frashëri",
+    "description": "Intelektual, gjuhëtar, leksikograf, enciklopedist, romancier, dramaturg, përkthyes dhe ideologu themelor i Rilindjes Kombëtare.",
+    "thumbnail": "/images/sami-frasheri.avif",
+    "progressState": "partial",
+    "author": {
+      "@type": "Person",
+      "givenName": "Sami",
+      "familyName": "Frashëri",
+      "birthDate": "1850-06-01",
+      "birthPlace": {
+        "@type": "Place",
+        "address": "Frashër, Përmet, Albania"
+      },
+      "deathDate": "1904-06-18",
+      "deathPlace": {
+        "@type": "Place",
+        "address": "Istanbul, Turkey"
+      },
+      "image": "/images/sami-frasheri.avif"
+    },
+    "books": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BookSeries",
+        "name": "Shqipëria - ç’ka qënë, ç’është e ç’do të bëhetë?",
+        "folder": "sami-frasheri/shqiperia",
+        "genre": "classic",
+        "datePublished": "1899",
+        "thumbnail": "/images/covers/shqiperia-sami-frasheri-cover.avif",
+        "abstract": "Mendime për shpëtimt të mëmëdheut nga reziket që e kanë rethuarë."
+      }
+    ]
+  },
+  "naim-frasheri": {
+    "folder": "naim-frasheri",
+    "name": "Naim Frashëri",
+    "description": "Poeti më i madh i Rilindjes Kombëtare, hartues tekstesh, veprimtar i shquar i arsimit kombëtar shqiptar.",
+    "thumbnail": "/images/naim-frasheri.avif",
+    "progressState": "partial",
+    "author": {
+      "@type": "Person",
+      "givenName": "Naim",
+      "familyName": "Frashëri",
+      "birthDate": "1846-05-25",
+      "birthPlace": {
+        "@type": "Place",
+        "address": "Frashër, Përmet, Albania"
+      },
+      "deathDate": "1900-10-20",
+      "deathPlace": {
+        "@type": "Place",
+        "address": "Istanbul, Turkey"
+      },
+      "image": "/images/naim-frasheri.avif"
+    },
+    "books": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BookSeries",
+        "name": "Bagëti e Bujqësija",
+        "folder": "naim-frasheri/bageti-e-bujqesi",
+        "genre": "classic",
+        "datePublished": "1886",
+        "thumbnail": "/images/covers/bageti-e-bujqesi.avif",
+        "abstract": "Poemë baritore lirike, në te cilën Naim Frashëri përshkruan fshatin ku ishte lindur e rritur. Një përshkrim idilik, ku asgjë nuk e cënon euforinë mistike dhe të gjitha konfliktet gjejnë pajtim."
+      }
+    ]
+  },
+  "noli": {
+    "folder": "fan-noli",
+    "name": "Fan Noli",
+    "description": "",
+    "thumbnail": "/images/fan-noli.avif",
+    "progressState": "partial",
+    "author": {
+      "@type": "Person",
+      "givenName": "Fan",
+      "familyName": "Noli",
+      "birthDate": "1882-01-06",
+      "birthPlace": {
+        "@type": "Place",
+        "address": "Ibriktepe, Perandoria Osmane, sot Turqia"
+      },
+      "deathDate": "1965-02-13",
+      "deathPlace": {
+        "@type": "Place",
+        "address": "Florida, SHBA"
+      },
+      "image": "/images/naim-frasheri.avif"
+    },
+    "books": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BookSeries",
+        "name": "Albumi",
+        "folder": "fan-noli/albumi",
+        "genre": "classic",
+        "datePublished": "1948",
+        "thumbnail": "/images/covers/albumi-fan-noli.avif",
+        "abstract": "Albumi është një vëllim me poezi shkruar nga intelektuali dhe shtetari i shquar shqiptar, Fan Noli. Kjo antologji paraqet aftësinë lirike të Nolit dhe përkushtimin e tij të thellë për nacionalizmin shqiptar."
+      }
+    ]
+  },
+  "frang-bardhi": {
+    "folder": "frang-bardhi",
+    "name": "Frang Bardhi",
+    "description": "",
+    "thumbnail": "/images/frang-bardhi.avif",
+    "progressState": "partial",
+    "author": {
+      "@type": "Person",
+      "givenName": "Frang",
+      "familyName": "Bardhi",
+      "birthDate": "1635",
+      "birthPlace": {
+        "@type": "Place",
+        "address": "Zadrimë, Lezhë, Shqipëri"
+      },
+      "deathDate": "1644",
+      "image": "/images/frang-bardhi.avif"
+    },
+    "books": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BookSeries",
+        "name": "Apologjia e Skënderbeut",
+        "folder": "frang-bardhi/skenderbeu",
+        "genre": "classic",
+        "datePublished": "1636",
+        "thumbnail": "/images/covers/frang-bardhi-skenderbeu.avif",
+        "abstract": "Autori e shkroi veprën në 15 ditë, në zemërim, për të hedhur poshtë shkrimet e një peshkopi boshnjak që pretendonte se Skënderbeu nuk ishte nga Shqipëria."
+      }
+    ]
+  },
+  "mjeda": {
+    "folder": "mjeda",
+    "name": "Ndre Mjeda",
+    "description": "",
+    "thumbnail": "/images/ndre-mjeda.avif"
+  },
+  "koliqi": {
+    "folder": "koliqi",
+    "name": "Ernest Koliqi",
+    "description": "",
+    "thumbnail": "/images/ernest-koliqi.avif"
+  }
+}
