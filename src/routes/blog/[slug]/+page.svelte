@@ -49,7 +49,7 @@
 
 <div class="post-container">
   <div class="post-header">
-    <p class="post-title">{post.title}</p>
+    <h1 class="post-title">{post.title}</h1>
     {#if post.subtitle}
       <p class="post-subtitle">{post.subtitle}</p>
     {/if}
@@ -71,8 +71,6 @@
       loading="lazy"
     />
   </picture>
-{:else}
-  <div class="divider" />
 {/if}
 
 <!-- https://kit.svelte.dev/docs/link-options -->

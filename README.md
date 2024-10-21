@@ -14,7 +14,7 @@ Qëllimi i nismës është të dixhitalizojë veprat e shkrimtarëve që janë n
 
 ## Cilët shkrimtarë mund të jenë pjesë e fletoreve?
 
-Sipas ligjit: [Nr. 35/2016: Për të drejtat e autorit dhe të drejtat e tjera të lidhura me to](https://kultura.gov.al/e-drejta-e-autorit/), veprat e të gjithë shkrimtarëve që kanë vdekur para 70 vitesh, janë pasuri publike (në domain-in publik).
+Sipas ligjit: [Nr. 35/2016: Për të drejtat e autorit dhe të drejtat e tjera të lidhura me to](https://fletoret.com/ligji-35-2016.pdf), veprat e të gjithë shkrimtarëve që kanë vdekur para 70 vitesh, janë pasuri publike (në domain-in publik).
 
 
 ## Detaje Teknike
@@ -44,4 +44,3 @@ npm run preview
 ```
 
 Nëse ke pyetje, hap një [Issue](https://github.com/Fletoret/website/issues) dhe dikush nga komuniteti do të të përgjigjet.
-
