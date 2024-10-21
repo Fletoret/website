@@ -10,7 +10,7 @@
       {#each data.posts as post}
         <a class="post" href="/{post.relativeUrl}">
           <div class="content">
-            <div class="title">{post.title}</div>
+            <h1 class="title">{post.title}</h1>
             <div class="subtitle">
               {post.subtitle}<span class="date"> - {post.human_date}</span>
             </div>
