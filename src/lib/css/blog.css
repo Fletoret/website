@@ -239,6 +239,8 @@
   line-height: 1.1;
   /* Makes it look display-like */
   font-variation-settings: 'opsz' 32;
+  margin-bottom: var(--spacing-xl);
+  margin-top: calc(3 * var(--spacing-xxl));
 }
 
 .post-container .post-header .post-subtitle {
