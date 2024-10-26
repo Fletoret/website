@@ -72,8 +72,6 @@
   letter-spacing: -0.015em;
   font-family: var(--sans-serif);
   font-size: var(--text-md);
-  /* background: var(--bg-secondary); */
-  /* border-radius: var(--border-radius); */
 }
 
 .book blockquote {
