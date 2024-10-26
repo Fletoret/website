@@ -26,7 +26,7 @@
       <a href="/">Fletoret</a>
     </div>
 
-    <div />
+    <div></div>
 
     <section class="nav-items">
       <a class="link" href="/blog">Blog</a>
