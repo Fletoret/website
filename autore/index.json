@@ -261,5 +261,40 @@
     "name": "Ernest Koliqi",
     "description": "",
     "thumbnail": "/images/ernest-koliqi.avif"
+  },
+  "ali-asllani": {
+    "folder": "ali-asllani",
+    "name": "Ali Asllani",
+    "description": "",
+    "thumbnail": "/images/ali-asllani.avif",
+    "progressState": "partial",
+    "author": {
+      "@type": "Person",
+      "givenName": "Ali",
+      "familyName": "Asllani",
+      "birthDate": "1884-11-28",
+      "birthPlace": {
+        "@type": "Place",
+        "address": "Vajzë, Vlorë, Shqipëri"
+      },
+      "deathDate": "1966-12-20",
+      "deathPlace": {
+        "@type": "Place",
+        "address": "Tiranë, Shqipëri"
+      },
+      "image": "/images/ali-asllani.avif"
+    },
+    "books": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BookSeries",
+        "name": "Hanko Halla",
+        "folder": "ali-asllani/hanko-halla",
+        "genre": "classic",
+        "datePublished": "1933",
+        "thumbnail": "/images/covers/ali-asllani-hanko-halla.avif",
+        "abstract": "*Hanko Halla* nga Ali Asllani është një poemë humoristike e botuar më 1933, që përmes monologut të protagonistes, Hanko Hallës, trajton konfliktet e brezave dhe mentalitetet e ndryshme në shoqëri. Përmes kritikave të saj të ashpra ndaj ndryshimeve në rolin e grave dhe burrave, Asllani krijon një pasqyrë të kontrasteve ndërmjet traditës së ashpër të kohës së kaluar dhe modernitetit të kohës së sotme."
+      }
+    ]
   }
 }
