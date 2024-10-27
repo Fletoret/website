@@ -294,6 +294,16 @@
         "datePublished": "1933",
         "thumbnail": "/images/covers/ali-asllani-hanko-halla.avif",
         "abstract": "*Hanko Halla* nga Ali Asllani është një poemë humoristike e botuar më 1933, që përmes monologut të protagonistes, Hanko Hallës, trajton konfliktet e brezave dhe mentalitetet e ndryshme në shoqëri. Përmes kritikave të saj të ashpra ndaj ndryshimeve në rolin e grave dhe burrave, Asllani krijon një pasqyrë të kontrasteve ndërmjet traditës së ashpër të kohës së kaluar dhe modernitetit të kohës së sotme."
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BookSeries",
+        "name": "Vjersha satirike",
+        "folder": "ali-asllani/vjersha-satirike",
+        "genre": "classic",
+        "datePublished": "",
+        "thumbnail": "/images/covers/ali-asllani-vjersha-satirike.avif",
+        "abstract": "Përmbledhje e vjershave satirike të Ali Asllanit, në të cilën veçohet vjersha e titulluar *Hakërrim*. Një vjershë që shpreh kritikën ndaj kastës politike të ahershme, e cila kumbon edhe në ditët e sotme."
       }
     ]
   }
