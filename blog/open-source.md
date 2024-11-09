@@ -37,7 +37,7 @@ janë disa nga gjërat që mund të bësh:
 * Rregullo gabime në përmbajtjen ekzistuese në [fletoret.com](https://fletoret.com).
 * Dërgo vepra që mungojne nga shkrimtarët e listuar në website.
 * Përhap fjalën! Ndaj [fletoret.com](https://fletoret.com) me njerëzit që njeh. Sa më shumë sy drejt kësaj nisme, aq më shumë duar që ndihmojnë.
-* Për të diskutuar çeshtje rreth nismës, ose për t’u angazhuar, bëhu pjesë e komunitetit në [reddit.com/r/fletoret](https://reddit.com/r/fletoret)
+* Për të diskutuar rreth nismës, ose për t'u angazhuar, bëhu pjesë e komunitetit në [reddit.com/r/fletoret](https://reddit.com/r/fletoret).
 
 
 ### Shënime
