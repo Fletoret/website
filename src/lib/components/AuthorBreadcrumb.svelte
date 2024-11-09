@@ -8,7 +8,7 @@
   let { author }: Props = $props();
 </script>
 
-<a class="author" href="/{author?.folder}/">
+<a class="author" href="/{author?.folder}">
   <img src={author?.thumbnail} class="author-thumb" alt="{author?.name} foto" />
   {author?.name}
 </a>

@@ -3,8 +3,11 @@
   import Footer from '$lib/components/BookFooter.svelte';
   // import TocItemList from '$lib/components/TocItemList.svelte';
   import CONFIG from '$lib/config';
-
+  import '$lib/css/app.css';
+  import BookEntryPoint from '$lib/components/BookEntryPoint.svelte';
   import type { Author } from '$lib/types.js';
+
+  let { data } = $props();
 
   function generateAuthorDesc() {
     let desc = `${author?.name} - veprat. `;
@@ -16,7 +19,6 @@
 
   const author: Author = data.authorInfo;
   const description = generateAuthorDesc();
-  const books = data.authorInfo?.books;
   const bookEntries = data.books;
 
   const BreadcrumbList = {
@@ -38,9 +40,6 @@
     ],
   };
 
-  import '$lib/css/app.css';
-  import BookEntryPoint from '$lib/components/BookEntryPoint.svelte';
-  let { data } = $props();
   // import { generateImageID } from "imagetools-core";
 </script>
 
