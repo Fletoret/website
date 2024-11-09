@@ -5,7 +5,6 @@
 
   import type { Author } from '$lib/types.js';
 
-  export let data;
   const author: Author = data.authorInfo;
   const book = data.bookInfo;
 
@@ -30,6 +29,7 @@
 
   import '$lib/css/app.css';
   import BookProfile from '$lib/components/BookProfile.svelte';
+  let { data } = $props();
   // import { generateImageID } from "imagetools-core";
 
   const serpDescription = `${book?.abstract} Botuar në ${book?.datePublished}.`;

@@ -2,7 +2,11 @@
   import type { Author } from '$lib/types';
   import ImageCardWrapper from './ImageCardWrapper.svelte';
 
-  export let author: Author;
+  interface Props {
+    author: Author;
+  }
+
+  let { author }: Props = $props();
   let progressState = author.progressState || 'missing';
 </script>
 

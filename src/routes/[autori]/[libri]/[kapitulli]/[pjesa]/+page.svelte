@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
   import AuthorBreadcrumb from '$lib/components/AuthorBreadcrumb.svelte';
   import BookFooter from '$lib/components/BookFooter.svelte';
   import ReadNext from '$lib/components/ReadNext.svelte';
@@ -6,7 +6,7 @@
   import '$lib/css/app.css';
   import '$lib/css/post.css';
 
-  export let data;
+  let { data } = $props();
   let { post, postAfter, authorInfo } = data;
 
   let title = `${post.title}, ${post.grandparent || post.parent} - ${post.author} | ${CONFIG.info.title}`;

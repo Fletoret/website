@@ -4,10 +4,19 @@
   import { fade } from 'svelte/transition';
   import JumpIcon from '../icons/JumpIcon.svelte';
 
-  export let chapterIdx: number;
-  export let header: string;
-  export let entries: Post[];
-  export let showHeader: boolean = true;
+  interface Props {
+    chapterIdx: number;
+    header: string;
+    entries: Post[];
+    showHeader?: boolean;
+  }
+
+  let {
+    chapterIdx,
+    header,
+    entries,
+    showHeader = true
+  }: Props = $props();
 
   function numberToRomanNumeral(n: number) {
     if (n === 1) return 'I';

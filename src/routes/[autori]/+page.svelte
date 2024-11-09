@@ -14,7 +14,6 @@
     return desc.trimEnd();
   }
 
-  export let data;
   const author: Author = data.authorInfo;
   const description = generateAuthorDesc();
   const books = data.authorInfo?.books;
@@ -41,6 +40,7 @@
 
   import '$lib/css/app.css';
   import BookEntryPoint from '$lib/components/BookEntryPoint.svelte';
+  let { data } = $props();
   // import { generateImageID } from "imagetools-core";
 </script>
 
