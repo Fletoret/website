@@ -1,9 +1,14 @@
 <script lang="ts">
   import TocItemList from '$lib/components/TocItemList.svelte';
-  // import type { Author } from '$lib/types';
+  
 
-  export let book;
-  export let chapters;
+  interface Props {
+    // import type { Author } from '$lib/types';
+    book: any;
+    chapters: any;
+  }
+
+  let { book, chapters }: Props = $props();
 </script>
 
 <div class="book">

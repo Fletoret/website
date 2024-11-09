@@ -1,6 +1,10 @@
 <script lang="ts">
-  export let heading: string;
-  export let content: string;
+  interface Props {
+    heading: string;
+    content: string;
+  }
+
+  let { heading, content }: Props = $props();
 </script>
 
 <div class="f-section">

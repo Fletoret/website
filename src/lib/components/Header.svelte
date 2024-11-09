@@ -2,10 +2,14 @@
   import MoonIcon from '$lib/icons/MoonIcon.svelte';
   import SunIcon from '$lib/icons/SunIcon.svelte';
   import { chooseTheme, getAndLoadTheme } from '$lib/theme';
-  export let borderBottom = true;
+  interface Props {
+    borderBottom?: boolean;
+  }
+
+  let { borderBottom = true }: Props = $props();
 
   let showTOC = false;
-  let theme: string | undefined = getAndLoadTheme();
+  let theme: string | undefined = $state(getAndLoadTheme());
 
   function switchTheme() {
     if (theme === 'dark') {
@@ -30,7 +34,7 @@
 
     <section class="nav-items">
       <a class="link" href="/blog">Blog</a>
-      <button id="theme-icon" on:click={switchTheme}>
+      <button id="theme-icon" onclick={switchTheme}>
         <div class="icon">
           {#if theme === 'dark'}
             <SunIcon />

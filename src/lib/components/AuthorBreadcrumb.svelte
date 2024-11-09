@@ -1,7 +1,11 @@
 <script lang="ts">
   import type { Author } from '$lib/types';
 
-  export let author: Author;
+  interface Props {
+    author: Author;
+  }
+
+  let { author }: Props = $props();
 </script>
 
 <a class="author" href="/{author?.folder}/">

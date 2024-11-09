@@ -1,14 +1,21 @@
 <script lang="ts">
   import type { ProgressState } from "$lib/types";
 
-  export let href: string | undefined = undefined;
-  export let progressState: ProgressState;
+  interface Props {
+    href?: string | undefined;
+    progressState: ProgressState;
+    children?: import('svelte').Snippet;
+  }
+
+  let { href = undefined, progressState, children }: Props = $props();
+
+  const children_render = $derived(children);
 </script>
 
 {#if progressState !== "missing"}
   <a {href}>
-    <slot />
+    {@render children_render?.()}
   </a>
 {:else}
-  <slot />
+  {@render children?.()}
 {/if}

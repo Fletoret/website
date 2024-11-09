@@ -3,10 +3,14 @@
   import { cubicInOut } from "svelte/easing";
   import { slide } from "svelte/transition";
 
-  export let question: string;
-  export let answer: string;
+  interface Props {
+    question: string;
+    answer: string;
+  }
 
-  let expanded: boolean = false;
+  let { question, answer }: Props = $props();
+
+  let expanded: boolean = $state(false);
 </script>
 
 <div class="faq-item-wrapper" class:expanded>
@@ -14,12 +18,12 @@
     class="question"
     role="button"
     tabindex="0"
-    on:keydown={(e) => {
+    onkeydown={(e) => {
       if (e.key === "Enter") {
         expanded = !expanded;
       }
     }}
-    on:click={() => {
+    onclick={() => {
       expanded = !expanded;
     }}
   >

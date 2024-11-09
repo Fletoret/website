@@ -2,7 +2,11 @@
   import ArrowRightIcon from '$lib/icons/ArrowRightIcon.svelte';
   import type { Post } from '$lib/types';
 
-  export let post: Post | undefined;
+  interface Props {
+    post: Post | undefined;
+  }
+
+  let { post }: Props = $props();
 </script>
 
 {#if post}
