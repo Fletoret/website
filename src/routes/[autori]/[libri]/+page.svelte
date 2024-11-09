@@ -2,8 +2,12 @@
   import Footer from '$lib/components/BookFooter.svelte';
   import TocItemList from '$lib/components/TocItemList.svelte';
   import CONFIG from '$lib/config';
-
+  import '$lib/css/app.css';
+  import BookProfile from '$lib/components/BookProfile.svelte';
+  // import { generateImageID } from "imagetools-core";
   import type { Author } from '$lib/types.js';
+
+  let { data } = $props();
 
   const author: Author = data.authorInfo;
   const book = data.bookInfo;
@@ -27,11 +31,6 @@
     ],
   };
 
-  import '$lib/css/app.css';
-  import BookProfile from '$lib/components/BookProfile.svelte';
-  let { data } = $props();
-  // import { generateImageID } from "imagetools-core";
-
   const serpDescription = `${book?.abstract} Botuar në ${book?.datePublished}.`;
 </script>
 
@@ -41,7 +40,10 @@
   <meta name="twitter:description" content={serpDescription} />
 
   <!--twitter important OG data-->
-  <meta name="twitter:title" content="{book?.name}, {author.name} | {CONFIG.info.title}" />
+  <meta
+    name="twitter:title"
+    content="{book?.name}, {author.name} | {CONFIG.info.title}"
+  />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="@fletoretSQ" />
 
@@ -51,7 +53,10 @@
   <!-- OG params for sharable content -->
   <meta property="og:type" content="website" />
   <meta property="og:url" content="/{author?.folder}" />
-  <meta property="og:title" content={`${book?.name}, {author.name} | ${CONFIG.info.title}`} />
+  <meta
+    property="og:title"
+    content={`${book?.name}, {author.name} | ${CONFIG.info.title}`}
+  />
   {#if book?.thumbnail}
     <meta
       property="og:image"

@@ -1,6 +1,5 @@
 <script lang="ts">
   import TocItemList from '$lib/components/TocItemList.svelte';
-  
 
   interface Props {
     // import type { Author } from '$lib/types';
@@ -12,7 +11,7 @@
 </script>
 
 <div class="book">
-  <a class="book-entry" href="/{book.folder}/">
+  <a class="book-entry" href="/{book.folder}">
     <div class="content">
       <h3 class="title">{book.name}</h3>
       <div class="desc">
@@ -28,7 +27,7 @@
     {#each Object.entries(chapters) as [chapterName, entries], idx}
       <TocItemList
         header={chapterName}
-        entries={entries}
+        {entries}
         chapterIdx={idx + 1}
         showHeader={Object.entries(chapters).length > 1}
       />
