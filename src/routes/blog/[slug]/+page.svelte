@@ -4,7 +4,7 @@
   import '$lib/css/app.css';
   import '$lib/css/blog.css';
 
-  export let data;
+  let { data } = $props();
   let { post } = data;
 
   const BreadcrumbList = {

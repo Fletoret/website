@@ -1,5 +1,4 @@
 <script lang="ts">
-  export let data;
 
   import Header from '$lib/components/Header.svelte';
   import CopyIcon from '$lib/icons/CopyIcon.svelte';
@@ -8,6 +7,7 @@
   import Button from '$lib/components/Button.svelte';
 
   import '$lib/css/app.css';
+  let { data } = $props();
 
   async function submitEdits(imgUrl: number, content: string) {
     const appScriptsURL =

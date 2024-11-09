@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
   import FaqItem from '$lib/components/FAQItem.svelte';
   import Header from '$lib/components/Header.svelte';
   import ImageCard from '$lib/components/ImageCard.svelte';
@@ -12,7 +12,7 @@
 
   void getAndLoadTheme();
 
-  export let data;
+  let { data } = $props();
 </script>
 
 <svelte:head>

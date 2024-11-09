@@ -3,15 +3,19 @@
   import type { Author } from '$lib/types';
   import AuthorBreadcrumb from './AuthorBreadcrumb.svelte';
 
-  export let book;
-  export let author: Author;
+  interface Props {
+    book: any;
+    author: Author;
+  }
+
+  let { book, author }: Props = $props();
 </script>
 
 <div id="book-side-panel">
   <div
     class="card-bg-glassy"
     style="background-image: url({book?.thumbnail});"
-  />
+></div>
 
   <div class="card">
     <img src={book?.thumbnail} loading="lazy" alt="" />

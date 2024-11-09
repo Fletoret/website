@@ -1,7 +1,7 @@
 <script lang="ts">
-  export let data;
 
   import '$lib/css/app.css';
+  let { data } = $props();
 </script>
 
 <main>

@@ -1,7 +1,11 @@
 <script lang="ts">
   import type { Author } from '$lib/types';
 
-  export let authorInfo: Author;
+  interface Props {
+    authorInfo: Author;
+  }
+
+  let { authorInfo }: Props = $props();
 </script>
 
 <div id="book-side-panel">

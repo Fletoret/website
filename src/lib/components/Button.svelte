@@ -2,14 +2,25 @@
   import CheckIcon from "$lib/icons/CheckIcon.svelte";
   import { createEventDispatcher } from "svelte";
 
-  export let text: string;
-  export let hasIcon: boolean = false;
-  export let size: string;
-  export let variant: string = "default";
+  interface Props {
+    text: string;
+    hasIcon?: boolean;
+    size: string;
+    variant?: string;
+    children?: import('svelte').Snippet;
+  }
+
+  let {
+    text,
+    hasIcon = false,
+    size,
+    variant = "default",
+    children
+  }: Props = $props();
 
   const dispatch = createEventDispatcher();
 
-  let clicked = false;
+  let clicked = $state(false);
   const handleClick = () => {
     clicked = true;
     dispatch("click");
@@ -17,20 +28,22 @@
       clicked = false;
     }, 1000);
   };
+
+  const children_render = $derived(children);
 </script>
 
 <button
   class="btn"
   class:btn-sm={size === "sm"}
   class:bordered={variant === "outline"}
-  on:click={handleClick}
+  onclick={handleClick}
 >
   {#if hasIcon}
     <div class="icon">
       {#if clicked}
         <CheckIcon />
       {:else}
-        <slot />
+        {@render children_render?.()}
       {/if}
     </div>
   {/if}

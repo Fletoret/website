@@ -1,10 +1,14 @@
 <script lang="ts">
   import type { Author } from '$lib/types';
 
-  export let author: Author;
+  interface Props {
+    author: Author;
+  }
+
+  let { author }: Props = $props();
 </script>
 
-<a class="author" href="/{author?.folder}/">
+<a class="author" href="/{author?.folder}">
   <img src={author?.thumbnail} class="author-thumb" alt="{author?.name} foto" />
   {author?.name}
 </a>
