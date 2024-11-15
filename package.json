@@ -34,7 +34,7 @@
   "type": "module",
   "dependencies": {
     "glob": "11.0.0",
-    "sass": "1.80.6",
+    "sass": "1.81.0",
     "schema-dts": "1.1.2"
   },
   "module": "index.ts"
