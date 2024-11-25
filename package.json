@@ -12,7 +12,7 @@
   },
   "devDependencies": {
     "@sveltejs/adapter-static": "3.0.6",
-    "@sveltejs/kit": "2.8.1",
+    "@sveltejs/kit": "2.8.3",
     "@sveltejs/vite-plugin-svelte": "4.0.1",
     "date-fns": "4.1.0",
     "front-matter": "4",
