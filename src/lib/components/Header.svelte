@@ -123,7 +123,7 @@
   }
   .icon:hover {
     cursor: pointer;
-    color: var(--color-text);
+    color: var(--text-primary);
     background-color: var(--bg-secondary);
   }
 

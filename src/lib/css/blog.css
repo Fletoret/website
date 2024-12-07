@@ -2,7 +2,7 @@
 @import '$lib/css/hljs-light.css';
 
 .post-container {
-  color: var(--color-text);
+  color: var(--text-primary);
   font-family: var(--sans-serif);
   font-size: var(--text-md);
   line-height: 1.6;
