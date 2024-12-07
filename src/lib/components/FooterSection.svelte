@@ -25,6 +25,6 @@
   }
 
   .f-section .content :global(emphasize) {
-    color: var(--color-text);
+    color: var(--text-primary);
   }
 </style>

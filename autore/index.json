@@ -146,6 +146,16 @@
         "datePublished": "1899",
         "thumbnail": "/images/covers/shqiperia-sami-frasheri-cover.avif",
         "abstract": "Mendime për shpëtimt të mëmëdheut nga reziket që e kanë rethuarë."
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BookSeries",
+        "name": "Proverba",
+        "folder": "sami-frasheri/proverba",
+        "genre": "classic",
+        "datePublished": "1878",
+        "thumbnail": "/images/covers/sami-frasheri-proverba.avif",
+        "abstract": "Fjalë të urta, thënje filozofike. Si fillim u botua me emrin Emsâl në 4 vëllime."
       }
     ]
   },

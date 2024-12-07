@@ -84,7 +84,11 @@
 <section class="footer bg-secondary">
   <div class="container">
     <div class="col">
-      Përmbajtja e shkrimtarëve në fletoret.com mund të përdoret lirisht.
+      <div>
+        Përmbajtja e shkrimtarëve në fletoret.com mund të përdoret lirisht.
+      </div>
+
+      <a href="/kopertina" class="muted">→ Krijo kopertina</a>
     </div>
     <div class="col">
       <SocialMedia />
@@ -175,8 +179,18 @@
   .footer .container .col {
     min-width: 200px;
     max-width: 40%;
-    flex: 1;
     line-height: 1.5;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: var(--spacing-xxl);
+
+    .muted {
+      color: var(--text-secondary);
+    }
+    .muted:hover {
+      color: var(--text-primary);
+    }
   }
 
   @media (max-width: 600px) {

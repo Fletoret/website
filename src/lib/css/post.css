@@ -8,7 +8,7 @@
 }
 
 .post-container {
-  color: var(--color-text);
+  color: var(--text-primary);
   font-family: var(--serif);
   font-size: 20px;
   line-height: 1.6;
