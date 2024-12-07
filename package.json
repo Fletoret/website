@@ -37,7 +37,7 @@
     "@fontsource/im-fell-english-sc": "5.1.0",
     "glob": "11.0.0",
     "html-to-image": "1.11.11",
-    "sass": "1.81.0",
+    "sass": "1.82.0",
     "schema-dts": "1.1.2"
   },
   "module": "index.ts"
