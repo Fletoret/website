@@ -16,7 +16,7 @@
     "@sveltejs/vite-plugin-svelte": "4.0.2",
     "date-fns": "4.1.0",
     "front-matter": "4",
-    "highlight.js": "11.10.0",
+    "highlight.js": "11.11.0",
     "markdown-it": "14.1.0",
     "markdown-it-attrs": "4.3.0",
     "markdown-it-footnote": "4.0.0",
