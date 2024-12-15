@@ -13,7 +13,7 @@
   "devDependencies": {
     "@sveltejs/adapter-static": "3.0.6",
     "@sveltejs/kit": "2.11.1",
-    "@sveltejs/vite-plugin-svelte": "4.0.2",
+    "@sveltejs/vite-plugin-svelte": "4.0.3",
     "date-fns": "4.1.0",
     "front-matter": "4",
     "highlight.js": "11.10.0",
