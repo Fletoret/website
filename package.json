@@ -11,7 +11,7 @@
     "webp-to-avif": "magick mogrify -format avif -depth 10 -define heic:speed=2 static/images/*.webp"
   },
   "devDependencies": {
-    "@sveltejs/adapter-static": "3.0.6",
+    "@sveltejs/adapter-static": "3.0.8",
     "@sveltejs/kit": "2.11.1",
     "@sveltejs/vite-plugin-svelte": "4.0.3",
     "date-fns": "4.1.0",
