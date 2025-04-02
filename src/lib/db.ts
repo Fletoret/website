@@ -93,6 +93,18 @@ export function getAllEntries(author: string): Post[] {
   return entries;
 }
 
+export function getRandomEntry(): Post {
+  const filepaths = globSync('autore/**/*.md');
+  const randomFilePath =
+    filepaths[Math.floor(Math.random() * filepaths.length)];
+  const content = fs.readFileSync(randomFilePath, 'utf-8');
+
+  const author = randomFilePath.split('/')[1];
+  const entry = parse(author, content);
+
+  return entry;
+}
+
 export function getBookEntries(author: string, book: string) {
   const entries: Post[] = loadEntriesInFolder(
     author,

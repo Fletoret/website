@@ -58,11 +58,11 @@ order: 4
 1029. Njeriu që është trim, është i durueshëm; por ka një pikë që po t'i preket, i zhduket
     durimi dhe i del trimëria në shesh. E ajo pikë është nderi kombëtar dhe nderi
     personal.
-1030. Po të ishte e pëlqyer në çdo rast përbuzja e je-tës, duhej të ishte e pëlqyer edhe
-    grabitja e ku-saria.
+1030. Po të ishte e pëlqyer në çdo rast përbuzja e jetës, duhej të ishte e pëlqyer edhe
+    grabitja e kusaria.
 1031. Në është se njeriu ka një veti, e cila s'kuptohet nga fytyra, qëndrimi dhe sjellja e
     tij, ajo është trimëria; njerëzit që kanë fjalë dhe sjellje trimërore, kërkojnë vend
-    për të ikur në luftë e sipër; njerëzit që duken modestë, të urtë dhe të nga-thët, gjatë
+    për të ikur në luftë e sipër; njerëzit që duken modestë, të urtë dhe të ngathët, gjatë
     luftës bëhen luanë.
 1032. Në cilën anë të luftës sheh se gratë kanë rrokur armët, mos dysho në të drejtën që
     ka ajo anë, sepse gruaja nuk i kap armët pa qenë gjendja e padurueshme.
@@ -85,7 +85,7 @@ order: 4
 1041. Nuk është budalla ai që di se është i metë nga mendja dhe sillet sipas asaj
     gjendjeje; është i marrë ai që e kujton veten të urtë e nxjerr në shesh marrinë e tij.
 1042. Punët bëhen të liga pse u shërbejnë interesave; por nuk mendon njeriu se punët e
-    mira më shu-më u ndihmojnë interesave.
+    mira më shumë u ndihmojnë interesave.
 1043. Dacka më e hidhur është ajo që të jep rrahësi me të qeshur ose duke u zbavitur.
 1044. Puna e mirë nuk del përherë nga qellimi i mirë, e puna e ligë nuk del përherë nga
     qëllimi i keq; ka raste kur qëllimi i mirë jep rezultat të keq, e qëllimi i keq jep një
@@ -95,7 +95,7 @@ order: 4
     një botë tjetër.
 1047. Njeriu me vlerë i mbetur keq dhe në harresë është një diamant që ka rënë në të
     fshira; një ditë sigurisht do të dalë një dorë që do ta ngrejë; po nuk e shpëtuan nga
-    ajo gjendje bashkëkohë-sit e tij, ia shpëtojnë emrin pasardhësit.
+    ajo gjendje bashkëkohësit e tij, ia shpëtojnë emrin pasardhësit.
 1048. Pema më e ëmbël është ajo që vjelim me dorën tonë.
 1049. Çdo fjalë dhe sjellje e njeriut ka dy anë — si guri i dominos, — miqtë shikojnë
     gjithmonë anën e bardhë e armiqtë anën e zezë.
@@ -188,7 +188,7 @@ order: 4
     shokë.
 1093. Nuk i dëshirojmë miqtë tanë për t'i pyetur për gjendjen e tyre, por për t'u folur
     për gjendjen tonë.
-1094. Lumturia dhe mjerimi ndikojnë shumë në mo-ralin e njeriut; shumë njerëz të mirë
+1094. Lumturia dhe mjerimi ndikojnë shumë në moralin e njeriut; shumë njerëz të mirë
     kur arrijnë lumturinë bjerrin disa nga vetitë e tyre të mira, e shumë vetë heqin
     dorë nga veset e liga (kur bien në mjerim).
 1095. Ai që ndryshon qëndrimin dhe sjelljen e tij me të fituar një gradë ose një pozitë,
@@ -202,7 +202,7 @@ order: 4
     punë në botë; ai që don të punojë, merr përsipër atë punë që mund ta bëjë.
 1099. Njeriu që s'ka mundur të edukojë fëmijët e tij, dëshiron të bëhet edukator i
     fëmijëve të mbretit.
-1100. Ata që dëshirojnë të lavdohen, po t'i donin gjë-rat që janë për lavd, do të arrinin
+1100. Ata që dëshirojnë të lavdohen, po t'i donin gjërat që janë për lavd, do të arrinin
     qëllimin.
 1101. Njeriut që dëshiron t'ia largosh injorancën — qoftë edhe fare pak — lavdoja atë
     çka di ai; njeriut që don t'ia qortosh koprraeinë, lavdoja bujarinë.
@@ -339,7 +339,7 @@ order: 4
     skllave në dorën e një zemre të ligë?
 1174. Mendja është vegël e zemrës.
 1175. Kush mendon se njeh mendjen e tij, nuk njeh hollësisht zemrën e tij.
-1176. S'ka krim më të madh se të përdorësh për keq-bërje një gjë që është çpikur për të
+1176. S'ka krim më të madh se të përdorësh për keqbërje një gjë që është çpikur për të
     bërë mirë.
 1177. Çdo lloj vjedhje është punë e poshtër, por është më e poshtër vjedhja që bëhet
     duke bërë vegël ligjin dhe sheriatin.
@@ -465,7 +465,7 @@ order: 4
     kush dëmtohet: mali apo ai vetë?
 1248. Ka mundësi të hedhësh poshtë fjalët e liga, të padrejta, që thuhen kundër teje; por
     a nuk është më lehtë t'i durosh dhe të mos u japësh rëndësi? Ka mundësi të
-    nxjerrësh në shesh dredhinë e dinakut, por a nuk është më lehtë t'ia fitosh zem-rën
+    nxjerrësh në shesh dredhinë e dinakut, por a nuk është më lehtë t'ia fitosh zemrën
     dhe të bësh të heqë dorë nga dredhia?
 1249. Kush është njeri nuk e vë në zbatim një urdhër që është në dëm të njerëzimit.
 1250. Jeta është një udhëtim në errësirë.

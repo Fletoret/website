@@ -20,6 +20,7 @@ export type Post = {
   relativeUrl: string;
   url: string;
   html: string;
+  previewSnippet?: string;
 };
 
 export type BlogPost = {

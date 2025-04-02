@@ -87,9 +87,12 @@
       <div>
         Përmbajtja e shkrimtarëve në fletoret.com mund të përdoret lirisht.
       </div>
-
-      <a href="/kopertina" class="muted">→ Krijo kopertina</a>
     </div>
+    <div class="col">
+      <a href="/kopertina" class="muted">→ Krijo kopertina</a>
+      <a href="/copeza" class="muted">→ Copëza</a>
+    </div>
+
     <div class="col">
       <SocialMedia />
     </div>
@@ -183,7 +186,7 @@
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    gap: var(--spacing-xxl);
+    gap: var(--spacing-lg);
 
     .muted {
       color: var(--text-secondary);

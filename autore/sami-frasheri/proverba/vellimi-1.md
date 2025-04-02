@@ -37,7 +37,7 @@ order: 1
     nuk largohet nga sjelljet e këqia; kjo është si kur ke frikë nga lagështira e banon
     në moçal.
 16. Po të jenë nëpunësit në dorë të personave të pazotë, po t'u mungojnë armët
-    ushtarëve, po të mbetet pas bujqësia, mjeshtëria dhe tregtia, prapëse-prapë shteti
+    ushtarëve, po të mbetet pas bujqësia, mjeshtëria dhe tregtia, prapëseprapë shteti
     qëndron; por kur sundimtarët nuk respektojnë ligjin dhe të drejtën, nëpunësit e
     vegjël bëhen të pabindur dhe nuk zbatojnë urdhrin e dhënë, kështu që populli bjerr
     vetitë e mira dhe jipet pas veseve të këqia, atëherë nuk ka më shpresë shpëtimi.
@@ -57,7 +57,7 @@ order: 1
 26. Mos shkruaj gjë kur je me nerva; sepse, kur plaga e gjuhës ësMë më e keqe se e
     shpatës, mendo çfarë mund të jetë ajo e pendës.
 27. Kot përpiqet mendja, kur nuk mund të arrijë gradën e lartë të ndjenjave.
-28. Fjala më elokuente është ajo konkluzionl i së cilës kuptohet që nga fraza e parë e
+28. Fjala më elokuente është ajo konkluzioni i së cilës kuptohet që nga fraza e parë e
     qëllimi nëpër brendinë e saj, kur duket në formë solide.
 29. Tri raste kanë tri virtyte shumë të pëlqyeshme: të ndihmosh nevojtarët kur janë në
     gjendje të vështirë, të thuash të vërtetën edhe në zemërim, të falësh kur je i zoti të
@@ -319,7 +319,7 @@ order: 1
     vetmi.
 183. Njeriu nuk mund të zbavitet po nuk bëri batall synimet e mendimit të tij dhe
     ndjenjat e zemrës së tij.
-184. Zbavitja e mendjes është studimi, ztaavitja e zem-rës melankolia.
+184. Zbavitja e mendjes është studimi, ztaavitja e zemrës melankolia.
 185. Kush i tregon botës rrugët në një qytet, humbet në rrugicat e një qyteti tjetër.
 186. Në është se ka një gjë që e kënaq njeriun në bota, është gëzimi i nderit dhe i
     simpatisë nga të gjithë.
@@ -405,7 +405,7 @@ order: 1
     shumë atë.
 234. Fabkeqësitë kur vijnë — duket se tremben nga njerëzit që janë armiqtë e tyre —
     vijnë të gjitha bashkë.
-235. Koka s'mund të shkojë askund vetë, atë e dërgoj-në këmbët, por këmbët s'tunden
+235. Koka s'mund të shkojë askund vetë, atë e dërgojnë këmbët, por këmbët s'tunden
     vendit fare pa kokën.
 236. Nuk është burrëri t'i heqësh një qime luanit të lidhur për qafe me zinxhir.
 237. Mos e nis një punë, në të cilën ti sheh për veten tënde 9 dobi dhe një dëm për
@@ -532,7 +532,7 @@ order: 1
     pamundshme të mundshmet.
 303. Mos prit ndihmë nga ai që nuk sheh nevojë për konsultim.
 304. Ai që pranon këshilla, është më i madh se ai që jep, sepse, sa lehtë është të japësh
-    këshilla. aq rë-ndë është t'i pranosh.
+    këshilla. aq rëndë është t'i pranosh.
 305. Shumica e ligësive që shihen në botë shkaktohet nga ari. Natyra duket se i ka ditur
     të ligat që do t'i sjellë njerëzisë ky mineral, prandaj e ka groposur aq thellë në
     tokë; por njerëzit, të cilët kanë në shpirt gjithmonë ligësinë, futen thellë si iriqi dhe dalin përsëri.
