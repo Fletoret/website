@@ -36,7 +36,7 @@
     "@fontsource/alegreya-sc": "5.2.5",
     "@fontsource/im-fell-english-sc": "5.2.5",
     "glob": "11.0.1",
-    "html-to-image": "1.11.11",
+    "html-to-image": "1.11.13",
     "sass": "1.86.1",
     "schema-dts": "1.1.2"
   },
