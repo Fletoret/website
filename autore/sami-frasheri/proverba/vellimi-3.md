@@ -31,7 +31,7 @@ order: 3
 679. Forca i shtyp kryengritjet, drejtësia dhe mëshira e bën të pamundshme përsëritjen
     e tyre.
 680. Ajo që e ngroh popullin e qetësuar pas kryengritjes ndaj qeverisë së tij, është që
-    qeveria të ha-rrojë kryengritjen e tyre, t'i konsiderojë si besnikë dhe t'i trajtojë me
+    qeveria të harrojë kryengritjen e tyre, t'i konsiderojë si besnikë dhe t'i trajtojë me
     atë mënyrë.
 681. S'ka gjë më të vështirë se të larguarit e zakoneve të këqia nga një popull, e
     megjithëkëtë s'ka punë më të mirë se ajo.
@@ -136,8 +136,8 @@ order: 3
 733. Fjala është dokumenti më i fortë midis njerëzve të ndershëm.
 734. Sikundër që pesha e barrës e lodh trupin, edhe ëndërrimet e tepruara e lodhin
     mendjen.
-735. Në ka pak qetësi në botë, edhe ajo gjëndet te nje-rëzit me mendje të lehtë, ata
-    kënaqen me gëzime të vogla dhe harrojnë vuajtjet e fatkeqësitë e :më-dha.
+735. Në ka pak qetësi në botë, edhe ajo gjëndet te njerëzit me mendje të lehtë, ata
+    kënaqen me gëzime të vogla dhe harrojnë vuajtjet e fatkeqësitë e mëdha.
 736. Mashtruesit nuk jetojnë në sajë të mjeshtërisë së tyre, por në sajë të padjallëzisë së
     njerëzve të thjeshtë.
 737. Gjëndet shumë rrallë një grua që të mos e bëjë të pendohet të paktën një herë në
@@ -145,8 +145,7 @@ order: 3
 738. Dashuria për arin hy në botë në shumë forma dhe quhet me shumë emra.
 739. Ambiciozi është një palaço; bëhet mik, bëhet armik si t'ia kërkojë interesi, bëhet
     këshillues, bëhet predikues, qan, qesh, shkurt çkado që bën bën për interesin e tij;
-    asnjë punë e tij nuk është e sinqertë, në çdo punë të tij fshihet një interes per-
-    sonal.
+    asnjë punë e tij nuk është e sinqertë, në çdo punë të tij fshihet një interes personal.
 740. Është e preferueshme jeta e bashkëshortëve që jetojnë në grindje të vazhdueshme.
 741. Do të kishte shumë njerëz të lumtur në botë po të vazhdonte dashuria edhe pas
     martesës, si para martesës.
@@ -175,7 +174,7 @@ order: 3
 754. Zbulimet dhe shkencat përparojnë nga shekulli në shekull, se mirësia dhe keqbërja
     ngelin të pandryshuara.
 755. Pasi njeriu asnjëherë nuk është i kënaqur me gjendjen e tij, perëndia i ka dhënë
-    shpresën dhe va-gullinë për t'u kënaqur.
+    shpresën dhe vagullinë për t'u kënaqur.
 756. Po ta dinte çdo njeri se çka thonë të tjerët për atë në mungesë të tij, nuk do të
     gjendeshin dy miq në botë.
 757. Po të jenë të fjetura ndjenjat personale, janë të zgjuara e drejta dhe e vërteta.
@@ -187,7 +186,7 @@ order: 3
     marrëzisë së tyre.
 763. Te porta e nderit duhet të jenë roje mirëvetia dhe besimi.
 764. Thjeshtësia është bukuria kryesore e grave, se gjëndet shumë rrallë.
-765. Burrat ankohen kundër grave lozonjare, por s'kë-naqen nga ato me qëndrim të
+765. Burrat ankohen kundër grave lozonjare, por s'kënaqen nga ato me qëndrim të
     rëndë (serioz). (D. m.th. s'kënaqen as me njerën as me tjetrën).
 766. Gruaja e ndershme dhe shpneshë është stoli e shtëpisë, lumtëri e burrit, lavdi e
     grave.
@@ -201,12 +200,12 @@ order: 3
 772. Pema e mirësisë është kujtimi i mirë që mbetet në mendje.
 773. Mirësia që të bën një tjetër, formon një detyrim; ai që nuk mund ta shpërblejë
     është një myfliz (i falimentuar) i njerëzimit.
-774. Brendia e njeriut është e mbushur me atë që qu-het "unë"; ajo që mendon al në
+774. Brendia e njeriut është e mbushur me atë që quhet "unë"; ajo që mendon al në
     çdo kohë, është kuptimi i kësaj fjale.
 775. Mirësia e bërë me hipokrizi e mërzit shpejt të zotin.
 776. Njeriu i përngjan qypit, kur është bosh tingëllon më shumë.
 777. Kur njeriu rri duke menduar vetë me vete, të shumtën e herës mendon për
-    lartësimin dhe lum-turinë e vetë.
+    lartësimin dhe lumturinë e vetë.
 778. Njeriu është një inxhinier, i cili çdo ditë vizaton planin e jetës së tij, mirëpo
     arkitekti nuk përfill asnjë nga planet e atij dhe nuk zbaton asnjërin prej tyre.
     Megjithkëtë, ky inxhinier nuk heq dorë nga hartimi i planeve.
@@ -303,7 +302,7 @@ order: 3
 831. Arka (e të hollave) dhe mësalla (sofra) janë dy anët e peshojes; po u çua lart njëra,
     ulet tjetra.
 832. Të hollat e fituara nga ahengxhinjtë dhe pijeshitësit kanë fare pak ndryshim nga
-    ato që fitojnë ku-marxhinjtë.
+    ato që fitojnë kumarxhinjtë.
 833. Qyshkur gratë, në vend të gërshërës dhe të gjilpërës, filluan të mësojnë pianon,
     burrat u bënë trok.
 834. Është shumë lehtë të blesh një kësulë të re, por ajo kësulë e re kërkon të përtërisht
@@ -319,8 +318,7 @@ order: 3
     s'mund të ketë njeri që t'i shërbejë me besnikëri më tepër se vetja e tij.
 840. Ashtu sikundër që gratë të shumtën e herës mbajnë në dorë një pasqyrë për të
     rregulluar të metat e stolisë së tyre, edhe shoqëria njerëzore nuk duhet ta largojë
-    nga sytë pasqyrën e diturisë e të shkencës dhe të përpiqet që të përmirësojë të me-
-    tat që sheh.
+    nga sytë pasqyrën e diturisë e të shkencës dhe të përpiqet që të përmirësojë të metat që sheh.
 841. Po të kemi bukën, mishin dhe qepët tona, tenxheren mund ta marrim nga fqiu.
 842. Vetmia është më e mirë se shoku i keq.
 843. Po të luajë mësuesi ç'ka nuk bëjnë nxënësit.
@@ -476,7 +474,7 @@ order: 3
 930. Drejtësia sado që e hedh njeriun në shumë bela, më në fund e nxjerr në dritë.
 931. Njerëzit e shkencës janë vëllezër edhe sikur të jenë pjesëtarë të dy kombësive
     armike.
-932. Njeriu trim e shpirtmadh nuk e poshtëron armi-kun e tij, ai s'mungon të pohojë
+932. Njeriu trim e shpirtmadh nuk e poshtëron armikun e tij, ai s'mungon të pohojë
     talentin dhe zotësinë e tij.
 933. Dituria nuk është për të poshtëruar të paditurit e për t'u bërë kryelartë, por është
     për të pasur dhimbësuri për të paditurit, për t'i stërvitur ata sa të jetë e mundshme,
@@ -561,7 +559,7 @@ order: 3
 971. Njeriu nuk duhet të flasë pa kuptuar se ajo çka do të thotë është e dobishme ose
     do të shkaktojë kënaqësi.
 972. S'ka fjalë më të keqe se fjala e mirë e folur pa vend.
-973. Sipër sofrës nuk duhet të ketë libër e sipër trye-zës së punës, gjellë.
+973. Sipër sofrës nuk duhet të ketë libër e sipër tryezës së punës, gjellë.
 974. Në vend që t'i ai'rohesh një pasaniku, afroju një dijetari; kopracia e pasanikut s'të
     lë të përfitosh nga të mirat e tij; nga dituria e dijetarit, përveç që do të përfitosh,
     edhe nuk do të humbësh nderin tënd.
@@ -570,7 +568,7 @@ order: 3
 976. Asnjë gjë nuk futet në dorë pa dhënë diçka për të. Gjërat që mendohet se arrihen
     pa pagesë, janë blerë me vlera të mëdha si liria, nderi dhe dinjiteti.
 977. Kur të shohësh se për një çështje preferohen të tjerët kundrejt teje, mendo nëse ky
-    preferim bë-het pse ata janë më të talentuar dhe më të zotët se ti, apo është e
+    preferim bëhet pse ata janë më të talentuar dhe më të zotët se ti, apo është e
     kundërta? Në është se preferimi është bërë nga talenti dhe zotësia e tyre, duhet të
     gëzohesh pse në atdheun tënd ka njerëz më të talentuar dhe më të zotët se ti; nëse
     është e kundërta, duhet të gëzohesh që nuk je në radhën e tyre, se është e qartë që
