@@ -1,9 +1,11 @@
 @import '@fontsource/im-fell-english-sc';
 @import '@fontsource/alegreya-sc';
+@import '@fontsource/crimson-text';
 
 :root {
   --im-fell-english-sc: 'IM Fell English SC', serif;
   --alegreya-sc: 'Alegreya SC', serif;
   --inter: 'InterVariable', sans-serif;
   --charter: Charter, serif;
+  --crimson-text: 'Crimson Text', serif;
 }

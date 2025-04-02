@@ -31,7 +31,7 @@ function getMarkdownParser({
         try {
           return `<pre class="code" data-lang="${language}"><code>${hljs.highlight(code, { language, ignoreIllegals: true }).value}</code></pre>`;
         } catch (ex) {
-          console.error("Error parsing code block: ", ex)
+          console.error('Error parsing code block: ', ex);
         }
       }
 
