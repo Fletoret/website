@@ -47,7 +47,7 @@ votrës, e ata vetë shkojnë n'errësinë që përpinë.
 … Dhe agimi zbardhë me bukurinë e bardhë që vret. Çohen
 njerzit me trupnat e mpime dhe me kujtim në ndërgjegje se u
 kalua dhe nji natë e vështirë. U çuen, por nuk çohet nji vocrrak.
-Dora e s'amës shtrihet bi të dhe m'at çast nji britmë e tmerrshme
+Dora e s'amës shtrihet mbi të dhe m'at çast nji britmë e tmerrshme
 shpoi zemrat e kasolles. Dhimba e nji nanës i shkrinë zemrat në
 vaj, por ç'e do kur nuk shkrin zemrën e vocrrakut.
 
@@ -61,4 +61,3 @@ Dhe si përmendore kushtonia ndokujt. Kushtonia atij që ka ma
 shumë merita për kët vend! Po, ndoj ministrit o deputetit, o ndokuj
 tjetër… E në rasë se nuk gjeni ndoj njeri që ka merita të mjaftueshme,
 atëherë kushtonja atij që ka merita ma pak: perëndis klasike.
-

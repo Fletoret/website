@@ -2,7 +2,7 @@
   import '$lib/css/app.css';
   import '$lib/css/book-cover-fonts.css';
 
-  import { toPng } from 'html-to-image';
+  import { domToImage } from '$lib/utils';
 
   import Header from '$lib/components/Header.svelte';
 
@@ -62,23 +62,10 @@
   const bgColor0 = $derived(palette.bgColor0);
   const textColorPrimary = $derived(palette.textColorPrimary);
 
-  async function downloadImage(imageUrl) {
-    const response = await fetch(imageUrl);
-    const blob = await response.blob();
-    const blobUrl = URL.createObjectURL(blob);
-    const link = document.createElement('a');
-    link.href = blobUrl;
-    link.download = `${bookTitle.replaceAll(' ', '-')}.png`;
-    document.body.appendChild(link);
-    link.click();
-    document.body.removeChild(link);
-  }
-
-  async function domToImage() {
+  function handleImgSave() {
     const node = document.getElementById('book-cover');
     if (node) {
-      const dataUrl = await toPng(node);
-      await downloadImage(dataUrl);
+      domToImage(node, bookTitle);
     }
   }
 </script>
@@ -151,7 +138,7 @@
       </div>
     </div>
 
-    <button class="btn" onclick={domToImage}>Ruaj ↓</button>
+    <button class="btn" onclick={handleImgSave}> ⤓ </button>
   </div>
 </main>
 
@@ -166,6 +153,9 @@
   }
   .btn {
     border: solid 2px transparent;
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-md);
   }
   .btn:hover {
     border: solid 2px var(--border-color);

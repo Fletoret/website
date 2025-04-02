@@ -54,14 +54,14 @@ djersë e lehtë e ftohtë i arrin shtatin e molisun e lëshon
 hunin dhe ulet nën qershi. E plaka në prak të kasolles s'tundet.
 Ka zbërthye këmishën e ndytë si qiella e dimnit, dhe ose numron
 të hollat ose ban ndonj punë tjetër. Po të hollat ku t'i
-gjejë? Atëherë ban at punën tjetër. E shikomn e reja, e din
+gjejë? Atëherë ban at punën tjetër. E shikon e reja, e din
 se edhe ajo vetë do bahet si njajo plakë. I shkon në mend
 burri, tash i fortë si lis i ri, por që do të plaket e do
 të bahet mu si Rexh Meta, i cili kur vjen, kthen ashtu kot,
 e shikon me sy të ndytë edhe me fjalë ma të ndyta e ban m'u
 qeshë burrin e saj dhe plakën. Si me qenë ato fjalën ngushllim
 tash në pleqni! Por ah! Ndjeu një dhimbë në bark. Ah! Me qenë
-çikë... ishalla... Por edhe djalëme qenë, s'ka gja; vetë
+çikë... ishalla... Por edhe djalë me qenë, s'ka gja; vetë
 ka me i fitue qeset për me ble çikën për vete.
 
 — O Nano!
@@ -101,7 +101,7 @@ dhimbë të jashtzakonshme. Malsorja plakë u çue dhe po i
 avitej ngadalë. Mbas pak kohe u perzien britma vuejtje
 lehone dhe vaji i foshnjes; i cili n'at menyrë çpall se
 asht pjestar i shoqnis njerëzore ndër keto vise të humbuna
-të botës. E nenesre, e urojnë djalin me fjalë:
+të botës. E ne nesre, e urojnë djalin me fjalë:
 "I shkoftë lypa mbarë!" (A ju pëlqen zotni, ky urim për fmitë e juej?)
 
 E natyra prendverore qesh dhe kënaqet që po prodhon qershija

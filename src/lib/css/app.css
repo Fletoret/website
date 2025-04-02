@@ -180,6 +180,7 @@ a {
   align-items: center;
   gap: var(--spacing-md);
   font-weight: 400;
+  line-height: 1;
 }
 
 .btn-sm {

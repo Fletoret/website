@@ -252,7 +252,7 @@ dashuria.
     konsideratën dhe se lakmia për të pushtuar gjithë botën, veset si fanatizma,
     rebelimi dhe mizoria iënë mbrapa fatkeqësi që vazhdojnë për një kohë të gjatë dhe
     bëjnë që pasardhësit të mallkojnë paraardhësit e tyre.
-471. Historia është një proces-verbal, i cili ligësitë e shekullit të tanishëm ia përcjell
+471. Historia është një procesverbal, i cili ligësitë e shekullit të tanishëm ia përcjell
     për gjykim gjykatës së opinionit publik të shekujve të ardhshëm.
 472. Paanësia është ajo që shkruan historinë, historia që shkruhet nga anësia, nuk është
     histori, është përrallë.
@@ -349,7 +349,7 @@ dashuria.
     mëdhenjve; vdekja e një njeriu të tillë është një humbje e madhe për njerëzinë.
 521. Kthimi i së kaluarës është i pamundshëm, pritja të shumtën e herës është një
     shpresë e thatë, koha që zotëron njeriu është e tashmja; por — ah! — e tashmja
-    është si zhiva (që rrëshqet), e pamund-shme të pushtohet, prandaj jeta mbetet e
+    është si zhiva (që rrëshqet), e pamundshme të pushtohet, prandaj jeta mbetet e
     përtaërë nga shpresa për të ardhmen.
 522. Vobegësia dhe vështirësia e madhe zhduk ndjenjat e dashurisë për atdheun e të
     dëshirës për liri dhe e bën të lehtë durimin e tiranisë.
@@ -513,7 +513,7 @@ dashuria.
     vepron në brendësinë e çdo njeriu.
 605. Në treg shiten edhe lulet edhe bari, ai që dëshiron të stolisë dhomën merr lulet, ai
     që do të ushqejë gomarin merr barin. Mendimet që thuhen e që shkruhen në botë
-    ca janë të drejta, ca gënjeshtra; i urti pranon të drejtat, e i marri gë-njeshtrat.
+    ca janë të drejta, ca gënjeshtra; i urti pranon të drejtat, e i marri gënjeshtrat.
 606. Dy gjëra e bëjnë njeriun njeri: njëra ndërgjegjja, tjetra principi. Duhet të puthet
     dora e atij që ka një ndërgjegje të lirë dhe një princip të drejtë.
 607. Shërtaimi që duhet bërë skamnorëve nuk është ai për t'u lehtësuar jetesën, por

@@ -53,7 +53,7 @@ e me mirëbërësirëra të mbëdha. Nga kjo fëmijë ka dal'
 edhe një papë: Kleman' i Dymbëdhettë.
 
 Nga ky remet Shqipëtarësh, q'ikn' atëhere
-n'Evropë, vetëm ata që vanë në mbretëriit të Napolit, së
+n'Evropë, vetëm ata që vanë në mbretërit të Napolit, së
 cilësë Skënderbeu i kish ndihurë, vetëm ata muntnë të
 rrinë tok e të ruajnë gjuhën' e kombërin' e tyre gjer më sot.
 Gjuha, që flasinë, është shqip, fjesht toskërisht, pak' e
