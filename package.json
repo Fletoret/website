@@ -38,7 +38,7 @@
     "glob": "11.0.1",
     "html-to-image": "1.11.13",
     "sass": "1.86.1",
-    "schema-dts": "1.1.2"
+    "schema-dts": "1.1.5"
   },
   "module": "index.ts"
 }
