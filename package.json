@@ -32,9 +32,9 @@
   },
   "type": "module",
   "dependencies": {
-    "@fontsource/alegreya-sans-sc": "5.2.5",
-    "@fontsource/alegreya-sc": "5.2.5",
-    "@fontsource/im-fell-english-sc": "5.2.5",
+    "@fontsource/alegreya-sans-sc": "5.2.6",
+    "@fontsource/alegreya-sc": "5.2.6",
+    "@fontsource/im-fell-english-sc": "5.2.6",
     "glob": "11.0.1",
     "html-to-image": "1.11.13",
     "sass": "1.87.0",
