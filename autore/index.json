@@ -55,6 +55,18 @@
       {
         "@context": "https://schema.org",
         "@type": "BookSeries",
+        "name": "Doktor Gjilpëra",
+        "folder": "konica/doktor-gjilpera",
+        "genre": "albanian poetry classics",
+        "startDate": "1924",
+        "endDate": "1924",
+        "datePublished": "1924",
+        "thumbnail": "/images/covers/doktor-gjilpera.avif",
+        "abstract": "Vepra më e rëndësishme letrare e Konicës, një prozë satirike që rrëfen historinë e një doktori të ri shqiptari, i cili prej idealizmit dhe patriotizmit, vendos të kthehet në atdhe pas studimeve të gjata jashtë vendit. Ai përballon realitetin e rëndë të shoqërisë shqiptare, ku korrupsioni, analfabetizmi dhe tradita të vjetra mbizotërojnë, duke e vendosur atë në një konflikt të brendshëm dhe të jashtëm me strukturat sociale dhe politike."
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BookSeries",
         "name": "Ese",
         "folder": "konica/ese",
         "genre": "albanian poetry classics",

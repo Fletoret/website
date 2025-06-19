@@ -12,6 +12,7 @@ vite.config.ts.timestamp-*
 __pycache__
 venv
 
+tmp
 iiif-downloads
 output.json
 output.txt
