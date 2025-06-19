@@ -41,7 +41,7 @@
     "@fontsource/instrument-serif": "5.2.6",
     "glob": "11.0.3",
     "html-to-image": "1.11.13",
-    "sass": "1.87.0",
+    "sass": "1.89.2",
     "schema-dts": "1.1.5"
   },
   "module": "index.ts"
