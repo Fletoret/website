@@ -4,9 +4,10 @@
   import { chooseTheme, getAndLoadTheme } from '$lib/theme';
   interface Props {
     borderBottom?: boolean;
+    bgSecondary?: boolean;
   }
 
-  let { borderBottom = true }: Props = $props();
+  let { borderBottom = true, bgSecondary = false }: Props = $props();
 
   let showTOC = false;
   let theme: string | undefined = $state(getAndLoadTheme());
@@ -24,7 +25,11 @@
   }
 </script>
 
-<header class:border-bottom={borderBottom}>
+<header
+  class:border-bottom={borderBottom}
+  class:bg-primary-glassy={!bgSecondary}
+  class:bg-secondary={bgSecondary}
+>
   <div id="header-content-wrapper">
     <div class="flex-align-center" style="gap: var(--spacing-lg);">
       <a href="/">Fletoret</a>
@@ -51,7 +56,6 @@
   header {
     position: sticky;
     top: 0;
-    background: var(--bg-primary-glassy);
     backdrop-filter: blur(5px);
     -webkit-backdrop-filter: blur(5px);
     z-index: 2;
@@ -71,6 +75,7 @@
     font-weight: 500;
     font-size: var(--text-lg2);
     color: var(--text-primary);
+    letter-spacing: -0.05em;
   }
 
   #header-content-wrapper a:hover {
@@ -119,7 +124,7 @@
     padding: var(--spacing-md);
     border-radius: var(--radius-md);
     color: var(--text-secondary);
-    background-color: var(--bg-primary);
+    /* background-color: var(--bg-primary); */
   }
   .icon:hover {
     cursor: pointer;

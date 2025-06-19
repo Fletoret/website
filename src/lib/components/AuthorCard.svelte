@@ -50,7 +50,7 @@
       min-width: var(--width);
       max-height: var(--height);
       border-radius: var(--radius-lg);
-      font-family: var(--serif);
+      font-family: var(--serif-display);
 
       .content {
         position: absolute;
@@ -131,7 +131,7 @@
       top: 0;
       left: 0;
       width: 100%;
-      height: 200px;
+      height: 150px;
       filter: blur(75px) grayscale(0.5);
 
       /* background-repeat: no-repeat; */

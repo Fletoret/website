@@ -35,7 +35,7 @@
   <meta name="twitter:site" content="@fletoretSQ" />
 </svelte:head>
 
-<Header borderBottom={false} />
+<Header borderBottom={false} bgSecondary={true} />
 
 <main>
   <section class="header-wrapper">
@@ -47,7 +47,7 @@
     </div>
   </section>
 
-  <section class="bg-secondary">
+  <section class="">
     <div
       style="gap: 4rem; border-radius: var(--radius-xl)"
       class="center container"
@@ -81,7 +81,7 @@
   </section>
 </main>
 
-<section class="footer bg-secondary">
+<section class="footer">
   <div class="container">
     <div class="col">
       <div>
@@ -105,6 +105,11 @@
     flex-direction: column;
     width: 100%;
     min-height: 100vh;
+    background-image: linear-gradient(
+      to bottom,
+      var(--bg-secondary),
+      var(--bg-primary)
+    );
   }
   section {
     width: 100%;
@@ -119,7 +124,6 @@
     padding: calc(2 * var(--spacing-xxl));
   }
   .header-wrapper {
-    background-color: var(--bg-primary);
     background-size: 10px 10px;
     min-height: 50vh;
   }
@@ -132,7 +136,7 @@
   }
   .title {
     color: var(--text-primary);
-    font-size: 4rem;
+    font-size: 5rem;
     font-family: var(--serif-display);
     font-weight: 600;
     margin-bottom: var(--spacing-xxl);
