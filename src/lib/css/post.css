@@ -217,8 +217,8 @@
 .post-container .post-header .post-title {
   font-family: var(--serif-display);
   font-weight: 600;
-  font-size: 40px;
-  letter-spacing: -0.01em;
+  font-size: 50px;
+  /* letter-spacing: -0.01em; */
   line-height: 1.1;
 }
 

@@ -46,9 +46,9 @@
 
   .read-next .left .title {
     color: var(--text-primary);
-    font-family: var(--serif);
+    font-family: var(--serif-display);
     font-weight: 600;
-    font-size: var(--text-lg2);
+    font-size: var(--text-xl);
     line-height: 1.25;
   }
 
