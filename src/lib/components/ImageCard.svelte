@@ -81,8 +81,8 @@
   }
 
   .card .content .name {
-    font-family: var(--serif);
-    font-size: var(--text-lg);
+    font-family: var(--serif-display);
+    font-size: var(--text-lg2);
     line-height: 1.1;
   }
 

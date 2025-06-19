@@ -79,7 +79,7 @@
     font-family: var(--serif-display);
     font-weight: 600;
     color: var(--text-primary);
-    font-size: var(--text-xl);
+    font-size: var(--text-2xl);
     margin: 0;
   }
   .desc {

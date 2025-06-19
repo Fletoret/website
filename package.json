@@ -8,7 +8,9 @@
     "preview": "vite preview",
     "check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
     "check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch",
-    "webp-to-avif": "magick mogrify -format avif -depth 10 -define heic:speed=2 static/images/*.webp"
+    "webp-to-avif": "magick mogrify -format avif -depth 10 -define heic:speed=2 static/images/**/*.webp",
+    "png-to-avif": "magick mogrify -format avif -depth 10 -define heic:speed=2 static/images/**/*.png",
+    "png-to-webp": "magick mogrify -format webp static/images/**/*.png"
   },
   "devDependencies": {
     "@sveltejs/adapter-static": "3.0.8",
@@ -32,9 +34,11 @@
   },
   "type": "module",
   "dependencies": {
-    "@fontsource/alegreya-sans-sc": "5.2.5",
-    "@fontsource/alegreya-sc": "5.2.5",
-    "@fontsource/im-fell-english-sc": "5.2.5",
+    "@fontsource/alegreya-sans-sc": "5.2.6",
+    "@fontsource/alegreya-sc": "5.2.6",
+    "@fontsource/im-fell-english-sc": "5.2.6",
+    "@fontsource/crimson-text": "5.2.6",
+    "@fontsource/instrument-serif": "5.2.6",
     "glob": "11.0.1",
     "html-to-image": "1.11.13",
     "sass": "1.86.1",
