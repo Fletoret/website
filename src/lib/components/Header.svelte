@@ -31,11 +31,9 @@
   class:bg-secondary={bgSecondary}
 >
   <div id="header-content-wrapper">
-    <div class="flex-align-center" style="gap: var(--spacing-lg);">
-      <a href="/">Fletoret</a>
-    </div>
-
-    <div></div>
+    <section class="nav-items">
+      <a class="link" href="/">Fletoret</a>
+    </section>
 
     <section class="nav-items">
       <a class="link" href="/blog">Blog</a>
@@ -74,8 +72,7 @@
     font-family: var(--sans-serif-display);
     font-weight: 500;
     font-size: var(--text-lg2);
-    color: var(--text-primary);
-    letter-spacing: -0.05em;
+    letter-spacing: -0.02em;
   }
 
   #header-content-wrapper a:hover {

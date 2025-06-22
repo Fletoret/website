@@ -1,6 +1,6 @@
 <script lang="ts">
-  import AuthorBreadcrumb from '$lib/components/AuthorBreadcrumb.svelte';
   import BookFooter from '$lib/components/BookFooter.svelte';
+  import Breadcrumbs from '$lib/components/Breadcrumbs.svelte';
   import ReadNext from '$lib/components/ReadNext.svelte';
   import CONFIG from '$lib/config';
   import '$lib/css/app.css';
@@ -38,7 +38,7 @@
 </script>
 
 <svelte:head>
-  <title>{title }</title>
+  <title>{title}</title>
   <meta name="description" content={post.body.slice(0, 250)} />
   <meta name="twitter:description" content={post.body.slice(0, 250)} />
 
@@ -72,16 +72,7 @@
 
 <div class="post-container">
   <div class="post-header">
-    <!-- Breadcrumbs -->
-    <div class="breadcrumbs">
-      <AuthorBreadcrumb author={authorInfo} />
-      <!-- {#if post.grandparent}
-        <div class="separator">/</div>
-        <div class="path-item">{post.grandparent}</div>
-      {/if} -->
-      <!-- <div class="separator">/</div> -->
-      <!-- <div class="path-item">{post.parent}</div> -->
-    </div>
+    <Breadcrumbs author={authorInfo} {post} />
 
     <!-- <div class="post-meta-tags">
       {#each post.tags as tag}

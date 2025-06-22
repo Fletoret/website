@@ -96,7 +96,7 @@
   <div id="content">
     {#if bookEntries}
       {#each bookEntries as [book, chapters]}
-        <BookEntryPoint {author} {book} {chapters} />
+        <BookEntryPoint {book} {chapters} />
       {/each}
     {/if}
   </div>
@@ -108,7 +108,7 @@
   main {
     max-width: 1000px;
     display: flex;
-    gap: 2rem;
+    gap: 3rem;
     justify-content: center;
     padding: var(--spacing-xl) var(--spacing-xxl);
     margin: auto;

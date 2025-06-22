@@ -3,7 +3,7 @@ title: Fryn, moj erë
 subtitle:
 author: Fan Noli
 respectLineBreaks: true
-parent: Vjershat e Para
+parent: Vjershat e para
 grandparent:
 order: 1
 keywords:

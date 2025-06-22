@@ -105,4 +105,11 @@
       --height: 185px;
     }
   }
+
+  @media (max-width: 480px) {
+    .card {
+      --width: 150px;
+      --height: 175px;
+    }
+  }
 </style>

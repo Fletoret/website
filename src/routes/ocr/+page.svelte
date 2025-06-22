@@ -1,5 +1,4 @@
 <script lang="ts">
-
   import Header from '$lib/components/Header.svelte';
   import CopyIcon from '$lib/icons/CopyIcon.svelte';
   // import SaveIcon from '$lib/icons/SaveIcon.svelte';
@@ -115,10 +114,6 @@
     display: flex;
     gap: 1rem;
     align-items: center;
-  }
-  .row {
-    display: flex;
-    gap: 2rem;
   }
   .flex .column {
     padding: 1rem;
