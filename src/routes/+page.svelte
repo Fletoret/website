@@ -35,7 +35,7 @@
   <meta name="twitter:site" content="@fletoretSQ" />
 </svelte:head>
 
-<Header borderBottom={false} bgSecondary={true} />
+<Header borderBottom={false} bgSecondary={false} />
 
 <main>
   <section class="header-wrapper">
@@ -47,11 +47,8 @@
     </div>
   </section>
 
-  <section class="">
-    <div
-      style="gap: 4rem; border-radius: var(--radius-xl)"
-      class="center container"
-    >
+  <section class="authors-wrapper">
+    <div class="container-lg">
       <div class="section-heading">
         <h2 class="section-header">Shkrimtarë</h2>
         <h4 class="section-desc">
@@ -105,11 +102,15 @@
     flex-direction: column;
     width: 100%;
     min-height: 100vh;
-    background-image: linear-gradient(
+    /* background-image: linear-gradient(
       to bottom,
       var(--bg-secondary),
       var(--bg-primary)
-    );
+    ); */
+  }
+
+  h2 {
+    font-size: 3rem;
   }
   section {
     width: 100%;
@@ -142,7 +143,7 @@
     margin-bottom: var(--spacing-xxl);
   }
   .section-heading {
-    margin-bottom: calc(3 * var(--spacing-xxl));
+    margin-bottom: calc(2 * var(--spacing-xxl));
   }
   .section-header {
     color: var(--text-primary);
@@ -162,12 +163,25 @@
     text-align: center;
   }
 
-  .authors {
-    display: flex;
-    flex-wrap: wrap;
-    margin-top: 2rem;
-    gap: 2rem;
-    justify-content: center;
+  .authors-wrapper {
+    .container-lg {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      gap: var(--spacing-lg);
+      border-radius: var(--radius-xxl);
+      background-color: var(--bg-secondary);
+      max-width: 100%;
+      padding: var(--spacing-2xxl);
+      padding-bottom: calc(1.5 * var(--spacing-2xxl));
+    }
+
+    .authors {
+      display: flex;
+      flex-wrap: wrap;
+      gap: var(--spacing-xxl);
+      justify-content: center;
+    }
   }
 
   .footer {
@@ -181,7 +195,6 @@
     justify-content: space-between;
     font-size: var(--text-sm);
     color: var(--text-secondary);
-    /* padding: calc(2 * var(--spacing-xxl)); */
   }
   .footer .container .col {
     min-width: 200px;
@@ -205,6 +218,17 @@
       padding: var(--spacing-xxl);
     }
 
+    .authors-wrapper {
+      .container-lg {
+        padding: var(--spacing-xl);
+        padding-bottom: calc(1.5 * var(--spacing-xxl));
+
+        .authors {
+          gap: 1rem;
+        }
+      }
+    }
+
     .header-wrapper {
       min-height: 50vh;
     }
@@ -213,14 +237,10 @@
     }
 
     .section-header {
-      font-size: 1.5rem;
+      font-size: 2rem;
     }
     .section-desc {
       font-size: var(--text-md);
-    }
-
-    .authors {
-      gap: 1rem;
     }
 
     .footer .container {

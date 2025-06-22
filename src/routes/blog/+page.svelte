@@ -22,7 +22,7 @@
 
 <style>
   main {
-    padding-top: var(--spacing-2xxl);
+    padding-top: var(--spacing-2xl);
   }
   .container {
     margin: 0 auto;
@@ -42,8 +42,7 @@
     grid-row: span 2;
     padding: var(--spacing-xxl);
     font-size: var(--text-lg2);
-    background-color: var(--bg-primary);
-    border-radius: var(--radius-md);
+    border-radius: var(--radius-xl);
   }
 
   /* Standard article styling */
@@ -51,9 +50,8 @@
     display: block;
     font-size: var(--text-md);
     padding: var(--spacing-xl);
-    background-color: var(--bg-secondary);
-    border: 1px solid var(--border-color, #ddd);
-    border-radius: var(--radius-sm);
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-xl);
   }
   .post {
     display: block;
@@ -78,7 +76,6 @@
     margin-left: var(--spacing-md);
   }
   .post:hover {
-    border-radius: var(--radius-md);
     background-color: var(--bg-secondary);
   }
 </style>

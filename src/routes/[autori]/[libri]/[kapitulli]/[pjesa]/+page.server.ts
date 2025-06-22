@@ -14,24 +14,19 @@ export function load({ url }) {
 
   for (const p of posts) {
     if (p.parent == post.parent) {
-      if (p.order === (post.order - 1)) {
-
-        postBefore = p
+      if (p.order === post.order - 1) {
+        postBefore = p;
         // Drop some attributes that won't be used and are otherwise heavy
-        postBefore.body = "";
-        postBefore.html = "";
-
-
-      } else if (p.order === (post.order + 1)) {
+        postBefore.body = '';
+        postBefore.html = '';
+      } else if (p.order === post.order + 1) {
         postAfter = p;
         // Drop some attributes that won't be used and are otherwise heavy
-        postAfter.body = "";
-        postAfter.html = "";
+        postAfter.body = '';
+        postAfter.html = '';
       }
     }
   }
-
-
 
   return {
     post,

@@ -201,19 +201,6 @@
   min-width: 80%;
 }
 
-.post-container .breadcrumbs {
-  font-family: var(--sans-serif);
-  font-size: var(--text-md);
-  color: var(--text-secondary);
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
-}
-
-.post-container .breadcrumbs .separator {
-  color: var(--border-color);
-}
-
 .post-container .post-header .post-title {
   font-family: var(--serif-display);
   font-weight: 600;

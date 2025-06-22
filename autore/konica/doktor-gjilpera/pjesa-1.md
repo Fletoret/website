@@ -245,8 +245,8 @@ fytyrën më të ftohtë, pa fuqinë misterioze të Verës.
 Vera? Ç'bënte valle Vera? Në ç'hall ndodhej.
 Gjëlpëra shumë herë dalldisej në mejtime. I kish
 shkruar dy herë, po përgjigje s'kish marrë. Harrim,
-ndoshta? S'kish të ngjarë. Mundet ndërrim shtëpie:
-- ose dyshim i censurës ushtarake, kurdohere
+ndoshta? S'kish të ngjarë. Mundet ndërrim shtëpie -
+ose dyshim i censurës ushtarake, kurdoherë
 kundërshtonjëse e shkëmbimit të letrash të një gruaje
 me një mik të jashtëm. Po Ingrida që një çupë e
 dashur, me një shpirt të mbyllur dhe pak si të largme,
@@ -684,8 +684,7 @@ formë aq të gjallë në zemër të filozofit tonë të ri, sa
 më në fund si një zë i brendshëm e shtyti ta nisë
 udhëtimin. Shkoi në Upsala, t'u lërë shëndet miqve
 dhe të perqafoje lngriden, edhe pa humbur kohë -
-neper qytetet e plagosura të Gjermanisë e të Austrisë
-- arriti në Itali.
+neper qytetet e plagosura të Gjermanisë e të Austrisë - arriti në Itali.
 
 Italia! një emër që tingëllon si muzikë në
 veshin e njeriut të qytetëruar, djepi i qytetërisë

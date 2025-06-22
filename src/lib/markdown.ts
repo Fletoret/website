@@ -11,7 +11,7 @@ import mdImplicitFigures from 'markdown-it-implicit-figures';
 import mdLinkAttributes from 'markdown-it-link-attributes';
 import slugify from 'slugify';
 
-import type { BlogPost, Post } from '$lib/types';
+import type { BlogPost, Post, Author } from '$lib/types';
 
 function getMarkdownParser({
   respectLineBreaks = true,
@@ -65,13 +65,22 @@ function getMarkdownParser({
  * care of converting markdown to HTML.
  */
 export function parse(
-  authorFolder,
-  content,
-  { prefix = 's', includeDateInPath = false } = {},
+  authorFolder: string,
+  content: string,
+  filepath: string,
+  authorIndexEntry: Author,
 ): Post | undefined {
   // Make sure metadata header is available
   if (frontmatter.test(content) === false) {
     console.warn('mixing metadata block');
+    return;
+  }
+
+  const book = (authorIndexEntry?.books || []).filter(
+    (b) => typeof b.folder === 'string' && filepath.indexOf(b.folder) !== -1,
+  )[0];
+
+  if (!book.publishedFletoret) {
     return;
   }
 
@@ -142,8 +151,11 @@ export function parse(
     // Generated metadata
     // human_date: format(date, 'do MMMM yyyy'),
     // last_update: last_update ? format(last_update, 'do MMMM yyyy') : '',
+    bookName: book.name,
     relativeUrl,
+    relativeUrlBook: book.folder,
     url: `${config.info.base_url}/${relativeUrl}`,
+    urlBook: `${config.info.base_url}/${book.folder}`,
     // Body
     body,
     html,
@@ -193,7 +205,7 @@ export function parseFAQ(content: string) {
  * care of converting markdown to HTML.
  */
 export function parseBlogPost(
-  content,
+  content: string,
   { prefix = 'blog', includeDateInPath = false } = {},
 ): BlogPost | undefined {
   // Make sure metadata header is available

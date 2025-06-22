@@ -27,8 +27,8 @@
     align-items: center;
     justify-content: space-between;
     background-color: var(--bg-secondary);
-    padding: var(--spacing-xxl) var(--spacing-2xxl);
-    border-radius: var(--radius-lg);
+    padding: var(--spacing-xl) var(--spacing-xxl);
+    border-radius: var(--radius-xl);
     color: var(--text-secondary);
     margin-top: var(--spacing-2xxl);
     gap: 2rem;

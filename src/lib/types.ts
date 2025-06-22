@@ -1,4 +1,4 @@
-import type { Person, WithContext } from 'schema-dts';
+import type { Person, Book, WithContext } from 'schema-dts';
 
 export type Post = {
   title: string;
@@ -18,7 +18,10 @@ export type Post = {
   grandparent: string;
   order: number;
   relativeUrl: string;
+  bookName: string;
+  relativeUrlBook: string;
   url: string;
+  urlBook: string;
   html: string;
   previewSnippet?: string;
 };
@@ -44,6 +47,10 @@ export type BlogPost = {
 
 export type ProgressState = 'complete' | 'partial' | 'missing';
 
+type ExtendedBookType = WithContext<Book> & {
+  publishedFletoret: boolean;
+};
+
 export type Author = {
   name: string;
   description: string;
@@ -52,11 +59,17 @@ export type Author = {
   thumbnail: string;
   thumbnailWebp: string;
   author: WithContext<Person>;
-  books?: Array<Record<string, string | WithContext<Person>>>;
+  books?: Array<ExtendedBookType>;
 };
 
 export type FAQ = {
   title: string;
   answer: string;
   order: number;
+};
+
+export type Breadcrumb = {
+  thumbnail?: string;
+  text: string;
+  url: string;
 };

@@ -3,7 +3,7 @@ title: Kanga e Dervish Begut
 subtitle:
 author: Fan Noli
 respectLineBreaks: true
-parent: Vjershat e Para
+parent: Vjershat e para
 grandparent:
 order: 2
 keywords:

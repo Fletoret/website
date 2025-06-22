@@ -73,10 +73,13 @@ export function getAuthorInfo(authorName: string): Author | undefined {
 function loadEntriesInFolder(author: string, globPattern: string): Post[] {
   const entries: Post[] = [];
   const filepaths = globSync(globPattern);
+  const index = getAuthorsIndex();
+  const authorIndex = index.get(author);
 
   filepaths.forEach((filepath: string) => {
     const content = fs.readFileSync(filepath, 'utf-8');
-    const entry = parse(author, content);
+    const entry = parse(author, content, filepath, authorIndex);
+
     if (entry) {
       entries.push(entry);
     }
@@ -100,7 +103,11 @@ export function getRandomEntry(): Post {
   const content = fs.readFileSync(randomFilePath, 'utf-8');
 
   const author = randomFilePath.split('/')[1];
-  const entry = parse(author, content);
+
+  const index = getAuthorsIndex();
+  const authorIndex = index.get(author);
+
+  const entry = parse(author, content, randomFilePath, authorIndex);
 
   return entry;
 }
@@ -141,12 +148,11 @@ export const getEntries = (
   dropUnusedAttributes = false,
   publishedOnly = false,
 ) => {
+  let authorInfo = getAuthorInfo(author);
   let entries = getAllEntries(author);
   if (publishedOnly) {
     entries = entries.filter((p: Post) => p.published == true);
   }
-
-  let authorInfo = getAuthorInfo(author);
 
   const _books = [];
   for (const book of authorInfo?.books || []) {
@@ -163,7 +169,9 @@ export const getEntries = (
       }
     }
 
-    _books.push([book, groupBy(bookEntries, 'parent')]);
+    if (book.publishedFletoret) {
+      _books.push([book, groupBy(bookEntries, 'parent')]);
+    }
   }
 
   const chapters = groupBy(entries, 'parent');

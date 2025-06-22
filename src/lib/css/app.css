@@ -34,7 +34,9 @@ https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/
   --radius-md: 8px;
   --radius-lg: 12px;
   --radius-xl: 16px;
-  --radius-xxl: 48px;
+  --radius-xxl: 24px;
+  --radius-2xxl: 48px;
+  --radius-full: 100%;
 
   --spacing-sm: 4px;
   --spacing-md: 8px;
@@ -52,13 +54,13 @@ https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/
   --breakpoint-mobile-ui: 900px;
 
   /* Light Theme */
-  --text-primary-light: black;
-  --text-secondary-light: #5f6368;
+  --text-primary-light: #000000;
+  --text-secondary-light: #868686;
   --link-primary-light: rgb(21, 21, 243);
   --link-visited-light: rgb(88, 88, 211);
   --bg-primary-light: #ffffff;
   --bg-primary-glassy-light: #ffffffe0;
-  --bg-secondary-light: #faf5f2;
+  --bg-secondary-light: #f5f4ee;
   --bg-selection-light: #e54b4b33;
   --border-color-light: #e9edf2;
   --color-blue-light: rgb(0, 122, 255);
@@ -196,7 +198,7 @@ a {
   height: var(--size);
   display: flex;
   padding: var(--spacing-sm);
-  border-radius: var(--radius-xxl);
+  border-radius: var(--radius-full);
   color: var(--text-secondary);
 }
 
@@ -335,6 +337,13 @@ body::-webkit-scrollbar-thumb {
 }
 
 .container {
-  max-width: 1000px;
-  width: 1000px;
+  --w: 1000px;
+  max-width: calc(min(var(--w), 100%));
+  width: var(--w);
+}
+
+.container-lg {
+  --w: 1400px;
+  max-width: calc(min(var(--w), 100%));
+  width: var(--w);
 }
