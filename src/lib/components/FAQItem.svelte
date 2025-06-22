@@ -1,7 +1,7 @@
 <script lang="ts">
-  import NavRightIcon from "$lib/icons/NavRightIcon.svelte";
-  import { cubicInOut } from "svelte/easing";
-  import { slide } from "svelte/transition";
+  import NavRightIcon from '$lib/icons/NavRightIcon.svelte';
+  import { cubicInOut } from 'svelte/easing';
+  import { slide } from 'svelte/transition';
 
   interface Props {
     question: string;
@@ -19,7 +19,7 @@
     role="button"
     tabindex="0"
     onkeydown={(e) => {
-      if (e.key === "Enter") {
+      if (e.key === 'Enter') {
         expanded = !expanded;
       }
     }}
@@ -66,7 +66,7 @@
     border-bottom: solid 2px var(--border-color);
   }
   .question {
-    font-size: var(--text-lg2);
+    font-size: var(--text-lg);
     font-weight: 500;
     padding: var(--spacing-lg) 0;
     display: flex;
