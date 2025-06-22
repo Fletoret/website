@@ -88,6 +88,7 @@
     <BookProfile {book} {author} />
   </aside>
   <div id="content">
+    <h1>{book?.name}</h1>
     {#each Object.entries(data.chapters) as [chapter, entry], idx}
       <TocItemList
         header={chapter}
@@ -105,7 +106,7 @@
   main {
     max-width: 1000px;
     display: flex;
-    gap: 2rem;
+    gap: 3rem;
     justify-content: center;
     padding: var(--spacing-xl) var(--spacing-xxl);
     margin: auto;
@@ -115,6 +116,12 @@
     display: flex;
     flex-direction: column;
     gap: 2rem;
+
+    h1 {
+      font-family: var(--serif-display);
+      margin-bottom: 0;
+      font-size: var(--text-2xl);
+    }
   }
   aside {
     width: 30%;

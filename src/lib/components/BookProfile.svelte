@@ -1,7 +1,7 @@
 <script lang="ts">
   // import DownloadIcon from "$lib/icons/DownloadIcon.svelte";
   import type { Author } from '$lib/types';
-  import AuthorBreadcrumb from './AuthorBreadcrumb.svelte';
+  import BreadcrumbItem from './BreadcrumbItem.svelte';
 
   interface Props {
     book: any;
@@ -15,7 +15,7 @@
   <div
     class="card-bg-glassy"
     style="background-image: url({book?.thumbnail});"
-></div>
+  ></div>
 
   <div class="card">
     <img src={book?.thumbnail} loading="lazy" alt="" />
@@ -27,7 +27,13 @@
   <div class="book-details">
     <div class="intro">{book.abstract} Botuar në {book.datePublished}.</div>
     <div class="author-wrapper">
-      <AuthorBreadcrumb {author} />
+      <BreadcrumbItem
+        item={{
+          thumbnail: author.thumbnail,
+          text: author.name,
+          url: author.folder,
+        }}
+      />
     </div>
   </div>
 

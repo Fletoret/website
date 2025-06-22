@@ -1030,9 +1030,8 @@ Dhe tek po kuvendonin, mjekut i ranë nër
 mend porositë e policit në Durrës dhe fjala mbi
 dobësitë e vogla të Salembozës.
 
-"Kur isha nxënës në Upsala, - tha dr. Gjëlpëra,
-- vizitoj një ditë Universitetin tonë Princi Gustav-
-Adolf i Suedisë. - Salemboza hapi sytë dhe afroi
+"Kur isha nxënës në Upsala, - tha dr. Gjëlpëra, - vizitoi një ditë Universitetin tonë
+Princi Gustav-Adolf i Suedisë. - Salemboza hapi sytë dhe afroi
 fronin që të dëgjojë më mirë. - Princi foli me ne
 studentët si shok. Që njeri buzëqeshur dhe i dashur.
 Një nga zakonet e tij ish që, nganjëherë, kur

@@ -11,12 +11,7 @@
     showHeader?: boolean;
   }
 
-  let {
-    chapterIdx,
-    header,
-    entries,
-    showHeader = true
-  }: Props = $props();
+  let { chapterIdx, header, entries, showHeader = true }: Props = $props();
 
   function numberToRomanNumeral(n: number) {
     if (n === 1) return 'I';
@@ -91,7 +86,7 @@
     height: var(--size);
     display: flex;
     padding: var(--spacing-sm);
-    border-radius: var(--radius-xxl);
+    border-radius: var(--radius-full);
     border: solid 1px var(--border-color);
     color: var(--text-secondary);
   }
