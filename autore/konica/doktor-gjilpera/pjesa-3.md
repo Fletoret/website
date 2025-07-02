@@ -527,8 +527,7 @@ ke gru", - shtoi Ibn-el-Kelbi.
 "Aman, doktor bej, mos e ndigjo Zylfikar
 agën!" - insistoi Arifeja.
 
-"Sillni një legen dhe një kupë ujë të kripur!"
-- urdhëroi doktori.
+"Sillni një legen dhe një kupë ujë të kripur!" - urdhëroi doktori.
 
 Ca çaste më vonë Lejlaja i pruri. Atëherë dr.
 Gjëlpëra, i djersitur nga kjo skenë e çuditshme, mori
@@ -556,8 +555,7 @@ u dëgjua përsëri.
 "Si e ndien veten tash, Arife?" - pyeti më në
 fund Zylfikar agai.
 
-"Jam shumë mirë. S'kam më të dhimbura",-
-erdhi përgjigja e papritur.
+"Jam shumë mirë. S'kam më të dhimbura", - erdhi përgjigja e papritur.
 
 Dr. Gjëlpëra hapi sytë: A kish përpara një
 ngjarje shërimi nga besimi i fortë në shërimin e

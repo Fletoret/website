@@ -8,9 +8,9 @@ function sitemapUrl(
   frequency: string = 'weekly',
   priority: number = 0.7,
 ) {
-  // NOTE: Trailing slash
+  // NOTE: Trailing slash is handled when the relativeUrl is created
   return `<url>
-  <loc>${CONFIG.info.base_url}/${relativeUrl}/</loc>
+  <loc>${CONFIG.info.base_url}/${relativeUrl}</loc>
   <changefreq>${frequency}</changefreq>
   <priority>${priority}</priority>
 </url>`;

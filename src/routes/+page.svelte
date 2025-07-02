@@ -18,21 +18,52 @@
 <svelte:head>
   <title>{CONFIG.info.serp_title}</title>
   <meta name="description" content={CONFIG.info.misioni} />
+  <meta
+    name="robots"
+    content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+  />
+  <meta name="author" content="Fletoret.com" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <!-- OG params for sharable content -->
   <meta property="og:type" content="website" />
   <meta property="og:title" content={CONFIG.info.title} />
   <meta property="og:description" content={CONFIG.info.misioni} />
   <meta property="og:site_name" content={CONFIG.info.title} />
   <meta property="og:locale" content="sq_AL" />
+  <meta property="og:url" content="https://fletoret.com" />
+  <meta
+    property="og:image"
+    content="https://fletoret.com/favicon/android-chrome-512x512.png"
+  />
+
+  <meta
+    name="keywords"
+    content="fletoret, migjeni, fishta, fan noli, faik konica, leke dukagjini, sami frasheri, naim frasheri, veprat e plota, novelat e qytetit te veriut, vargjet e lira, fan noli albumi, kanuni lek dukagjinit, kanuni i leke dukagjinit, kanuni i malësisë, kanuni i maleve, kanuni i veriut, mrizi i zanave, gomari i babatasit, shqiperia cka qene, biblioteka dixhitale, libra shqip, letërsi shqipe, autorë shqiptarë, poezi shqip, prozë shqip, klasikë shqiptarë, digjitalizim, open source, kulturë shqiptare, histori shqiptare"
+  />
 
   <!-- Canonical -->
   <link rel="canonical" href="https://fletoret.com" />
+  <link rel="icon" href="/favicon/favicon.ico" sizes="any" />
+  <link
+    rel="icon"
+    type="image/png"
+    href="/favicon/android-chrome-192x192.png"
+    sizes="192x192"
+  />
+  <link rel="apple-touch-icon" href="/favicon/apple-touch-icon.png" />
+
+  <!-- Alternate language (if available) -->
+  <!-- <link rel="alternate" hreflang="en" href="https://fletoret.com/en" /> -->
 
   <!--twitter important OG data-->
   <meta name="twitter:title" content={CONFIG.info.title} />
   <meta name="twitter:description" content={CONFIG.info.description} />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="@fletoretSQ" />
+  <meta
+    name="twitter:image"
+    content="https://fletoret.com/favicon/android-chrome-512x512.png"
+  />
 </svelte:head>
 
 <Header borderBottom={false} bgSecondary={false} />

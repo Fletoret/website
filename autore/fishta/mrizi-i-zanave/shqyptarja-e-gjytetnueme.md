@@ -441,7 +441,7 @@ T'gjitha zoja per njerzí.
 
 Mirë, por s' dij a thue u ká rá
 Ndonji herë, Motra, me pá,
-Se si Ishohet m' luftë Shqyptari,
+Se si lshohet m' luftë Shqyptari,
 Se si ndezet vendi zhari
 Kúr t'a zjerrë aj t'prehët çelikun
 E t'a msŷj per ballë anmikun,

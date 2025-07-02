@@ -359,12 +359,13 @@ order: 1
 208. Durimi dhe meditimi nuk bashkohesn me pendimin.
 209. Në lumenj të mëdhenj ka peshq të mëdhenj, por është rrezik të mbytesh; është më
     mirë të kënaqesh me peshq të vegjël të lumenjve të vegjël.
-    <epigraph>
 
-  > Të mira të shumta ka në det, <br>
-  > Në do shpëtim, rri në çip i getë. <br>
-  > (Sheh Sadi)
-  </epigraph>
+<center>
+Të mira të shumta ka në det,
+Në do shpëtim, rri në çip i getë.
+(Sheh Sadi)
+</center>
+
 210. Në është se ekziston gabim i pëlqyer, është ai që ne, të shtyrë nga simpatia për një
     shok, kujtojmë se ai është njeri i përsosur.
 211. Kopracia e një pasaniku i bën fëmijët e tij në vogëli të bëjnë çdo të ligë e pas
