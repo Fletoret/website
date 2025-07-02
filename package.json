@@ -36,13 +36,14 @@
   "dependencies": {
     "@fontsource/alegreya-sans-sc": "5.2.6",
     "@fontsource/alegreya-sc": "5.2.6",
-    "@fontsource/im-fell-english-sc": "5.2.6",
     "@fontsource/crimson-text": "5.2.6",
+    "@fontsource/im-fell-english-sc": "5.2.6",
     "@fontsource/instrument-serif": "5.2.6",
     "glob": "11.0.3",
     "html-to-image": "1.11.13",
     "sass": "1.89.2",
-    "schema-dts": "1.1.5"
+    "schema-dts": "1.1.5",
+    "super-sitemap": "^1.0.3"
   },
   "module": "index.ts"
 }

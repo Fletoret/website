@@ -4,7 +4,7 @@ author: Faik Konica
 respectLineBreaks: false
 parent: Ese
 grandparent: null
-order: 1
+order: 2
 ---
 
 Shqipëria gjendet e vendosur gjeografikisht në pjesën

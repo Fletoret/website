@@ -10,7 +10,7 @@
   let progressState = author.progressState || 'missing';
 </script>
 
-<ImageCardWrapper href="/{author.folder}" {progressState}>
+<ImageCardWrapper href="/{author.folder}/" {progressState}>
   <div class="card" class:unavailable={progressState === 'missing'}>
     <div class="img-wrapper">
       <img

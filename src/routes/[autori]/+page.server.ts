@@ -6,7 +6,6 @@ export function load({ url }) {
 
   try {
     author = getUrlParts(url.pathname)[0];
-
     const { chapters, books, authorInfo } = getEntries(author, true);
     return {
       chapters,
