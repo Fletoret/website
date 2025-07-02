@@ -1,7 +1,25 @@
-# Fletoret
+<div align="center" id="top">
+  <a href="https://fletoret.com">
+    <picture>
+      <img src="https://github.com/user-attachments/assets/df8304af-02ee-40a5-8823-1ba2673331f0" alt="Fletoret">
+    </picture>
+  </a>
+</div>
+<div align="center">
+  <h1>Fletoret</h1>&nbsp;|&nbsp;
+  <a href="https://fletoret.com">📚 Shkrimtarë</a> &nbsp;|&nbsp;
+  <a href="https://fletoret.com/blog/">💡 Blog</a> &nbsp;|&nbsp;
+  <a href="https://github.com/Fletoret/website/stargazers">🌟 GitHub</a> &nbsp;|&nbsp;
+  <a href="https://www.reddit.com/r/fletoret/">🌟 Reddit</a> &nbsp;|&nbsp;
+  <a href="https://twitter.com/FletoretSQ">🌟 X</a> &nbsp;|&nbsp;
+  <br><br>
+  <p>Nisma e dixhitalizimit të veprave letrare në shqip, që janë në domain-in publik. <br>
+    Të plota, falas, kontribuar nga vullnetarë.</p>
 
-Nisma e dixhitalizimit të veprave letrare në shqip, që janë në domain-in publik. Të plota, falas, kontribuar nga vullnetarë.
+</div>
 
+<br>
+<br>
 
 ## Si mund të ndihmoj?
 
