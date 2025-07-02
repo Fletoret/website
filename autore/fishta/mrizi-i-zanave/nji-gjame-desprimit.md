@@ -55,7 +55,7 @@ E prej Lirijet me i a ndalun hovin?
 Gopsija e kuel n'Malci ka mûjtë m' u ushqye?
 Po a Hoti e Gruda mund t'a mbajën Moskovin?
 Nuk duhet, jo, qi t'mkambet Shqyptarija:
-Qe, pse po i Ishohet Malit t'Zí Maicija.
+Qe, pse po i lshohet Malit t'Zí Maicija.
 
 O gjak i atyne burra fatosa,
 Qi per Liri t'Malcis kullove rrkajë,

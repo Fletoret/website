@@ -2,6 +2,7 @@ import fs from 'fs';
 import { globSync } from 'glob';
 import { parse, parseBlogPost, parseFAQ } from '$lib/markdown';
 import type { Post, BlogPost, FAQ, Author } from '$lib/types';
+import { addTrailingSlash } from '$lib/utils';
 
 const sortedPosts = (posts: Post[]) => {
   return posts.sort(function (a: Post, b: Post) {
@@ -60,6 +61,14 @@ export function getAuthorInfo(authorName: string): Author | undefined {
 
   if (index.has(authorName)) {
     const author = index.get(authorName);
+
+    if (!author) {
+      throw new Error(`Author ${authorName} not found in index.`);
+    }
+
+    // Add trailing slash to author folder if not present
+    author.folder = addTrailingSlash(author?.folder || '');
+
     for (const book of author?.books || []) {
       book.thumbnailWebp = book.thumbnail.replace('.avif', '.webp');
     }

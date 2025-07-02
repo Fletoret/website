@@ -10,6 +10,7 @@ import mdFootnote from 'markdown-it-footnote';
 import mdImplicitFigures from 'markdown-it-implicit-figures';
 import mdLinkAttributes from 'markdown-it-link-attributes';
 import slugify from 'slugify';
+import { addTrailingSlash } from '$lib/utils';
 
 import type { BlogPost, Post, Author } from '$lib/types';
 
@@ -116,7 +117,7 @@ export function parse(
     );
   });
 
-  const relativeUrl = `${authorFolder}/${parts.join('/')}`;
+  const relativeUrl = addTrailingSlash(`${authorFolder}/${parts.join('/')}`);
 
   const md = getMarkdownParser({
     codeHighlighting: false,
@@ -153,9 +154,9 @@ export function parse(
     // last_update: last_update ? format(last_update, 'do MMMM yyyy') : '',
     bookName: book.name,
     relativeUrl,
-    relativeUrlBook: book.folder,
+    relativeUrlBook: addTrailingSlash(`${book.folder}`),
     url: `${config.info.base_url}/${relativeUrl}`,
-    urlBook: `${config.info.base_url}/${book.folder}`,
+    urlBook: addTrailingSlash(`${config.info.base_url}/${book.folder}`),
     // Body
     body,
     html,

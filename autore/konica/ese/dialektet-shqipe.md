@@ -4,7 +4,7 @@ author: Faik Konica
 respectLineBreaks: false
 parent: Ese
 grandparent: null
-order: 3
+order: 4
 ---
 
 Dy dialekte të mëdha, - të cilat edhe ato vetë ndahen në

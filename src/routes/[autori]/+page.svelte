@@ -10,7 +10,7 @@
   let { data } = $props();
 
   function generateAuthorDesc() {
-    let desc = `${author?.name} - veprat. `;
+    let desc = `${author?.name} - veprat e plota. `;
     if (author?.books) {
       desc += author.books.map((x) => x.name).join(', ');
     }
@@ -45,8 +45,11 @@
 
 <svelte:head>
   <title>{author?.name} | {CONFIG.info.title}</title>
+  <link rel="canonical" href="{CONFIG.info.base_url}/{author?.folder}" />
+
   <meta name="description" content={description} />
   <meta name="twitter:description" content={description} />
+  <meta name="twitter:url" content="{CONFIG.info.base_url}/{author?.folder}" />
 
   <!--twitter important OG data-->
   <meta name="twitter:title" content="{author?.name} | {CONFIG.info.title}" />
@@ -55,7 +58,7 @@
 
   <!-- OG params for sharable content -->
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="/{author?.folder}" />
+  <meta property="og:url" content="{CONFIG.info.base_url}/{author?.folder}" />
   <meta
     property="og:title"
     content={`${author?.name} | ${CONFIG.info.title}`}

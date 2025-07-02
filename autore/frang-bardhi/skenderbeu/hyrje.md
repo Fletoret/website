@@ -12,21 +12,18 @@ i ka dhuruar ne fotokopje, këtu e 5-6 vjet perpara, Bibliotekës
 sonë Kombëtare veprën që po përkthejme të Bardhit. Ne faqen e parë
 te saj dhuronjësi ka shënuar këto rrjeshta:
 
-<epigraph>
 
-Për kujtim babajt tim, që me mesoi kangën e Skënderbeut,
+> Për kujtim babajt tim, që me mesoi kangën e Skënderbeut,
 kur isha i vogël, po i fal Bibliotekës Kombëtare në Tiranë këtë
 libër të rrallë, (të) cilin (a) e nxora me fotografi nga
 "Bibl Nationale de Paris". Shtypshkresa e vërtetë ka 38 fletë
 ose 76 faqe, po për me i dhane kesaj kopje nji fytyre të sakët e
 të kthjellët, une e mora faqe për faqe.
 
-Filip K. Kristoforidhi, i larguem prej atdheut që në kohë, kur Shqipnia
+> Filip K. Kristoforidhi, i larguem prej atdheut që në kohë, kur Shqipnia
 ishte ndër thonjt të Turqisë.
 
-Sandillon, Loiret (Francë) 25/6/1951.
-
-</epigraph>
+> Sandillon, Loiret (Francë) 25/6/1951.
 
 
 Me qëllim i riprodhoj keto rrjeshta te dhuronjësit, së

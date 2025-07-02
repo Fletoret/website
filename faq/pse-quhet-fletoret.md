@@ -3,7 +3,7 @@ title: Pse quhet Fletoret?
 order: 1
 ---
 
-[Novelat e qytetit të veriut](/migjeni) janë shkruar në një fletore, 
+[Novelat e qytetit të veriut](/migjeni/novelat-e-qytetit-te-veriut/) janë shkruar në një fletore,
 në kopertinën e së cilës, me germa të mëdha shkruan: <b>QUADERNO</b>.
 Si duket, importohej nga Italia.
 
