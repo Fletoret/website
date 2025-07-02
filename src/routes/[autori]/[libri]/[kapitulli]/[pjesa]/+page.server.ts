@@ -5,9 +5,7 @@ export function load({ url }) {
   const author = getUrlParts(url.pathname)[0];
   const posts = getAllEntries(author);
 
-  const post = posts.filter(
-    (p) => p.relativeUrl === strip(url.pathname, '/'),
-  )[0];
+  const post = posts.find(p => p.relativeUrl === url.pathname.slice(1));
 
   let postBefore;
   let postAfter;

@@ -7,12 +7,13 @@ export function strip(s: string, char: string): string {
   return x;
 }
 
-export function getUrlParts(s: string): string[] {
-  let x = s;
-  if (x.startsWith('/')) x = x.slice(1);
-  if (x.endsWith('/')) x = x.slice(0, x.length - 1);
+export function addTrailingSlash(s: string): string {
+  if (s.endsWith('/')) return s;
+  return s + '/';
+}
 
-  return x.split('/');
+export function getUrlParts(s: string): string[] {
+  return strip(s, '/').split('/');
 }
 
 export async function downloadImage(imageDataUrl: string, filename: string) {

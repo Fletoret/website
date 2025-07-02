@@ -35,7 +35,7 @@ Vetë gjaksorit t'pashpirt, qi mbyti nierin,
 Lugat i duken, n'hikë kahë i bjen nget vorrit,
 Edhè t'perqethet atbotë i shkon nper zêmer.
 
-Po, a. Thue, krejt deka n'asgjâsend t'perpini
+Po, a thue, krejt deka n'asgjâsend t'perpini
 E, posë se do kocijsh, edhe 'i grusht plûhen,
 Nuk t'la tjeter? Jo! N'prêhen t'Amëshuemit
 Pjesa mâ e mira e jotja ká flutrue

@@ -29,6 +29,13 @@
   /* -moz-osx-font-smoothing: grayscale; */
   text-rendering: optimizeLegibility;
   /* -webkit-font-smoothing: subpixel-antialiased; */
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-family: var(--serif-display);
+  }
 }
 
 .post-container strong {
@@ -66,11 +73,8 @@
 }
 
 .post-container blockquote {
-  border-left: solid 2px var(--border-color);
   margin: 0px;
   padding: var(--spacing-md) var(--spacing-xxl);
-  letter-spacing: -0.015em;
-  font-family: var(--sans-serif);
   font-size: var(--text-md);
 }
 

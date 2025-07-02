@@ -34,14 +34,19 @@
   <body data-sveltekit-preload-data="hover">
     <div style="display: contents">%sveltekit.body%</div>
 
+    <!-- Structured Data: Organization -->
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
-        "@type": "LibrarySystem",
+        "@type": "Organization",
         "name": "Fletoret",
-        "url": "https://fletoret.com/",
-        "logo": "https://fletoret.com/favicon/apple-touch-icon.png",
-        "sameAs": "https://twitter.com/FletoretSQ"
+        "url": "https://fletoret.com",
+        "logo": "https://fletoret.com/favicon/android-chrome-512x512.png",
+        "sameAs": [
+          "https://twitter.com/fletoretSQ",
+          "https://reddit.com/r/fletoret",
+          "https://github.com/fletoret"
+        ]
       }
     </script>
 

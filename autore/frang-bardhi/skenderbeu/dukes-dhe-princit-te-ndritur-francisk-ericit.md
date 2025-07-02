@@ -7,8 +7,6 @@ grandparent: null
 order: 2
 ---
 
-<epigraph>
-
 <center>
 
 **DUKES DHE PRINCIT Të NDRITUR, FRANCISK ERICIT**
@@ -20,8 +18,6 @@ si dhe senatit të madhërishëm Venecian (a),
 Epishkop fatlumtur i Sapës dhe i Sardës.
 
 </center>
-
-</epigraph>
 
 
 Princ i ndritur dhe etër të madhërishëm!
