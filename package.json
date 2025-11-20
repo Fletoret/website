@@ -39,7 +39,7 @@
     "@fontsource/crimson-text": "5.2.7",
     "@fontsource/im-fell-english-sc": "5.2.6",
     "@fontsource/instrument-serif": "5.2.8",
-    "glob": "11.1.0",
+    "glob": "13.0.0",
     "html-to-image": "1.11.13",
     "sass": "1.94.2",
     "schema-dts": "1.1.5",
