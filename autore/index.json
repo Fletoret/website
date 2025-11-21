@@ -295,11 +295,52 @@
       }
     ]
   },
-  "mjeda": {
-    "folder": "mjeda",
+  "ndre-mjeda": {
+    "folder": "ndre-mjeda",
     "name": "Ndre Mjeda",
     "description": "",
-    "thumbnail": "/images/ndre-mjeda.avif"
+    "thumbnail": "/images/ndre-mjeda.avif",
+    "progressState": "partial",
+    "author": {
+      "@type": "Person",
+      "givenName": "Ndre",
+      "familyName": "Mjeda",
+      "birthDate": "1866-11-20",
+      "birthPlace": {
+        "@type": "Place",
+        "address": "Shkodër, Albania"
+      },
+      "deathDate": "1937-08-01",
+      "deathPlace": {
+        "@type": "Place",
+        "address": "Shkodër, Albania"
+      },
+      "image": "/images/ndre-mjeda.avif"
+    },
+    "books": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Book",
+        "name": "Juvenilja",
+        "folder": "ndre-mjeda/juvenilja",
+        "genre": "classic",
+        "datePublished": "1917",
+        "thumbnail": "/images/covers/juvenilja-ndre-mjeda.avif",
+        "abstract": "Poezi të zgjedhura nga Ndre Mjeda.",
+        "publishedFletoret": true
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Book",
+        "name": "Lirija",
+        "folder": "ndre-mjeda/lirija",
+        "genre": "classic",
+        "datePublished": "1901-1911",
+        "thumbnail": "/images/covers/lirija-ndre-mjeda.avif",
+        "abstract": "Poezi Ndre Mjeda.",
+        "publishedFletoret": true
+      }
+    ]
   },
   "koliqi": {
     "folder": "koliqi",
