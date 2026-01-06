@@ -41,7 +41,7 @@
     "@fontsource/instrument-serif": "5.2.8",
     "glob": "13.0.0",
     "html-to-image": "1.11.13",
-    "sass": "1.95.1",
+    "sass": "1.97.2",
     "schema-dts": "1.1.5",
     "super-sitemap": "^1.0.3"
   },
