@@ -7,11 +7,13 @@
   import '$lib/css/post.css';
 
   let { data } = $props();
-  let { post, postAfter, authorInfo } = data;
+  let post = $derived(data.post);
+  let postAfter = $derived(data.postAfter);
+  let authorInfo = $derived(data.authorInfo);
 
-  let title = `${post.title}, ${post.grandparent || post.parent} - ${post.author} | ${CONFIG.info.title}`;
+  let title = $derived(`${post.title}, ${post.grandparent || post.parent} - ${post.author} | ${CONFIG.info.title}`);
 
-  const BreadcrumbList = {
+  let BreadcrumbList = $derived({
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
     itemListElement: [
@@ -19,26 +21,33 @@
         '@type': 'ListItem',
         position: 1,
         name: 'Fletoret',
-        item: `${CONFIG.info.base_url}`,
+        item: `${CONFIG.info.base_url}/`,
       },
       {
         '@type': 'ListItem',
-        position: 1,
+        position: 2,
         name: authorInfo?.name,
         item: `${CONFIG.info.base_url}/${authorInfo?.folder}`,
       },
       {
         '@type': 'ListItem',
-        position: 2,
+        position: 3,
+        name: post.bookName,
+        item: post.urlBook,
+      },
+      {
+        '@type': 'ListItem',
+        position: 4,
         name: post.title,
         item: post.url,
       },
     ],
-  };
+  });
 </script>
 
 <svelte:head>
   <title>{title}</title>
+  <link rel="canonical" href={post.url} />
   <meta name="description" content={post.body.slice(0, 250)} />
   <meta name="twitter:description" content={post.body.slice(0, 250)} />
 

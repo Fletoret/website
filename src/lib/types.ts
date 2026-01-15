@@ -2,17 +2,15 @@ import type { Person, Book, WithContext } from 'schema-dts';
 
 export type Post = {
   title: string;
-  subtitle: string;
-  author: string;
-  date: string;
+  subtitle?: string;
+  author?: string;
+  date?: string;
   tags: Array<string>;
-  img: string;
+  img?: string;
   published: boolean;
   respectLineBreaks: boolean;
-  imgWebp: string;
-  thumbnail: string;
-  thumbnailWebp: string;
-  last_update: string;
+  imgWebp?: string;
+  thumbnail?: string;
   body: string;
   parent: string;
   grandparent: string;
@@ -24,19 +22,20 @@ export type Post = {
   urlBook: string;
   html: string;
   previewSnippet?: string;
+  human_date?: string;
+  last_update?: string;
 };
 
 export type BlogPost = {
   title: string;
-  subtitle: string;
+  subtitle?: string;
   author: string;
   date: string;
   tags: Array<string>;
-  img: string;
+  img?: string;
   published: boolean;
-  respectLineBreaks: boolean;
-  imgWebp: string;
-  thumbnail: string;
+  imgWebp?: string;
+  thumbnail?: string;
   last_update: string;
   body: string;
   relativeUrl: string;
@@ -47,8 +46,11 @@ export type BlogPost = {
 
 export type ProgressState = 'complete' | 'partial' | 'missing';
 
-type ExtendedBookType = WithContext<Book> & {
+export type ExtendedBookType = WithContext<Book> & {
   publishedFletoret: boolean;
+  folder: string;
+  thumbnail?: string;
+  thumbnailWebp?: string;
 };
 
 export type Author = {

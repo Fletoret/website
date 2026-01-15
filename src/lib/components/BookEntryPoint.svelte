@@ -1,10 +1,10 @@
 <script lang="ts">
   import TocItemList from '$lib/components/TocItemList.svelte';
+  import type { ExtendedBookType, Post } from '$lib/types';
 
   interface Props {
-    // import type { Author } from '$lib/types';
-    book: any;
-    chapters: any;
+    book: ExtendedBookType;
+    chapters: Record<string, Post[]>;
   }
 
   let { book, chapters }: Props = $props();
@@ -19,7 +19,7 @@
       </div>
     </div>
     <div class="thumbnail">
-      <img src={book.thumbnail} alt="" />
+      <img src={book.thumbnail} alt="{book.name} - kopertina" />
     </div>
   </a>
 

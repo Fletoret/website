@@ -4,7 +4,7 @@ import { format } from 'date-fns/format';
 import { sq } from 'date-fns/locale';
 import frontmatter from 'front-matter';
 import hljs from 'highlight.js';
-import markdown from 'markdown-it';
+import markdown, { type Options as MarkdownItOptions } from 'markdown-it';
 import mdAttrs from 'markdown-it-attrs';
 import mdFootnote from 'markdown-it-footnote';
 import mdImplicitFigures from 'markdown-it-implicit-figures';
@@ -14,12 +14,52 @@ import { addTrailingSlash } from '$lib/utils';
 
 import type { BlogPost, Post, Author } from '$lib/types';
 
+// Frontmatter attribute types
+interface PostFrontmatter {
+  title: string;
+  subtitle?: string;
+  author?: string;
+  date?: string;
+  tags?: string;
+  img?: string;
+  published?: boolean;
+  respectLineBreaks?: boolean;
+  imgWebp?: string;
+  thumbnail?: string;
+  parent: string;
+  grandparent: string;
+  order: number;
+}
+
+interface BlogPostFrontmatter {
+  title: string;
+  subtitle?: string;
+  author: string;
+  date: Date;
+  tags?: string;
+  img?: string;
+  published?: boolean;
+  imgWebp?: string;
+  thumbnail?: string;
+  last_update?: Date;
+}
+
+interface FAQFrontmatter {
+  title: string;
+  order: number;
+}
+
+interface MarkdownParserOptions {
+  respectLineBreaks?: boolean;
+  codeHighlighting?: boolean;
+  latex?: boolean;
+}
+
 function getMarkdownParser({
   respectLineBreaks = true,
   codeHighlighting = true,
-  latex = false,
-}) {
-  const mdconfig = {
+}: MarkdownParserOptions = {}) {
+  const mdconfig: MarkdownItOptions = {
     html: true,
     linkify: false,
     typographer: true,
@@ -27,7 +67,7 @@ function getMarkdownParser({
   };
 
   if (codeHighlighting) {
-    mdconfig.highlight = function (code, language) {
+    mdconfig.highlight = function (code: string, language: string): string {
       if (language && hljs.getLanguage(language)) {
         try {
           return `<pre class="code" data-lang="${language}"><code>${hljs.highlight(code, { language, ignoreIllegals: true }).value}</code></pre>`;
@@ -36,7 +76,7 @@ function getMarkdownParser({
         }
       }
 
-      return `<pre class="code" data-lang="${language}"><code>${md.utils.escapeHtml(code)}</code></pre>`;
+      return `<pre class="code" data-lang="${language}"><code>${markdown().utils.escapeHtml(code)}</code></pre>`;
     };
   }
 
@@ -103,7 +143,7 @@ export function parse(
       order,
     },
     body,
-  } = frontmatter(content);
+  } = frontmatter<PostFrontmatter>(content);
 
   let _parts = [grandparent, parent, title];
   const parts: string[] = [];
@@ -152,7 +192,7 @@ export function parse(
     // Generated metadata
     // human_date: format(date, 'do MMMM yyyy'),
     // last_update: last_update ? format(last_update, 'do MMMM yyyy') : '',
-    bookName: book.name,
+    bookName: String(book.name || ''),
     relativeUrl,
     relativeUrlBook: addTrailingSlash(`${book.folder}`),
     url: `${config.info.base_url}/${relativeUrl}`,
@@ -163,7 +203,7 @@ export function parse(
   };
 
   // Check if mandatory metadata are specified
-  for (const meta of ['title', 'parent', 'grandparent', 'order']) {
+  for (const meta of ['title', 'parent', 'grandparent', 'order'] as const) {
     if (post[meta] === undefined) {
       return;
     }
@@ -183,7 +223,7 @@ export function parseFAQ(content: string) {
   const {
     attributes: { title, order },
     body,
-  } = frontmatter(content);
+  } = frontmatter<FAQFrontmatter>(content);
 
   const md = getMarkdownParser({
     codeHighlighting: false,
@@ -230,7 +270,7 @@ export function parseBlogPost(
       last_update,
     },
     body,
-  } = frontmatter(content);
+  } = frontmatter<BlogPostFrontmatter>(content);
 
   const parts = [prefix];
   if (includeDateInPath) {
@@ -272,20 +312,23 @@ export function parseBlogPost(
       ? format(last_update, 'd MMMM yyyy', { locale: sq })
       : '',
     relativeUrl,
-    url: `${config.info.base_url}/${relativeUrl}`,
+    url: addTrailingSlash(`${config.info.base_url}/${relativeUrl}`),
     // Body
     body,
     html,
   };
 
-  post.date = format(post.date, 'yyyy-MM-dd');
+  const formattedDate = format(date, 'yyyy-MM-dd');
 
   // Check if mandatory metadata are specified
-  for (const meta of ['author', 'date', 'title']) {
+  for (const meta of ['author', 'date', 'title'] as const) {
     if (post[meta] === undefined) {
       return;
     }
   }
+
+  // Update date to formatted string
+  const finalPost: BlogPost = { ...post, date: formattedDate };
 
   // Check if images are specified
   if (img !== undefined) {
@@ -298,5 +341,5 @@ export function parseBlogPost(
     }
   }
 
-  return post;
+  return finalPost;
 }

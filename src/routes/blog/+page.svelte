@@ -1,7 +1,28 @@
 <script lang="ts">
   import '$lib/css/app.css';
+  import CONFIG from '$lib/config';
   let { data } = $props();
 </script>
+
+<svelte:head>
+  <title>Blog | {CONFIG.info.title}</title>
+  <link rel="canonical" href="{CONFIG.info.base_url}/blog/" />
+  <meta name="description" content="Artikuj rreth digjitalizimit të veprave letrare shqipe në domain-in publik." />
+
+  <!-- OG params -->
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="{CONFIG.info.base_url}/blog/" />
+  <meta property="og:title" content="Blog | {CONFIG.info.title}" />
+  <meta property="og:description" content="Artikuj rreth digjitalizimit të veprave letrare shqipe në domain-in publik." />
+  <meta property="og:site_name" content={CONFIG.info.title} />
+  <meta property="og:locale" content="sq_AL" />
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@fletoretSQ" />
+  <meta name="twitter:title" content="Blog | {CONFIG.info.title}" />
+  <meta name="twitter:description" content="Artikuj rreth digjitalizimit të veprave letrare shqipe në domain-in publik." />
+</svelte:head>
 
 <main>
   <div class="container">
