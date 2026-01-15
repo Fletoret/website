@@ -6,9 +6,9 @@
 
   import { domToImage } from '$lib/utils';
   import { fly } from 'svelte/transition';
-  import { onMount } from 'svelte';
+  import { onMount, untrack } from 'svelte';
   let { data } = $props();
-  let { entry } = data;
+  let entry = $derived(data.entry);
 
   let visible = $state(false);
 
@@ -39,9 +39,9 @@
     },
   };
 
-  let quote: string = $state(entry.previewSnippet || '');
+  let quote: string = $state(untrack(() => entry.previewSnippet || ''));
   let author: string = $state(
-    `${entry.title}, ${entry.grandparent || entry.parent}, ${entry.author} | fletoret.com`,
+    untrack(() => `${entry.title}, ${entry.grandparent || entry.parent}, ${entry.author} | fletoret.com`),
   );
   let font = $state(fonts.crimsonText);
   let fontSize = $state('23');
@@ -59,12 +59,12 @@
       <div class="knobs" in:fly>
         <div class="fonts">
           <div class="flex-column">
-            {#each Object.entries(fonts) as [name, definition]}
+            {#each Object.values(fonts) as definition}
               <button
                 class="btn font"
                 style="font-family: var({definition.value});"
                 onclick={() => {
-                  font = fonts[name];
+                  font = definition;
                 }}
               >
                 {definition.name}
@@ -81,9 +81,9 @@
           bind:value={fontSize}
         />
       </div>
-      <div class="btn" onclick={() => (showControls = false)}>→</div>
+      <button class="btn" type="button" onclick={() => (showControls = false)}>→</button>
     {:else}
-      <div class="btn" onclick={() => (showControls = true)}>←</div>
+      <button class="btn" type="button" onclick={() => (showControls = true)}>←</button>
     {/if}
 
     <button class="btn" onclick={handleImgSave}> ⤓ </button>

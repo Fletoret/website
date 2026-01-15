@@ -7,7 +7,7 @@
   }
 
   let { author }: Props = $props();
-  let progressState = author.progressState || 'missing';
+  let progressState = $derived(author.progressState || 'missing');
 </script>
 
 <ImageCardWrapper href="/{author.folder}/" {progressState}>

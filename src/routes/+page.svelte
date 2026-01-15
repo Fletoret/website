@@ -30,7 +30,7 @@
   <meta property="og:description" content={CONFIG.info.misioni} />
   <meta property="og:site_name" content={CONFIG.info.title} />
   <meta property="og:locale" content="sq_AL" />
-  <meta property="og:url" content="https://fletoret.com" />
+  <meta property="og:url" content="https://fletoret.com/" />
   <meta
     property="og:image"
     content="https://fletoret.com/favicon/android-chrome-512x512.png"
@@ -42,7 +42,7 @@
   />
 
   <!-- Canonical -->
-  <link rel="canonical" href="https://fletoret.com" />
+  <link rel="canonical" href="https://fletoret.com/" />
   <link rel="icon" href="/favicon/favicon.ico" sizes="any" />
   <link
     rel="icon"

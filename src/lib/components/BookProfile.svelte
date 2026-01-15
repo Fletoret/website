@@ -1,11 +1,11 @@
 <script lang="ts">
   // import DownloadIcon from "$lib/icons/DownloadIcon.svelte";
-  import type { Author } from '$lib/types';
+  import type { Author, ExtendedBookType } from '$lib/types';
   import BreadcrumbItem from './BreadcrumbItem.svelte';
 
   interface Props {
-    book: any;
-    author: Author;
+    book?: ExtendedBookType;
+    author?: Author;
   }
 
   let { book, author }: Props = $props();
@@ -18,20 +18,20 @@
   ></div>
 
   <div class="card">
-    <img src={book?.thumbnail} loading="lazy" alt="" />
+    <img src={book?.thumbnail} loading="lazy" alt="{book?.name} - kopertina" />
     <div class="content">
       <!-- <div class="book">{book}</div> -->
       <!-- <div class="name">{book.name}</div> -->
     </div>
   </div>
   <div class="book-details">
-    <div class="intro">{book.abstract} Botuar në {book.datePublished}.</div>
+    <div class="intro">{book?.abstract} Botuar në {book?.datePublished}.</div>
     <div class="author-wrapper">
       <BreadcrumbItem
         item={{
-          thumbnail: author.thumbnail,
-          text: author.name,
-          url: author.folder,
+          thumbnail: author?.thumbnail,
+          text: author?.name ?? '',
+          url: author?.folder ?? '',
         }}
       />
     </div>

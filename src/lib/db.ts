@@ -1,4 +1,4 @@
-import fs from 'fs';
+import * as fs from 'fs';
 import { globSync } from 'glob';
 import { parse, parseBlogPost, parseFAQ } from '$lib/markdown';
 import type { Post, BlogPost, FAQ, Author } from '$lib/types';
@@ -16,9 +16,13 @@ const sortedFAQ = (posts: FAQ[]) => {
   });
 };
 
-const groupBy = function (xs, key) {
-  return xs.reduce(function (rv, x) {
-    (rv[x[key]] = rv[x[key]] || []).push(x);
+const groupBy = function <T extends Record<string, unknown>>(
+  xs: T[],
+  key: keyof T,
+): Record<string, T[]> {
+  return xs.reduce(function (rv: Record<string, T[]>, x: T) {
+    const groupKey = String(x[key]);
+    (rv[groupKey] = rv[groupKey] || []).push(x);
     return rv;
   }, {});
 };
@@ -40,7 +44,9 @@ export function getAuthorsIndex(excludeEmpty = false): Map<string, Author> {
     if (entry.books) {
       for (const book of entry.books) {
         book.author = entry.author;
-        book.thumbnailWebp = book.thumbnail.replace('.avif', '.webp');
+        if (book.thumbnail) {
+          book.thumbnailWebp = book.thumbnail.replace('.avif', '.webp');
+        }
       }
     }
 
@@ -70,7 +76,9 @@ export function getAuthorInfo(authorName: string): Author | undefined {
     author.folder = addTrailingSlash(author?.folder || '');
 
     for (const book of author?.books || []) {
-      book.thumbnailWebp = book.thumbnail.replace('.avif', '.webp');
+      if (book.thumbnail) {
+        book.thumbnailWebp = book.thumbnail.replace('.avif', '.webp');
+      }
     }
 
     return author;
@@ -84,6 +92,10 @@ function loadEntriesInFolder(author: string, globPattern: string): Post[] {
   const filepaths = globSync(globPattern);
   const index = getAuthorsIndex();
   const authorIndex = index.get(author);
+
+  if (!authorIndex) {
+    return entries;
+  }
 
   filepaths.forEach((filepath: string) => {
     const content = fs.readFileSync(filepath, 'utf-8');
@@ -105,7 +117,7 @@ export function getAllEntries(author: string): Post[] {
   return entries;
 }
 
-export function getRandomEntry(): Post {
+export function getRandomEntry(): Post | undefined {
   const filepaths = globSync('autore/**/*.md');
   const randomFilePath =
     filepaths[Math.floor(Math.random() * filepaths.length)];
@@ -115,6 +127,10 @@ export function getRandomEntry(): Post {
 
   const index = getAuthorsIndex();
   const authorIndex = index.get(author);
+
+  if (!authorIndex) {
+    return undefined;
+  }
 
   const entry = parse(author, content, randomFilePath, authorIndex);
 
@@ -169,7 +185,9 @@ export const getEntries = (
     const bp = getBookEntries(author, book?.folder.split('/')[1]);
     const bookEntries = sortedPosts(bp);
 
-    book.thumbnailWebp = book.thumbnail.replace('.avif', '.webp');
+    if (book.thumbnail) {
+      book.thumbnailWebp = book.thumbnail.replace('.avif', '.webp');
+    }
 
     if (dropUnusedAttributes) {
       for (const e of bookEntries) {
