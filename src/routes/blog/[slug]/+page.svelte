@@ -5,9 +5,9 @@
   import '$lib/css/blog.css';
 
   let { data } = $props();
-  let { post } = data;
+  let post = $derived(data.post);
 
-  const BreadcrumbList = {
+  let BreadcrumbList = $derived({
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
     itemListElement: [
@@ -15,36 +15,50 @@
         '@type': 'ListItem',
         position: 1,
         name: 'Fletoret',
-        item: `${CONFIG.info.base_url}`,
-      },
-      {
-        '@type': 'ListItem',
-        position: 1,
-        name: 'Blog',
-        item: `${CONFIG.info.base_url}/blog`,
+        item: `${CONFIG.info.base_url}/`,
       },
       {
         '@type': 'ListItem',
         position: 2,
+        name: 'Blog',
+        item: `${CONFIG.info.base_url}/blog/`,
+      },
+      {
+        '@type': 'ListItem',
+        position: 3,
         name: post.title,
         item: post.url,
       },
     ],
-  };
+  });
 </script>
 
 <svelte:head>
   <title>{post.title} - {CONFIG.info.title}</title>
+  <link rel="canonical" href={post.url} />
   <meta name="description" content={post.body.slice(0, 250)} />
 
   <!-- OG params for sharable content -->
-  <meta property="og:type" content="website" />
+  <meta property="og:type" content="article" />
   <meta property="og:url" content={post.url} />
   <meta property="og:title" content={post.title} />
-
-  <meta property="og:description" content="{post.body.slice(0, 250)} ..." />
+  <meta property="og:description" content="{post.body.slice(0, 250)}..." />
   <meta property="og:site_name" content={CONFIG.info.title} />
   <meta property="og:locale" content="sq_AL" />
+  {#if post.img}
+    <meta property="og:image" content="{CONFIG.info.base_url}/{post.imgWebp}" />
+  {/if}
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content={post.img ? 'summary_large_image' : 'summary'} />
+  <meta name="twitter:site" content="@fletoretSQ" />
+  <meta name="twitter:title" content={post.title} />
+  <meta name="twitter:description" content={post.body.slice(0, 250)} />
+  {#if post.img}
+    <meta name="twitter:image" content="{CONFIG.info.base_url}/{post.imgWebp}" />
+  {/if}
+
+  {@html `<script type="application/ld+json"> ${JSON.stringify(BreadcrumbList)} </script>`}
 </svelte:head>
 
 <div class="post-container">

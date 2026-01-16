@@ -5,23 +5,22 @@
   import CONFIG from '$lib/config';
   import '$lib/css/app.css';
   import BookEntryPoint from '$lib/components/BookEntryPoint.svelte';
-  import type { Author } from '$lib/types.js';
+  import type { Author, ExtendedBookType, Post } from '$lib/types.js';
 
   let { data } = $props();
 
-  function generateAuthorDesc() {
+  let author = $derived(data.authorInfo as Author);
+  let bookEntries = $derived(data.books as [ExtendedBookType, Record<string, Post[]>][]);
+
+  let description = $derived.by(() => {
     let desc = `${author?.name} - veprat e plota. `;
     if (author?.books) {
       desc += author.books.map((x) => x.name).join(', ');
     }
     return desc.trimEnd();
-  }
+  });
 
-  const author: Author = data.authorInfo;
-  const description = generateAuthorDesc();
-  const bookEntries = data.books;
-
-  const BreadcrumbList = {
+  let BreadcrumbList = $derived({
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
     itemListElement: [
@@ -29,16 +28,16 @@
         '@type': 'ListItem',
         position: 1,
         name: 'Fletoret',
-        item: `${CONFIG.info.base_url}`,
+        item: `${CONFIG.info.base_url}/`,
       },
       {
         '@type': 'ListItem',
-        position: 1,
+        position: 2,
         name: author?.name,
         item: `${CONFIG.info.base_url}/${author?.folder}`,
       },
     ],
-  };
+  });
 
   // import { generateImageID } from "imagetools-core";
 </script>

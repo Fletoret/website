@@ -2,15 +2,17 @@ export const prerender = true;
 
 import { getAuthorsIndex, getAllEntries, getBookEntries } from '$lib/db';
 import CONFIG from '$lib/config';
+import { addTrailingSlash } from '$lib/utils';
 
 function sitemapUrl(
   relativeUrl: string,
   frequency: string = 'weekly',
   priority: number = 0.7,
 ) {
-  // NOTE: Trailing slash is handled when the relativeUrl is created
+  // Ensure all URLs have trailing slashes to match trailingSlash: 'always' config
+  const urlWithSlash = addTrailingSlash(relativeUrl);
   return `<url>
-  <loc>${CONFIG.info.base_url}/${relativeUrl}</loc>
+  <loc>${CONFIG.info.base_url}/${urlWithSlash}</loc>
   <changefreq>${frequency}</changefreq>
   <priority>${priority}</priority>
 </url>`;

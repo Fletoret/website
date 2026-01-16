@@ -278,14 +278,11 @@ brêz mbas brêzit mjé në shtatë faqe.
 
 §.590. Po duel kapucarî mbas bejet, Pleqt do t'a shqyrtojn mirë e do t'a rnojn pà të ngutun.
 
-§.591. Si të dalë kapucari i mirë, i drejtë e me shêje të sigurta, cubit a gjaksit i brumbullakzohen ne
-derë Pleqt, Katundi, Poronikët e Kapucari, edhè i zbatojn kanûnin atij bèrrêjshmit.
+§.591. Si të dalë kapucari i mirë, i drejtë e me shêje të sigurta, cubit a gjaksit i brumbullakzohen ne derë Pleqt, Katundi, Poronikët e Kapucari, edhè i zbatojn kanûnin atij bèrrêjshmit.
 
-§.592. - Ndeshkînie mbi bérrêjshmin jânë:
-1. do ti lajë të zott të gjàs dy per nji;
+§.592. - Ndeshkime mbi bérrêjshmin jânë:
+1. do të lajë të zott të gjàs dy per nji;
 2. do të lajë kpucët e Kapucarit;
-3. " " " " 100 desh e nji kà, po kje beja më 241 Poronikë, e 500 grosh Derës së Gjomarkut. - Po
-kje beja nen 24 Poronikë, gjoben e mêrr katundi;
+3. 100 desh e nji kà, po kje beja më 241 Poronikë, e 500 grosh Derës së Gjomarkut. - Po kje beja nen 24 Poronikë, gjoben e mêrr katundi;
 4. do të shkojë tê Kisha me u zgidhë prej bés së rrêjshme me gjith Poronikë;
-5. do të lajë kà 500 grosh per krye Poroniku, pse u prini në bé të rrêjshme, tuj dhûnue Kishen. -
-Këto të holla cubi do t'i lajë mbi eltér per Kishë.
+5. do të lajë kà 500 grosh per krye Poroniku, pse u prini në bé të rrêjshme, tuj dhûnue Kishen. - Këto të holla cubi do t'i lajë mbi eltér per Kishë.
