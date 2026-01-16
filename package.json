@@ -10,7 +10,9 @@
     "check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch",
     "webp-to-avif": "magick mogrify -format avif -depth 10 -define heic:speed=2 static/images/**/*.webp",
     "png-to-avif": "magick mogrify -format avif -depth 10 -define heic:speed=2 static/images/**/*.png",
-    "png-to-webp": "magick mogrify -format webp static/images/**/*.png"
+    "png-to-webp": "magick mogrify -format webp static/images/**/*.png",
+    "deploy:production": "npm run build && npx wrangler pages deploy .svelte-kit/cloudflare --project-name=fletoret --branch=main",
+    "deploy:preview": "npm run build && npx wrangler pages deploy .svelte-kit/cloudflare --project-name=fletoret --branch=preview"
   },
   "devDependencies": {
     "@sveltejs/adapter-cloudflare": "7.2.5",
@@ -41,6 +43,7 @@
     "@fontsource/crimson-text": "5.2.7",
     "@fontsource/im-fell-english-sc": "5.2.6",
     "@fontsource/instrument-serif": "5.2.8",
+    "@tabler/icons-svelte": "^3.36.1",
     "glob": "13.0.0",
     "html-to-image": "1.11.13",
     "sass": "1.97.2",
