@@ -1,4 +1,4 @@
-import adapter from '@sveltejs/adapter-static';
+import adapter from '@sveltejs/adapter-cloudflare';
 import { vitePreprocess } from '@sveltejs/vite-plugin-svelte';
 
 /** @type {import('@sveltejs/kit').Config} */
@@ -8,15 +8,15 @@ const config = {
   preprocess: [vitePreprocess()],
 
   kit: {
-    // adapter-auto only supports some environments, see https://kit.svelte.dev/docs/adapter-auto for a list.
-    // If your environment is not supported or you settled on a specific environment, switch out the adapter.
-    // See https://kit.svelte.dev/docs/adapters for more information about adapters.
     adapter: adapter({
-      // default options are shown
-      pages: 'build',
-      assets: 'build',
-      fallback: null,
-      precompress: true,
+      routes: {
+        // Site is fully prerendered, no routes need Cloudflare Functions.
+        // Using a non-matching pattern (/_nonexistent) because:
+        // - include: [] is not allowed (must have at least one route)
+        // - exclude: ['<all>'] expands to 480+ rules, exceeding _routes.json limits
+        include: ['/_nonexistent'],
+        exclude: [],
+      },
     }),
     // inline all stylesheets smaller than 3kb
     inlineStyleThreshold: 3000,

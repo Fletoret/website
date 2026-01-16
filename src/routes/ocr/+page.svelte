@@ -68,7 +68,7 @@
 
   {#each data.content as [imgurl, rows]}
     <div class="flex">
-      <div class="column"><img src={imgurl} loading="lazy" alt="" /></div>
+      <div class="column"><img src={imgurl} loading="lazy" alt="Faqe e skanuar nga libri" /></div>
       <div class="column">
         <div class="content" contenteditable="true" id={imgurl}>
           {#each rows as [row, confidence]}

@@ -5,14 +5,15 @@
   import '$lib/css/app.css';
   import BookProfile from '$lib/components/BookProfile.svelte';
   // import { generateImageID } from "imagetools-core";
-  import type { Author } from '$lib/types.js';
+  import type { Author, ExtendedBookType, Post } from '$lib/types.js';
 
   let { data } = $props();
 
-  const author: Author = data.authorInfo;
-  const book = data.bookInfo;
+  const author = $derived(data.authorInfo as Author | undefined);
+  const book = $derived(data.bookInfo as ExtendedBookType | undefined);
+  const chapters = $derived(data.chapters as Record<string, Post[]>);
 
-  const BreadcrumbList = {
+  const BreadcrumbList = $derived({
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
     itemListElement: [
@@ -20,42 +21,48 @@
         '@type': 'ListItem',
         position: 1,
         name: 'Fletoret',
-        item: `${CONFIG.info.base_url}`,
+        item: `${CONFIG.info.base_url}/`,
       },
       {
         '@type': 'ListItem',
-        position: 1,
+        position: 2,
         name: author?.name,
         item: `${CONFIG.info.base_url}/${author?.folder}`,
       },
+      {
+        '@type': 'ListItem',
+        position: 3,
+        name: book?.name,
+        item: `${CONFIG.info.base_url}/${book?.folder}/`,
+      },
     ],
-  };
+  });
 
-  const serpDescription = `${book?.abstract} Botuar në ${book?.datePublished}.`;
+  const serpDescription = $derived(
+    `${book?.abstract} Botuar në ${book?.datePublished}.`,
+  );
 </script>
 
 <svelte:head>
-  <title>{book?.name}, {author.name} | {CONFIG.info.title}</title>
+  <title>{book?.name}, {author?.name} | {CONFIG.info.title}</title>
+  <link rel="canonical" href="{CONFIG.info.base_url}/{book?.folder}/" />
   <meta name="description" content={serpDescription} />
   <meta name="twitter:description" content={serpDescription} />
 
   <!--twitter important OG data-->
   <meta
     name="twitter:title"
-    content="{book?.name}, {author.name} | {CONFIG.info.title}"
+    content="{book?.name}, {author?.name} | {CONFIG.info.title}"
   />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="@fletoretSQ" />
 
-  <meta property="og:image:width" content="280" />
-  <meta property="og:image:height" content="150" />
-
   <!-- OG params for sharable content -->
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="/{author?.folder}" />
+  <meta property="og:url" content="{CONFIG.info.base_url}/{book?.folder}/" />
   <meta
     property="og:title"
-    content={`${book?.name}, {author.name} | ${CONFIG.info.title}`}
+    content={`${book?.name}, ${author?.name} | ${CONFIG.info.title}`}
   />
   {#if book?.thumbnail}
     <meta
@@ -89,12 +96,12 @@
   </aside>
   <div id="content">
     <h1>{book?.name}</h1>
-    {#each Object.entries(data.chapters) as [chapter, entry], idx}
+    {#each Object.entries(chapters) as [chapter, entry], idx}
       <TocItemList
         header={chapter}
         entries={entry}
         chapterIdx={idx + 1}
-        showHeader={Object.entries(data.chapters).length > 1}
+        showHeader={Object.entries(chapters).length > 1}
       />
     {/each}
   </div>

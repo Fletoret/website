@@ -1,12 +1,13 @@
 import { sveltekit } from '@sveltejs/kit/vite';
+import type { Plugin, HmrContext } from 'vite';
 // import { imagetools } from 'vite-imagetools';
 
-function ReloadOnContentChangePlugin() {
+function ReloadOnContentChangePlugin(): Plugin {
   return {
     name: 'reload-content-change',
     enforce: 'post',
     // HMR
-    handleHotUpdate({ file, server }) {
+    handleHotUpdate({ file, server }: HmrContext) {
       if (file.endsWith('.md')) {
         console.log(`${file} update ...`);
         server.ws.send({
