@@ -46,7 +46,7 @@
     "@tabler/icons-svelte": "^3.36.1",
     "glob": "13.0.0",
     "html-to-image": "1.11.13",
-    "sass": "1.97.2",
+    "sass": "1.97.3",
     "schema-dts": "1.1.5",
     "super-sitemap": "^1.0.3"
   },
