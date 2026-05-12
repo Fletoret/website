@@ -44,7 +44,7 @@
     "@fontsource/im-fell-english-sc": "5.2.6",
     "@fontsource/instrument-serif": "5.2.8",
     "@tabler/icons-svelte": "^3.36.1",
-    "glob": "13.0.0",
+    "glob": "13.0.6",
     "html-to-image": "1.11.13",
     "sass": "1.97.2",
     "schema-dts": "1.1.5",
