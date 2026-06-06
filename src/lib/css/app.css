@@ -20,7 +20,9 @@ https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/
   --sans-serif-display: 'InterVariable', sans-serif;
   --serif: Georgia, Charter, serif;
   --serif-display: 'Instrument Serif', Georgia, Charter, serif;
-  --mono-font: monospace;
+  --mono-font:
+    ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono',
+    monospace;
   --font-feature-settings: 'kern' 1, 'liga' 1, 'calt' 1;
 
   --text-sm: 0.8rem;
