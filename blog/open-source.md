@@ -40,6 +40,5 @@ janë disa nga gjërat që mund të bësh:
 * Për të diskutuar rreth nismës, ose për t'u angazhuar, bëhu pjesë e komunitetit në [reddit.com/r/fletoret](https://reddit.com/r/fletoret).
 
 
-### Shënime
 [^1]: Themeluar në 11 Nëntor 2023
 [^2]: Sipas ligjit: [Nr. 35/2016: Për të drejtat e autorit dhe të drejtat e tjera të lidhura me to](/ligji-35-2016.pdf)
