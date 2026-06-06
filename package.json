@@ -37,6 +37,17 @@
     "wrangler": "4.98.0"
   },
   "type": "module",
+  "overrides": {
+    "micromatch": {
+      "picomatch": "2.3.2"
+    },
+    "fdir": {
+      "picomatch": "4.0.4"
+    },
+    "@sveltejs/kit": {
+      "cookie": "0.7.2"
+    }
+  },
   "dependencies": {
     "@fontsource/alegreya-sans-sc": "5.2.7",
     "@fontsource/alegreya-sc": "5.2.8",
