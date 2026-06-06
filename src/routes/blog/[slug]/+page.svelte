@@ -50,25 +50,44 @@
   {/if}
 
   <!-- Twitter -->
-  <meta name="twitter:card" content={post.img ? 'summary_large_image' : 'summary'} />
+  <meta
+    name="twitter:card"
+    content={post.img ? 'summary_large_image' : 'summary'}
+  />
   <meta name="twitter:site" content="@fletoretSQ" />
   <meta name="twitter:title" content={post.title} />
   <meta name="twitter:description" content={post.body.slice(0, 250)} />
   {#if post.img}
-    <meta name="twitter:image" content="{CONFIG.info.base_url}/{post.imgWebp}" />
+    <meta
+      name="twitter:image"
+      content="{CONFIG.info.base_url}/{post.imgWebp}"
+    />
   {/if}
 
   {@html `<script type="application/ld+json"> ${JSON.stringify(BreadcrumbList)} </script>`}
 </svelte:head>
 
-<div class="post-container">
-  <div class="post-header">
+<article class="post-container">
+  <header class="post-header">
+    {#if post.tags && post.tags.length}
+      <p class="post-eyebrow">{post.tags.join(' · ')}</p>
+    {/if}
     <h1 class="post-title">{post.title}</h1>
     {#if post.subtitle}
       <p class="post-subtitle">{post.subtitle}</p>
     {/if}
-  </div>
-</div>
+    {#if post.author || post.human_date}
+      <div class="post-byline">
+        {#if post.author}<span class="byline-author">Nga {post.author}</span
+          >{/if}
+        {#if post.author && post.human_date}<span class="byline-sep">·</span
+          >{/if}
+        {#if post.human_date}<time class="byline-date">{post.human_date}</time
+          >{/if}
+      </div>
+    {/if}
+  </header>
+</article>
 
 {#if post.img}
   <picture class="header-img">
@@ -88,20 +107,12 @@
 {/if}
 
 <!-- https://kit.svelte.dev/docs/link-options -->
-<div class="post-container" data-sveltekit-reload>
-  <div class="post-header">
-    {#if post.human_date}
-      <div class="meta-time">
-        <p class="post-meta-time">{post.human_date}</p>
-      </div>
-    {/if}
+<article class="post-container" data-sveltekit-reload>
+  <div class="post-body">{@html post.html}</div>
 
-    <div class="post-body">{@html post.html}</div>
-
-    {#if post.last_update}
-      <p class="last-updated">
-        Last updated on {post.last_update}
-      </p>
-    {/if}
-  </div>
-</div>
+  {#if post.last_update}
+    <p class="last-updated">
+      Last updated on {post.last_update}
+    </p>
+  {/if}
+</article>

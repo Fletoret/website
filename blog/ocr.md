@@ -255,8 +255,6 @@ lexuesit :)
 <br>
 <br>
 
-### Referenca:
-
 [^1]: Sipas ligjit: Nr. 35/2016: Për të drejtat e autorit dhe të drejtat e tjera të lidhura me to, veprat e të gjithë shkrimtarëve që kanë vdekur para 70 vitesh, janë pasuri publike (në domain-in publik). - [kultura.gov.al](https://kultura.gov.al/e-drejta-e-autorit/)
 [^2]:
     International Image
