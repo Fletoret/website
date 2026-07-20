@@ -39,10 +39,10 @@
   "type": "module",
   "overrides": {
     "micromatch": {
-      "picomatch": "2.3.2"
+      "picomatch": "4.0.5"
     },
     "fdir": {
-      "picomatch": "4.0.4"
+      "picomatch": "4.0.5"
     },
     "@sveltejs/kit": {
       "cookie": "0.7.2"
