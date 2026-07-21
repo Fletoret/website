@@ -45,7 +45,7 @@
       "picomatch": "4.0.5"
     },
     "@sveltejs/kit": {
-      "cookie": "0.7.2"
+      "cookie": "2.0.1"
     }
   },
   "dependencies": {
