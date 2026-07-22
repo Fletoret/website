@@ -25,7 +25,7 @@
 
   <!-- Twitter -->
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:site" content="@fletoretSQ" />
+  <meta name="twitter:site" content="@FletoretSQ" />
   <meta name="twitter:title" content="Blog | {CONFIG.info.title}" />
   <meta
     name="twitter:description"
@@ -46,16 +46,8 @@
     <div class="posts">
       {#each data.posts as post}
         <a class="post" href="/{post.relativeUrl}">
+          {#if post.human_date}<time class="date">{post.human_date}</time>{/if}
           <h2 class="title">{post.title}</h2>
-          {#if post.subtitle}
-            <p class="subtitle">{post.subtitle}</p>
-          {/if}
-          <div class="meta">
-            {#if post.author}<span class="author">{post.author}</span>{/if}
-            {#if post.author && post.human_date}<span class="dot">·</span>{/if}
-            {#if post.human_date}<time class="date">{post.human_date}</time
-              >{/if}
-          </div>
         </a>
       {/each}
     </div>
@@ -66,7 +58,7 @@
   .container {
     margin: 0 auto;
     padding: calc(2 * var(--spacing-xxl)) var(--spacing-xl) var(--spacing-2xxl);
-    max-width: 720px;
+    max-width: 660px;
     width: 100%;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -77,22 +69,23 @@
   }
 
   .page-title {
-    font-family: var(--sans-serif);
-    font-size: clamp(2rem, 1.4rem + 2.4vw, 2.75rem);
+    font-family: var(--serif-display);
+    font-size: 2.4rem;
     font-weight: 600;
-    letter-spacing: -0.022em;
+    letter-spacing: 0;
     line-height: 1.1;
-    font-variation-settings: 'opsz' 32;
     color: var(--text-primary);
-    margin: 0 0 var(--spacing-md);
+    margin: 0 0 var(--spacing-sm);
   }
 
   .page-desc {
+    font-family: var(--serif);
     color: var(--text-secondary);
-    font-size: 1.15rem;
+    font-size: var(--text-md);
     line-height: 1.5;
-    letter-spacing: -0.011em;
-    max-width: 48ch;
+    letter-spacing: 0;
+    text-wrap: pretty;
+    max-width: 42ch;
     margin: 0;
   }
 
@@ -102,47 +95,40 @@
   }
 
   .post {
-    display: block;
+    display: grid;
+    grid-template-columns: 8.5rem 1fr;
+    gap: var(--spacing-xl);
+    align-items: baseline;
     width: 100%;
-    padding: var(--spacing-xxl) 0;
+    padding: var(--spacing-xl) 0;
     border-top: 1px solid var(--border-color);
-    transition: opacity 0.15s ease;
   }
   .post:last-child {
     border-bottom: 1px solid var(--border-color);
   }
 
-  .post .title {
+  .post .date {
     font-family: var(--sans-serif);
-    font-size: var(--text-lg2);
-    font-weight: 600;
-    line-height: 1.25;
-    letter-spacing: -0.018em;
+    font-size: var(--text-sm);
+    line-height: 1.6;
+    color: var(--text-secondary);
+    white-space: nowrap;
+  }
+
+  .post .title {
+    font-family: var(--serif);
+    font-size: 1.15rem;
+    font-weight: 400;
+    line-height: 1.4;
+    letter-spacing: 0;
     color: var(--text-primary);
-    margin: 0 0 var(--spacing-md);
+    margin: 0;
+    text-wrap: pretty;
     transition: color 0.15s ease;
   }
 
-  .post .subtitle {
-    font-size: var(--text-md);
-    line-height: 1.5;
-    color: var(--text-secondary);
-    margin: 0 0 var(--spacing-lg);
-  }
-
-  .post .meta {
-    display: flex;
-    align-items: center;
-    gap: var(--spacing-md);
-    font-size: var(--text-sm);
-    color: var(--text-secondary);
-  }
-  .post .meta .dot {
-    opacity: 0.6;
-  }
-
   .post:hover .title {
-    color: var(--link-primary);
+    color: var(--text-secondary);
   }
 
   @media (max-width: 600px) {
@@ -150,7 +136,15 @@
       padding: var(--spacing-2xxl) var(--spacing-xxl) var(--spacing-2xxl);
     }
     .post {
-      padding: var(--spacing-xl) 0;
+      grid-template-columns: 1fr;
+      gap: var(--spacing-sm);
+      padding: var(--spacing-lg) 0;
+    }
+    .post .date {
+      order: 2;
+    }
+    .post .title {
+      order: 1;
     }
   }
 </style>

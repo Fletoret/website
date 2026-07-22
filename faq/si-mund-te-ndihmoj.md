@@ -4,7 +4,7 @@ order: 2
 ---
 
 Qëllimi i nismës është të dixhitalizojë veprat e shkrimtarëve që
-janë në domain-in publik. Çdokush mund të ndihmojë. Më poshtë
+janë në domenin publik. Çdokush mund të ndihmojë. Më poshtë
 janë disa nga gjërat që mund të bësh.
 
 * Rregullo gabime në përmbajtjen ekzistuese në [fletoret.com](fletoret.com).

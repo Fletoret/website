@@ -53,7 +53,7 @@
   <!--twitter important OG data-->
   <meta name="twitter:title" content="{author?.name} | {CONFIG.info.title}" />
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:site" content="@fletoretSQ" />
+  <meta name="twitter:site" content="@FletoretSQ" />
 
   <!-- OG params for sharable content -->
   <meta property="og:type" content="website" />
@@ -67,6 +67,7 @@
       property="og:image"
       content="{CONFIG.info.base_url}{author.thumbnailWebp}"
     />
+    <meta property="og:image:alt" content={author?.name} />
     <meta
       name="twitter:image"
       content="{CONFIG.info.base_url}{author?.thumbnailWebp}"

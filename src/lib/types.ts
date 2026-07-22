@@ -21,6 +21,7 @@ export type Post = {
   url: string;
   urlBook: string;
   html: string;
+  editorNotes?: Record<string, string>;
   previewSnippet?: string;
   human_date?: string;
   last_update?: string;

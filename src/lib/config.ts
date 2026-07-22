@@ -5,7 +5,7 @@ export default {
     serp_title: 'Fletoret - Vepra letrare dixhitale, publike në shqip',
     description: 'Nisma e dixhitalizimit të veprave letrare në shqip.',
     misioni:
-      'Nisma e dixhitalizimit të veprave letrare në shqip, që janë në domain-in publik. Të plota, falas, kontribuar nga vullnetarë.',
+      'Nisma e dixhitalizimit të veprave letrare në shqip. Të plota, falas, kontribuar nga vullnetarë.',
   },
   social: {
     reddit: { url: 'https://www.reddit.com/r/fletoret/', handle: 'r/fletoret' },
