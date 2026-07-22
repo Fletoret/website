@@ -2,5 +2,12 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
     "config:recommended"
+  ],
+  "packageRules": [
+    {
+      "matchPackageNames": ["cookie"],
+      "allowedVersions": "<1.0.0",
+      "description": "Cap cookie to the 0.x line: SvelteKit imports { parse, serialize } from 'cookie', which cookie v1+ renamed to parseCookie/stringifyCookie. Remove this cap once @sveltejs/kit adopts the new API."
+    }
   ]
 }
