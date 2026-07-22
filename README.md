@@ -13,7 +13,7 @@
   <a href="https://www.reddit.com/r/fletoret/">🌟 Reddit</a> &nbsp;|&nbsp;
   <a href="https://twitter.com/FletoretSQ">🌟 X</a> &nbsp;|&nbsp;
   <br><br>
-  <p>Nisma e dixhitalizimit të veprave letrare në shqip, që janë në domain-in publik. <br>
+  <p>Nisma e dixhitalizimit të veprave letrare në shqip, që janë në domenin publik. <br>
     Të plota, falas, kontribuar nga vullnetarë.</p>
 
 </div>
@@ -23,7 +23,7 @@
 
 ## Si mund të ndihmoj?
 
-Qëllimi i nismës është të dixhitalizojë veprat e shkrimtarëve që janë në domain-in publik. Çdokush mund të ndihmojë. Më poshtë janë disa nga gjërat që mund të bësh.
+Qëllimi i nismës është të dixhitalizojë veprat e shkrimtarëve që janë në domenin publik. Çdokush mund të ndihmojë. Më poshtë janë disa nga gjërat që mund të bësh.
 
 * Rregullo gabime në përmbajtjen ekzistuese në fletoret.com.
 * Dërgo vepra që mungojne nga shkrimtarët e listuar në website.

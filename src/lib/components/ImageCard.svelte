@@ -72,7 +72,7 @@
     height: 60%;
     border-bottom-left-radius: inherit;
     border-bottom-right-radius: inherit;
-    background: linear-gradient(to top, #000000c4 20%, #00000000);
+    background: linear-gradient(to top, rgba(26, 20, 12, 0.82) 18%, rgba(26, 20, 12, 0));
     display: flex;
     flex-direction: column;
     justify-content: end;

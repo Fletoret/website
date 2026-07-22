@@ -8,11 +8,15 @@
     "preview": "vite preview",
     "check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
     "check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch",
+    "wrap": "node scripts/wrap-md.mjs",
     "webp-to-avif": "magick mogrify -format avif -depth 10 -define heic:speed=2 static/images/**/*.webp",
     "png-to-avif": "magick mogrify -format avif -depth 10 -define heic:speed=2 static/images/**/*.png",
     "png-to-webp": "magick mogrify -format webp static/images/**/*.png",
+    "deploy": "npm run deploy:production",
     "deploy:production": "npm run build && npx wrangler pages deploy .svelte-kit/cloudflare --project-name=fletoret --branch=main",
-    "deploy:preview": "npm run build && npx wrangler pages deploy .svelte-kit/cloudflare --project-name=fletoret --branch=preview"
+    "deploy:preview": "npm run build && npx wrangler pages deploy .svelte-kit/cloudflare --project-name=fletoret --branch=preview",
+    "cf:login": "npx wrangler login",
+    "cf:whoami": "npx wrangler whoami"
   },
   "devDependencies": {
     "@sveltejs/adapter-cloudflare": "7.2.9",
@@ -34,7 +38,7 @@
     "tslib": "2.8.1",
     "typescript": "5.9.3",
     "vite": "7.3.5",
-    "wrangler": "4.98.0"
+    "wrangler": "4.112.0"
   },
   "type": "module",
   "overrides": {
@@ -49,6 +53,7 @@
     }
   },
   "dependencies": {
+    "@fontsource-variable/source-serif-4": "^5.3.0",
     "@fontsource/alegreya-sans-sc": "5.2.7",
     "@fontsource/alegreya-sc": "5.2.8",
     "@fontsource/crimson-text": "5.2.7",

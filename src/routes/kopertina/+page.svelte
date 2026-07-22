@@ -105,6 +105,16 @@
   }
 </script>
 
+<svelte:head>
+  <title>Krijo kopertina — gjenerator kopertinash | Fletoret</title>
+  <link rel="canonical" href="https://fletoret.com/kopertina/" />
+  <meta
+    name="description"
+    content="Krijo kopertina librash për veprat letrare shqipe me gjeneratorin e Fletoret."
+  />
+  <meta name="robots" content="noindex, follow" />
+</svelte:head>
+
 <Header />
 
 <main>

@@ -1,5 +1,7 @@
 import config from '$lib/config';
 
+import * as fs from 'fs';
+import * as path from 'path';
 import { format } from 'date-fns/format';
 import { sq } from 'date-fns/locale';
 import frontmatter from 'front-matter';
@@ -11,6 +13,7 @@ import mdImplicitFigures from 'markdown-it-implicit-figures';
 import mdLinkAttributes from 'markdown-it-link-attributes';
 import slugify from 'slugify';
 import { addTrailingSlash } from '$lib/utils';
+import { editorNotesPlugin, parseEditorNotesFile } from '$lib/markdown-editor-notes';
 
 import type { BlogPost, Post, Author } from '$lib/types';
 
@@ -53,11 +56,13 @@ interface MarkdownParserOptions {
   respectLineBreaks?: boolean;
   codeHighlighting?: boolean;
   latex?: boolean;
+  editorNoteIds?: Set<string>;
 }
 
 function getMarkdownParser({
   respectLineBreaks = true,
   codeHighlighting = true,
+  editorNoteIds,
 }: MarkdownParserOptions = {}) {
   const mdconfig: MarkdownItOptions = {
     html: true,
@@ -95,9 +100,30 @@ function getMarkdownParser({
     .use(mdImplicitFigures, {
       figcaption: true,
       link: true,
-    });
+    })
+    .use(editorNotesPlugin, editorNoteIds ?? new Set());
 
   return parser;
+}
+
+/**
+ * Looks for a sibling "shenimet.md" (editor's notes) next to the given
+ * chapter file and, if present, parses it into a map of note id -> HTML.
+ */
+function loadEditorNotes(filepath: string): Record<string, string> {
+  const notesPath = path.join(path.dirname(filepath), 'shenimet.md');
+
+  if (!fs.existsSync(notesPath)) {
+    return {};
+  }
+
+  const { body } = frontmatter(fs.readFileSync(notesPath, 'utf-8'));
+  const notesRenderer = getMarkdownParser({
+    codeHighlighting: false,
+    respectLineBreaks: false,
+  });
+
+  return parseEditorNotesFile(body, notesRenderer);
 }
 
 /**
@@ -159,10 +185,13 @@ export function parse(
 
   const relativeUrl = addTrailingSlash(`${authorFolder}/${parts.join('/')}`);
 
+  const editorNotes = loadEditorNotes(filepath);
+
   const md = getMarkdownParser({
     codeHighlighting: false,
     respectLineBreaks: respectLineBreaks,
     latex: false,
+    editorNoteIds: new Set(Object.keys(editorNotes)),
   });
 
   slugify.extend({
@@ -200,6 +229,7 @@ export function parse(
     // Body
     body,
     html,
+    editorNotes,
   };
 
   // Check if mandatory metadata are specified

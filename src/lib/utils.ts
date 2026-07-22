@@ -7,6 +7,31 @@ export function strip(s: string, char: string): string {
   return x;
 }
 
+/**
+ * Turn raw markdown into a clean, single-line snippet suitable for a
+ * <meta name="description"> / og:description. Strips common markdown syntax,
+ * collapses whitespace and trims to `maxLen` on a word boundary.
+ */
+export function stripMarkdown(s: string, maxLen = 160): string {
+  let text = (s || '')
+    .replace(/```[\s\S]*?```/g, ' ') // fenced code blocks
+    .replace(/!\[[^\]]*\]\([^)]*\)/g, ' ') // images
+    .replace(/\[([^\]]+)\]\([^)]*\)/g, '$1') // links -> text
+    .replace(/^\s{0,3}#{1,6}\s+/gm, '') // headings
+    .replace(/^\s{0,3}>\s?/gm, '') // blockquotes
+    .replace(/^\s*[-*+]\s+/gm, '') // list bullets
+    .replace(/\[\^[^\]]+\]/g, '') // footnote refs
+    .replace(/[*_~`#]+/g, '') // emphasis / inline code marks
+    .replace(/\s+/g, ' ') // collapse whitespace
+    .trim();
+
+  if (text.length <= maxLen) return text;
+
+  const truncated = text.slice(0, maxLen);
+  const lastSpace = truncated.lastIndexOf(' ');
+  return (lastSpace > 0 ? truncated.slice(0, lastSpace) : truncated).trimEnd() + '…';
+}
+
 export function addTrailingSlash(s: string): string {
   if (s.endsWith('/')) return s;
   return s + '/';

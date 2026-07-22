@@ -1,15 +1,30 @@
 <script lang="ts">
   import BookFooter from '$lib/components/BookFooter.svelte';
   import Breadcrumbs from '$lib/components/Breadcrumbs.svelte';
+  import EditorNoteSheet from '$lib/components/EditorNoteSheet.svelte';
   import ReadNext from '$lib/components/ReadNext.svelte';
   import CONFIG from '$lib/config';
+  import { stripMarkdown } from '$lib/utils';
   import '$lib/css/app.css';
-  import '$lib/css/post.css';
+  import '$lib/css/blog.css';
 
   let { data } = $props();
   let post = $derived(data.post);
   let postAfter = $derived(data.postAfter);
   let authorInfo = $derived(data.authorInfo);
+
+  let description = $derived(stripMarkdown(post.body, 160));
+
+  let openNoteId: string | null = $state(null);
+
+  function handlePostBodyClick(e: MouseEvent) {
+    const target = e.target as HTMLElement;
+    const noteRef = target.closest<HTMLElement>('.editor-note-ref');
+
+    if (noteRef?.dataset.noteId) {
+      openNoteId = noteRef.dataset.noteId;
+    }
+  }
 
   let title = $derived(`${post.title}, ${post.grandparent || post.parent} - ${post.author} | ${CONFIG.info.title}`);
 
@@ -43,21 +58,43 @@
       },
     ],
   });
+
+  let ArticleSchema = $derived({
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: post.title,
+    description,
+    inLanguage: 'sq',
+    author: authorInfo?.name
+      ? { '@type': 'Person', name: authorInfo.name }
+      : undefined,
+    publisher: {
+      '@type': 'Organization',
+      name: CONFIG.info.title,
+      url: `${CONFIG.info.base_url}/`,
+    },
+    isPartOf: post.bookName
+      ? { '@type': 'Book', name: post.bookName, url: post.urlBook }
+      : undefined,
+    url: post.url,
+    mainEntityOfPage: post.url,
+    ...(post.img ? { image: `${CONFIG.info.base_url}/${post.img}` } : {}),
+  });
 </script>
 
 <svelte:head>
   <title>{title}</title>
   <link rel="canonical" href={post.url} />
-  <meta name="description" content={post.body.slice(0, 250)} />
-  <meta name="twitter:description" content={post.body.slice(0, 250)} />
+  <meta name="description" content={description} />
+  <meta name="twitter:description" content={description} />
 
   <!--twitter important OG data-->
   <meta name="twitter:title" content={title} />
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:site" content="@fletoretSQ" />
+  <meta name="twitter:site" content="@FletoretSQ" />
 
   <!-- OG params for sharable content -->
-  <meta property="og:type" content="website" />
+  <meta property="og:type" content="article" />
   <meta property="og:url" content={post.url} />
   <meta property="og:title" content={title} />
   {#if authorInfo?.thumbnail}
@@ -65,17 +102,21 @@
       property="og:image"
       content="{CONFIG.info.base_url}{authorInfo?.thumbnailWebp}"
     />
+    <meta property="og:image:alt" content={authorInfo?.name} />
     <meta
       name="twitter:image"
       content="{CONFIG.info.base_url}{authorInfo?.thumbnailWebp}"
     />
   {/if}
-  <meta property="og:description" content="{post.body.slice(0, 250)} ..." />
+  <meta property="og:description" content={description} />
   <meta property="og:site_name" content={CONFIG.info.title} />
   <meta property="og:locale" content="sq_AL" />
 
   {@html `<script type="application/ld+json"> ${JSON.stringify(
     BreadcrumbList,
+  )} </script>`}
+  {@html `<script type="application/ld+json"> ${JSON.stringify(
+    ArticleSchema,
   )} </script>`}
 </svelte:head>
 
@@ -110,7 +151,7 @@
       class="img-fit-contain"
       src="/{post.img}"
       alt={post.title}
-      loading="lazy"
+      fetchpriority="high"
     />
   </picture>
 {:else}
@@ -126,7 +167,9 @@
       </div>
     {/if}
 
-    <div class="post-body">{@html post.html}</div>
+    <!-- svelte-ignore a11y_click_events_have_key_events -->
+    <!-- svelte-ignore a11y_no_static_element_interactions -->
+    <div class="post-body" onclick={handlePostBodyClick}>{@html post.html}</div>
 
     {#if post.last_update}
       <p class="last-updated">
@@ -139,3 +182,9 @@
 </div>
 
 <BookFooter />
+
+<EditorNoteSheet
+  noteId={openNoteId}
+  html={openNoteId ? post.editorNotes?.[openNoteId] : undefined}
+  onClose={() => (openNoteId = null)}
+/>

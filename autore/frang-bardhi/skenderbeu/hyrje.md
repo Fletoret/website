@@ -111,7 +111,7 @@ shqyrtojmë me kujdesin dhe vemëndjen më të madhe, pa
 u shpërndare në shume dreitime, duke patur, sigurisht,
 më tepër parasysh të vërtetën se sa atdheun". (shiko shënimin nr.149).
 Kjo tregon se Bardhi nuk do t'i shërbeië atdheut ne baza të rreme,
-t'i jape atij atë që s'i perket, por as që lejon t'i rrembejne ate që i takon. Ne këtë mënyrë ai
+t'i japë atij atë që s'i perket, por as që lejon t'i rrembejne ate që i takon. Ne këtë mënyrë ai
 e mbron edhe më me forcë atdheun e tij, sepse e drejta është e pamposhtur,
 ajo gjithmone triumfon. Dhe figura e këtij shqiptari epishkop,
 që me shkopin epishkopal në dorë
@@ -342,8 +342,14 @@ Prof. S. Prifti
 
 
 
+<center>
 
+Redaktor N. JORGAQI
+Redaktor teknik J. GJINO
+Korektor letrar H. KOKALARI
+Kopertina ngo H. AGOLLI:
 
+</center>
 
 
 
