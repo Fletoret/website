@@ -1,7 +1,7 @@
 ---
 title: Fletoret - Open Source
 subtitle: Hapja e plotë e përmbajtjes dhe kodit tek fletoret.com
-author: Nush Motmoti
+author: Editori
 date: 2024-10-21
 tags: github, open-source
 published: true
@@ -31,7 +31,7 @@ me pak fjalë liçensa e zgjedhur, e plotë këtu: [CC-BY-4.0](https://github.co
 ### Si mund të ndihmoj unë?
 
 Qëllimi i nismës është të dixhitalizojë veprat e shkrimtarëve
-që janë në domain-in publik[^2]. Çdokush mund të ndihmojë. Më poshtë
+që janë në domenin publik[^2]. Çdokush mund të ndihmojë. Më poshtë
 janë disa nga gjërat që mund të bësh:
 
 * Rregullo gabime në përmbajtjen ekzistuese në [fletoret.com](https://fletoret.com).

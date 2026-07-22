@@ -34,6 +34,16 @@
   }
 </script>
 
+<svelte:head>
+  <title>OCR — teksti i skanuar | Fletoret</title>
+  <link rel="canonical" href="https://fletoret.com/ocr/" />
+  <meta
+    name="description"
+    content="Krahasimi i faqeve të skanuara me tekstin e gjeneruar automatikisht (OCR) gjatë digjitalizimit."
+  />
+  <meta name="robots" content="noindex, follow" />
+</svelte:head>
+
 <Header />
 
 <main>

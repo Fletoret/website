@@ -1,7 +1,7 @@
 ---
 title: Biblioteka Dixhitale
 subtitle: Burim materiali dhe aventura në tekst
-author: Nush Motmoti
+author: Editori
 date: 2023-12-26
 tags: lexim, programim
 thumbnail:

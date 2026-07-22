@@ -3,6 +3,7 @@ import { globSync } from 'glob';
 import { parse, parseBlogPost, parseFAQ } from '$lib/markdown';
 import type { Post, BlogPost, FAQ, Author } from '$lib/types';
 import { addTrailingSlash } from '$lib/utils';
+import CONFIG from '$lib/config';
 
 const sortedPosts = (posts: Post[]) => {
   return posts.sort(function (a: Post, b: Post) {
@@ -44,6 +45,10 @@ export function getAuthorsIndex(excludeEmpty = false): Map<string, Author> {
     if (entry.books) {
       for (const book of entry.books) {
         book.author = entry.author;
+        book.inLanguage = 'sq';
+        if (book.folder) {
+          book.url = addTrailingSlash(`${CONFIG.info.base_url}/${book.folder}`);
+        }
         if (book.thumbnail) {
           book.thumbnailWebp = book.thumbnail.replace('.avif', '.webp');
         }

@@ -216,6 +216,29 @@
   });
 </script>
 
+<svelte:head>
+  <title>Copëza — citate nga letërsia shqipe | Fletoret</title>
+  <link rel="canonical" href="https://fletoret.com/copeza/" />
+  <meta
+    name="description"
+    content="Copëza — citate dhe fragmente nga veprat letrare shqipe në domenin publik, të digjitalizuara nga Fletoret."
+  />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://fletoret.com/copeza/" />
+  <meta
+    property="og:title"
+    content="Copëza — citate nga letërsia shqipe | Fletoret"
+  />
+  <meta
+    property="og:description"
+    content="Citate dhe fragmente nga veprat letrare shqipe në domenin publik."
+  />
+  <meta property="og:site_name" content="Fletoret" />
+  <meta property="og:locale" content="sq_AL" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@FletoretSQ" />
+</svelte:head>
+
 <svelte:window onkeydown={handleKeydown} />
 
 <div

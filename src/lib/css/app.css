@@ -1,4 +1,6 @@
 @import '@fontsource/instrument-serif';
+@import '@fontsource-variable/source-serif-4/wght.css';
+
 
 @font-face {
   font-family: 'InterVariable';
@@ -18,7 +20,7 @@ https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/
 :root {
   --sans-serif: 'InterVariable', sans-serif;
   --sans-serif-display: 'InterVariable', sans-serif;
-  --serif: Georgia, Charter, serif;
+  --serif: 'Source Serif 4 Variable', Georgia, Charter, serif;
   --serif-display: 'Instrument Serif', Georgia, Charter, serif;
   --mono-font:
     ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono',
@@ -46,6 +48,7 @@ https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/
   --spacing-xl: 16px;
   --spacing-xxl: 24px;
   --spacing-2xxl: 48px;
+  --spacing-3xxl: 80px;
 
   --container-width: 600px;
 
@@ -55,30 +58,33 @@ https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/
   */
   --breakpoint-mobile-ui: 900px;
 
-  /* Light Theme */
-  --text-primary-light: #000000;
-  --text-secondary-light: #868686;
-  --link-primary-light: rgb(21, 21, 243);
-  --link-visited-light: rgb(88, 88, 211);
-  --bg-primary-light: #ffffff;
-  --bg-primary-glassy-light: #ffffffe0;
-  --bg-secondary-light: #f5f4ee;
-  --bg-selection-light: #e54b4b33;
-  --border-color-light: #e9edf2;
-  --color-blue-light: rgb(0, 122, 255);
-  --color-orange-light: #ff9500;
+  /* Light Theme — warm white & ink */
+  --text-primary-light: #22201b;
+  --text-secondary-light: #7d766a;
+  --link-primary-light: #b04a2f;
+  --link-visited-light: #8a4433;
+  --bg-primary-light: #fdfdfb;
+  --bg-primary-glassy-light: #fdfdfbe0;
+  --bg-secondary-light: #f4f3ee;
+  --bg-selection-light: #b04a2f26;
+  --border-color-light: #ecebe4;
+  --color-blue-light: #b04a2f;
+  --color-orange-light: #c9761f;
+  --shadow-light: 0 1px 2px rgba(60, 50, 35, 0.04), 0 8px 24px rgba(60, 50, 35, 0.06);
 
-  /* Dark Theme */
-  --text-primary-dark: #d1d1d6;
-  --text-secondary-dark: #8e8e93;
-  --link-primary-dark: #7dc1ff;
-  --bg-primary-dark: #1c1c1e;
-  --bg-primary-glassy-dark: #1c1c1ee0;
-  --bg-secondary-dark: #2c2c2e;
-  --bg-selection-dark: #e54b4b33;
-  --border-color-dark: #2c2c2e;
-  --color-blue-dark: #7dc1ff;
-  --color-orange-dark: #ff9e0b;
+  /* Dark Theme — cozy evening */
+  --text-primary-dark: #e6dfcf;
+  --text-secondary-dark: #978d7b;
+  --link-primary-dark: #e79a72;
+  --link-visited-dark: #cf8a68;
+  --bg-primary-dark: #1a1712;
+  --bg-primary-glassy-dark: #1a1712e0;
+  --bg-secondary-dark: #23201a;
+  --bg-selection-dark: #e79a7226;
+  --border-color-dark: #2e2a22;
+  --color-blue-dark: #e79a72;
+  --color-orange-dark: #e0a24b;
+  --shadow-dark: 0 1px 2px rgba(0, 0, 0, 0.2), 0 8px 24px rgba(0, 0, 0, 0.35);
 
   /* By default, pick light */
   --text-primary: var(--text-primary-light) !important;
@@ -91,6 +97,7 @@ https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/
   --border-color: var(--border-color-light) !important;
   --color-blue: var(--color-blue-light);
   --color-orange: var(--color-orange-light);
+  --shadow: var(--shadow-light);
 }
 
 html[data-theme='light'] {
@@ -104,6 +111,7 @@ html[data-theme='light'] {
   --border-color: var(--border-color-light) !important;
   --color-blue: var(--color-blue-light);
   --color-orange: var(--color-orange-light);
+  --shadow: var(--shadow-light);
 }
 
 html[data-theme='dark'] {
@@ -117,6 +125,7 @@ html[data-theme='dark'] {
   --border-color: var(--border-color-dark) !important;
   --color-blue: var(--color-blue-dark);
   --color-orange: var(--color-orange-dark);
+  --shadow: var(--shadow-dark);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -132,6 +141,7 @@ html[data-theme='dark'] {
     --border-color: var(--border-color-dark) !important;
     --color-blue: var(--color-blue-dark);
     --color-orange: var(--color-orange-dark);
+    --shadow: var(--shadow-dark);
   }
 }
 
@@ -153,6 +163,9 @@ body {
   color: var(--text-primary);
   background-color: var(--bg-primary) !important;
   font-variation-settings: 'opsz' 16;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
   /* Font feature settings */
   -webkit-font-feature-settings: var(--font-feature-settings);
   -moz-font-feature-settings: var(--font-feature-settings);
@@ -171,6 +184,7 @@ button {
 a {
   color: var(--link-primary);
   text-decoration: none;
+  transition: color 0.15s ease;
 }
 
 /* a:visited {
