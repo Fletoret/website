@@ -1,7 +1,7 @@
 ---
 title: Mrizi i Zânavet
 subtitle: Libri i plotë tek Fletoret
-author: Nush Motmoti
+author: 
 date: 2024-03-07
 tags: liber, fletoret
 # imgWebp: images/covers/mrizi-i-zanave.avif

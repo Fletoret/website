@@ -21,7 +21,7 @@
       loading="lazy"
     />
     <div class="content">
-      <div class="name">{authorInfo.name}</div>
+      <h1 class="name">{authorInfo.name}</h1>
     </div>
   </div>
 
@@ -69,6 +69,8 @@
         gap: 0.5rem;
 
         .name {
+          margin: 0;
+          font-weight: 400;
           font-size: var(--text-xl);
           line-height: 1.1;
         }

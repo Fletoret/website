@@ -63,12 +63,14 @@
 
   .faq-item-wrapper {
     width: 100%;
-    border-bottom: solid 2px var(--border-color);
+    border-bottom: solid 1px var(--border-color);
   }
   .question {
-    font-size: var(--text-lg);
-    font-weight: 500;
-    padding: var(--spacing-lg) 0;
+    font-family: var(--sans-serif);
+    font-size: var(--text-md);
+    font-weight: 600;
+    letter-spacing: -0.011em;
+    padding: var(--spacing-xl) 0;
     display: flex;
     align-items: center;
     gap: 1rem;
@@ -83,8 +85,9 @@
   }
   .answer {
     color: var(--text-secondary);
+    font-family: var(--sans-serif);
     font-size: var(--text-md);
-    padding: var(--spacing-lg) 0 var(--spacing-xxl) 0;
+    padding: var(--spacing-sm) 0 var(--spacing-xxl) 0;
     line-height: 1.6;
   }
 

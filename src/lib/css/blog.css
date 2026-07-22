@@ -1,24 +1,20 @@
 @import '$lib/css/hljs-dark.css';
 @import '$lib/css/hljs-light.css';
+@import '@fontsource-variable/source-serif-4/wght.css';
 
-/* ============================================================
-   Editorial reading layout
-   Display & metadata: grotesque sans (Inter) — structure & clarity
-   Body copy: serif — the reading texture of a newspaper
-   ============================================================ */
 
 .post-container {
   color: var(--text-primary);
   font-family: var(--serif);
-  /* Fluid body size: ~18px small screens up to ~20px on large ones */
-  font-size: clamp(1.125rem, 1.06rem + 0.4vw, 1.25rem);
-  line-height: 1.72;
+  /* Fluid body size: ~17px small screens up to ~18px on large ones */
+  font-size: clamp(1.0625rem, 1.02rem + 0.25vw, 1.125rem);
+  line-height: 1.6;
   letter-spacing: 0;
 
   margin-left: auto;
   margin-right: auto;
-  /* ~38em measure for comfortable serif reading */
-  max-width: 42rem;
+  /* 660px text measure — matches the reference column */
+  max-width: 41.25rem;
   padding: 1rem 1.5rem;
 
   font-optical-sizing: auto;
@@ -34,17 +30,6 @@
   margin-top: 0;
 }
 
-/* Drop cap — the classic newspaper entry point, kept restrained */
-.post-container .post-body > p:first-of-type::first-letter {
-  font-family: var(--serif);
-  float: left;
-  font-size: 3.3em;
-  line-height: 0.84;
-  font-weight: 600;
-  padding: 0.02em 0.09em 0 0;
-  color: var(--text-primary);
-}
-
 /* ---------- Emphasis ---------- */
 
 .post-container strong {
@@ -55,7 +40,7 @@
   font-style: italic;
 }
 
-/* ---------- Headings (sans, structural) ---------- */
+/* ---------- Headings (serif, matching the reference) ---------- */
 
 .post-container h1,
 .post-container h2,
@@ -63,28 +48,31 @@
 .post-container h4,
 .post-container h5,
 .post-container h6 {
-  font-family: var(--sans-serif);
+  font-family: var(--serif);
   font-weight: 600;
   color: var(--text-primary);
-  line-height: 1.2;
-  letter-spacing: -0.02em;
+  line-height: 1.25;
+  letter-spacing: 0;
   scroll-margin-top: 5rem;
 }
 
 .post-container h2 {
-  font-size: 1.45em;
+  font-size: 1.5em;
   margin-top: 2.75rem;
   margin-bottom: 0.7rem;
 }
 
 .post-container h3 {
-  font-size: 1.2em;
+  font-size: 1.22em;
   margin-top: 2.25rem;
   margin-bottom: 0.5rem;
 }
 
+/* Sub-headings are set in serif italic, like "Generalist model" */
 .post-container h4 {
-  font-size: 1.02em;
+  font-size: 1.05em;
+  font-weight: 400;
+  font-style: italic;
   margin-top: 2rem;
   margin-bottom: 0.4rem;
 }
@@ -144,21 +132,21 @@
 /* ---------- Block quotation / pull quote ---------- */
 
 .post-container blockquote {
-  border-left: solid 2px var(--text-primary);
-  margin: 1.85rem 0;
-  padding: 0.1rem 0 0.1rem 1.4rem;
+  border-left: 2px solid color-mix(in srgb, var(--text-secondary) 60%, transparent);
+  margin: 1.6rem 0 1.6rem 1rem;
+  padding: 0.1rem 0 0.1rem 1.25rem;
   font-family: var(--serif);
-  color: var(--text-primary);
+  color: var(--text-secondary);
 }
 
 .post-container blockquote p {
-  font-size: 1.05em;
+  font-size: 1em;
   display: block;
   line-height: 1.6;
   margin: 0 0 0.6rem;
   width: 100%;
   font-weight: 400;
-  font-style: italic;
+  font-style: normal;
   word-break: break-word;
 }
 
@@ -238,6 +226,7 @@
 .post-container center {
   text-align: center;
   white-space: pre-wrap;
+  text-wrap-style: balance;
 }
 
 .post-container caps {
@@ -301,59 +290,66 @@
    Article head — kicker, headline, deck, byline
    ============================================================ */
 
+/* Centered masthead: title + date stacked and centered, no kicker */
 .post-container .post-header {
-  min-width: 80%;
+  text-align: center;
+  margin: 0 auto;
+  padding-top: calc(2 * var(--spacing-xxl));
 }
 
 .post-container .post-eyebrow {
-  font-family: var(--sans-serif);
-  font-size: 0.72rem;
-  font-weight: 600;
-  letter-spacing: 0.13em;
-  text-transform: uppercase;
+  font-family: var(--serif);
+  font-size: 0.95rem;
+  font-style: italic;
+  letter-spacing: 0;
+  text-transform: none;
   color: var(--text-secondary);
-  margin: 0 0 var(--spacing-lg);
+  margin: 0 0 var(--spacing-md);
 }
 
 .post-container .post-header .post-title {
-  font-family: var(--sans-serif);
+  font-family: var(--serif-display);
   font-weight: 600;
-  font-size: clamp(2rem, 1.35rem + 2.6vw, 2.85rem);
-  letter-spacing: -0.025em;
-  line-height: 1.08;
-  font-variation-settings: 'opsz' 32;
+  font-size: clamp(2.4rem, 1.8rem + 2.6vw, 3.4rem);
+  /*letter-spacing: -0.03em;*/
+  line-height: 1.12;
   text-wrap: balance;
   color: var(--text-primary);
   margin-bottom: var(--spacing-lg);
-  margin-top: calc(2 * var(--spacing-xxl));
+  margin-top: 0;
 }
 
 .post-container .post-header .post-subtitle {
-  font-family: var(--sans-serif);
+  font-family: var(--serif);
   color: var(--text-secondary);
   font-size: 1.2rem;
-  line-height: 1.45;
+  line-height: 1.5;
   font-weight: 400;
+  /*font-style: italic;*/
   margin-top: 0;
   margin-bottom: 0;
-  letter-spacing: -0.014em;
+  letter-spacing: 0;
   text-wrap: pretty;
+  max-width: 34rem;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .post-container .post-byline {
   display: flex;
+  justify-content: center;
   align-items: baseline;
   flex-wrap: wrap;
   gap: 0 var(--spacing-md);
   font-family: var(--sans-serif);
-  font-size: 0.74rem;
-  font-weight: 600;
-  letter-spacing: 0.07em;
-  text-transform: uppercase;
+  font-size: 0.9rem;
+  font-weight: 400;
+  letter-spacing: 0;
+  text-transform: none;
   color: var(--text-secondary);
-  margin-top: var(--spacing-2xxl);
-  padding: var(--spacing-md) 0;
-  border-top: 1px solid var(--text-primary);
+  margin-top: var(--spacing-lg);
+  padding: 0;
+  border-top: none;
 }
 
 .post-container .post-byline .byline-sep {
@@ -399,16 +395,18 @@
 
 .header-img {
   display: block;
-  max-width: 1000px;
-  margin: var(--spacing-md) auto var(--spacing-2xxl);
+  /* Align the hero with the text measure, as in the reference */
+  max-width: 44.25rem;
+  margin: var(--spacing-2xxl) auto;
   padding: 0 1.5rem;
 }
 
 .img-fit-contain {
   width: 100%;
   min-width: 100%;
-  min-height: 500px;
+  min-height: 360px;
   background-color: var(--bg-secondary);
+  border-radius: var(--radius-sm);
 }
 
 /* ============================================================
@@ -431,8 +429,8 @@
 }
 
 .post-container .post-body a:hover {
-  color: var(--link-primary);
-  text-decoration-color: var(--link-primary);
+  color: var(--text-secondary);
+  text-decoration-color: color-mix(in srgb, var(--text-primary) 70%, transparent);
 }
 
 .page p a {
@@ -527,6 +525,126 @@
 .post-container sup {
   vertical-align: top;
   line-height: 0;
+}
+
+/* ============================================================
+   Book-specific — merged from post.css
+   Only rules blog.css does not otherwise define; blog wins all
+   contention, so these are purely additive for book chapters.
+   ============================================================ */
+
+/* Book chapters are left-aligned throughout — a centered masthead looks off
+   above short-line content like poems, which never fill the column. Blog
+   keeps its centered masthead; these selectors match only the book layout,
+   whose two .post-header blocks carry .breadcrumbs and .post-body (blog's
+   masthead has neither). */
+
+/* Fallback for browsers without :has() — the body column stays left. */
+.post-container .post-body,
+.post-container .last-updated {
+  text-align: left;
+}
+
+/* No drop cap on book chapters — an enlarged first letter breaks the line
+   rhythm of verse (and descenders like "j" collide). The extra .post-header
+   ancestor outweighs blog's mobile drop-cap rule and matches only books. */
+.post-container .post-header .post-body > p:first-of-type::first-letter {
+  font-size: inherit;
+}
+
+/* Masthead (breadcrumbs + title + subtitle): left-aligned, keep top spacing. */
+.post-container .post-header:has(.breadcrumbs) {
+  text-align: left;
+}
+
+.post-container .post-header:has(.breadcrumbs) .post-title,
+.post-container .post-header:has(.breadcrumbs) .post-subtitle {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.post-container .post-header .breadcrumbs {
+  justify-content: flex-start;
+  margin-bottom: var(--spacing-md);
+}
+
+/* Body wrapper: undo the masthead centering and top-padding it inherits
+   from sharing the .post-header class. */
+.post-container .post-header:has(.post-body) {
+  text-align: left;
+  padding-top: 0;
+}
+
+/* Epigraph (custom element used in book chapters) */
+.post-container epigraph {
+  font-style: italic;
+  font-size: 90%;
+}
+
+.post-container epigraph p {
+  text-indent: 30px;
+}
+
+/* Definition lists */
+.post-container dl dt {
+  font-weight: 500;
+}
+
+.post-container dl dd {
+  font-family: var(--sans-serif);
+  font-size: var(--text-md);
+  margin-bottom: var(--spacing-md);
+}
+
+/* Bare tables authored without the .table class */
+.post-container table td {
+  padding: 0.4rem 0.2rem;
+  border-bottom: dotted 1px var(--border-color);
+}
+
+/* Editor notes */
+.post-container .editor-note-ref {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  vertical-align: middle;
+  font-family: var(--sans-serif);
+  font-size: var(--text-sm);
+  font-weight: 600;
+  color: var(--text-secondary);
+  background-color: var(--bg-secondary);
+  border-radius: var(--radius-xl);
+  padding: 1px 8px 1px 6px;
+  margin: 0 1px;
+  line-height: 1.2;
+  cursor: pointer;
+  transition:
+    background-color 0.15s ease,
+    color 0.15s ease;
+}
+
+.post-container .editor-note-ref:hover {
+  background-color: var(--bg-tertiary);
+  color: var(--text-primary);
+}
+
+.post-container .editor-note-icon {
+  flex-shrink: 0;
+  opacity: 0.7;
+  transition: opacity 0.15s ease;
+}
+
+.post-container .editor-note-ref:hover .editor-note-icon {
+  opacity: 1;
+}
+
+/* Footnote custom element */
+footnote p {
+  font-family: var(--sans-serif);
+  font-size: var(--text-sm);
+  color: var(--text-secondary);
+  line-height: 1.6 !important;
+  margin-bottom: var(--spacing-sm);
 }
 
 /* ---------- Responsive ---------- */

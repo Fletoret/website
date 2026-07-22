@@ -1,11 +1,14 @@
 <script lang="ts">
   // import BookFooter from '$lib/components/BookFooter.svelte';
   import CONFIG from '$lib/config';
+  import { stripMarkdown } from '$lib/utils';
   import '$lib/css/app.css';
   import '$lib/css/blog.css';
 
   let { data } = $props();
   let post = $derived(data.post);
+
+  let description = $derived(stripMarkdown(post.body, 160));
 
   let BreadcrumbList = $derived({
     '@context': 'https://schema.org',
@@ -31,22 +34,46 @@
       },
     ],
   });
+
+  let BlogPostingSchema = $derived({
+    '@context': 'https://schema.org',
+    '@type': 'BlogPosting',
+    headline: post.title,
+    description,
+    inLanguage: 'sq',
+    ...(post.author
+      ? { author: { '@type': 'Person', name: post.author } }
+      : {}),
+    ...(post.date ? { datePublished: post.date } : {}),
+    ...(post.last_update ? { dateModified: post.last_update } : {}),
+    publisher: {
+      '@type': 'Organization',
+      name: CONFIG.info.title,
+      url: `${CONFIG.info.base_url}/`,
+    },
+    url: post.url,
+    mainEntityOfPage: post.url,
+    ...(post.img
+      ? { image: `${CONFIG.info.base_url}/${post.imgWebp}` }
+      : {}),
+  });
 </script>
 
 <svelte:head>
   <title>{post.title} - {CONFIG.info.title}</title>
   <link rel="canonical" href={post.url} />
-  <meta name="description" content={post.body.slice(0, 250)} />
+  <meta name="description" content={description} />
 
   <!-- OG params for sharable content -->
   <meta property="og:type" content="article" />
   <meta property="og:url" content={post.url} />
   <meta property="og:title" content={post.title} />
-  <meta property="og:description" content="{post.body.slice(0, 250)}..." />
+  <meta property="og:description" content={description} />
   <meta property="og:site_name" content={CONFIG.info.title} />
   <meta property="og:locale" content="sq_AL" />
   {#if post.img}
     <meta property="og:image" content="{CONFIG.info.base_url}/{post.imgWebp}" />
+    <meta property="og:image:alt" content={post.title} />
   {/if}
 
   <!-- Twitter -->
@@ -54,9 +81,9 @@
     name="twitter:card"
     content={post.img ? 'summary_large_image' : 'summary'}
   />
-  <meta name="twitter:site" content="@fletoretSQ" />
+  <meta name="twitter:site" content="@FletoretSQ" />
   <meta name="twitter:title" content={post.title} />
-  <meta name="twitter:description" content={post.body.slice(0, 250)} />
+  <meta name="twitter:description" content={description} />
   {#if post.img}
     <meta
       name="twitter:image"
@@ -65,13 +92,11 @@
   {/if}
 
   {@html `<script type="application/ld+json"> ${JSON.stringify(BreadcrumbList)} </script>`}
+  {@html `<script type="application/ld+json"> ${JSON.stringify(BlogPostingSchema)} </script>`}
 </svelte:head>
 
 <article class="post-container">
   <header class="post-header">
-    {#if post.tags && post.tags.length}
-      <p class="post-eyebrow">{post.tags.join(' · ')}</p>
-    {/if}
     <h1 class="post-title">{post.title}</h1>
     {#if post.subtitle}
       <p class="post-subtitle">{post.subtitle}</p>
@@ -101,7 +126,7 @@
       class="img-fit-contain"
       src="/{post.img}"
       alt={post.title}
-      loading="lazy"
+      fetchpriority="high"
     />
   </picture>
 {/if}
