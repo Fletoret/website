@@ -12,17 +12,12 @@
 </script>
 
 <div id="book-side-panel">
-  <div
-    class="card-bg-glassy"
-    style="background-image: url({book?.thumbnail});"
-  ></div>
-
-  <div class="card">
-    <img src={book?.thumbnail} loading="lazy" alt="{book?.name} - kopertina" />
-    <div class="content">
-      <!-- <div class="book">{book}</div> -->
-      <!-- <div class="name">{book.name}</div> -->
-    </div>
+  <div class="card cover-glow" style="--glow-image: url({book?.thumbnail});">
+    <img
+      src={book?.thumbnail}
+      fetchpriority="high"
+      alt="{book?.name} - kopertina"
+    />
   </div>
   <div class="book-details">
     <div class="intro">{book?.abstract} Botuar në {book?.datePublished}.</div>
@@ -57,23 +52,26 @@
     gap: 2rem;
 
     .card {
+      /* Matches AuthorCard so a book and an author card are the same size. */
       --width: 300px;
       --height: 400px;
 
-      position: relative;
-      max-width: var(--width);
-      min-width: var(--width);
-      max-height: var(--height);
+      width: var(--width);
+      height: var(--height);
       border-radius: var(--radius-lg);
       font-family: var(--sans-serif-display);
     }
     .card img {
       display: block;
       width: 100%;
-      max-width: 100%;
+      height: 100%;
       border-radius: inherit;
+      /* Covers are ~0.625 aspect against a 0.75 card, so this trims roughly 40px
+         from the top and bottom (equally, hence centre). That clips the outer edge
+         of the title block and the imprint on some covers — accepted in exchange
+         for cards that are all one size. */
       object-fit: cover;
-      max-height: inherit;
+      object-position: center;
     }
 
     .book-details {
@@ -93,8 +91,12 @@
     }
   }
 
-  .card-bg-glassy {
-    display: none;
+  /* The glow is a mobile treatment: on desktop the card sits in a narrow sticky
+     sidebar, where a halo would bleed into the chapter list beside it. */
+  @media (min-width: 901px) {
+    #book-side-panel .card::before {
+      display: none;
+    }
   }
 
   @media (max-width: 900px) {
@@ -112,23 +114,9 @@
         --width: 200px;
         --height: 250px;
 
+        /* Room for the halo to fall below the card before the abstract. */
         margin-bottom: var(--spacing-xl);
       }
-    }
-
-    .card-bg-glassy {
-      display: flex;
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 150px;
-      filter: blur(75px);
-
-      /* background-repeat: no-repeat; */
-      background-position: center;
-      background-size: auto;
-      background-size: contain;
     }
   }
 </style>

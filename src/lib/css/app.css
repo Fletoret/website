@@ -71,6 +71,15 @@ https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/
   --color-blue-light: #b04a2f;
   --color-orange-light: #c9761f;
   --shadow-light: 0 1px 2px rgba(60, 50, 35, 0.04), 0 8px 24px rgba(60, 50, 35, 0.06);
+  /* Cover glow: dark artwork blurred over a near-white page turns to grey mud,
+     and monochrome portraits have no chroma to lend in the first place. So light
+     mode gets a faint, extra-saturated hint rather than a full wash. */
+  /* Saturation rises with opacity here rather than staying put: turning the wash
+     up on a near-white page pushes it toward grey, and the extra chroma is what
+     keeps it reading as the artwork's colour instead of dirt on the screen. Past
+     ~0.5 it goes muddy regardless. */
+  --glow-opacity-light: 0.4;
+  --glow-saturate-light: 1.65;
 
   /* Dark Theme — cozy evening */
   --text-primary-dark: #e6dfcf;
@@ -85,6 +94,10 @@ https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/
   --color-blue-dark: #e79a72;
   --color-orange-dark: #e0a24b;
   --shadow-dark: 0 1px 2px rgba(0, 0, 0, 0.2), 0 8px 24px rgba(0, 0, 0, 0.35);
+  /* Dark mode carries the effect: the artwork is the brightest thing on screen,
+     so its spill reads as light falling rather than a smudge. */
+  --glow-opacity-dark: 0.45;
+  --glow-saturate-dark: 1.2;
 
   /* By default, pick light */
   --text-primary: var(--text-primary-light) !important;
@@ -98,6 +111,8 @@ https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/
   --color-blue: var(--color-blue-light);
   --color-orange: var(--color-orange-light);
   --shadow: var(--shadow-light);
+  --glow-opacity: var(--glow-opacity-light);
+  --glow-saturate: var(--glow-saturate-light);
 }
 
 html[data-theme='light'] {
@@ -112,6 +127,8 @@ html[data-theme='light'] {
   --color-blue: var(--color-blue-light);
   --color-orange: var(--color-orange-light);
   --shadow: var(--shadow-light);
+  --glow-opacity: var(--glow-opacity-light);
+  --glow-saturate: var(--glow-saturate-light);
 }
 
 html[data-theme='dark'] {
@@ -126,6 +143,8 @@ html[data-theme='dark'] {
   --color-blue: var(--color-blue-dark);
   --color-orange: var(--color-orange-dark);
   --shadow: var(--shadow-dark);
+  --glow-opacity: var(--glow-opacity-dark);
+  --glow-saturate: var(--glow-saturate-dark);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -142,6 +161,8 @@ html[data-theme='dark'] {
     --color-blue: var(--color-blue-dark);
     --color-orange: var(--color-orange-dark);
     --shadow: var(--shadow-dark);
+    --glow-opacity: var(--glow-opacity-dark);
+    --glow-saturate: var(--glow-saturate-dark);
   }
 }
 
@@ -288,6 +309,57 @@ body::-webkit-scrollbar-thumb {
 
 .bg-primary-glassy {
   background-color: var(--bg-primary-glassy);
+}
+
+/****************  COVER GLOW ************** */
+
+/* An ambient halo cast by a piece of artwork: a scaled, blurred copy of the same
+   image sitting directly behind it. Anchoring it to the artwork (rather than to a
+   fixed-height band across the panel) means the halo tracks the card's aspect and
+   size automatically, at any viewport width.
+   Usage: add the class to the element wrapping the <img>, and point
+   --glow-image at the same src. */
+.cover-glow {
+  position: relative;
+  /* Keeps ::before's negative z-index inside this card, so the glow lands behind
+     the artwork but never behind the page background. */
+  isolation: isolate;
+}
+
+.cover-glow::before {
+  content: '';
+  position: absolute;
+  /* Held clear of the card's bottom edge, and shifted up, so the halo's falloff
+     finishes above the description text rather than washing over it — a 70px blur
+     spreads a long way past whatever box casts it. */
+  inset: 0 0 var(--glow-inset-bottom, 38%) 0;
+  z-index: -1;
+  background-image: var(--glow-image);
+  background-position: center;
+  /* `cover` paints the whole box. `contain` would fit the artwork's aspect inside
+     it, leaving the sides unpainted and blurring a narrow centre strip into a
+     blob with dark shoulders. */
+  background-size: cover;
+  transform: scale(var(--glow-scale, 1.12))
+    translateY(var(--glow-offset, -16%));
+  /* The blur has to be large relative to how far the glow oversteps the card,
+     or the falloff finishes before the halo does and it reads as an outline
+     drawn around the card rather than light coming off it. */
+  filter: blur(var(--glow-blur, 70px)) saturate(var(--glow-saturate, 1.2))
+    grayscale(var(--glow-grayscale, 0));
+  opacity: var(--glow-opacity, 0.45);
+  pointer-events: none;
+  /* Deliberately no mask here: `mask-image` clips to the border box, which cuts
+     off the blur's spread and turns the halo into a hard-edged rectangle. The
+     falloff has to come from the blur itself. */
+}
+
+/* The glow is decoration that costs a large blur rasterisation; readers who ask
+   for less motion/transparency generally want less of this too. */
+@media (prefers-reduced-transparency: reduce) {
+  .cover-glow::before {
+    display: none;
+  }
 }
 
 .text-center {

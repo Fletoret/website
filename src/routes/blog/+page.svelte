@@ -9,7 +9,7 @@
   <link rel="canonical" href="{CONFIG.info.base_url}/blog/" />
   <meta
     name="description"
-    content="Artikuj rreth digjitalizimit të veprave letrare shqipe në domain-in publik."
+    content="Artikuj rreth dixhitalizimit të veprave letrare shqipe në domain-in publik."
   />
 
   <!-- OG params -->
@@ -18,7 +18,7 @@
   <meta property="og:title" content="Blog | {CONFIG.info.title}" />
   <meta
     property="og:description"
-    content="Artikuj rreth digjitalizimit të veprave letrare shqipe në domain-in publik."
+    content="Artikuj rreth dixhitalizimit të veprave letrare shqipe në domain-in publik."
   />
   <meta property="og:site_name" content={CONFIG.info.title} />
   <meta property="og:locale" content="sq_AL" />
@@ -29,7 +29,7 @@
   <meta name="twitter:title" content="Blog | {CONFIG.info.title}" />
   <meta
     name="twitter:description"
-    content="Artikuj rreth digjitalizimit të veprave letrare shqipe në domain-in publik."
+    content="Artikuj rreth dixhitalizimit të veprave letrare shqipe në domain-in publik."
   />
 </svelte:head>
 
@@ -38,7 +38,7 @@
     <header class="page-head">
       <h1 class="page-title">Blog</h1>
       <p class="page-desc">
-        Artikuj rreth digjitalizimit të veprave letrare shqipe në domain-in
+        Artikuj rreth dixhitalizimit të veprave letrare shqipe në domain-in
         publik.
       </p>
     </header>
