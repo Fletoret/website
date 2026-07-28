@@ -9,16 +9,11 @@
 </script>
 
 <div id="book-side-panel">
-  <div
-    class="card-bg-glassy"
-    style="background-image: url({authorInfo?.thumbnail});"
-  ></div>
-
-  <div class="card">
+  <div class="card cover-glow" style="--glow-image: url({authorInfo?.thumbnail});">
     <img
       src={authorInfo?.thumbnail}
       alt="{authorInfo.name} profile"
-      loading="lazy"
+      fetchpriority="high"
     />
     <div class="content">
       <h1 class="name">{authorInfo.name}</h1>
@@ -45,11 +40,12 @@
       --width: 300px;
       --height: 400px;
 
-      position: relative;
-      max-width: var(--width);
-      min-width: var(--width);
-      max-height: var(--height);
-      border-radius: var(--radius-lg);
+      /* Fixed both ways: a couple of portraits are landscape (Faik Konica is
+         300x257), and letting the image drive the height made those cards render
+         short and out of step with the rest. `cover` crops a photo gracefully. */
+      width: var(--width);
+      height: var(--height);
+      border-radius: var(--radius-xl);
       font-family: var(--serif-display);
 
       .content {
@@ -79,10 +75,9 @@
     .card img {
       display: block;
       width: 100%;
-      max-width: 100%;
+      height: 100%;
       border-radius: inherit;
       object-fit: cover;
-      max-height: inherit;
     }
 
     .book-details {
@@ -98,8 +93,12 @@
     }
   }
 
-  .card-bg-glassy {
-    display: none;
+  /* The glow is a mobile treatment: on desktop the card sits in a narrow sticky
+     sidebar, where a halo would bleed into the column of book entries beside it. */
+  @media (min-width: 901px) {
+    #book-side-panel .card::before {
+      display: none;
+    }
   }
 
   @media (max-width: 900px) {
@@ -117,6 +116,7 @@
         --width: 200px;
         --height: 250px;
 
+        /* Room for the halo to fall below the card before the intro text. */
         margin-bottom: var(--spacing-xl);
 
         .content {
@@ -126,20 +126,21 @@
         }
       }
     }
+  }
 
-    .card-bg-glassy {
-      display: flex;
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 150px;
-      filter: blur(75px) grayscale(0.5);
-
-      /* background-repeat: no-repeat; */
-      background-position: center;
-      background-size: auto;
-      background-size: contain;
+  /* Matches the scrim correction already made in ImageCard: at 60% height with a
+     20% stop it was washing out the bottom third of the portrait on a card less
+     than half the desktop width. */
+  @media (max-width: 600px) {
+    #book-side-panel .card .content {
+      height: 50%;
+      padding: var(--spacing-lg) var(--spacing-lg) var(--spacing-xl)
+        var(--spacing-lg);
+      background: linear-gradient(
+        to top,
+        rgba(26, 20, 12, 0.85) 12%,
+        rgba(26, 20, 12, 0)
+      );
     }
   }
 </style>
