@@ -106,10 +106,45 @@
     }
   }
 
-  @media (max-width: 480px) {
+  /* Narrow screens: cards fill their grid cell instead of a fixed width,
+     so the 2-column layout keeps even gutters and scales with the viewport. */
+  @media (max-width: 600px) {
     .card {
-      --width: 150px;
-      --height: 175px;
+      min-width: 0;
+      max-width: 100%;
+      min-height: 0;
+      max-height: none;
+      width: 100%;
+      aspect-ratio: 3 / 4;
+      overflow: hidden;
+      border-radius: var(--radius-lg);
+    }
+    .card .img-wrapper,
+    .img-wrapper {
+      width: 100%;
+      height: 100%;
+      max-height: none;
+    }
+    /* A shorter, denser scrim: at 60% it was washing out the portraits in a
+       card less than half the desktop width. */
+    .card .content {
+      padding: var(--spacing-lg);
+      height: 50%;
+      background: linear-gradient(
+        to top,
+        rgba(26, 20, 12, 0.85) 12%,
+        rgba(26, 20, 12, 0)
+      );
+    }
+    /* Cards are ~18% narrower here than the 200px desktop card, so the name
+       scales with them instead of taking 80% of the content box. */
+    .card .content .name {
+      font-size: var(--text-lg);
+      letter-spacing: -0.01em;
+    }
+    /* 0.2 read as a rendering fault rather than "not published yet". */
+    .unavailable {
+      opacity: 0.4;
     }
   }
 </style>
