@@ -20,6 +20,14 @@ const config = {
     }),
     // inline all stylesheets smaller than 3kb
     inlineStyleThreshold: 3000,
+    version: {
+      // Open tabs poll /_app/version.json so they notice a deploy *before*
+      // navigating into chunks the new deployment retired. Without this
+      // (pollInterval defaults to 0) recovery only happens after a failed
+      // import, which surfaces as MIME-type errors in the console first.
+      // Paired with the beforeNavigate reload in src/routes/+layout.svelte.
+      pollInterval: 300_000,
+    },
   },
 };
 
