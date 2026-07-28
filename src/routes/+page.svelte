@@ -14,6 +14,8 @@
 
   let { data } = $props();
 
+  const year = new Date().getFullYear();
+
   let faqSchema = $derived({
     '@context': 'https://schema.org',
     '@type': 'FAQPage',
@@ -96,8 +98,9 @@
     <div class="container-lg panel">
       <div class="block-heading">
         <p class="eyebrow">Shkrimtarë</p>
+        <!-- nbsp keeps the em dash from starting a line when the lead wraps. -->
         <p class="section-lead">
-          Katalogu ynë i shkrimtarëve — në rritje e sipër.
+          Katalogu ynë i shkrimtarëve&nbsp;— në rritje e sipër.
         </p>
       </div>
 
@@ -113,7 +116,7 @@
     <div class="container">
       <div class="block-heading">
         <p class="eyebrow">Pyetje &amp; Përgjigje</p>
-        <!-- <p class="section-lead">Çka duhet të dini para se të nisni.</p> -->
+        <p class="section-lead">Çfarë duhet të dini para se të nisni.</p>
       </div>
       <div class="faq-list">
         {#each data.faqEntries as faq}
@@ -126,21 +129,41 @@
 
 <footer class="footer">
   <div class="container">
-    <p class="brand">
-      Përmbajtja e shkrimtarëve mund të përdoret lirisht, mjafton të citohet
-      fletoret.com.
-    </p>
-    <div class="footer-right">
-      <nav class="links">
-        <a href="/kopertina" class="muted">→ Krijo kopertina</a>
-        <a href="/copeza" class="muted">→ Copëza</a>
-      </nav>
-      <SocialMedia />
+    <div class="footer-top">
+      <div class="footer-brand">
+        <a href="/" class="wordmark" aria-label={CONFIG.info.title}>
+          {CONFIG.info.title}
+        </a>
+        <p class="tagline">
+          Vepra letrare në shqip&nbsp;— të plota, falas, në domenin publik.
+        </p>
+      </div>
+      <div class="footer-right">
+        <nav class="links" aria-label="Lidhje">
+          <a href="/kopertina" class="muted">→ Krijo kopertina</a>
+          <a href="/copeza" class="muted">→ Copëza</a>
+        </nav>
+        <SocialMedia />
+      </div>
     </div>
+    <p class="legal">
+      © {year}
+      {CONFIG.info.title}. Përmbajtja mund të përdoret lirisht, mjafton të
+      citohet fletoret.com.
+    </p>
   </div>
 </footer>
 
 <style>
+  /* One knob for the page's vertical rhythm and one for its side gutter, so the
+     cadence stays identical across sections at every breakpoint. Declared on
+     both roots because the footer lives outside <main>. */
+  main,
+  .footer {
+    --section-y: var(--spacing-3xxl);
+    --gutter: calc(2 * var(--spacing-xxl));
+  }
+
   main {
     display: flex;
     flex-direction: column;
@@ -152,14 +175,14 @@
     width: 100%;
     margin-left: auto;
     margin-right: auto;
-    padding: var(--spacing-3xxl) 0;
+    padding: var(--section-y) 0;
     display: flex;
     align-items: center;
     justify-content: center;
   }
 
   .container {
-    padding: 0 calc(2 * var(--spacing-xxl));
+    padding: 0 var(--gutter);
   }
 
   /* ---------- Hero ---------- */
@@ -182,7 +205,9 @@
     letter-spacing: 0.16em;
     font-size: var(--text-sm);
     font-weight: 600;
-    color: var(--color-orange);
+    /* Terracotta rather than amber: one accent across the page, and it clears
+       AA on the warm-white background at this size. */
+    color: var(--link-primary);
     margin: 0 0 var(--spacing-md);
   }
   .title {
@@ -223,6 +248,7 @@
     color: var(--text-secondary);
     margin: 0 auto;
     max-width: 34rem;
+    text-wrap: balance;
   }
 
   /* ---------- Authors ---------- */
@@ -251,9 +277,6 @@
   .faq-section .container {
     --w: 720px;
   }
-  .faq-list {
-    border-top: 1px solid var(--border-color);
-  }
 
   /* ---------- Footer ---------- */
   .footer {
@@ -264,17 +287,46 @@
     --w: 720px;
     margin-inline: auto;
     display: flex;
-    align-items: flex-start;
+    flex-direction: column;
     gap: var(--spacing-2xxl);
-    justify-content: space-between;
     font-size: var(--text-sm);
     color: var(--text-secondary);
     padding-top: var(--spacing-2xxl);
     padding-bottom: var(--spacing-2xxl);
   }
-  .footer .brand {
-    margin: 0;
+  .footer-top {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: var(--spacing-2xxl);
+  }
+  .footer-brand {
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing-md);
     max-width: 20rem;
+  }
+  .footer .tagline {
+    margin: 0;
+    line-height: 1.6;
+  }
+  .footer .wordmark {
+    /* Keep the hit area on the word, not the whole column. */
+    align-self: flex-start;
+    font-family: var(--serif-display);
+    font-size: var(--text-xl);
+    line-height: 1;
+    color: var(--text-primary);
+    text-decoration: none;
+  }
+  .footer .wordmark:hover {
+    color: var(--link-primary);
+  }
+  .footer .legal {
+    margin: 0;
+    max-width: 42rem;
+    padding-top: var(--spacing-xl);
+    border-top: 1px solid var(--border-color);
     line-height: 1.6;
   }
   .footer-right {
@@ -288,7 +340,12 @@
     gap: var(--spacing-md);
     white-space: nowrap;
   }
+  /* Match the social column's row box (24px icon + 8px gap) so the two footer
+     columns share one baseline grid instead of drifting apart. */
   .footer .links .muted {
+    display: flex;
+    align-items: center;
+    min-height: 24px;
     color: var(--text-secondary);
   }
   .footer .links .muted:hover {
@@ -296,38 +353,96 @@
   }
 
   @media (max-width: 600px) {
-    section {
-      padding: var(--spacing-2xxl) 0;
-    }
-    .container {
-      padding: 0 var(--spacing-xxl);
+    main,
+    .footer {
+      /* 32px: the scale jumps 24 → 48, and 24 left the sections crowding each
+         other while 48 reopened the gap this pass was closing. */
+      --section-y: calc(var(--spacing-xxl) + var(--spacing-md));
+      --gutter: var(--spacing-xxl);
     }
 
+    /* ---------- Hero ---------- */
+    /* No min-height: the space below the lede is padding we chose, not a gap
+       left over by a viewport-height box. */
     .hero {
-      min-height: 56vh;
+      min-height: 0;
+      padding-top: var(--spacing-3xxl);
+      padding-bottom: var(--spacing-2xxl);
+    }
+    .title {
+      /* Let the wordmark own the screen — the clamp floor was capping it at
+         60px on every phone, leaving the lede heavier than the H1. */
+      font-size: clamp(3.5rem, 22vw, 6.25rem);
+    }
+    .lede {
+      font-size: var(--text-lg);
+      line-height: 1.5;
+      max-width: 24rem;
+      margin-top: var(--spacing-lg);
     }
 
+    /* ---------- Shared section heading ---------- */
+    .block-heading {
+      margin-bottom: var(--spacing-xxl);
+    }
+    .block-heading .eyebrow {
+      margin-bottom: var(--spacing-sm);
+    }
+    .section-lead {
+      font-size: var(--text-md);
+      max-width: 22rem;
+    }
+
+    /* ---------- Authors ---------- */
+    /* The panel breaks out past the page gutter, but its 1px border means the
+       inset has to absorb the odd pixel for the cards to land on the gutter. */
     .authors-wrapper {
-      padding-inline: var(--spacing-lg);
+      padding-inline: calc(var(--gutter) - var(--spacing-lg) - 1px);
     }
     .authors-wrapper .panel {
-      padding: var(--spacing-2xxl) var(--spacing-lg);
+      padding: var(--spacing-xxl) var(--spacing-lg);
+      border-radius: var(--radius-xxl);
     }
     .authors {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
       gap: var(--spacing-lg);
     }
 
-    .footer .container {
-      flex-direction: column;
-      gap: var(--spacing-xl);
+    /* ---------- FAQ ---------- */
+    /* The rule under the heading already separates the list; the extra gap only
+       made the eyebrow look orphaned. */
+    .faq-section .block-heading {
+      margin-bottom: var(--spacing-xl);
     }
-    .footer .brand {
-      max-width: 100%;
+
+    /* ---------- Footer ---------- */
+    .footer .container {
+      gap: var(--spacing-xxl);
+    }
+    .footer-top {
+      flex-direction: column;
+      gap: var(--spacing-xxl);
+    }
+    .footer-brand {
+      max-width: 22rem;
     }
     .footer-right {
       width: 100%;
       justify-content: space-between;
       gap: var(--spacing-xl);
+    }
+    /* Roomier rows in both footer columns — 15px-tall links were far too small
+       to hit with a thumb. */
+    .footer .links {
+      gap: var(--spacing-lg);
+    }
+    .footer .links .muted,
+    .footer-right :global(.social-media) {
+      min-height: 32px;
+    }
+    .footer-right :global(.social-media-list) {
+      gap: var(--spacing-lg);
     }
   }
 </style>
