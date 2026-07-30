@@ -345,7 +345,37 @@
   "koliqi": {
     "folder": "koliqi",
     "name": "Ernest Koliqi",
-    "description": "",
-    "thumbnail": "/images/ernest-koliqi.avif"
+    "description": "Ernest Koliqi (1903–1975) ka qenë shkrimtar, përkthyes, publicist dhe studiues i letërsisë shqipe. Njihet si nismëtari i prozës moderne shqiptare, sidomos i novelës, ku gërsheton jetën e qytetit të Shkodrës me botën e maleve të Veriut. Themeloi e drejtoi revistën \"Shêjzat\" dhe dha mësim gjuhë e letërsi shqipe në Universitetin e Romës.",
+    "thumbnail": "/images/ernest-koliqi.avif",
+    "progressState": "partial",
+    "author": {
+      "@type": "Person",
+      "givenName": "Ernest",
+      "familyName": "Koliqi",
+      "birthDate": "1903-05-20",
+      "birthPlace": {
+        "@type": "Place",
+        "address": "Shkodër, Albania"
+      },
+      "deathDate": "1975-01-15",
+      "deathPlace": {
+        "@type": "Place",
+        "address": "Rome, Italy"
+      },
+      "image": "/images/ernest-koliqi.avif"
+    },
+    "books": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Book",
+        "name": "Hija e Maleve",
+        "folder": "koliqi/hija-e-maleve",
+        "genre": "albanian novels classics",
+        "datePublished": "1929",
+        "thumbnail": "/images/covers/hija-e-maleve.avif",
+        "abstract": "Përmbledhja e parë me novela e Ernest Koliqit, botuar në Zarë. Rrëfimet lëvizin midis jetës qytetare të Shkodrës dhe malësisë së Veriut, duke sjellë doke, besa, dashuri të ndaluara dhe fatin e njerëzve që shtypen nga zakoni. Me këtë vepër proza shqipe merr për herë të parë trajtat e novelës moderne.",
+        "publishedFletoret": true
+      }
+    ]
   }
 }
