@@ -60,7 +60,7 @@ kusi dhe nisi ta perzijë, nsa buzët makinalisht pëshpëritshin:
 — Qe, moj nanë, he, tash po han, - e mendimet i kish ngjeti,
 diku t'arratisuna.
 
-\* \* \*
+* * *
 
 
 — Merre pak ujë dhe fike njat dru, mos të digjet kot, sonte nuk asht ftoftë.
@@ -228,7 +228,7 @@ me shpresë, tue mendue se ka prue ndoj gja. Por ma shpesh pret
 t'erret dhe atëtherë shkon në shtepi... Barem, atëtherë Lili asht në
 gjum dhe s'ka me e pyetë a i ka prue gja.
 
-\* \* \*
+* * *
 
 Zotni Filipi s'kish dalë ende në kafe. Kola po e pret. Kanjiherë
 e shndrron ndoj fjalë me dy garsonat. Vëren Kola se si shkëlqejnë
@@ -483,7 +483,7 @@ per të hymë si në shtëpi të huej, pa të drejta dhe marreveshje. E
 ndër shtresa, ratë, kur dora ka me udhtue me gjet harresën,
 grueja ka me i thanë: mos më prek!
 
-\* \* \*
+* * *
 
 
 Po Lili çka pat? Pse u zbe që nga maja e hundës deri të veshët?
@@ -541,7 +541,7 @@ lekë. Shkoi shpejt, pa kthye djathtas e majtas dhe pa u mendue
 ma gjatë, por me vendim të premë, si dhe burri i saj, për me gjetë
 të hollat e nevojshme që i duheshin për mjekimin e Lilit.
 
-\* \* \*
+* * *
 
 
 
@@ -628,7 +628,7 @@ oborr po vjen i prituni. Ajo mblodhi fuqin, e nori prej dikah një
 buzëqeshje, e vendosi mbi ftyrë të vet dhe i duel para mikut të pritun…
 
 
-\* \* \*
+* * *
 
 
 Posa hyni Kola në rrugzën ku e kish shtëpin, i nguli syt mu në

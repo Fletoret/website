@@ -35,7 +35,7 @@ ka një të puthun dashunije…e në mest të gjithave: refren'
 i bukur i qytetit tem. A jeni në gjendje t'ja paraftyroni
 vetes gjithë ket lumni?
 
-\* \* \*
+* * *
 
 Për këtë që do t'ju tregoj ma poshtë, nuk dij t'ju tham a
 asht andër a zhgandër.

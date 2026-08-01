@@ -99,7 +99,7 @@ prostitutë. Sentimentalizma e të rijve për Luken shkonte edhe ma
 thellë; shpeshherë rrifeshin shoq me shoq vetëm e vetëm për
 hatrin e saj.
 
-\* \* \*
+* * *
 
 Prodhon nana - tokë, prodhon krijesa me shpirt dhe pa shpirt,
 prodhon dhe krijon si me miliona vjet dhe me sekonda, prodhon
@@ -152,7 +152,7 @@ prodhon. Një kukull, një lodër me pasë për t'ia kushtue dhe
 harrue githe ato orët e mbrapshta kur e shef veten të zhigatun
 në balte.
 
-\* \* \*
+* * *
 
 Nje ditë të kristaltë dimni, kur frynte veriu e acari kish ngri
 vesën, Lukja briti në qytet. Biografia e saj deri m'at ditë asht e
@@ -182,7 +182,7 @@ tue pasë një njeri pranë për të kembye fjalët rreth zjarrmit ndër
 netët e ftofta e të gjata të dimnit, në mnyrë që me ia largue
 mërzinë e jetës shoqi-shojt. Qe e tanë dëshira e vakët e Lukes.
 
-\* \* \*
+* * *
 
 
 Dyqind napolona janë dyind flamure triumfues mbi jetën e
@@ -309,7 +309,7 @@ Me kë të rri, si të rri, e si të jetoj vazhdonte tue mejtue në vete
 dhe tmerrhej nga mendimi se do mbesi prap në mshiren e rrugës
 dhe të turmës.
 
-\* \* \*
+* * *
 
 Në një katund që don të quhet qytet. Stacion i fundit
 automobili. Mbrapa nga lindja s'ka ma rrugë të gjana, por rrugë

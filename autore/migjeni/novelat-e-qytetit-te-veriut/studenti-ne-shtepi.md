@@ -33,7 +33,7 @@ ardhë medoemos." Ishte urdhni i t'et. Nushit në fillim i erdh disi mirë,
 u gëzue, por kur u mendue pak, u ftof, ishte në natyrë të tij
 që githcka m'e marrë me mend e jo me zemër.
 
-\* \* \*
+* * *
 
 "A mundet me qenë ky oborri që e lash para tri vjetësh", mendonte Nushi.
 "Kaq i vogël, më bahet se nuk ishte," — dhe
@@ -307,7 +307,7 @@ njashtu merrte fund leksioni. Kur aty-këtu shifte përgatitjet që
 baheshin për darsëm, atij iu kujtonte një film që kish pa dikur.
 Quhej "Ekstazë". Ishte film i një martese të papërshtatshme.
 
-\* \* \*
+* * *
 
 — Mos të koritena - ka thanë i ati. - Duhet gjithçka boll për
 darsëm. Të giitha, të gjitha duhet me përgatitë. Rueju mos të
@@ -461,7 +461,7 @@ theksuen këto fjalë në mendje. Shoku i tha, tue qeshe dhe tue e
 shtye me krah, edhe disa gjana tjera, të cilat prap Luli i mbajti në
 mend, iu ngjitën për truni.
 
-\* \* \*
+* * *
 
 Mbas tri vjetve tjera Nushi u kthye në shtëpi si mjek i kryem.
 Optimizmi, i cili e pushtoi me të marrmen e laurës si mediciner i
@@ -615,7 +615,7 @@ prejnë nesër. Te tjerat i ke?
 
 — Po...
 
-\* \* \*
+* * *
 
 Mbasi Nushi trokiti dy-tri herë në derë t'oborrit dhe pa se s'po
 i del kush, ai u nis vetë mbrenda në shtëpi, tue u çuditë pse s'po

@@ -51,7 +51,7 @@ dëshirë, dëshirë që të len pa gjumë.
 Por një ditë, kur dielli sa një pare e madhe sermi u çfaq në qiell,
 Cubi shkoi. E dila mbet vetëm me dashurinë për Cubin.
 
-\* \* \*
+* * *
 
 Asht e flakët dëshira e Dilës në një ditë të shkëlqyeshme prandvere kur,
 e shtrime në bar, ndjen se si i rreh gjaku ndër dej. Asht edhe ma e flakët

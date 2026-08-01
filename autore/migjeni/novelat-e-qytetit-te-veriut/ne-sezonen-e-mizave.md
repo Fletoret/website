@@ -41,7 +41,7 @@ tërthuer nën tavan. Miza, plehi, kojshia e bukur në një mbasdreke
 pranverore tinglluen në një rapsodi - në rapsodin e jetës sone
 qytetare në një mbasdreke maji.
 
-\* \* \*
+* * *
 
 Por miza nuk mbeti ne naltësine e vet të zakonshme, por filloi
 të zbresi dalngadal ndër sferat ma t'ulta të dhomës. Hylli u

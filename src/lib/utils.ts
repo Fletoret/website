@@ -70,12 +70,18 @@ export async function downloadImage(imageDataUrl: string, filename: string) {
   URL.revokeObjectURL(blobUrl);
 }
 
-export async function domToImage(node: HTMLElement, filename: string) {
+export async function domToImage(
+  node: HTMLElement,
+  filename: string,
+  options: { pixelRatio?: number } = {},
+) {
   if (node) {
     const rect = node.getBoundingClientRect();
     const dataUrl = await toPng(node, {
       width: rect.width,
       height: rect.height,
+      // Left undefined the library falls back to the device pixel ratio.
+      pixelRatio: options.pixelRatio,
       style: {
         position: 'static',
         transform: 'none',

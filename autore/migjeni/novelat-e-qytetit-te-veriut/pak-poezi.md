@@ -98,7 +98,7 @@ Dhe vehej në punë. Me të githa fuqit kujdesej të bajë punë,
 punë sa më të mëdha, në valën e saj mos ta kujtojë Lilushën, të
 cilën nga vuejtja kanjiherë e urrente.
 
-\* \* \*
+* * *
 
 
 "Kur del behari he qershiat, varzat e bukura, faqet paputhura,
@@ -130,7 +130,7 @@ Serioziteti i ftyrës i një katërdhetvjeçarit...
 — Po, asht i ri - plak, si dhe shumica e tjerve.
 
 
-\* \* \*
+* * *
 
 
 Dy syt e Lilushës, dy liqej të kaltër zanash të bjeshkve
@@ -221,7 +221,7 @@ vete. E Lilusha thelltë në vete, diku në ndoj skut të pazbuluem,
 donte t'i mshefi ndjenjat e saj dhe nga vetvetja.
 
 
-\* \* \*
+* * *
 
 
 Lili ishte djale i mirë. Këtë e vërteton simpatia që për të
@@ -245,7 +245,7 @@ Por Lilusha nuk ishte qëllimi i fundit i tij, ishte një oazë
 fantazmagorike që ndeshet n'udhëtim nëpër shkretinë mbrapa së
 cilës asht qëllimi.
 
-\* \* \*
+* * *
 
 Poezia asht prona e të riut. S'ka të ri që nuk e ndjen bukurinë.
 E njajo ndjenjë e bukuris, që shfren ndër fjalë, asht poezia. Poezia
