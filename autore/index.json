@@ -347,5 +347,37 @@
     "name": "Ernest Koliqi",
     "description": "",
     "thumbnail": "/images/ernest-koliqi.avif"
+  },
+  "haki-stermilli": {
+    "folder": "haki-stermilli",
+    "name": "Haki Stërmilli",
+    "description": "Haki Stërmilli (1895–1953) ishte shkrimtar, publicist dhe nëpunës i shquar shqiptar, i lindur në Dibër. Mbetet i njohur sidomos për romanin \"Sikur t'isha djalë\" (1936), një ndër veprat e para të letërsisë shqipe që trajtoi çështjen e emancipimit të gruas.",
+    "thumbnail": "/images/haki-stermilli.avif",
+    "progressState": "partial",
+    "author": {
+      "@type": "Person",
+      "givenName": "Haki",
+      "familyName": "Stërmilli",
+      "birthDate": "1895",
+      "birthPlace": {
+        "@type": "Place",
+        "address": "Shehër, Dibër, Shqipëri"
+      },
+      "deathDate": "1953-01-17",
+      "image": "/images/haki-stermilli.avif"
+    },
+    "books": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Book",
+        "name": "Sikur t'isha djalë",
+        "folder": "haki-stermilli/sikur-te-isha-djale",
+        "genre": "albanian novels classics",
+        "datePublished": "1936",
+        "thumbnail": "/images/covers/sikur-te-isha-djale.avif",
+        "abstract": "Botuar për herë të parë më 1936, romani rrëfen në formë ditari jetën e Dijes, një të reje që kërkon të gjejë vetveten brenda kufizimeve të shoqërisë patriarkale shqiptare. Konsiderohet një nga veprat më të njohura e më të ribotuara të letërsisë shqipe të shekullit 20.",
+        "publishedFletoret": true
+      }
+    ]
   }
 }

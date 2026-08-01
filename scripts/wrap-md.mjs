@@ -2,8 +2,17 @@
 // Wrap long lines in Markdown files to a max width, without breaking words.
 //
 // Usage:
-//   node scripts/wrap-md.mjs <file.md> [more.md ...] [--width 80] [--stdout]
+//   node scripts/wrap-md.mjs <path> [more...] [--width 80] [--stdout]
 //   npm run wrap -- autore/frang-bardhi/skenderbeu/pjesa-1.md
+//   npm run wrap -- autore/haki-stermilli/sikur-te-isha-djale/*
+//
+// Each path argument may be:
+//   - a Markdown file,
+//   - a directory (searched recursively for Markdown files), or
+//   - a glob pattern (e.g. "autore/haki-stermilli/*" or "**/*.md").
+// Non-Markdown files are skipped. Note that most shells expand globs
+// before the script runs, so a bare "dir/*" typically arrives already
+// expanded into a mix of files and directories, all handled here.
 //
 // It only re-flows lines that are LONGER than the limit, and only "safe"
 // prose lines. It deliberately leaves the following untouched, since
@@ -23,7 +32,65 @@
 // token longer than the width is left over-long on its own line rather
 // than being broken.
 
-import { readFileSync, writeFileSync } from 'node:fs';
+import { readFileSync, writeFileSync, statSync, readdirSync, globSync } from 'node:fs';
+import { join } from 'node:path';
+
+const MD_EXT = /\.(?:md|markdown)$/i;
+
+// Recursively collect Markdown files under a directory.
+function collectFromDir(dir, out) {
+  for (const entry of readdirSync(dir, { withFileTypes: true })) {
+    const full = join(dir, entry.name);
+    if (entry.isDirectory()) {
+      collectFromDir(full, out);
+    } else if (entry.isFile() && MD_EXT.test(entry.name)) {
+      out.push(full);
+    }
+  }
+}
+
+// Expand a single path argument (file, directory, or glob) into a list of
+// Markdown files. Emits a warning for anything that resolves to nothing or
+// to non-Markdown files.
+function expandArg(arg, out) {
+  let stat = null;
+  try {
+    stat = statSync(arg);
+  } catch {
+    // Not a literal path: treat it as a glob pattern.
+  }
+
+  if (stat) {
+    if (stat.isDirectory()) {
+      collectFromDir(arg, out);
+    } else if (MD_EXT.test(arg)) {
+      out.push(arg);
+    } else {
+      console.error(`wrap-md: skipping non-Markdown file: ${arg}`);
+    }
+    return;
+  }
+
+  let matches;
+  try {
+    matches = [...globSync(arg)];
+  } catch (err) {
+    console.error(`wrap-md: bad pattern ${arg}: ${err.message}`);
+    return;
+  }
+  if (matches.length === 0) {
+    console.error(`wrap-md: no matches for: ${arg}`);
+    return;
+  }
+  for (const match of matches) expandArg(match, out);
+}
+
+// Turn the raw path arguments into a de-duplicated list of Markdown files.
+function resolveFiles(args) {
+  const collected = [];
+  for (const arg of args) expandArg(arg, collected);
+  return [...new Set(collected)];
+}
 
 function parseArgs(argv) {
   const files = [];
@@ -175,12 +242,18 @@ function main() {
   }
 
   if (opts.files.length === 0) {
-    console.error('Usage: node scripts/wrap-md.mjs <file.md> [...] [--width 80] [--stdout]');
+    console.error('Usage: node scripts/wrap-md.mjs <path> [...] [--width 80] [--stdout]');
     process.exit(2);
   }
 
+  const files = resolveFiles(opts.files);
+  if (files.length === 0) {
+    console.error('wrap-md: no Markdown files to process');
+    process.exit(1);
+  }
+
   let hadError = false;
-  for (const file of opts.files) {
+  for (const file of files) {
     let original;
     try {
       original = readFileSync(file, 'utf8');

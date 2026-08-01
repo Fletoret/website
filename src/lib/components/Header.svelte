@@ -36,7 +36,6 @@
     </section>
 
     <section class="nav-items">
-      <a class="link" href="/copeza">Copëza</a>
       <a class="link" href="/blog">Blog</a>
       <button id="theme-icon" onclick={switchTheme}>
         <div class="icon">
