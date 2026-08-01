@@ -2,108 +2,284 @@
   import '$lib/css/app.css';
   import '$lib/css/book-cover-fonts.css';
 
+  import { tick } from 'svelte';
+  import slugify from 'slugify';
+  import { IconDownload } from '@tabler/icons-svelte';
+
   import { domToImage } from '$lib/utils';
 
   import Header from '$lib/components/Header.svelte';
+
+  type Palette = {
+    id: string;
+    name: string;
+    bgColor: string;
+    bgColor0: string;
+    textColorPrimary: string;
+  };
+
+  type FontOption = {
+    id: string;
+    name: string;
+    /** Face used for the title and the author line. */
+    display: string;
+    /** Text face used for the subtitle and the imprint. */
+    body: string;
+    titleWeight: number;
+    titleTracking: string;
+    /** True for faces that already render lowercase as small caps. */
+    smallCaps: boolean;
+  };
 
   const themes = [
     { id: 'modern', name: 'Moderne' },
     { id: 'vintage', name: 'Vintage' },
   ];
 
-  const palettes = {
-    classic: {
+  const palettes: Palette[] = [
+    {
+      id: 'classic',
       name: 'Lokja',
-      bgColor: '#442025',
-      bgColor0: '#30171a',
-      textColorPrimary: '#f5a700',
+      bgColor: '#4a2429',
+      bgColor0: '#2a1416',
+      textColorPrimary: '#f5b942',
     },
-    light: {
+    {
+      id: 'light',
       name: 'Drita',
-      bgColor: '#f6deca',
-      bgColor0: '#ceb7b7',
-      textColorPrimary: '#827069',
+      bgColor: '#f8e3d0',
+      bgColor0: '#d8bdb6',
+      textColorPrimary: '#6d5a52',
     },
-    green: {
+    {
+      id: 'green',
       name: 'Liria',
-      bgColor: '#3f5c46',
-      bgColor0: '#1f2c23',
-      textColorPrimary: '#cfcb6a',
+      bgColor: '#405e47',
+      bgColor0: '#18231c',
+      textColorPrimary: '#d8d47a',
     },
-    coral: {
+    {
+      id: 'coral',
       name: 'Flaka',
-      bgColor: '#6f1a1a',
-      bgColor0: '#4b1717',
-      textColorPrimary: '#cfcb6a',
+      bgColor: '#7a1d1d',
+      bgColor0: '#3c1212',
+      textColorPrimary: '#e8c86a',
     },
-    sepia: {
+    {
+      id: 'sepia',
       name: 'Sepia',
-      bgColor: '#e8dcc4',
-      bgColor0: '#c4b098',
+      bgColor: '#ece0c8',
+      bgColor0: '#bfa987',
       textColorPrimary: '#3d2817',
     },
-    parchment: {
+    {
+      id: 'parchment',
       name: 'Pergamena',
-      bgColor: '#f4ead5',
-      bgColor0: '#d9cdb0',
+      bgColor: '#f6edda',
+      bgColor0: '#d3c4a2',
       textColorPrimary: '#5c4a2f',
     },
-    oldBook: {
+    {
+      id: 'oldBook',
       name: 'Libër i Vjetër',
-      bgColor: '#8b7355',
-      bgColor0: '#5c4a38',
-      textColorPrimary: '#f5e6d3',
+      bgColor: '#907a5c',
+      bgColor0: '#4f3f2f',
+      textColorPrimary: '#f7ead8',
     },
-    burgundy: {
+    {
+      id: 'burgundy',
       name: 'Vjollcë',
       bgColor: '#5c1a1a',
-      bgColor0: '#3d1111',
+      bgColor0: '#2c0d0d',
       textColorPrimary: '#d4af37',
     },
-  };
+    {
+      id: 'ink',
+      name: 'Bojë',
+      bgColor: '#243044',
+      bgColor0: '#111823',
+      textColorPrimary: '#e3ddcd',
+    },
+    {
+      id: 'linen',
+      name: 'Lini',
+      bgColor: '#fbf7ef',
+      bgColor0: '#e2dacb',
+      textColorPrimary: '#26221c',
+    },
+  ];
 
-  const fonts = {
-    alegreyaSC: {
+  const fonts: FontOption[] = [
+    {
+      id: 'instrumentSerif',
+      name: 'Instrument Serif',
+      display: '--serif-display',
+      body: '--serif',
+      titleWeight: 400,
+      titleTracking: '-0.015em',
+      smallCaps: false,
+    },
+    {
+      id: 'sourceSerif',
+      name: 'Source Serif 4',
+      display: '--serif',
+      body: '--serif',
+      titleWeight: 600,
+      titleTracking: '-0.01em',
+      smallCaps: false,
+    },
+    {
+      id: 'crimsonText',
+      name: 'Crimson Text',
+      display: '--crimson-text',
+      body: '--crimson-text',
+      titleWeight: 600,
+      titleTracking: '0em',
+      smallCaps: false,
+    },
+    {
+      id: 'alegreyaSC',
       name: 'Alegreya SC',
-      value: '--alegreya-sc',
+      display: '--alegreya-sc',
+      body: '--crimson-text',
+      titleWeight: 500,
+      titleTracking: '0.02em',
+      smallCaps: true,
     },
-    imFellEnglishSC: {
+    {
+      id: 'imFellEnglishSC',
       name: 'IM Fell English SC',
-      value: '--im-fell-english-sc',
+      display: '--im-fell-english-sc',
+      body: '--crimson-text',
+      titleWeight: 400,
+      titleTracking: '0.02em',
+      smallCaps: true,
     },
-    inter: {
-      name: 'Inter',
-      value: '--inter',
-    },
-    charter: {
+    {
+      id: 'charter',
       name: 'Charter',
-      value: '--charter',
+      display: '--charter',
+      body: '--charter',
+      titleWeight: 600,
+      titleTracking: '-0.005em',
+      smallCaps: false,
     },
-  };
+    {
+      id: 'inter',
+      name: 'Inter',
+      display: '--inter',
+      body: '--inter',
+      titleWeight: 600,
+      titleTracking: '-0.025em',
+      smallCaps: false,
+    },
+  ];
+
+  /** Appends an alpha channel to a `#rrggbb` value. */
+  function withAlpha(hex: string, alpha: number): string {
+    const channel = Math.round(Math.min(Math.max(alpha, 0), 1) * 255);
+    return hex + channel.toString(16).padStart(2, '0');
+  }
+
+  /** Relative luminance, used to decide whether a palette reads as dark stock. */
+  function isDarkColor(hex: string): boolean {
+    const value = hex.replace('#', '');
+    const r = parseInt(value.slice(0, 2), 16);
+    const g = parseInt(value.slice(2, 4), 16);
+    const b = parseInt(value.slice(4, 6), 16);
+    return (0.2126 * r + 0.7152 * g + 0.0722 * b) / 255 < 0.55;
+  }
 
   let bookTitle = $state('Titulli i librit');
   let bookSubtitle = $state('Një nëntitull ndoshta pak më përshkrues.');
   let author = $state('Autori');
 
   let theme = $state('modern');
-  let palette = $state(palettes.classic);
-  let font = $state(fonts.alegreyaSC);
-  const bgColor = $derived(palette.bgColor);
-  const bgColor0 = $derived(palette.bgColor0);
-  const textColorPrimary = $derived(palette.textColorPrimary);
+  let palette = $state(palettes[0]);
+  let font = $state(fonts[0]);
+  let exporting = $state(false);
 
   // Font size controls (in rem)
-  let titleFontSize = $state(3.5);
+  let titleFontSize = $state(4);
   let subtitleFontSize = $state(0.95);
-  let authorFontSize = $state(1.25);
+  let authorFontSize = $state(1.05);
 
-  function handleImgSave() {
+  const dark = $derived(isDarkColor(palette.bgColor0));
+
+  const coverStyle = $derived(
+    [
+      `--bg: ${palette.bgColor}`,
+      `--bg-0: ${palette.bgColor0}`,
+      `--ink: ${palette.textColorPrimary}`,
+      `--ink-80: ${withAlpha(palette.textColorPrimary, 0.8)}`,
+      `--ink-55: ${withAlpha(palette.textColorPrimary, 0.55)}`,
+      `--ink-35: ${withAlpha(palette.textColorPrimary, 0.35)}`,
+      `--ink-20: ${withAlpha(palette.textColorPrimary, 0.2)}`,
+      // Light stock catches a warm highlight, dark stock a cool one.
+      `--sheen: ${dark ? 'rgba(255, 246, 230, 0.09)' : 'rgba(255, 255, 255, 0.55)'}`,
+      `--shade: ${dark ? 'rgba(0, 0, 0, 0.26)' : 'rgba(86, 66, 44, 0.16)'}`,
+      `--grain-opacity: ${dark ? 0.18 : 0.3}`,
+      `--display-font: var(${font.display})`,
+      `--body-font: var(${font.body})`,
+      `--title-weight: ${font.titleWeight}`,
+      `--title-tracking: ${font.titleTracking}`,
+      // Small-cap faces already carry the effect; forcing caps would flatten them.
+      `--caps: ${font.smallCaps ? 'none' : 'uppercase'}`,
+      `--title-size: ${titleFontSize}rem`,
+      `--subtitle-size: ${subtitleFontSize}rem`,
+      `--author-size: ${authorFontSize}rem`,
+    ].join('; '),
+  );
+
+  async function handleImgSave() {
     const node = document.getElementById('book-cover');
-    if (node) {
-      domToImage(node, bookTitle);
+    if (!node) return;
+
+    // Drop the caret and the editing affordances so they stay out of the PNG.
+    (document.activeElement as HTMLElement | null)?.blur?.();
+    exporting = true;
+    await tick();
+
+    const filename =
+      slugify(`${bookTitle} ${author}`, { lower: true, strict: true }) ||
+      'kopertina';
+
+    try {
+      await domToImage(node, filename, { pixelRatio: 3 });
+    } finally {
+      exporting = false;
     }
   }
 </script>
+
+{#snippet ornament()}
+  <svg
+    class="ornament"
+    viewBox="0 0 240 14"
+    xmlns="http://www.w3.org/2000/svg"
+    aria-hidden="true"
+  >
+    <!-- Rules and lozenges echoing the geometry of Albanian textile borders. -->
+    <line x1="4" y1="7" x2="92" y2="7" stroke="currentColor" stroke-width="1" />
+    <path d="M100 3 L104 7 L100 11 L96 7 Z" fill="currentColor" />
+    <path
+      d="M120 0.5 L126.5 7 L120 13.5 L113.5 7 Z"
+      fill="none"
+      stroke="currentColor"
+      stroke-width="1"
+    />
+    <circle cx="120" cy="7" r="1.6" fill="currentColor" />
+    <path d="M140 3 L144 7 L140 11 L136 7 Z" fill="currentColor" />
+    <line
+      x1="148"
+      y1="7"
+      x2="236"
+      y2="7"
+      stroke="currentColor"
+      stroke-width="1"
+    />
+  </svg>
+{/snippet}
 
 <svelte:head>
   <title>Krijo kopertina — gjenerator kopertinash | Fletoret</title>
@@ -118,105 +294,107 @@
 <Header />
 
 <main>
-  <div
-    id="book-cover"
-    class="cover {theme === 'vintage' ? 'vintage-theme' : 'modern-theme'}"
-    style="background: linear-gradient(0deg, {bgColor0}, {bgColor})"
-  >
-    {#if theme === 'vintage'}
-      <!-- Vintage Theme Layout -->
-      <div class="vintage-ornament-top" style="color: {textColorPrimary}">
-        <svg viewBox="0 0 240 16" xmlns="http://www.w3.org/2000/svg">
-          <!-- Minimal geometric pattern inspired by traditional Albanian textiles -->
-          <line x1="20" y1="8" x2="60" y2="8" stroke="currentColor" stroke-width="1.5"/>
-          <path d="M70,8 L75,3 L80,8 L75,13 Z" stroke="currentColor" stroke-width="1.5" fill="none"/>
-          <line x1="90" y1="8" x2="105" y2="8" stroke="currentColor" stroke-width="1.5"/>
-          <path d="M110,8 L115,3 L120,8 L115,13 Z" stroke="currentColor" stroke-width="1.5" fill="none"/>
-          <line x1="130" y1="8" x2="145" y2="8" stroke="currentColor" stroke-width="1.5"/>
-          <path d="M150,8 L155,3 L160,8 L155,13 Z" stroke="currentColor" stroke-width="1.5" fill="none"/>
-          <line x1="170" y1="8" x2="220" y2="8" stroke="currentColor" stroke-width="1.5"/>
-        </svg>
-      </div>
+  <div class="cover-stage">
+    <div
+      id="book-cover"
+      class="cover"
+      class:vintage-theme={theme === 'vintage'}
+      class:modern-theme={theme !== 'vintage'}
+      class:is-exporting={exporting}
+      style={coverStyle}
+    >
+      <div class="layer bg"></div>
+      <div class="layer sheen"></div>
+      <div class="layer vignette"></div>
+      <svg class="layer grain" preserveAspectRatio="none" aria-hidden="true">
+        <filter id="cover-grain">
+          <feTurbulence
+            type="fractalNoise"
+            baseFrequency="0.85"
+            numOctaves="3"
+            stitchTiles="stitch"
+          />
+          <feColorMatrix type="saturate" values="0" />
+        </filter>
+        <rect width="100%" height="100%" filter="url(#cover-grain)" />
+      </svg>
 
-      <div class="vintage-content">
-        <!-- Author at top -->
-        <div class="vintage-author-section">
-          <div
-            class="author vintage-author"
-            bind:innerText={author}
-            style="color: {textColorPrimary}; font-family: var({font.value}); font-size: {authorFontSize}rem"
-            contenteditable
-          ></div>
+      {#if theme === 'vintage'}
+        <div class="frame frame-outer"></div>
+        <div class="frame frame-inner"></div>
+
+        <div class="content vintage">
+          <div class="v-head">
+            {@render ornament()}
+            <div
+              class="author"
+              data-placeholder="Autori"
+              bind:innerText={author}
+              contenteditable
+            ></div>
+          </div>
+
+          <div class="v-middle">
+            <div
+              class="title"
+              data-placeholder="Titulli"
+              bind:innerText={bookTitle}
+              contenteditable
+            ></div>
+            <div class="rule"></div>
+            <div
+              class="subtitle"
+              data-placeholder="Nëntitulli"
+              bind:innerText={bookSubtitle}
+              contenteditable
+            ></div>
+          </div>
+
+          <div class="v-foot">
+            {@render ornament()}
+            <div class="imprint">Fletoret</div>
+          </div>
         </div>
+      {:else}
+        <div class="content modern">
+          <div class="m-main">
+            <div
+              class="title"
+              data-placeholder="Titulli"
+              bind:innerText={bookTitle}
+              contenteditable
+            ></div>
+            <div class="rule"></div>
+            <div
+              class="subtitle"
+              data-placeholder="Nëntitulli"
+              bind:innerText={bookSubtitle}
+              contenteditable
+            ></div>
+            <div
+              class="author"
+              data-placeholder="Autori"
+              bind:innerText={author}
+              contenteditable
+            ></div>
+          </div>
 
-        <div class="vintage-spacer"></div>
-
-        <!-- Title and subtitle in center -->
-        <div class="vintage-title-section">
-          <div
-            class="title vintage-title"
-            bind:innerText={bookTitle}
-            style="color: {textColorPrimary}; font-family: var({font.value}); font-size: {titleFontSize}rem"
-            contenteditable
-          ></div>
-          <div
-            class="subtitle vintage-subtitle"
-            bind:innerText={bookSubtitle}
-            style="color: {textColorPrimary}cc; font-size: {subtitleFontSize}rem"
-            contenteditable
-          ></div>
+          <div class="m-foot">
+            <div class="hairline"></div>
+            <div class="imprint">Fletoret</div>
+          </div>
         </div>
+      {/if}
+    </div>
 
-        <div class="vintage-spacer"></div>
-      </div>
-
-      <div class="vintage-ornament-bottom" style="color: {textColorPrimary}">
-        <div class="vintage-publisher">Fletoret</div>
-
-        <svg viewBox="0 0 240 16" xmlns="http://www.w3.org/2000/svg">
-          <!-- Minimal geometric pattern inspired by traditional Albanian textiles -->
-          <line x1="20" y1="8" x2="60" y2="8" stroke="currentColor" stroke-width="1.5"/>
-          <path d="M70,8 L75,3 L80,8 L75,13 Z" stroke="currentColor" stroke-width="1.5" fill="none"/>
-          <line x1="90" y1="8" x2="105" y2="8" stroke="currentColor" stroke-width="1.5"/>
-          <path d="M110,8 L115,3 L120,8 L115,13 Z" stroke="currentColor" stroke-width="1.5" fill="none"/>
-          <line x1="130" y1="8" x2="145" y2="8" stroke="currentColor" stroke-width="1.5"/>
-          <path d="M150,8 L155,3 L160,8 L155,13 Z" stroke="currentColor" stroke-width="1.5" fill="none"/>
-          <line x1="170" y1="8" x2="220" y2="8" stroke="currentColor" stroke-width="1.5"/>
-        </svg>
-      </div>
-    {:else}
-      <!-- Modern Theme Layout -->
-      <div class="top">
-        <div
-          class="title"
-          bind:innerText={bookTitle}
-          style="color: {textColorPrimary}; font-family: var({font.value}); font-size: {titleFontSize}rem"
-          contenteditable
-        ></div>
-        <div
-          class="subtitle"
-          bind:innerText={bookSubtitle}
-          style="color: {textColorPrimary}a3; font-size: {subtitleFontSize}rem"
-          contenteditable
-        ></div>
-      </div>
-      <div class="center">
-        <div
-          class="author"
-          bind:innerText={author}
-          style="color: {textColorPrimary}; font-family: var({font.value}); font-size: {authorFontSize}rem"
-          contenteditable
-        ></div>
-      </div>
-      <div class="bottom" style="color: {textColorPrimary}80">Fletoret</div>
-    {/if}
+    <p class="stage-hint">Kliko mbi tekstin e kopertinës për ta ndryshuar.</p>
   </div>
 
   <div class="editor">
     <div class="section">
       <div class="heading">Tema</div>
       <div class="flex-row">
-        {#each themes as themeOption}
+        {#each themes as themeOption (themeOption.id)}
           <button
             class="theme-btn"
             class:active={theme === themeOption.id}
@@ -233,27 +411,30 @@
     <div class="section">
       <div class="heading">Ngjyra</div>
       <div class="flex-row">
-        {#each Object.entries(palettes) as [name, definitions]}
+        {#each palettes as definition (definition.id)}
           <button
             class="palette"
-            style="background: linear-gradient(0deg, {definitions.bgColor0}, {definitions.bgColor}); color: {definitions.textColorPrimary}"
+            class:active={palette.id === definition.id}
+            style="background: linear-gradient(170deg, {definition.bgColor}, {definition.bgColor0}); color: {definition.textColorPrimary}"
             onclick={() => {
-              palette = definitions;
+              palette = definition;
             }}
           >
-            {definitions.name}
+            {definition.name}
           </button>
         {/each}
       </div>
     </div>
+
     <div class="section-row">
       <div class="section">
         <div class="heading">Tipografia</div>
         <div class="flex-column">
-          {#each Object.entries(fonts) as [name, definition]}
+          {#each fonts as definition (definition.id)}
             <button
               class="btn font"
-              style="font-family: var({definition.value});"
+              class:active={font.id === definition.id}
+              style="font-family: var({definition.display});"
               onclick={() => {
                 font = definition;
               }}
@@ -268,7 +449,9 @@
         <div class="heading">Madhësia e Shkronjave</div>
         <div class="flex-column slider-group">
           <div class="slider-item">
-            <label for="title-size">Titulli: {titleFontSize.toFixed(2)}rem</label>
+            <label for="title-size"
+              >Titulli: {titleFontSize.toFixed(2)}rem</label
+            >
             <input
               id="title-size"
               type="range"
@@ -280,7 +463,9 @@
             />
           </div>
           <div class="slider-item">
-            <label for="subtitle-size">Nëntitulli: {subtitleFontSize.toFixed(2)}rem</label>
+            <label for="subtitle-size"
+              >Nëntitulli: {subtitleFontSize.toFixed(2)}rem</label
+            >
             <input
               id="subtitle-size"
               type="range"
@@ -292,7 +477,9 @@
             />
           </div>
           <div class="slider-item">
-            <label for="author-size">Autori: {authorFontSize.toFixed(2)}rem</label>
+            <label for="author-size"
+              >Autori: {authorFontSize.toFixed(2)}rem</label
+            >
             <input
               id="author-size"
               type="range"
@@ -307,19 +494,22 @@
       </div>
     </div>
 
-    <button class="btn" onclick={handleImgSave}> ⤓ </button>
+    <button class="btn download" onclick={handleImgSave} disabled={exporting}>
+      <IconDownload size={20} />
+      {exporting ? 'Duke ruajtur…' : 'Shkarko kopertinën'}
+    </button>
   </div>
 </main>
 
 <style lang="scss">
-  /* 107 mm x 174 */
   main {
-    width: 1400px;
-    padding: 2rem 0;
+    width: min(1400px, 100%);
+    padding: 2rem 1rem;
     display: flex;
-    gap: 2rem;
+    gap: 3rem;
     margin: auto;
   }
+
   .btn {
     border: solid 2px transparent;
     display: flex;
@@ -330,127 +520,291 @@
     border: solid 2px var(--border-color);
   }
 
-  .cover {
-    /* Standard 6×9 inch paperback format */
-    min-width: 500px;
-    max-height: 750px;
-    padding: 8rem 2.5rem;
+  .cover-stage {
+    position: sticky;
+    top: 2rem;
+    align-self: flex-start;
     display: flex;
     flex-direction: column;
-    gap: 1rem;
-    justify-content: space-between;
-    text-align: center;
-    border-radius: var(--radius-md);
+    gap: var(--spacing-lg);
+
+    .stage-hint {
+      margin: 0;
+      font-size: var(--text-sm);
+      color: var(--text-secondary);
+      text-align: center;
+    }
+  }
+
+  /* Standard 6×9 inch trade paperback proportion (2:3). */
+  .cover {
+    position: relative;
+    isolation: isolate;
+    width: 500px;
+    aspect-ratio: 2 / 3;
+    overflow: hidden;
+    border-radius: var(--radius-sm);
+    box-shadow: var(--shadow);
+    font-kerning: normal;
+    font-feature-settings:
+      'kern' 1,
+      'liga' 1,
+      'calt' 1;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+
+    .layer {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      pointer-events: none;
+    }
+
+    .bg {
+      background: linear-gradient(170deg, var(--bg) 0%, var(--bg-0) 100%);
+    }
+
+    /* A soft light source at the top keeps the flat gradient from looking digital. */
+    .sheen {
+      background: radial-gradient(
+        95% 55% at 50% -8%,
+        var(--sheen) 0%,
+        transparent 70%
+      );
+    }
+
+    .vignette {
+      background: radial-gradient(
+        118% 100% at 50% 45%,
+        transparent 55%,
+        var(--shade) 100%
+      );
+    }
+
+    /* Paper tooth. Inline SVG (rather than a CSS data URI) so html-to-image
+       clones it verbatim and the grain survives the PNG export. */
+    .grain {
+      opacity: var(--grain-opacity);
+      mix-blend-mode: overlay;
+    }
+
+    .content {
+      position: relative;
+      z-index: 1;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      text-align: center;
+      color: var(--ink);
+    }
+
+    [contenteditable] {
+      outline: none;
+      caret-color: var(--ink);
+      border-radius: 2px;
+      overflow-wrap: break-word;
+    }
+
+    [contenteditable]:empty::before {
+      content: attr(data-placeholder);
+      opacity: 0.3;
+    }
+
+    &:not(.is-exporting) [contenteditable]:hover,
+    &:not(.is-exporting) [contenteditable]:focus {
+      box-shadow: 0 0 0 1px var(--ink-20);
+    }
 
     .title {
-      font-weight: 500;
-      line-height: 1.2;
+      font-family: var(--display-font);
+      font-size: var(--title-size);
+      font-weight: var(--title-weight);
+      letter-spacing: var(--title-tracking);
+      line-height: 1.08;
+      text-wrap: balance;
     }
+
     .subtitle {
+      font-family: var(--body-font);
+      font-size: var(--subtitle-size);
       line-height: 1.5;
+      color: var(--ink-80);
+      text-wrap: balance;
     }
 
-    /* Vintage Theme Styles */
-    &.vintage-theme {
-      padding: 3.5rem 3.5rem;
-      justify-content: flex-start;
-      border: 8px double rgba(255, 255, 255, 0.1);
+    .author {
+      font-family: var(--display-font);
+      font-size: var(--author-size);
+      font-weight: 400;
+      text-transform: var(--caps);
+      letter-spacing: 0.16em;
+      line-height: 1.3;
+    }
 
-      .vintage-ornament-top,
-      .vintage-ornament-bottom {
-        opacity: 0.7;
-        svg {
-          width: 100%;
-          height: 16px;
-          opacity: 0.7;
-        }
+    .imprint {
+      font-family: var(--body-font);
+      font-size: 0.7rem;
+      letter-spacing: 0.34em;
+      text-transform: uppercase;
+      color: var(--ink-55);
+    }
+
+    /* ── Modern ─────────────────────────────────────────────── */
+    &.modern-theme .content {
+      display: grid;
+      grid-template-rows: 1fr auto;
+      padding: 3.5rem 3rem 2.75rem;
+    }
+
+    /* Title, subtitle and author travel together as one centred block. */
+    .m-main {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 1.15rem;
+      /* The imprint at the foot adds weight below, so a dead-centre stack
+         reads as slightly low; lift it towards the optical centre. */
+      padding-bottom: 2.5rem;
+
+      .rule {
+        width: 3rem;
+        height: 2px;
+        background: var(--ink-35);
       }
 
-      .vintage-ornament-bottom {
-        margin-top: auto;
-        display: flex;
-        flex-direction: column;
-        gap: 0.75rem;
-
-        .vintage-publisher {
-          opacity: 1;
-          font-size: 0.75rem;
-          letter-spacing: 0.3em;
-          text-transform: uppercase;
-          opacity: 0.6;
-          margin-top: 0.5rem;
-        }
+      .subtitle {
+        max-width: 88%;
       }
 
-      .vintage-content {
-        flex: 1;
-        display: flex;
-        flex-direction: column;
-        margin-top: 2.5rem;
-        margin-bottom: 2.5rem;
+      /* Held further off than the internal gaps so the group reads as
+         "work, then author" rather than three evenly spaced lines. */
+      .author {
+        margin-top: 2.25rem;
+      }
+    }
+
+    .m-foot {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 1rem;
+
+      .hairline {
+        width: 100%;
+        height: 1px;
+        background: var(--ink-20);
+      }
+    }
+
+    /* ── Vintage ────────────────────────────────────────────── */
+    .frame {
+      position: absolute;
+      z-index: 1;
+      pointer-events: none;
+    }
+
+    .frame-outer {
+      inset: 16px;
+      border: 2px solid var(--ink-35);
+    }
+
+    .frame-inner {
+      inset: 24px;
+      border: 1px solid var(--ink-20);
+    }
+
+    &.vintage-theme .content {
+      justify-content: space-between;
+      padding: 3.25rem 3rem;
+    }
+
+    .ornament {
+      width: 100%;
+      height: 14px;
+      color: var(--ink-55);
+      display: block;
+    }
+
+    .v-head {
+      display: flex;
+      flex-direction: column;
+      gap: 2rem;
+    }
+
+    .v-middle {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      gap: 1.25rem;
+
+      .title {
+        text-transform: var(--caps);
+        line-height: 1.14;
       }
 
-      .vintage-author-section {
-        display: flex;
-        flex-direction: column;
-        gap: 0.5rem;
-        align-items: center;
+      .rule {
+        width: 2.5rem;
+        height: 1px;
+        margin: 0.25rem auto;
+        background: var(--ink-35);
       }
 
-      .vintage-author {
-        font-weight: 400;
-        letter-spacing: 0.15em;
-        text-transform: uppercase;
-        padding: 0;
-      }
-
-      .vintage-spacer {
-        flex: 1;
-        min-height: 1rem;
-      }
-
-      .vintage-title-section {
-        display: flex;
-        flex-direction: column;
-        gap: 1.25rem;
-        align-items: center;
-      }
-
-      .vintage-title {
-        font-weight: 700;
-        line-height: 1.1;
-        letter-spacing: 0.02em;
-        text-transform: uppercase;
-      }
-
-      .vintage-subtitle {
+      .subtitle {
         font-style: italic;
-        line-height: 1.5;
         max-width: 85%;
         margin: 0 auto;
-        font-weight: 400;
-        opacity: 0.9;
       }
+    }
+
+    .v-foot {
+      display: flex;
+      flex-direction: column;
+      gap: 1.25rem;
     }
   }
 
   .editor {
+    flex: 1;
+    min-width: 0;
     display: flex;
     flex-direction: column;
     gap: var(--spacing-2xxl);
 
-    .btn {
+    .download {
       width: fit-content;
+      cursor: pointer;
+      padding: var(--spacing-lg) var(--spacing-xxl);
+      border-radius: var(--radius-lg);
+      background: var(--bg-secondary);
+      border: 2px solid var(--border-color);
+      color: var(--text-primary);
+      font-size: var(--text-md);
+
+      &:disabled {
+        opacity: 0.6;
+        cursor: progress;
+      }
     }
 
     .section-row {
       display: flex;
       flex-direction: row;
-      gap: 2rem;
+      gap: 4rem;
       align-items: flex-start;
 
       .section {
         flex: 1;
+        min-width: 0;
+      }
+
+      /* The sliders are visually light next to the solid font buttons, so they
+         need more than the gap alone to stop reading as the same column. */
+      .section + .section {
+        padding-left: 4rem;
+        border-left: 1px solid var(--border-color);
       }
     }
 
@@ -472,8 +826,22 @@
 
         .palette {
           cursor: pointer;
-          padding: 1rem 2rem;
+          padding: 0.9rem 1.75rem;
           border-radius: var(--radius-xl);
+          border: 2px solid transparent;
+          box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.08);
+          transition: transform 0.15s ease;
+
+          &:hover {
+            transform: translateY(-2px);
+          }
+
+          &.active {
+            border-color: var(--link-primary);
+            box-shadow:
+              inset 0 0 0 1px rgba(0, 0, 0, 0.08),
+              0 0 0 2px var(--bg-primary);
+          }
         }
 
         .theme-btn {
@@ -487,14 +855,14 @@
           transition: all 0.2s ease;
 
           &:hover {
-            background: var(--bg-tertiary);
+            background: var(--bg-primary);
             border-color: var(--text-secondary);
           }
 
           &.active {
-            background: var(--accent-primary);
-            color: white;
-            border-color: var(--accent-primary);
+            background: var(--link-primary);
+            color: var(--bg-primary);
+            border-color: var(--link-primary);
           }
         }
       }
@@ -502,18 +870,25 @@
       .flex-column {
         display: flex;
         flex-direction: column;
-        gap: 1rem;
+        gap: 0.75rem;
 
         .font {
           background: none;
           border: solid 2px var(--border-color);
+          border-radius: var(--radius-md);
+          color: var(--text-primary);
           font-size: var(--text-lg);
           width: 100%;
-          padding: var(--spacing-xl);
+          padding: var(--spacing-lg) var(--spacing-xl);
+          cursor: pointer;
         }
 
         .font:hover {
           background-color: var(--bg-secondary);
+        }
+
+        .font.active {
+          border-color: var(--link-primary);
         }
 
         &.slider-group {
@@ -524,7 +899,7 @@
       .slider-item {
         display: flex;
         flex-direction: column;
-        gap: 0.5rem;
+        gap: 0.65rem;
 
         label {
           font-size: var(--text-sm);
@@ -534,9 +909,16 @@
 
         .slider {
           width: 100%;
+          max-width: 22rem;
           height: 6px;
           border-radius: 5px;
-          background: var(--bg-secondary);
+          /* --bg-secondary is a near-white on a near-white page, so the track
+             was effectively invisible. */
+          background: color-mix(
+            in srgb,
+            var(--text-secondary) 28%,
+            transparent
+          );
           outline: none;
           -webkit-appearance: none;
           appearance: none;
@@ -548,7 +930,7 @@
             width: 18px;
             height: 18px;
             border-radius: 50%;
-            background: var(--accent-primary);
+            background: var(--link-primary);
             cursor: pointer;
             transition: all 0.15s ease;
 
@@ -561,7 +943,7 @@
             width: 18px;
             height: 18px;
             border-radius: 50%;
-            background: var(--accent-primary);
+            background: var(--link-primary);
             cursor: pointer;
             border: none;
             transition: all 0.15s ease;
@@ -574,16 +956,58 @@
           &::-webkit-slider-runnable-track {
             height: 6px;
             border-radius: 5px;
-            background: var(--bg-secondary);
+            background: transparent;
           }
 
           &::-moz-range-track {
             height: 6px;
             border-radius: 5px;
-            background: var(--bg-secondary);
+            background: transparent;
           }
         }
       }
+    }
+  }
+
+  @media (max-width: 1100px) {
+    main {
+      flex-direction: column;
+      align-items: center;
+      gap: 2rem;
+    }
+
+    .cover-stage {
+      position: static;
+      max-width: 100%;
+    }
+
+    .editor {
+      width: min(500px, 100%);
+    }
+
+    .editor .section-row {
+      flex-direction: column;
+      gap: var(--spacing-2xxl);
+    }
+
+    .editor .section-row .section {
+      width: 100%;
+    }
+
+    /* Stacked, the vertical divider makes no sense. */
+    .editor .section-row .section + .section {
+      padding-left: 0;
+      border-left: none;
+    }
+  }
+
+  @media (max-width: 540px) {
+    /* The cover keeps its fixed 500×750 pixel size so the exported PNG is always
+       identical; on narrow screens the stage scrolls instead of scaling, since a
+       CSS transform would also shrink the measured export dimensions. */
+    .cover-stage {
+      max-width: 100%;
+      overflow-x: auto;
     }
   }
 </style>

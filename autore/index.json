@@ -379,5 +379,41 @@
         "publishedFletoret": true
       }
     ]
+  },
+  "zef-serembe": {
+    "folder": "zef-serembe",
+    "name": "Zef Serembe",
+    "description": "Poet lirik arbëresh nga Strigari i Kalabrisë (1844–1901). Nxënës i De Radës, e kaloi jetën në mërgim mes Italisë, Brazilit e Argjentinës dhe vdiq në São Paulo; shkroi në arbërisht një lirikë malli, dashurie e humbjeje.",
+    "thumbnail": "/images/zef-serembe.avif",
+    "progressState": "partial",
+    "author": {
+      "@type": "Person",
+      "givenName": "Zef",
+      "familyName": "Serembe",
+      "birthDate": "1844-03-06",
+      "birthPlace": {
+        "@type": "Place",
+        "address": "San Cosmo Albanese, Kalabri, Itali"
+      },
+      "deathDate": "1901-12-31",
+      "deathPlace": {
+        "@type": "Place",
+        "address": "São Paulo, Brazil"
+      },
+      "image": "/images/zef-serembe.avif"
+    },
+    "books": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Book",
+        "name": "Vjersha",
+        "folder": "zef-serembe/vjersha",
+        "genre": "albanian poetry classics",
+        "datePublished": "1926",
+        "thumbnail": "/images/covers/vjersha.avif",
+        "abstract": "Tridhjetë e pesë vjersha shqip, mbledhur e botuar në Milano nga i nipi, një çerek shekulli pas vdekjes së poetit. Vargje malli e humbjeje — për një dashuri që iku përtej detit, për Arbërinë matanë ujërave, për një rini të shuar.",
+        "publishedFletoret": true
+      }
+    ]
   }
 }

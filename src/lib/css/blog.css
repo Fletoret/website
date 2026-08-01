@@ -129,6 +129,17 @@
   margin: 2.75rem 0;
 }
 
+/* Asterism (`* * *`): a section break that stays visible as text */
+.post-container .asterism {
+  margin: 2.25rem 0;
+  color: var(--text-secondary);
+  font-size: 0.9em;
+  letter-spacing: 0.6em;
+  /* letter-spacing trails the last glyph — pull it back so it stays centred */
+  text-indent: 0.6em;
+  text-align: center;
+}
+
 /* ---------- Block quotation / pull quote ---------- */
 
 .post-container blockquote {

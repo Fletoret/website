@@ -17,6 +17,27 @@ const sortedFAQ = (posts: FAQ[]) => {
   });
 };
 
+/**
+ * Lay out the chapters of a book in reading order.
+ *
+ * Chapters come out of `groupBy` in whatever order glob walked the filesystem,
+ * which is not guaranteed to be meaningful. Books that number `order`
+ * continuously across their sections (e.g. Juvenilja, Vjersha) get the right
+ * sequence from the lowest `order` in each chapter. The sort is stable, so
+ * books that restart `order` inside every section keep the order their
+ * chapters were discovered in.
+ */
+const sortedChapters = (chapters: Record<string, Post[]>) => {
+  const firstOrder = (posts: Post[]) =>
+    posts.reduce((min, post) => Math.min(min, post.order), Infinity);
+
+  return Object.fromEntries(
+    Object.entries(chapters).sort(
+      ([, a], [, b]) => firstOrder(a) - firstOrder(b),
+    ),
+  );
+};
+
 const groupBy = function <T extends Record<string, unknown>>(
   xs: T[],
   key: keyof T,
@@ -202,7 +223,7 @@ export const getEntries = (
     }
 
     if (book.publishedFletoret) {
-      _books.push([book, groupBy(bookEntries, 'parent')]);
+      _books.push([book, sortedChapters(groupBy(bookEntries, 'parent'))]);
     }
   }
 
@@ -218,7 +239,7 @@ export const getEntries = (
     }
   }
 
-  return { chapters, books: _books, authorInfo };
+  return { chapters: sortedChapters(chapters), books: _books, authorInfo };
 };
 
 export const getEntriesForBook = (
@@ -253,7 +274,7 @@ export const getEntriesForBook = (
     _entries = sortedPosts(_entries);
   }
 
-  return { chapters, authorInfo, bookInfo };
+  return { chapters: sortedChapters(chapters), authorInfo, bookInfo };
 };
 
 export const getFAQ = (): FAQ[] => {

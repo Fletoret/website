@@ -87,6 +87,24 @@ function getMarkdownParser({
 
   const parser = markdown(mdconfig);
 
+  // Across the corpus `* * *` marks a section break inside a poem or a story:
+  // the asterisks are part of the printed page, not a horizontal rule. Render
+  // them as a real (selectable, copyable) asterism instead of an `<hr>`.
+  // Dash/underscore thematic breaks keep their default `<hr>` rendering.
+  const defaultHr = parser.renderer.rules.hr;
+  parser.renderer.rules.hr = (tokens, idx, options, env, self) => {
+    const markup = tokens[idx].markup ?? '';
+
+    if (markup.startsWith('*')) {
+      const asterisks = markup.replace(/\s+/g, '').split('').join(' ');
+      return `<p class="asterism" role="separator">${asterisks}</p>\n`;
+    }
+
+    return defaultHr
+      ? defaultHr(tokens, idx, options, env, self)
+      : self.renderToken(tokens, idx, options);
+  };
+
   parser
     .use(mdFootnote)
     .use(mdAttrs)
