@@ -1,3 +1,7 @@
-# iiif-downloader==0.0.8 # Patched version in data-pipeline/downloader
-ocrmac==1.0.1
-rich==15.0.0
+# The IIIF client in pipeline/iiif.py replaces iiif-downloader==0.0.8, which
+# couldn't give us page order, manifest metadata or resumable downloads.
+requests>=2.31
+truststore>=0.10        # BKD omits its intermediate cert; see pipeline/__init__.py
+anthropic>=0.116        # transcription (pipeline/transcribe.py)
+ocrmac>=1.0.1           # draft OCR, macOS only (pipeline/vision.py)
+rich>=13.7              # progress bars; the pipeline runs without it

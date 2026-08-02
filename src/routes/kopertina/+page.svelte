@@ -4,7 +4,7 @@
 
   import { tick } from 'svelte';
   import slugify from 'slugify';
-  import { IconDownload } from '@tabler/icons-svelte';
+  import { IconDownload, IconCopy, IconCheck } from '@tabler/icons-svelte';
 
   import { domToImage } from '$lib/utils';
 
@@ -190,6 +190,11 @@
     return (0.2126 * r + 0.7152 * g + 0.0722 * b) / 255 < 0.55;
   }
 
+  /** Double-quotes a value for a POSIX shell command line. */
+  function shellQuote(value: string): string {
+    return `"${value.replace(/[\\$`"]/g, '\\$&')}"`;
+  }
+
   let bookTitle = $state('Titulli i librit');
   let bookSubtitle = $state('Një nëntitull ndoshta pak më përshkrues.');
   let author = $state('Autori');
@@ -198,11 +203,41 @@
   let palette = $state(palettes[0]);
   let font = $state(fonts[0]);
   let exporting = $state(false);
+  let commandCopied = $state(false);
 
   // Font size controls (in rem)
   let titleFontSize = $state(4);
   let subtitleFontSize = $state(0.95);
   let authorFontSize = $state(1.05);
+
+  // Mirrors scripts/generate-cover.mjs's flags, so pasting this reproduces
+  // the cover shown here without a browser. <autori/libri> is a stand-in for
+  // a book's "folder" field in autore/index.json, which this page has no
+  // notion of.
+  const coverCommand = $derived(
+    [
+      'npm run cover --',
+      '<autori/libri>',
+      '--title',
+      shellQuote(bookTitle),
+      '--subtitle',
+      shellQuote(bookSubtitle),
+      '--author',
+      shellQuote(author),
+      '--theme',
+      theme,
+      '--palette',
+      palette.id,
+      '--font',
+      font.id,
+      '--title-size',
+      titleFontSize.toFixed(2),
+      '--subtitle-size',
+      subtitleFontSize.toFixed(2),
+      '--author-size',
+      authorFontSize.toFixed(2),
+    ].join(' '),
+  );
 
   const dark = $derived(isDarkColor(palette.bgColor0));
 
@@ -249,6 +284,14 @@
     } finally {
       exporting = false;
     }
+  }
+
+  async function handleCopyCommand() {
+    await navigator.clipboard.writeText(coverCommand);
+    commandCopied = true;
+    setTimeout(() => {
+      commandCopied = false;
+    }, 2000);
   }
 </script>
 
@@ -397,6 +440,7 @@
         {#each themes as themeOption (themeOption.id)}
           <button
             class="theme-btn"
+            data-id={themeOption.id}
             class:active={theme === themeOption.id}
             onclick={() => {
               theme = themeOption.id;
@@ -414,6 +458,7 @@
         {#each palettes as definition (definition.id)}
           <button
             class="palette"
+            data-id={definition.id}
             class:active={palette.id === definition.id}
             style="background: linear-gradient(170deg, {definition.bgColor}, {definition.bgColor0}); color: {definition.textColorPrimary}"
             onclick={() => {
@@ -433,6 +478,7 @@
           {#each fonts as definition (definition.id)}
             <button
               class="btn font"
+              data-id={definition.id}
               class:active={font.id === definition.id}
               style="font-family: var({definition.display});"
               onclick={() => {
@@ -498,6 +544,24 @@
       <IconDownload size={20} />
       {exporting ? 'Duke ruajtur…' : 'Shkarko kopertinën'}
     </button>
+
+    <div class="section">
+      <div class="heading">Komanda CLI</div>
+      <div class="cli-row">
+        <pre class="cli-command"><code>{coverCommand}</code></pre>
+        <button class="btn copy-command" onclick={handleCopyCommand}>
+          {#if commandCopied}
+            <IconCheck size={18} />
+          {:else}
+            <IconCopy size={18} />
+          {/if}
+        </button>
+      </div>
+      <p class="cli-hint">
+        Zëvendëso <code>&lt;autori/libri&gt;</code> me rrugën e librit nga autore/index.json
+        përpara se ta rigjenerosh kopertinën me <code>scripts/generate-cover.mjs</code>.
+      </p>
+    </div>
   </div>
 </main>
 
@@ -619,7 +683,7 @@
     .title {
       font-family: var(--display-font);
       font-size: var(--title-size);
-      font-weight: var(--title-weight);
+      font-weight: bold;
       letter-spacing: var(--title-tracking);
       line-height: 1.08;
       text-wrap: balance;
@@ -636,7 +700,7 @@
     .author {
       font-family: var(--display-font);
       font-size: var(--author-size);
-      font-weight: 400;
+      font-weight: bold;
       text-transform: var(--caps);
       letter-spacing: 0.16em;
       line-height: 1.3;
@@ -786,6 +850,48 @@
       &:disabled {
         opacity: 0.6;
         cursor: progress;
+      }
+    }
+
+    .cli-row {
+      display: flex;
+      align-items: stretch;
+      gap: 0.75rem;
+
+      .cli-command {
+        flex: 1;
+        min-width: 0;
+        margin: 0;
+        padding: var(--spacing-lg);
+        border-radius: var(--radius-md);
+        background: var(--bg-secondary);
+        border: 2px solid var(--border-color);
+        overflow-x: auto;
+
+        code {
+          font-size: var(--text-sm);
+          white-space: pre;
+        }
+      }
+
+      .copy-command {
+        flex-shrink: 0;
+        cursor: pointer;
+        padding: var(--spacing-lg);
+        border-radius: var(--radius-md);
+        background: var(--bg-secondary);
+        border: 2px solid var(--border-color);
+        color: var(--text-primary);
+      }
+    }
+
+    .cli-hint {
+      margin: 0;
+      font-size: var(--text-sm);
+      color: var(--text-secondary);
+
+      code {
+        font-size: 0.9em;
       }
     }
 

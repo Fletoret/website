@@ -1,0 +1,5 @@
+# Page scans and per-page transcripts: bulky, and reproducible from books.json.
+work/
+venv/
+__pycache__/
+.DS_Store
