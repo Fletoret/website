@@ -54,7 +54,7 @@
     .card {
       /* Matches AuthorCard so a book and an author card are the same size. */
       --width: 300px;
-      --height: 400px;
+      --height: 450px;
 
       width: var(--width);
       height: var(--height);

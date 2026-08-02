@@ -176,17 +176,23 @@
 
 /* ---------- Tables ---------- */
 
-.post-container .table {
+.post-container .table, .post-container table {
   font-family: var(--sans-serif);
-  font-size: 0.85em;
-  margin: 2rem 0;
+  font-size: 0.85rem;
+  margin: 1.5rem 0;
   width: 100%;
   border-collapse: collapse;
 }
 
+.post-container .table th,
 .post-container .table td {
-  padding: 0.5rem 0.4rem;
+  padding: 0.3rem 0.5rem;
+  text-align: left;
+}
+
+.post-container .table thead th {
   border-bottom: solid 1px var(--border-color);
+  font-weight: 600;
 }
 
 /* ---------- Figures & media ---------- */
@@ -232,6 +238,14 @@
   max-width: 100%;
   width: 100%;
   border: 1px solid var(--border-color);
+}
+
+/* Inside a captioned figure, the figure itself owns the outer spacing —
+   an unadjusted img margin would collapse with figcaption's margin-top
+   and push the caption as far from its picture as the next figure is. */
+.post-container .post-body figure img,
+.post-container .post-head figure img {
+  margin: 0;
 }
 
 .post-container center {
@@ -608,9 +622,20 @@
 }
 
 /* Bare tables authored without the .table class */
+.post-container table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.post-container table th,
 .post-container table td {
-  padding: 0.4rem 0.2rem;
-  border-bottom: dotted 1px var(--border-color);
+  padding: 0.25rem 0.4rem;
+  text-align: left;
+}
+
+.post-container table thead th {
+  border-bottom: solid 1px var(--border-color);
+  font-weight: 600;
 }
 
 /* Editor notes */

@@ -415,5 +415,25 @@
         "publishedFletoret": true
       }
     ]
+  },
+  "grameno": {
+    "folder": "grameno",
+    "name": "Mihal Grameno",
+    "description": "Mihal Grameno (1871–1931) ka qenë shkrimtar, publicist dhe atdhetar korçar, pjesëmarrës në çetën e Çerçiz Topullit dhe në Kongresin e Manastirit. Themeloi gazetën “Koha” dhe la pas kujtimet e tij nga kryengritjet shqiptare, ndër themelet e letërsisë sonë memuaristike.",
+    "thumbnail": "/images/mihal-grameno.avif",
+    "progressState": "partial",
+    "books": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Book",
+        "name": "Kryengritja shqiptare",
+        "folder": "grameno/kryengritja-e-shqiptareve",
+        "genre": "albanian memoir classics",
+        "datePublished": "1925",
+        "thumbnail": "/images/covers/kryengritja-e-shqiptareve.avif",
+        "abstract": "Kujtimet e Gramenos nga vitet e çetërisë kundër ushtrive turke e greke, krah më krah me Çerçiz Topullin. Rrëfim historik i kryengritjeve shqiptare të fillimit të shekullit XX, i shkruar si dëshmi për trimërinë e luftëtarëve dhe shembull për brezat që vijnë.",
+        "publishedFletoret": true
+      }
+    ]
   }
 }

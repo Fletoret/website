@@ -9,7 +9,10 @@
 </script>
 
 <div id="book-side-panel">
-  <div class="card cover-glow" style="--glow-image: url({authorInfo?.thumbnail});">
+  <div
+    class="card cover-glow"
+    style="--glow-image: url({authorInfo?.thumbnail});"
+  >
     <img
       src={authorInfo?.thumbnail}
       alt="{authorInfo.name} profile"

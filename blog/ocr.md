@@ -9,55 +9,53 @@ published: true
 ---
 
 Së pari, dhe më pak e rëndësishmja, "**digjitale**", e shkruar me "**gj**"
-tingëllon çuditshëm, ... pavarsisht vendlindjes. Shqipja shkruhet siç flitet,
+tingëllon çuditshëm, ... pavarësisht vendlindjes. Shqipja shkruhet siç flitet,
 por dikush, a disa, tek Akademia e Shkencave, kanë vendosur ta ᗪяＥ𝓙ᵗ𝔰н𝓴𝔯𝓾𝒶𝐉ηe,
-duke harruar që një gjuhë që nuk flitet, vdes - ndoshta jo shumë ndryshe nga
-vetë Akademia. Tani që fjalët e ëmbla i thamë, le ta kthejmë vëmendjen tek një
-tjetër institucion: Biblioteka Kombëtare.
+duke harruar që një gjuhë që nuk flitet, vdes — ndoshta jo shumë ndryshe nga
+vetë Akademia.
 
 ### Biblioteka Kombëtare Di<span style="color: var(--text-secondary)">~~gj~~</span>xhitale dhe Fletoret
 
-Një pjesë shumë të vogel të katalogut, kryesisht vepra të vjetra që janë në
-domain-in publik[^1], Biblioteka Kombëtare e ofron nëpërmjet Bibliotekës
+Një pjesë shumë të vogël të katalogut, kryesisht vepra të vjetra që janë në
+domenin publik[^1], Biblioteka Kombëtare e ofron nëpërmjet Bibliotekës
 Kombëtare Dixhitale (BKD), të cilën mund ta gjeni në këtë adresë: [bibliotekadigjitale.bksh.al](https://bibliotekadigjitale.bksh.al/).
-Nëse i rezistuat të klikuarit të link-ut, mos kini merak - do t'ju tregoj
-mjaftueshëm në këtë shkrim, ndërsa ju që u kthyet pasi klikuat, mirëseerdhët:
-do të flasim për çfarë mungon tek ajo që sapo patë.
 
 ![Figura 1: Mrizi i Zânavet, Biblioteka Dixhitale](/blogassets/img/ocr-img1.png)
 
 Si fillim, Biblioteka Kombëtare skanon faqet e veprave në katalog, dhe
 i ofron këto nëpërmjet një sistemi që quhet International Image
-Interoperability Framework (IIIF)[^2], në shqip: Kuadri Ndërkombëtar i
-Ndërveprueshmerisë së Imazheve). IIIF e bën të mundur qe çdo imazh
-të shoqërohet nga metadata të dobishme, por për fat të keq ajo që do doja të kisha gjetur për Fletoret: tesktin e ketyre veprave, nuk e gjeta.
-Kjo është arsyeja pse së bashku me një grup të vogël vullnetaresh, po
+Interoperability Framework (IIIF)[^2] (në shqip: Kuadri Ndërkombëtar i
+Ndërveprueshmërisë së Imazheve). IIIF e bën të mundur që çdo imazh
+të shoqërohet nga metadata të dobishme. Por ajo që më duhej për Fletoret —
+teksti i vetë veprave — nuk është aty.
+Kjo është arsyeja pse, së bashku me një grup të vogël vullnetarësh, po
 përpiqemi të kopjojmë veprën e Gjergj Fishtes: **Mrizi i Zânavet** nga
-versioni i skanuar (shiko Figuren 1), në tekst, që të mund të lexohet dhe
+versioni i skanuar (shiko Figurën 1), në tekst, që të mund të lexohet dhe
 ndahet lehtësisht. Këtë përpjekje mund ta ndiqni tek [fletoret.com/fishta](/fishta).
 
 ### Përshpejtimi i kopjimit
 
-Ajo që duam të ndërtojme, është një mjet qe të na ndihmojë të kopjojmë
+Ajo që duam të ndërtojmë është një mjet që të na ndihmojë të kopjojmë
 përmbajtjen e këtyre librave dixhital nga BKD sa më shpejt. Sfidat janë
 këto:
 
 1. Kopjo çdo faqe nga një libër si imazh.
 2. Për secilën, lexo dhe shkruaj tekstin në këtë imazh.
 3. Kopjo tekstin në një dokument të pastër.
-4. Edito dokumentin e paster që të jete i publikueshëm.
+4. Edito dokumentin e pastër që të jetë i publikueshëm.
 
 Sado të madhe ta kesh dëshirën si vullnetar, realiteti i të kopjuarit rresht
-për rresht gegnishten e pastandartizuar me germa si: `â`, `é`, `î`, `ý`, ...,
-ta zbut vullnetin, sikur vetëm prej faktit që këto germa nuk di as si t'i
-nxjerrësh nga tastiera.
+për rresht të gegnishtes së pastandardizuar, me gërma si `â`, `é`, `î`, `ý`, ...,
+ta zbut vullnetin — qoftë vetëm ngaqë këto gërma nuk di as si t'i nxjerrësh
+nga tastiera.
 
-Një lexues i kujdesshëm, do e ketë vënë re që ndoshta disa prej këtyre hapave
-mund të kombinohen, dhe një pjese më e madhe mund të automatizohen duke
-përdorur pak teknologji. Kjo është ajo që do bëjmë, Kohën që mbetet deri në fund të ketij shkrimi do ta shpenzojmë duke
-shpjeguar teknikisht dhe shkurtimisht, ndërtimin e ketyrë mjeteve modeste që e
-bejne këtë situatë jo të përkryer, pak më të tolerueshme. Rezultati i kësaj
-përpjekje është **Kopjuesi**: [fletoret.com/ocr](https://fletoret.com/ocr/).
+Një lexues i kujdesshëm do ta ketë vënë re që disa prej këtyre hapave
+mund të kombinohen, dhe një pjesë e mirë e tyre mund të automatizohet duke
+përdorur pak teknologji. Kjo është ajo që do të bëjmë. Kohën që mbetet deri
+në fund të këtij shkrimi do ta shpenzojmë duke shpjeguar shkurt ndërtimin e
+këtyre mjeteve modeste, që e bëjnë këtë situatë jo të përkryer pak më të
+tolerueshme. Rezultati i kësaj përpjekjeje është **Kopjuesi**:
+[fletoret.com/ocr](https://fletoret.com/ocr/).
 
 <div class="iframe-container">
     <iframe src="https://youtube.com/embed/9pqEHjTr7yk"></iframe>
@@ -70,10 +68,10 @@ e dërguar në Reddit: [r/fletoret](https://reddit.com/r/fletoret) ose Twitter:
 [@FletoretSQ](https://twitter.com/FletoretSQ).
 
 **Shënim teknik**: Paragrafët që vijojnë përmbajnë disa detaje teknike mbi
-ndërtimin e Kopjuesit, dhe nuk është e nevojshme t'i lexoni, ... përveçse, jeni
-kuriozë ose doni të mësoni si t'i përdorni këto mjete për vepra të tjera.
+ndërtimin e Kopjuesit, dhe nuk është e nevojshme t'i lexoni, ... përveçse nëse
+jeni kuriozë ose doni të mësoni si t'i përdorni këto mjete për vepra të tjera.
 
-Fillimisht, duhet të ndajme problemin e të ndërtuarit të Kopjuesit në copa të
+Fillimisht, duhet ta ndajmë problemin e të ndërtuarit të Kopjuesit në copa të
 vogla:
 
 - **Problemi 1**: Shkarko të gjithë imazhet.
@@ -83,52 +81,53 @@ vogla:
 ### Problemi 1: Shkarko të gjithë imazhet.
 
 Fillimisht, mësuam që sistemi që përdor BKD është IIIF,
-dhe pas një kërkimi të shkurtër, siç pritej, mësojmë që ka edhe njerëz të tjerë me të njëjtin problem: Automatizimin e shkarkimit të imazheve nga servera IIIF.
+dhe pas një kërkimi të shkurtër, siç pritej, mësuam që ka edhe njerëz të tjerë
+me të njëjtin problem: automatizimin e shkarkimit të imazheve nga servera IIIF.
 Një prej këtyre projekteve është `iiif_downloader` nga Yale Digital Humanities
 Lab [^3].
 
-Më poshtë është një shembull i shkurtër se si të shkarkojmë të gjithë
-faqet e Mrizit të Zanave si imazhe. Gjithçka që duhet të dimë, është
+Më poshtë është një shembull i shkurtër se si të shkarkojmë të gjitha
+faqet e Mrizit të Zânavet si imazhe. Gjithçka që duhet të dimë është
 adresa e asaj që në IIIF quhet Manifest i veprës. Këtë mund ta gjejmë
 tek shenja e informacionit `i` tek BKD.
 
 ```py
 from iiif_downloader import Manifest
 
-MANIFEST_URL_MRIZI_I_ZANAVE ='https://bibliotekadigjitale.bksh.al/iiif/Manifester/IIIF/libra!HASHae57.dir'
+MANIFEST_URL_MRIZI_I_ZANAVE = 'https://bibliotekadigjitale.bksh.al/iiif/Manifester/IIIF/libra1!HASHae57.dir'
 
 Manifest(url=MANIFEST_URL_MRIZI_I_ZANAVE).save_images()
 ```
 
-Kjo krijon një direktori që quhet `iiif-downloads`, në të cilen
+Kjo krijon një direktori që quhet `iiif-downloads`, në të cilën
 ndodhet një nëndirektori: `images`, ku gjejmë të gjithë imazhet.
 
 ### Problemi 2: Konverto secilin imazh në tekst.
 
 Edhe ky është një problem i mirëstudiuar, për të cilin mund të kërkoni më
 shumë duke shkruar **Optical Character Recognition** (OCR). Në vija të trasha,
-sa më i mirë skanimi, sa më e thjështë tipografia dhe sa më popullore gjuha
+sa më i mirë skanimi, sa më e thjeshtë tipografia dhe sa më popullore gjuha
 aq më cilësor do të jetë konvertimi i përmbajtjes së imazhit në tekst. Pra,
-në fund të ketij proçesi duhet që një editor gjithsesi ta kontrollojë tekstin,
-por ky hall është minimal krahasuar me të kopjuarit manual të kësaj përmbajtje.
+në fund të këtij procesi duhet që një editor gjithsesi ta kontrollojë tekstin,
+por ky hall është minimal krahasuar me të kopjuarit manual të kësaj përmbajtjeje.
 
-Ka shumë projekte që mund të përdoren për konvertimin e imazheve në teskt.
-Nëse keni shumë pak imazhe, mund ta bëni dhe online. Për këtë shembull do të
-përdorim `ocrmac` [^4], zgjedhje shumë e mirë nëse përdorni një kompjuter Apple
-, por parimi është i njëjtë për çdo projekt tjetër, e.g.: `tesseract` [^5].
+Ka shumë projekte që mund të përdoren për konvertimin e imazheve në tekst.
+Nëse keni shumë pak imazhe, mund ta bëni edhe online. Për këtë shembull do të
+përdorim `ocrmac` [^4], zgjedhje shumë e mirë nëse përdorni një kompjuter Apple,
+por parimi është i njëjtë për çdo projekt tjetër, p.sh.: `tesseract` [^5].
 
 Nga **Problemi 1**, kemi të gjithë imazhet në `iiif-downloads/images`. Le
-të marrim një imazh specifikisht për të pare si do të funksionojë.
+të marrim një imazh specifikisht për të parë se si do të funksionojë.
 Marrim faqen 7: `iiif-downloads/images/libra1!HASHae57.dir!page7.png`
 
 <figure>
 <img style="width: 300px; margin: auto" src="/blogassets/img/page7sm.png" />
 </figure>
 <figcaption style="text-align: center">
-    Figura 2: Shembull i një faqje
+    Figura 2: Shembull i një faqeje
 </figcaption>
 
-Tani, shkruajmë një program të vogel për të parë çfarë mund të nxjerrim nga
+Tani, shkruajmë një program të vogël për të parë çfarë mund të nxjerrim nga
 imazhi:
 
 ```py
@@ -167,18 +166,18 @@ Léin mande' ata djelm si Zâna,
 ```
 
 Siç duket, ka goxha gabime, ku dallohet ngatërrimi i `d`, `q`, `j`, `ç`,
-por nga ana tjetër: është shumë më e lehte të korrigjosh gabimet, se sa ta
+por nga ana tjetër: është shumë më e lehtë të korrigjosh gabimet sesa ta
 kopjosh nga e para.
 
 ### Problemi 3: Shërbeji imazhet përbri tekstit të gjeneruar.
 
 Problemet thelbësore janë zgjidhur. Në këtë hap, do të krijojmë një file
 `mrizi_i_zanavet.json`, ku do të ruajmë çdo imazh dhe tekstin e nxjerrë
-prej tij, sipas numrit të faqes. Meqënëse imazhet janë të mëdha, dhe ne
+prej tij, sipas numrit të faqes. Meqenëse imazhet janë të mëdha, dhe ne
 nuk duam të paguajmë koston e ruajtjes dhe shërbyerit të tyre, do të përdorim
 URL-në e imazheve që shërben Biblioteka Kombëtare.
 
-Struktura përfundimtare do të jete diçka e tillë:
+Struktura përfundimtare do të jetë diçka e tillë:
 
 ```py
 [
@@ -200,7 +199,7 @@ Struktura përfundimtare do të jete diçka e tillë:
 ]
 ```
 
-Ka disa mënyra për ta strukturuar këtë informacion, kjo është vetëm një
+Ka disa mënyra për ta strukturuar këtë informacion; kjo është vetëm një
 prej tyre. Tani le të shkruajmë një program të vogël që nxjerr
 tekstin për të gjithë imazhet, dhe i ruan përbri njëri-tjetrit:
 
@@ -226,9 +225,9 @@ def get_image_url(img_name):
     return f"{IMAGE_BASE_URL}{img_name}/full/,1500/0/default"
 
 
-def annotate_collection():,
+def annotate_collection():
 
-    with open("mrizi_i_zanave.json", "w") as f:
+    with open("mrizi_i_zanavet.json", "w") as f:
         output = []
         image_dir = "./iiif-downloads/images/"
 
@@ -255,11 +254,11 @@ lexuesit :)
 <br>
 <br>
 
-[^1]: Sipas ligjit: Nr. 35/2016: Për të drejtat e autorit dhe të drejtat e tjera të lidhura me to, veprat e të gjithë shkrimtarëve që kanë vdekur para 70 vitesh, janë pasuri publike (në domain-in publik). - [kultura.gov.al](https://kultura.gov.al/e-drejta-e-autorit/)
+[^1]: Sipas ligjit: Nr. 35/2016: Për të drejtat e autorit dhe të drejtat e tjera të lidhura me to, veprat e të gjithë shkrimtarëve që kanë vdekur para 70 vjetësh janë pasuri publike (në domenin publik). - [kultura.gov.al](https://kultura.gov.al/e-drejta-e-autorit/)
 [^2]:
     International Image
     Interoperability Framework - [https://iiif.io/](https://iiif.io/)
 
 [^3]: Projekti në [GitHub](https://github.com/yaledhlab/iiif-downloader)
-[^4]: ocrmac - A python wrapper to extract text from images on a mac system. Uses the vision framework from Apple. - [GitHub](https://github.com/madmaze/pytesseract)
+[^4]: ocrmac - A python wrapper to extract text from images on a mac system. Uses the vision framework from Apple. - [GitHub](https://github.com/straussmaximilian/ocrmac)
 [^5]: Python Tesseract - [GitHub](https://github.com/madmaze/pytesseract)

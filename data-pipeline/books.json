@@ -1,0 +1,28 @@
+{
+  "$comment": "Registry of books pulled from bibliotekadigjitale.bksh.al. Managed by data-pipeline/bksh.py; safe to hand-edit.",
+  "books": [
+    {
+      "slug": "kryengritja-e-shqiptareve",
+      "title": "Kryengritja shqiptare",
+      "manifest": "libra1!HASH8b45!94a869fc.dir",
+      "author": "Grameno, Mihal",
+      "year": "1925",
+      "pages": 214,
+      "source": "https://bibliotekadigjitale.bksh.al/?view=ThumbnailsView&manifest=https%3A%2F%2Fbibliotekadigjitale.bksh.al%2Fiiif%2FManifester%2FIIIF%2Flibra1%21HASH8b45%2194a869fc.dir&canvas=...%2Fcanvas%2Fp1",
+      "author_folder": "grameno",
+      "book_folder": "kryengritja-e-shqiptareve",
+      "author_name": "Mihal Grameno"
+    },
+    {
+      "slug": "mrizi-i-zanave",
+      "title": "Mrizi i Zânavet",
+      "manifest": "libra1!HASHae57.dir",
+      "author": "Fishta, Gjergj",
+      "year": "1931",
+      "pages": 155,
+      "author_folder": "fishta",
+      "book_folder": "mrizi-i-zanave",
+      "author_name": "Gjergj Fishta"
+    }
+  ]
+}
