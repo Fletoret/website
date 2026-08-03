@@ -6,6 +6,7 @@ parent: Vëllimi I
 grandparent: Kryengritja e Shqiptarëve
 order: 4
 ---
+
 Dimri erdhi edhe duheshe menjtuar qysh do të dimëronim. Kur vinim për
 në Frashër ishte një nat e ftohtë sa të përvëlonte fytyren. Ciknë të
 këtillë nuku kishim shijojtur, gjer ahere, po veç kësaj nuku na linin

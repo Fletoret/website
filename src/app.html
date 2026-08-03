@@ -30,6 +30,102 @@
     />
     <link rel="manifest" href="%sveltekit.assets%/favicon/site.webmanifest" />
 
+    <!--
+      Boot-time chunk recovery.
+
+      A Cloudflare Pages deploy is not instantaneous end to end: there is a
+      window where the new HTML is already being served but some of the hashed
+      chunks it points at are not reachable yet. The document loads, hydration
+      starts, an import 404s, and SvelteKit renders its "500 Internal Error"
+      page — a dead end that only a manual reload escapes.
+
+      carry-forward-assets.mjs covers the mirror-image case (old HTML asking
+      for chunks a newer deploy retired). This covers the forward case, which
+      no amount of asset retention can fix, by reloading the document once so
+      the browser re-resolves against whatever is actually live.
+
+      Safe to retry: 404s under /_app/immutable are served `no-store`, so the
+      reload genuinely refetches rather than replaying a cached failure.
+      Attempts are capped and time-boxed so a genuinely broken deploy settles
+      on the error page instead of reload-looping.
+    -->
+    <script>
+      (function () {
+        var KEY = 'fletoret:chunk-recovery';
+        var MAX_ATTEMPTS = 2;
+        var WINDOW_MS = 30000;
+
+        var CHUNK_ERROR =
+          /failed to fetch dynamically imported module|error loading dynamically imported module|importing a module script failed|expected a javascript(-or-wasm)? module/i;
+
+        function isChunkError(value) {
+          if (!value) return false;
+          return CHUNK_ERROR.test(String((value && value.message) || value));
+        }
+
+        function read() {
+          try {
+            return JSON.parse(sessionStorage.getItem(KEY)) || null;
+          } catch (error) {
+            return null;
+          }
+        }
+
+        var recovering = false;
+
+        function recover() {
+          if (recovering) return;
+
+          var now = Date.now();
+          var state = read();
+          if (!state || now - state.first > WINDOW_MS) state = { first: now, count: 0 };
+
+          // Out of attempts: the deploy is broken rather than mid-flight. Let
+          // the error surface so it is visible instead of looping silently.
+          if (state.count >= MAX_ATTEMPTS) return;
+
+          state.count++;
+          recovering = true;
+          try {
+            sessionStorage.setItem(KEY, JSON.stringify(state));
+          } catch (error) {
+            /* private mode — fall through, the in-page guard still holds */
+          }
+
+          // Brief backoff so a reload issued mid-propagation does not just
+          // race the same incomplete deployment again.
+          setTimeout(function () {
+            location.reload();
+          }, 400 * state.count);
+        }
+
+        addEventListener('unhandledrejection', function (event) {
+          if (isChunkError(event.reason)) recover();
+        });
+
+        addEventListener(
+          'error',
+          function (event) {
+            if (isChunkError(event.error || event.message)) recover();
+          },
+          true,
+        );
+
+        // Booted cleanly — drop the counter so an unrelated failure later in
+        // the same session still gets its full budget.
+        addEventListener('load', function () {
+          setTimeout(function () {
+            if (recovering) return;
+            try {
+              sessionStorage.removeItem(KEY);
+            } catch (error) {
+              /* nothing to clean up */
+            }
+          }, 3000);
+        });
+      })();
+    </script>
+
     %sveltekit.head%
   </head>
 

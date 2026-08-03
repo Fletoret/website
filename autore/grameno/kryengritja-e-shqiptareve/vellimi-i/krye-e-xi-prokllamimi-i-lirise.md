@@ -6,6 +6,7 @@ parent: Vëllimi I
 grandparent: Kryengritja e Shqiptarëve
 order: 11
 ---
+
 Pas bisedimit edhe marëveshjes që bëmë me Oficerët, në pyll të Pirgut,
 vumë ca mishra të pjekura dyke ngrënë e dëfryer, bashkërisht, për
 kujtim të bashkimit edhe të vëllazërisë. Pa fjalë që u ngritnë edhe

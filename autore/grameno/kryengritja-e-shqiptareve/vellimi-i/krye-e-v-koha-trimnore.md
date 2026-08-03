@@ -6,6 +6,7 @@ parent: Vëllimi I
 grandparent: Kryengritja e Shqiptarëve
 order: 5
 ---
+
 Shtëpia e Topullenjve, në Gjinokastrë, është e dëgjuar edhe një nga të
 parat edhe është shumë i math fisi i Topullenjvet, i përndarë, në
 Gjinokastrë, me qënë që ishin shumë vëllezër. Një nga këta ishte Agua

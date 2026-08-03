@@ -6,6 +6,7 @@ parent: Vëllimi II
 grandparent: Kryengritja e Shqiptarëve
 order: 14
 ---
+
 U pandeh me të vërtetë që u shua zjari, q'ish ndezurë, në gjithë anët
 e Shqipërisë, po ish vetëm një pandihm, se me të ardhur pranvera e të
 gjelbëronte gjethi zuri të lëviste prapë kryengritja, ue vitiu 1912.

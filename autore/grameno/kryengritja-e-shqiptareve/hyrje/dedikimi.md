@@ -2,7 +2,7 @@
 title: Dedikimi
 author: Mihal Grameno
 respectLineBreaks: true
-parent: Vëllimi I
+parent: Hyrje
 grandparent: Kryengritja e Shqiptarëve
 order: -1
 ---
@@ -25,6 +25,7 @@ REPUBLIKES SHQIPTARE
 BERESI
 **MIHAL GRAMENO**
 
-![Ahmet Zogu - Presidenti i parë i Republikës së Shqipërisë](/images/kryengritja-e-shqiptareve/ahmet-zogu.jpg)
+![Ahmet Zogu - Presidenti i parë i Republikës së
+Shqipërisë](/images/kryengritja-e-shqiptareve/ahmet-zogu.jpg)
 
 </center>

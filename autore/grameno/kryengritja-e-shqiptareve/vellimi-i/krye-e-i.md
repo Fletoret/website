@@ -6,6 +6,7 @@ parent: Vëllimi I
 grandparent: Kryengritja e Shqiptarëve
 order: 1
 ---
+
 Më 1907, në muaj të Prillit, një anije me pëlhurë hiqte verejtjen të
 gjindjes të Brindisit, qytet i Italisë, në deti Adriatik. Këjo anie
 kishte ca ditë që vërtiteshe në ujrat të Brindisit edhe nga lëvizjet

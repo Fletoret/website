@@ -6,6 +6,7 @@ parent: Vëllimi I
 grandparent: Kryengritja e Shqiptarëve
 order: 8
 ---
+
 Në pyll të Luvinës duheshe të zinim jetë të re, një jetë monotone edhe
 një jetë të egërsirtë. Ushtëri e madhe plakosi edhe u-përhap më gjithë
 anëtë, vetëm e vetëm që të na zinte neve të gjallë ose të vdekur. Ky

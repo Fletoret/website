@@ -6,6 +6,7 @@ parent: Vëllimi II
 grandparent: Kryengritja e Shqiptarëve
 order: 12
 ---
+
 Pa si fati e rrojti kaqë vite këtë librë historike « Kryengritja
 Shqipëtare » e cila mbaron me dhënien të Konshtutës Tyrke, 1908, e
 quanj të nevojshme edhe të dobishme që të rëfenj, me pakë fjalë,

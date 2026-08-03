@@ -6,6 +6,7 @@ parent: Vëllimi I
 grandparent: Kryengritja e Shqiptarëve
 order: 6
 ---
+
 Duheshe të mos ndodhesha unë që të mirnja anë në luftën e
 Mashkullorës, se fuqia t' eme është e dobëtë për të përshkruar e
 zugrafisur ashtu si kundër ngjajti. Duheshe pendë historiografi, të

@@ -6,6 +6,7 @@ parent: Vëllimi I
 grandparent: Kryengritja e Shqiptarëve
 order: 3
 ---
+
 Të shtunë pas dreke, më 16 Maj, përhapin pëlhurat të anijes edhe
 Ahmeti, kapitani ynë, urdhëron: djema gati! Përnjëresh anija mori
 udhën edhe neve ja krismë këngës për mëmëdhenë! për mëmëdhenë! të cilë

@@ -6,6 +6,7 @@ parent: Vëllimi I
 grandparent: Kryengritja e Shqiptarëve
 order: 2
 ---
+
 Më 1905 në qytet Manastir ndodheshe Nënëdirektor i Gjímnasios
 Turqishte Bajo Topulli, nga Gjinokastra. Atje bëri të njojturë me
 shumë Shqipëtarë atdhetarë, me të cilët kuvendontë për gjendjen e

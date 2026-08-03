@@ -6,6 +6,7 @@ parent: Vëllimi II
 grandparent: Kryengritja e Shqiptarëve
 order: 17
 ---
+
 Mjerimet edhe gjithë të këqijat në vënt të pushonin, pas ikjes të
 Mbretit, më tepër po sntoheshin ne e ngrata Shqipëri. Gjakderdhja,
 midis vëllazërisë, vazhdonte edhe anarqia e rëmuja mbretëronin më të

@@ -6,6 +6,7 @@ parent: Vëllimi II
 grandparent: Kryengritja e Shqiptarëve
 order: 18
 ---
+
 Kishin arësye që të gëzohen, se me këtë veprë Kisha Orthodhokse
 Autoqefale shqipe do të forcoheshe me themeltarin, kështu që
 bashkërisht të tri Pishkopët do të përpiqeshin t'e naltësonin Kishën

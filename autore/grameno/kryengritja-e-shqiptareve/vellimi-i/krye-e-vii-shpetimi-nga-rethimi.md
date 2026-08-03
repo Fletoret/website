@@ -6,6 +6,7 @@ parent: Vëllimi I
 grandparent: Kryengritja e Shqiptarëve
 order: 7
 ---
+
 Errësira e madhe mbretëronte edhe kur e kur dëgjoheshe nga nonjë zë
 prej pushke, me qëllim, siç duket, që të na mbanin atje gjer nesër.
 Kjo ishte më shumë se sa vrasja prandaj këshillohemi gadale edhe

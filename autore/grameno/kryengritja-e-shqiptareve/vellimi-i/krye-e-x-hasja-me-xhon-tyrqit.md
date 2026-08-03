@@ -6,6 +6,7 @@ parent: Vëllimi I
 grandparent: Kryengritja e Shqiptarëve
 order: 10
 ---
+
 Lajmet që muarmë, të thirurit e Komitetit Korçës edhe përhapja e
 lëvizjes kombëtare, në shumë anë, dyke na pritur neve, që t'i
 organizonin, na shtërnguan të mejtonemi që duhesh një ndryshim për mbi
