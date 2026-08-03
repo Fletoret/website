@@ -124,7 +124,7 @@ Bërësi <br>
 
 * * *
 
-!Nga Baballarët e Kombit <br>[Naim Frashëri 1846 -
+![Nga Baballarët e Kombit <br> Naim Frashëri 1846 -
 1900](/images/kryengritja-e-shqiptareve/naim-frasheri.jpg)
 
 ![Themistokli
