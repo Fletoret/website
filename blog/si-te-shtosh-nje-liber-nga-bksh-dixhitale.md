@@ -20,7 +20,7 @@ Nëpërmjet këtij shkrimi, dokumentojmë procesin nëpermjet të cilit
 shndërrojmë nje tufë imazhesh në tekst. Shembulli që
 përdorim gjatë gjithë kohës është **Kryengritja Shqiptare** e Mihal
 Gramenos (1925, 214 faqe), tashmë i
-[lexueshëm këtu](/grameno/kryengritja-e-shqiptareve/). Grameno e luftoi këtë histori para se ta shkruante. Kryengritës me
+[lexueshëm këtu](/grameno/kryengritja-shqiptare/). Grameno e luftoi këtë histori para se ta shkruante. Kryengritës me
 çetën e Çerçiz Topullit, ai e rrëfen lirinë e Shqipërisë nga
 brenda — me barut, uri e besë. Një perspektivë e rrallë: luftëtari
 që merr penën.
@@ -144,7 +144,7 @@ manifestit IIIF, dhe ku duhet të botohet libri:
   "year": "1925",
   "pages": 214,
   "author_folder": "grameno",
-  "book_folder": "kryengritja-e-shqiptareve",
+  "book_folder": "kryengritja-shqiptare",
   "author_name": "Mihal Grameno"
 }
 ```
@@ -252,7 +252,7 @@ duke i thënë Playwright-it të hapë faqen tonë ekzistuese `/kopertina`
 autor, temë e paletë, dhe të bëjë një screenshot:
 
 ```sh
-npm run cover -- grameno/kryengritja-e-shqiptareve \
+npm run cover -- grameno/kryengritja-shqiptare \
     --theme vintage --palette burgundy --font alegreyaSC
 ```
 

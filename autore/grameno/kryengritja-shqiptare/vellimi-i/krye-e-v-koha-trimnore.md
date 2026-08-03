@@ -3,7 +3,7 @@ title: Krye e V. Koha Trimnore
 author: Mihal Grameno
 respectLineBreaks: false
 parent: Vëllimi I
-grandparent: Kryengritja e Shqiptarëve
+grandparent: Kryengritja shqiptare
 order: 5
 ---
 

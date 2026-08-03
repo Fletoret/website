@@ -3,7 +3,7 @@ title: Krye e VI. Lufta e Mashkullores
 author: Mihal Grameno
 respectLineBreaks: false
 parent: Vëllimi I
-grandparent: Kryengritja e Shqiptarëve
+grandparent: Kryengritja shqiptare
 order: 6
 ---
 

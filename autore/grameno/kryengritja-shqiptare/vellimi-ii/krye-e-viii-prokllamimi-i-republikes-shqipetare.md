@@ -3,7 +3,7 @@ title: Krye e VIII. Prokllamimi i Republikës Shqipëtare
 author: Mihal Grameno
 respectLineBreaks: false
 parent: Vëllimi II
-grandparent: Kryengritja e Shqiptarëve
+grandparent: Kryengritja shqiptare
 order: 19
 ---
 

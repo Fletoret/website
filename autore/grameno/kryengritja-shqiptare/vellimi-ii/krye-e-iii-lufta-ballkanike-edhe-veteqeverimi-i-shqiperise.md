@@ -3,7 +3,7 @@ title: Krye e III. Lufta Ballkanike edhe vetëqeverimi i Shqipërisë
 author: Mihal Grameno
 respectLineBreaks: false
 parent: Vëllimi II
-grandparent: Kryengritja e Shqiptarëve
+grandparent: Kryengritja shqiptare
 order: 14
 ---
 

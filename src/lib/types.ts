@@ -50,6 +50,11 @@ export type ProgressState = 'complete' | 'partial' | 'missing';
 export type ExtendedBookType = WithContext<Book> & {
   publishedFletoret: boolean;
   folder: string;
+  /**
+   * Folders this entry used to live under. They stay reachable as permanent
+   * (301) redirects to `folder`, so a rename never orphans an indexed URL.
+   */
+  redirectPaths?: string[];
   thumbnail?: string;
   thumbnailWebp?: string;
 };
@@ -58,6 +63,8 @@ export type Author = {
   name: string;
   description: string;
   folder: string;
+  /** See `ExtendedBookType.redirectPaths`. */
+  redirectPaths?: string[];
   progressState?: ProgressState;
   thumbnail: string;
   thumbnailWebp: string;

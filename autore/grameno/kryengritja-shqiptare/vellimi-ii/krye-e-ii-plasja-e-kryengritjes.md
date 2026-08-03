@@ -3,7 +3,7 @@ title: Krye e II. Plasja e kryengritjes
 author: Mihal Grameno
 respectLineBreaks: false
 parent: Vëllimi II
-grandparent: Kryengritja e Shqiptarëve
+grandparent: Kryengritja shqiptare
 order: 13
 ---
 
