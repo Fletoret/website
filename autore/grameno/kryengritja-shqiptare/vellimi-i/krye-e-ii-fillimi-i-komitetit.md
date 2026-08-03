@@ -3,7 +3,7 @@ title: Krye e II. Fillimi i Komitetit
 author: Mihal Grameno
 respectLineBreaks: false
 parent: Vëllimi I
-grandparent: Kryengritja e Shqiptarëve
+grandparent: Kryengritja shqiptare
 order: 2
 ---
 

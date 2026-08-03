@@ -3,7 +3,7 @@ title: Dedikimi
 author: Mihal Grameno
 respectLineBreaks: true
 parent: Hyrje
-grandparent: Kryengritja e Shqiptarëve
+grandparent: Kryengritja shqiptare
 order: -1
 ---
 

@@ -3,7 +3,7 @@ title: Parëthënie
 author: Mihal Grameno
 respectLineBreaks: false
 parent: Hyrje
-grandparent: Kryengritja e Shqiptarëve
+grandparent: Kryengritja shqiptare
 order: 0
 ---
 

@@ -3,7 +3,7 @@ title: Krye e V. Mbreti shkon nga Shqipëria
 author: Mihal Grameno
 respectLineBreaks: false
 parent: Vëllimi II
-grandparent: Kryengritja e Shqiptarëve
+grandparent: Kryengritja shqiptare
 order: 16
 ---
 

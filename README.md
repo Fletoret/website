@@ -61,4 +61,29 @@ npm run build
 npm run preview
 ```
 
+### Rrugë të vjetra (ridrejtime)
+
+Kur folderi i një libri (ose i një autori) ndryshon, rruga e vjetër nuk
+braktiset. Shto-ja te `redirectPaths` i zërit përkatës në
+`autore/index.json`:
+
+```json
+{
+  "name": "Kryengritja shqiptare",
+  "folder": "grameno/kryengritja-shqiptare",
+  "redirectPaths": ["grameno/kryengritja-e-shqiptareve"]
+}
+```
+
+Gjatë ndërtimit kjo kthehet në një skedar `_redirects` për Cloudflare Pages, që
+i përgjigjet rrugës së vjetër — dhe çdo faqeje nën të — me një ridrejtim të
+përhershëm (301) drejt asaj kanonike. Një rrugë e vjetër mund të ketë vetëm një
+destinacion; përndryshe ndërtimi ndalet me gabim.
+
+Kujdes: URL-ja e një kapitulli ndërtohet nga `grandparent`, `parent` dhe `title`
+te ballina e skedarit `.md`, jo nga emri i folderit. Kur riemërton një libër,
+ndrysho edhe `grandparent` te të gjithë kapitujt — përndryshe faqet e vjetra
+vazhdojnë të ndërtohen dhe ridrejtimi s’merr kurrë udhë. `npm run verify:build`
+e kap këtë rast.
+
 Nëse ke pyetje, hap një [Issue](https://github.com/Fletoret/website/issues) dhe dikush nga komuniteti do të të përgjigjet.

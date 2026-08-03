@@ -3,7 +3,7 @@ title: Krye e VI. Shkelja edhe rikrijimi në Shqipëri
 author: Mihal Grameno
 respectLineBreaks: false
 parent: Vëllimi II
-grandparent: Kryengritja e Shqiptarëve
+grandparent: Kryengritja shqiptare
 order: 17
 ---
 

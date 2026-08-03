@@ -122,6 +122,50 @@ function report(missing, refs, scope) {
   return true;
 }
 
+/**
+ * A retired path can only 301 if nothing was *built* at it. If a rename left a
+ * page behind — say the folder moved but the `grandparent` front matter that
+ * actually forms the URL did not — the old copy ships alongside the new one and
+ * the redirect never fires, leaving two live URLs for the same text.
+ *
+ * Only the exact (splat-free) sources are checkable as paths; a `/old/*` rule
+ * is covered by its `/old` sibling, which the generator always emits.
+ */
+function verifyRedirects() {
+  const redirectsFile = join(BUILD_DIR, '_redirects');
+  if (!existsSync(redirectsFile)) return false;
+
+  const shadowed = [];
+  let rules = 0;
+
+  for (const line of readFileSync(redirectsFile, 'utf-8').split('\n')) {
+    const content = line.trim();
+    if (!content || content.startsWith('#')) continue;
+    rules++;
+
+    const [source, target] = content.split(/\s+/);
+    if (!source || source.includes('*') || source.includes(':')) continue;
+    if (existsSync(join(BUILD_DIR, source.replace(/^\//, '')))) {
+      shadowed.push(`  ${source} -> ${target} (a page was built at ${source})`);
+    }
+  }
+
+  if (shadowed.length) {
+    console.error(
+      `\nverify-deploy: ${shadowed.length} redirect(s) shadowed by real pages in ${BUILD_DIR}:\n`,
+    );
+    console.error(shadowed.join('\n'));
+    console.error(
+      '\nThe old URL still resolves, so the 301 never happens. Check that nothing ' +
+        'still generates the retired path before deploying.',
+    );
+    return true;
+  }
+
+  console.log(`verify-deploy: ${rules} redirect rule(s) OK — none shadowed by a built page.`);
+  return false;
+}
+
 async function verifyBuild() {
   const { pages, refs } = collectReferences();
   const missing = [...refs.keys()].filter((asset) => !existsSync(join(BUILD_DIR, asset))).sort();
@@ -129,6 +173,8 @@ async function verifyBuild() {
   if (report(missing, refs, `${BUILD_DIR} — refusing to deploy an incomplete build`)) {
     process.exit(1);
   }
+
+  if (verifyRedirects()) process.exit(1);
 
   console.log(
     `verify-deploy: build OK — ${refs.size} distinct assets referenced by ${pages.length} pages, all present.`,

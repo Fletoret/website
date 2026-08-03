@@ -2,6 +2,8 @@
 node_modules
 /build
 /.svelte-kit
+# Generated from autore/index.json at build time — see vite.config.ts
+/_redirects
 /.asset-history
 /package
 .env
