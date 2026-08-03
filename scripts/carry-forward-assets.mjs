@@ -33,9 +33,15 @@ const BUILD_DIR = '.svelte-kit/cloudflare';
 const IMMUTABLE = '_app/immutable';
 const CACHE_ROOT = '.asset-history';
 
-// Current build plus the two before it. Each generation costs only its changed
-// files; at time of writing a full asset set is 91 files / 1.3MB.
-const GENERATIONS_TO_KEEP = 3;
+// Current build plus the four before it. Each generation costs only its
+// changed files; at time of writing a full asset set is 91 files / 1.3MB, and
+// a generation of deltas is far smaller than that.
+//
+// Five rather than three because the window that matters is measured in open
+// tabs, not deploys: a burst of deploys in one session used to be enough to
+// retire a chunk a tab opened that morning still needed. The extra headroom is
+// close to free and the cap below is nowhere near threatened.
+const GENERATIONS_TO_KEEP = 5;
 
 // Backstop against ever approaching Cloudflare Pages' 20,000-file deployment
 // limit. If the carried set somehow exceeds this, skip the merge and warn

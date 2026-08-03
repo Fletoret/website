@@ -1,6 +1,6 @@
 ---
 title: Si të shtosh një libër nga BKSH Dixhitale
-subtitle: Udhëzues teknik, nga një URL e bibliotekës te një libër i lexueshëm
+subtitle: Udhëzues teknik, nga një URL e bibliotekës te një libër i lexueshëm për $12
 author: Editori
 date: 2026-08-02
 tags: liber, fletoret, programim
@@ -14,16 +14,18 @@ skanuar mjaft vepra në domen publik[^1] dhe i ofron nëpërmjet
 [bibliotekadigjitale.bksh.al](https://bibliotekadigjitale.bksh.al/) —
 Biblioteka Kombëtare Dixhitale, më poshtë **BKD**. Por "i ofron" këtu
 do të thotë: një shfletues me miniatura, jo tekst. Nëse s'e nxjerr
-vetë tekstin, libri mbetet ligjërisht publik dhe praktikisht i
-palexueshëm — i gjendshëm në letër ligjore, i pagjendshëm në çdo
-kuptim tjetër.
+vetë tekstin, libri mbetet publik dhe praktikisht i palexueshëm.
 
-Ky shkrim tregon si e mbyllim atë largësi, hap pas hapi. Shembulli që
+Nëpërmjet këtij shkrimi, dokumentojmë procesin nëpermjet të cilit 
+shndërrojmë nje tufë imazhesh në tekst. Shembulli që
 përdorim gjatë gjithë kohës është **Kryengritja Shqiptare** e Mihal
 Gramenos (1925, 214 faqe), tashmë i
-[lexueshëm këtu](/grameno/kryengritja-e-shqiptareve/) —
-jo se libri kërkon trajtim të veçantë, por se çdo udhëzues abstrakt
-gënjen diku, dhe një shembull real e detyron të mos gënjesh.
+[lexueshëm këtu](/grameno/kryengritja-e-shqiptareve/). Grameno e luftoi këtë histori para se ta shkruante. Kryengritës me
+çetën e Çerçiz Topullit, ai e rrëfen lirinë e Shqipërisë nga
+brenda — me barut, uri e besë. Një perspektivë e rrallë: luftëtari
+që merr penën.
+
+Në lidhje me metodologjinë, libri nuk është i veçantë. Çdo libër nga katalogu i BKD mund t'i nënshtrohet të njëjtit proces. 
 
 Për parimet e përgjithshme të IIIF-it dhe të Kopjuesit kemi shkruar më
 parë[^2]; këtu merremi vetëm me procesin.
@@ -36,7 +38,7 @@ duhet:
 - **Python 3** dhe **Node.js**.
 - **ImageMagick** (komanda `magick`) — për kopertinën dhe portretin e
   autorit.
-- **Akses programatik te një API me model që lexon imazhe.** Kodi ynë
+- **Akses programatik te një API i nje modeli (LLM) që lexon imazhe.** Kodi ynë
   përdor SDK-në e Anthropic-ut; te seksioni 4 tregojmë saktësisht se
   çfarë duhet zëvendësuar nëse përdor një tjetër.
 
@@ -48,7 +50,7 @@ venv/bin/pip install -r requirements.txt
 export ANTHROPIC_API_KEY=...
 ```
 
-Për dy skriptet e imazheve, nga rrënja e projektit: `npm install` (kjo
+Për dy skriptet e imazheve për krijimin e kopertinës dhe fotos se autorit, nga rrënja e projektit: `npm install` (kjo
 shkarkon edhe Chromium-in për Playwright; nëse jo, `npx playwright
 install chromium`).
 
@@ -57,7 +59,7 @@ OCR-in draft, mbështillet mbi kuadrin Vision të Apple-it dhe punon
 vetëm në macOS. Jashtë macOS-it ai kalim nuk është i disponueshëm —
 shto `--skip-ocr` dhe gjithçka tjetër funksionon njësoj.
 
-### 1. Gjeje librin dhe nxirr manifestin
+### 1. Gjej librin dhe nxirr manifestin
 
 Faqja e librit tek BKD s'të jep kurrë një URL të pastër. Të jep diçka
 të tillë:
@@ -77,12 +79,12 @@ veçuar.
 Kjo është gjëja e vetme që kopjohet me dorë. Gjithçka pas kësaj është
 komandë.
 
-### 2. Pesë fazat
+### 2. Pesë hapa
 
-`data-pipeline/bksh.py` e ndan punën në pesë faza, secila e
-ekzekutueshme më vete:
+`data-pipeline/bksh.py` e ndan punën në pesë hapa, secili i
+ekzekutueshëm më vete:
 
-| Faza | Komanda | Prodhon |
+| Hapi | Komanda | Prodhon |
 |---|---|---|
 | Regjistrim | `add <url>` | një zë në `books.json` |
 | Shkarkim | `fetch <slug>` | `work/<slug>/images/*.jpg`, në rezolucionin origjinal të skanimit |
@@ -97,11 +99,11 @@ i parë që nuk është nënkomandë trajtohet si `run`, ndaj mjafton:
 venv/bin/python bksh.py 'https://bibliotekadigjitale.bksh.al/?view=ThumbnailsView&manifest=...'
 ```
 
-Çdo fazë mban mend ku ka mbetur. Nëse shkarkimi ndërpritet te faqja
+Çdo hap mban mend ku ka mbetur. Nëse shkarkimi ndërpritet te faqja
 80, e rinis të njëjtën komandë dhe vazhdon me faqet që s'i ka bërë.
 Kjo s'është elegancë e panevojshme, është kusht: një libër me 200+
 faqe do të ndërpritet dikur, dhe rifillimi nga zero e bën çmimin e çdo
-ndërprerjeje të papranueshëm.
+ndërprerjeje të "papranueshëm".
 
 Për të parë ku je:
 
@@ -210,7 +212,7 @@ dhe kurrë tekst përfundimtar.
 prompt-in për ruajtje në cache. Pjesa tjetër e pipeline-it nuk di
 asgjë tjetër veç faktit që çdo faqe kthen një objekt me ato fusha.
 Zëvendëso atë thirrje me API-në tënde — mjafton të lexojë imazhe dhe
-të kthejë JSON sipas skemës — dhe fazat e tjera nuk e vënë re
+të kthejë JSON sipas skemës — dhe hapat e tjerë nuk e vënë re
 ndryshimin.
 
 Dy hollësi që ia vlejnë sido që të jetë modeli: system prompt-i mbahet

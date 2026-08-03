@@ -6,6 +6,7 @@ parent: Vëllimi II
 grandparent: Kryengritja e Shqiptarëve
 order: 15
 ---
+
 në shumë raste historike, kështu edhe ahëre u ndodhë zemër liq të
 cilët, për të mbushur inatet edhe qëllimet vetiake, kallë grindje
 midis Ismail Qemalit edhe Esat Pashës edhe muntnë të bindin Esat

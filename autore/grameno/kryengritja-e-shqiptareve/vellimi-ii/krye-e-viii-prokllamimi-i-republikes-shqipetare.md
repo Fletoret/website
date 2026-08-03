@@ -6,6 +6,7 @@ parent: Vëllimi II
 grandparent: Kryengritja e Shqiptarëve
 order: 19
 ---
+
 Ahmet Zogu i hequr më nj'anë, në Serbi, deshëronte të rijë i qetë e të
 dëgjonte lumtëri e mbarësi për atdheun e tij të dashur. Dëshëronte nga
 zemra që të shëkonte vepra themeltare, prej qeverisë kryengritëse,

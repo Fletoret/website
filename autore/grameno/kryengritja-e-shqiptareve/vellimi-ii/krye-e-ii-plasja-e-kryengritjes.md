@@ -6,6 +6,7 @@ parent: Vëllimi II
 grandparent: Kryengritja e Shqiptarëve
 order: 13
 ---
+
 Më të u përndarë Bedri Pejen që të nesërmet e burgosnë kur
 pregatiteshe për të u hedhur në Rumani, Bektashi me Bakinë shkuan për
 në Vlorë me anën të Korfuzit, ku do të qendronin 2-3 dit për të u

@@ -6,6 +6,7 @@ parent: Vëllimi I
 grandparent: Kryengritja e Shqiptarëve
 order: 9
 ---
+
 Dyke pritur Çerçizin me Iton që të vinin e nuku ardhë, me të ngrysur,
 muarm lamtumirë nga pylli në të cilin kishim rrojtur 45 dit, nga shoku
 i ngushëllimevet me të cilin kishim kapërxyer kaqë hidhërime,
