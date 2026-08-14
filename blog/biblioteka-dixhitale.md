@@ -8,11 +8,10 @@ thumbnail:
 published: true
 ---
 
-Së pari, dhe më pak e rëndësishmja, "**digjitale**", e shkruar me "**gj**"
-tingëllon çuditshëm, ... pavarësisht vendlindjes. Shqipja shkruhet siç flitet,
-por dikush, a disa, tek Akademia e Shkencave, kanë vendosur ta ᗪяＥ𝓙ᵗ𝔰н𝓴𝔯𝓾𝒶𝐉ηe,
-duke harruar që një gjuhë që nuk flitet, vdes — ndoshta jo shumë ndryshe nga
-vetë Akademia.
+Së pari, dhe më pak e rëndësishmja: "digjitale", shkruar me "gj", tingëllon
+çuditshëm … pavarësisht vendlindjes. Shqipja shkruhet siç flitet, por dikush, a
+disa, tek Akademia e Shkencave, kanë vendosur ta ᗪяＥ𝓙ᵗ𝔰н𝓴𝔯𝓾𝒶𝐉ηe ndryshe — duke
+harruar që një gjuhë nuk mbahet gjallë me dekrete, por në gojën e atyre që e flasin.
 
 ### Biblioteka Kombëtare Di<span style="color: var(--text-secondary)">~~gj~~</span>xhitale dhe Fletoret
 
