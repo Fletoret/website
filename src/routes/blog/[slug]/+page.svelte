@@ -1,6 +1,7 @@
 <script lang="ts">
   // import BookFooter from '$lib/components/BookFooter.svelte';
   import CONFIG from '$lib/config';
+  import Lightbox from '$lib/components/Lightbox.svelte';
   import { stripMarkdown } from '$lib/utils';
   import '$lib/css/app.css';
   import '$lib/css/blog.css';
@@ -53,9 +54,7 @@
     },
     url: post.url,
     mainEntityOfPage: post.url,
-    ...(post.img
-      ? { image: `${CONFIG.info.base_url}/${post.imgWebp}` }
-      : {}),
+    ...(post.img ? { image: `${CONFIG.info.base_url}/${post.imgWebp}` } : {}),
   });
 </script>
 
@@ -95,49 +94,51 @@
   {@html `<script type="application/ld+json"> ${JSON.stringify(BlogPostingSchema)} </script>`}
 </svelte:head>
 
-<article class="post-container">
-  <header class="post-header">
-    <h1 class="post-title">{post.title}</h1>
-    {#if post.subtitle}
-      <p class="post-subtitle">{post.subtitle}</p>
-    {/if}
-    {#if post.author || post.human_date}
-      <div class="post-byline">
-        {#if post.author}<span class="byline-author">Nga {post.author}</span
-          >{/if}
-        {#if post.author && post.human_date}<span class="byline-sep">·</span
-          >{/if}
-        {#if post.human_date}<time class="byline-date">{post.human_date}</time
-          >{/if}
-      </div>
-    {/if}
-  </header>
-</article>
+<Lightbox>
+  <article class="post-container">
+    <header class="post-header">
+      <h1 class="post-title">{post.title}</h1>
+      {#if post.subtitle}
+        <p class="post-subtitle">{post.subtitle}</p>
+      {/if}
+      {#if post.author || post.human_date}
+        <div class="post-byline">
+          {#if post.author}<span class="byline-author">Nga {post.author}</span
+            >{/if}
+          {#if post.author && post.human_date}<span class="byline-sep">·</span
+            >{/if}
+          {#if post.human_date}<time class="byline-date">{post.human_date}</time
+            >{/if}
+        </div>
+      {/if}
+    </header>
+  </article>
 
-{#if post.img}
-  <picture class="header-img">
-    <source srcset="/{post.imgWebp}" type="image/webp" />
-    {#if post.img.endsWith('.jpg')}
-      <source srcset="/{post.img}" type="image/jpeg" />
-    {:else}
-      <source srcset="/{post.img}" type="image/png" />
-    {/if}
-    <img
-      class="img-fit-contain"
-      src="/{post.img}"
-      alt={post.title}
-      fetchpriority="high"
-    />
-  </picture>
-{/if}
-
-<!-- https://kit.svelte.dev/docs/link-options -->
-<article class="post-container" data-sveltekit-reload>
-  <div class="post-body">{@html post.html}</div>
-
-  {#if post.last_update}
-    <p class="last-updated">
-      Last updated on {post.last_update}
-    </p>
+  {#if post.img}
+    <picture class="header-img">
+      <source srcset="/{post.imgWebp}" type="image/webp" />
+      {#if post.img.endsWith('.jpg')}
+        <source srcset="/{post.img}" type="image/jpeg" />
+      {:else}
+        <source srcset="/{post.img}" type="image/png" />
+      {/if}
+      <img
+        class="img-fit-contain"
+        src="/{post.img}"
+        alt={post.title}
+        fetchpriority="high"
+      />
+    </picture>
   {/if}
-</article>
+
+  <!-- https://kit.svelte.dev/docs/link-options -->
+  <article class="post-container" data-sveltekit-reload>
+    <div class="post-body">{@html post.html}</div>
+
+    {#if post.last_update}
+      <p class="last-updated">
+        Last updated on {post.last_update}
+      </p>
+    {/if}
+  </article>
+</Lightbox>

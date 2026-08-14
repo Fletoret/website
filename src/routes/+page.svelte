@@ -141,6 +141,7 @@
       <div class="footer-right">
         <nav class="links" aria-label="Lidhje">
           <a href="/kopertina" class="muted">→ Krijo kopertina</a>
+          <a href="/social-images" class="muted">→ Imazhe sociale</a>
           <a href="/copeza" class="muted">→ Copëza</a>
         </nav>
         <SocialMedia />
