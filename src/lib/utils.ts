@@ -41,10 +41,20 @@ export function getUrlParts(s: string): string[] {
   return strip(s, '/').split('/');
 }
 
-export async function downloadImage(imageDataUrl: string, filename: string) {
-  const response = await fetch(imageDataUrl);
-  const blob = await response.blob();
-  const file = new File([blob], `${filename}.png`, { type: 'image/png' });
+/**
+ * Hand a rendered image to the visitor — through the share sheet where there is
+ * one, otherwise as a plain download. Takes either a data URL or a ready blob;
+ * `ext` only needs passing for formats other than PNG.
+ */
+export async function downloadImage(
+  image: string | Blob,
+  filename: string,
+  ext = 'png',
+) {
+  const blob =
+    typeof image === 'string' ? await (await fetch(image)).blob() : image;
+  const name = `${filename}.${ext}`;
+  const file = new File([blob], name, { type: blob.type || `image/${ext}` });
 
   // Use Web Share API on mobile if available
   if (navigator.canShare?.({ files: [file] })) {
@@ -63,7 +73,7 @@ export async function downloadImage(imageDataUrl: string, filename: string) {
   const blobUrl = URL.createObjectURL(blob);
   const link = document.createElement('a');
   link.href = blobUrl;
-  link.download = `${filename}.png`;
+  link.download = name;
   document.body.appendChild(link);
   link.click();
   document.body.removeChild(link);
