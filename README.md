@@ -1,10 +1,5 @@
 <div align="center" id="top">
-  <a href="https://fletoret.com">
-    <picture>
-      <img src="https://github.com/user-attachments/assets/df8304af-02ee-40a5-8823-1ba2673331f0" alt="Fletoret">
-    </picture>
-  </a>
-
+  
   <h1>Fletoret</h1>
 
   <p>
