@@ -120,66 +120,68 @@
   )} </script>`}
 </svelte:head>
 
-<div class="post-container">
-  <div class="post-header">
-    <Breadcrumbs author={authorInfo} {post} />
+<main>
+  <div class="post-container">
+    <div class="post-header">
+      <Breadcrumbs author={authorInfo} {post} />
 
-    <!-- <div class="post-meta-tags">
-      {#each post.tags as tag}
-        <p class="post-tag">{tag}</p>
-      {/each}
-    </div> -->
-    <h1 class="post-title">{post.title}</h1>
-    {#if post.subtitle}
-      <h2 class="post-subtitle">{post.subtitle}</h2>
-    {/if}
+      <!-- <div class="post-meta-tags">
+        {#each post.tags as tag}
+          <p class="post-tag">{tag}</p>
+        {/each}
+      </div> -->
+      <h1 class="post-title">{post.title}</h1>
+      {#if post.subtitle}
+        <h2 class="post-subtitle">{post.subtitle}</h2>
+      {/if}
+    </div>
   </div>
-</div>
 
-{#if post.img}
-  <picture class="header-img">
-    {#if post.img.endsWith('.jpg')}
-      <source srcset="/{post.img}" type="image/jpeg" />
-    {:else if post.img.endsWith('.avif')}
-      <source srcset="/{post.img}" type="image/avif" />
-    {:else if post.img.endsWith('.webp')}
-      <source srcset="/{post.imgWebp}" type="image/webp" />
-    {:else}
-      <source srcset="/{post.img}" type="image/png" />
-    {/if}
-    <img
-      class="img-fit-contain"
-      src="/{post.img}"
-      alt={post.title}
-      fetchpriority="high"
-    />
-  </picture>
-{:else}
-  <!-- <div class="divider" /> -->
-{/if}
+  {#if post.img}
+    <picture class="header-img">
+      {#if post.img.endsWith('.jpg')}
+        <source srcset="/{post.img}" type="image/jpeg" />
+      {:else if post.img.endsWith('.avif')}
+        <source srcset="/{post.img}" type="image/avif" />
+      {:else if post.img.endsWith('.webp')}
+        <source srcset="/{post.imgWebp}" type="image/webp" />
+      {:else}
+        <source srcset="/{post.img}" type="image/png" />
+      {/if}
+      <img
+        class="img-fit-contain"
+        src="/{post.img}"
+        alt={post.title}
+        fetchpriority="high"
+      />
+    </picture>
+  {:else}
+    <!-- <div class="divider" /> -->
+  {/if}
 
-<!-- https://kit.svelte.dev/docs/link-options -->
-<div class="post-container" data-sveltekit-reload>
-  <div class="post-header">
-    {#if post.human_date}
-      <div class="meta-time">
-        <p class="post-meta-time">{post.human_date}</p>
-      </div>
-    {/if}
+  <!-- https://kit.svelte.dev/docs/link-options -->
+  <div class="post-container" data-sveltekit-reload>
+    <div class="post-header">
+      {#if post.human_date}
+        <div class="meta-time">
+          <p class="post-meta-time">{post.human_date}</p>
+        </div>
+      {/if}
 
-    <!-- svelte-ignore a11y_click_events_have_key_events -->
-    <!-- svelte-ignore a11y_no_static_element_interactions -->
-    <div class="post-body" onclick={handlePostBodyClick}>{@html post.html}</div>
+      <!-- svelte-ignore a11y_click_events_have_key_events -->
+      <!-- svelte-ignore a11y_no_static_element_interactions -->
+      <div class="post-body" onclick={handlePostBodyClick}>{@html post.html}</div>
 
-    {#if post.last_update}
-      <p class="last-updated">
-        Ndryshuar së fundmi më {post.last_update}.
-      </p>
-    {/if}
+      {#if post.last_update}
+        <p class="last-updated">
+          Ndryshuar së fundmi më {post.last_update}.
+        </p>
+      {/if}
 
-    <ReadNext post={postAfter} />
+      <ReadNext post={postAfter} />
+    </div>
   </div>
-</div>
+</main>
 
 <BookFooter />
 

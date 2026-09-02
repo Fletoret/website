@@ -21,6 +21,7 @@ import type { BlogPost, Post, Author } from '$lib/types';
 interface PostFrontmatter {
   title: string;
   subtitle?: string;
+  slug?: string;
   author?: string;
   date?: string;
   tags?: string;
@@ -174,6 +175,7 @@ export function parse(
     attributes: {
       title,
       subtitle,
+      slug,
       author,
       date,
       tags = '',
@@ -189,17 +191,15 @@ export function parse(
     body,
   } = frontmatter<PostFrontmatter>(content);
 
-  let _parts = [grandparent, parent, title];
-  const parts: string[] = [];
+  const toSlug = (x: string | undefined) =>
+    slugify(x ? x.toLowerCase() : 'p')
+      .replaceAll(' ', '-')
+      .replace(/[^\w-]/g, '')
+      .replace(/[-]+/g, '-');
 
-  _parts.forEach((x) => {
-    parts.push(
-      slugify(x ? x.toLowerCase() : 'p')
-        .replaceAll(' ', '-')
-        .replace(/[^\w-]/g, '')
-        .replace(/[-]+/g, '-'),
-    );
-  });
+  // `slug` overrides the URL segment a post would get from its title. Needed
+  // where a book repeats a title: Hil Mosi has three poems called «Lamtumir!».
+  const parts = [toSlug(grandparent), toSlug(parent), toSlug(slug || title)];
 
   const relativeUrl = addTrailingSlash(`${authorFolder}/${parts.join('/')}`);
 

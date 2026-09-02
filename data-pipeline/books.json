@@ -14,6 +14,18 @@
       "author_name": "Mihal Grameno"
     },
     {
+      "slug": "lotet-e-dashtnies",
+      "title": "Lotët e dashtniës",
+      "manifest": "libra112!HASH01f0.dir",
+      "author": "Mosi, Hil",
+      "year": "1916",
+      "pages": 123,
+      "source": "https://bibliotekadigjitale.bksh.al/iiif/Manifester/IIIF/libra112!HASH01f0.dir",
+      "author_folder": "hil-mosi",
+      "book_folder": "lotet-e-dashtnies",
+      "author_name": "Hil Mosi"
+    },
+    {
       "slug": "mrizi-i-zanave",
       "title": "Mrizi i Zânavet",
       "manifest": "libra1!HASHae57.dir",
