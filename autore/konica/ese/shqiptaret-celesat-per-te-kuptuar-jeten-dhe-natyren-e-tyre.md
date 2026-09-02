@@ -4,7 +4,7 @@ author: Faik Konica
 respectLineBreaks: false
 parent: Ese
 grandparent: null
-order: 7
+order: 9
 ---
 
 Për të kuptuar historinë e një populli është e

@@ -1,0 +1,19 @@
+---
+title: I urti i malit
+author: Faik Konica
+respectLineBreaks: false
+parent: Ese
+grandparent: null
+order: 11
+---
+
+Tre miq, të quajtur Rëmbi, Gjëmbi dhe Shkëmbi, mbarojin së ngrëni. Plloska me verë shkoi nga duar në duar. Rëmbi nisi të dredhë cingare, Gjëmbi mori lahutën, Shkëmbi ia nisi këngës. Pastaj folën. Për çka mund të flasin tre miq, kur janë të rinj e kur mblidhen bashkë? Për qëllimet, për shpresat e tyre. Rëmbi, që shumë kohë e kish ndër mend të dilte në vise të huaja për fat, Gjëmbi donte të merrte udhën e Stambolli për të zënë punë. Shkëmbit zemra i thosh ta shkojë jetën e tij në mes të arave, të vreshtave e të bagëtive të veta. Ç’të mira, ç’të liga e prisjin sicilndo në udhë të jetës?
+
+Ç’gëzim, ç’trishtime fshihte në gji të vet koha për të ardhur? Të tre miqve u vate mendja tek i Urti i Malit. Dhe Rëmbi, duke ndezur një cingare të re: “Pse, tha, s’vemi të pyesim magjistarin e madh, të na shfaqë fatin tonë?” I Urti i Malit rrinte në mes të një pylli; një vrimë shpelle ish shtëpia e tij. Magjistari me famë s’kish shok për të kënduar në kohë për të ardhur, dhe dija e tij qaste njerëz nga gjithë anët e Shqipërisë. Kur vanë të tre miqtë në shpellë, dolli t’i presë një plak i çuditshëm: tripëllëmbësh i gjatë, një hundë sa një opingë i ndante tunrinjtë në dy, dhe një mjekër e bardhë porsi bora i briste gjer në dhe e i binte nëpër këmbët; një rrobe e ngjyrë hiri i mbulonte trupin, dhe, në vend të brezit, një gjarpër i shtrëngonte mesin, gjithë jeta e këtij njeriu ishë në sy të tija, dy pishë të ndezira.
+
+I urti i Malit – se ai ish – ua preu fjalën të tre miqve që deshën t’i thonë pse erdhën: - “E dij pse erdhtë. Hyni”” Hyjtin në një odë të skalisur në gur, e të ndritur prej shtatë shandanesh. Shtatë misurë të gjelbër ishin duke zier në mes të odës. Magjistari mori një stap të verdhë: të shtatë qirinjtë u shuan njëri pas tjatrit, dhe misurët pushuan së zieri. Ahere plaku ra me stap tri herë, e, në fund të odës, si në një teatër kur hapet perdja, u hap një qytet i bukur. Një qytet i bukur me pallate të larta, me rrugë të gjera, ku vejin e vinin karroca të ndritshme, kuaj të lehtë, zonja me rroba të hijshme, njerëz të gëzuar a të ndrojtur, të nxituar a të ngadalshëm. Dhe pastaj karroca të tjera e kuaj të tjerë, e automobila, e botë në të gjitha anët. “Si e vini re”, tha plaku, duhet një zakon i madh për të ecur nëpër këto rrugë pa qenë i shkelur njeriu. Një fshatar i ardhur që pak kohë nga katundi i tij është në rrezik të shtypet në ditë të para.
+
+Tani, rruga këtu është pasqyra e jetës: jeta, shoqëria, janë aqë të koklavitura në këto vise, aq të ngatrruara e të errëta, sa duhet një mjeshtri e madhe për të ecur, dhe kush s’është i mësuar me këto zakone, shpejt shtypet. Mos kujtoni se tregtia, punët etj, bëhen në ato vise me atë mënyrë të kulluar që bëhen në Shqipëri! Jo” Aty, tregtia është një shkencë, punët janë një sërë luftash të ashpra e të pamëshirshme. Që të fitosh me të vërtetë, duhet me një mënyrë të jesh një dijetar e një ushtar bashkë. Jeta, aty është një luftë, thashë - dhe në luftë, o djem, ka mundës, vërtetë, po ka dhe shumë të plagosur e të vrarë. Plaku i ra prapë tri herë stapit të verdhë, dhe në vend të qytetit të largmë, dolli një qytet anës detit, me shtëpi prej druri, me minare shumë, e me mijra qen rrugëve. E njohën Stambollin. Plaku shtroi përpara syve të miqve punët, me ç’dredhira me ç’ë unjura, e, shumë herë, me ç’poshtërsira. “Këtu, tha prapë plaku, jeta s’është një luftë, por një lodër”...
+“Sa për ty që kërkon ta shkosh jetën tënde në mes të arave, të vreshtave e të bagëtive” tha i Urti i Malit, “si lum ti!” se në qoftë se breshri a vapa a këlbaza, të prishin drithin a të pakësojnë bagëtinë, ajo prishje e ai pakësim s’do jenë të rrënjshme, dhe as këlbaza, as vapa, as breshëri s’mund të vihen më një me ligësinë e njerëzve.”
+
+Rëmbi, Gjëmbi edhe Shkëmbi, si u përshëndoshën me të Urtin e Malit dualën nga shpella e, mejtuar, muarën udhën e katundit. Nata po afrohet...
