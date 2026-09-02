@@ -436,5 +436,41 @@
         "publishedFletoret": true
       }
     ]
+  },
+  "hil-mosi": {
+    "folder": "hil-mosi",
+    "name": "Hil Mosi",
+    "description": "Hil Mosi (1885–1933) ka qenë poet, përkthyes e politikan shkodran, i shkolluar te jezuitët e Shkodrës dhe më pas për mësuesi në Klagenfurt. Shkroi në gegnishten e qytetit të vet vjersha atdhetare e dashtnore — “Kângët shqipe” (1909), “Zân’ i atdheut” (1913), “Lotët e dashtniës” (1916) — përkthei Shilerin, Gëten e Goldonin, dhe shërbeu ndër të tjera ministër i arsimit.",
+    "thumbnail": "/images/hil-mosi.avif",
+    "progressState": "partial",
+    "author": {
+      "@type": "Person",
+      "givenName": "Hil",
+      "familyName": "Mosi",
+      "birthDate": "1885-04-22",
+      "birthPlace": {
+        "@type": "Place",
+        "address": "Shkodër, Shqipëri"
+      },
+      "deathDate": "1933",
+      "deathPlace": {
+        "@type": "Place",
+        "address": "Tiranë, Shqipëri"
+      },
+      "image": "/images/hil-mosi.avif"
+    },
+    "books": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Book",
+        "name": "Lotët e dashtniës",
+        "folder": "hil-mosi/lotet-e-dashtnies",
+        "genre": "albanian poetry classics",
+        "datePublished": "1916",
+        "thumbnail": "/images/covers/lotet-e-dashtnies.avif",
+        "abstract": "Dyzet e shtatë vjersha dashtnore në gegnishten shkodrane, botuar me shpenzimet e vetë autorit në Shkodër. Vargje malli, xhelozie e humbjeje — dashuri të mbetuna përgjysmë, netë pa gjumë, rini që ikën — ndër to edhe gjashtëmbëdhjetë përkthime e përshtatje nga Gëte, Shileri, Hajne, Lesingu, Petëfi e Katuli. Në parathanie Mosi pyet veten nëse i kishte ardhur koha Shqipërisë për një libër të tillë.",
+        "publishedFletoret": true
+      }
+    ]
   }
 }

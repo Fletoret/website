@@ -181,6 +181,12 @@ body {
   font-family: var(--sans-serif);
   margin: 0;
   padding: 0;
+  /* Sticky footer: short pages (a four-line poem, say) would otherwise leave
+     the footer floating mid-viewport with dead space under it. The <main> of
+     each page grows to eat the leftover height instead. */
+  display: flex;
+  flex-direction: column;
+  min-height: 100dvh;
   color: var(--text-primary);
   background-color: var(--bg-primary) !important;
   font-variation-settings: 'opsz' 16;
@@ -192,6 +198,10 @@ body {
   -moz-font-feature-settings: var(--font-feature-settings);
   -ms-font-feature-settings: var(--font-feature-settings);
   font-feature-settings: var(--font-feature-settings);
+}
+
+main {
+  flex: 1 0 auto;
 }
 
 ::selection {
