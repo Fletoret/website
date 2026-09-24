@@ -202,6 +202,7 @@ npm run check     # kontroll tipesh (svelte-check)
 | `npm run wrap -- <shteg>` | Thyen rreshtat e gjatë në skedarët Markdown pa prishur fjalët. Pranon skedarë, dosje ose *glob*. |
 | `npm run cover -- <autor>/<vepra>` | Gjeneron kopertinën (AVIF + WEBP) duke drejtuar gjeneruesin `/kopertina` me shfletues pa kokë. |
 | `npm run author-image -- <autor> <url>` | Shkarkon, ripërmasëson dhe konverton portretin e një autori të listuar në `autore/index.json`. |
+| `npm run og:images [-- <autor>[/<vepra>]]` | Gjeneron pamjet për ndarje (JPG 1200×628) për çdo libër të publikuar, te `static/images/og/`, bashkë me `manifest.json`-in që lexon faqja `/<autor>/<vepra>/og-image/`. Kërkon Python me Pillow. Rirendite pas çdo ndryshimi që lëviz numrat. |
 | `npm run verify:build` | Verifikon se çdo *asset* që përmend HTML-ja e ndërtuar ekziston vërtet në `.svelte-kit/cloudflare`. |
 | `npm run verify:live` | I njëjti kontroll, por kundrejt faqes së publikuar. |
 | `npm run deploy` | `build` → `verify:build` → `wrangler pages deploy` → `verify:live`. Kërkon `npm run cf:login` një herë. |
@@ -220,7 +221,7 @@ faq/               pyetjet e shpeshta, të shfaqura në faqen kryesore
 src/lib/           komponentët Svelte, përpunuesi i Markdown-it, leximi i të dhënave
 src/routes/        faqet: /, /[autori]/[libri]/[kapitulli], /blog, /copeza, /ocr
 static/            imazhet (portrete, kopertina), fontet, ligji 35/2016
-scripts/           mjete ndihmëse: wrap, kopertina, portrete, verifikim publikimi
+scripts/           mjete ndihmëse: wrap, kopertina, portrete, pamje ndarjeje, verifikim publikimi
 data-pipeline/     nga një URL e BKSH Dixhitale te Markdown-i në autore/ (Python)
 ocr/               dalja e OCR-së së draftit, që ushqen redaktuesin te /ocr
 ```

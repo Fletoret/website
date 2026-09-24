@@ -54,6 +54,19 @@ PAGE_SCHEMA = {
             "items": {"type": "string"},
             "description": "Short notes on anything you could not read with confidence.",
         },
+        "footnotes": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "marker": {"type": "string"},
+                    "text": {"type": "string"},
+                },
+                "required": ["marker", "text"],
+                "additionalProperties": False,
+            },
+            "description": "Footnotes printed at the foot of this page, keyed by the marker used in `text`.",
+        },
     },
     "required": [
         "printed_page",
@@ -63,6 +76,7 @@ PAGE_SCHEMA = {
         "form",
         "text",
         "uncertain",
+        "footnotes",
     ],
     "additionalProperties": False,
 }

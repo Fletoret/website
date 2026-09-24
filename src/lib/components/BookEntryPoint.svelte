@@ -10,7 +10,7 @@
   let { book, chapters }: Props = $props();
 </script>
 
-<div class="book">
+<div class="book" id={book.folder.split('/').pop()}>
   <a class="book-entry" href="/{book.folder}">
     <div class="content">
       <h3 class="title">{book.name}</h3>
@@ -37,6 +37,7 @@
 
 <style lang="scss">
   .book {
+    scroll-margin-top: 6rem;
     display: flex;
     flex-direction: column;
     gap: var(--spacing-xl);

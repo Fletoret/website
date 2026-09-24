@@ -11,6 +11,7 @@
     "wrap": "node scripts/wrap-md.mjs",
     "cover": "node scripts/generate-cover.mjs",
     "author-image": "node scripts/fetch-author-image.mjs",
+    "og:images": "python3 scripts/og-images.py",
     "webp-to-avif": "magick mogrify -format avif -depth 10 -define heic:speed=2 static/images/**/*.webp",
     "png-to-avif": "magick mogrify -format avif -depth 10 -define heic:speed=2 static/images/**/*.png",
     "png-to-webp": "magick mogrify -format webp static/images/**/*.png",

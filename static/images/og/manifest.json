@@ -1,0 +1,200 @@
+{
+  "fan-noli/albumi": {
+    "image": "/images/og/fan-noli/albumi.jpg",
+    "width": 1200,
+    "height": 628,
+    "alt": "Albumi, Fan Noli — 18 vjersha, 3.387 fjalë të transkriptuara në Fletoret.",
+    "unit": "vjersha",
+    "unitCount": 18,
+    "words": 3387,
+    "pieces": 18,
+    "lines": 667
+  },
+  "fishta/gomari-i-babatasit": {
+    "image": "/images/og/fishta/gomari-i-babatasit.jpg",
+    "width": 1200,
+    "height": 628,
+    "alt": "Gomari i Babatasit, Gjergj Fishta — 8 pjesë, 23.623 fjalë të transkriptuara në Fletoret.",
+    "unit": "pjesë",
+    "unitCount": 8,
+    "words": 23623,
+    "pieces": 8,
+    "lines": 4307
+  },
+  "fishta/mrizi-i-zanave": {
+    "image": "/images/og/fishta/mrizi-i-zanave.jpg",
+    "width": 1200,
+    "height": 628,
+    "alt": "Mrizi i Zânavet, Gjergj Fishta — 25 vjersha, 24.646 fjalë të transkriptuara në Fletoret.",
+    "unit": "vjersha",
+    "unitCount": 25,
+    "words": 24646,
+    "pieces": 25,
+    "lines": 4384
+  },
+  "frang-bardhi/skenderbeu": {
+    "image": "/images/og/frang-bardhi/skenderbeu.jpg",
+    "width": 1200,
+    "height": 628,
+    "alt": "Apologjia e Skënderbeut, Frang Bardhi — 7 pjesë, 35.766 fjalë të transkriptuara në Fletoret.",
+    "unit": "pjesë",
+    "unitCount": 7,
+    "words": 35766,
+    "pieces": 7,
+    "lines": 2722
+  },
+  "grameno/kryengritja-shqiptare": {
+    "image": "/images/og/grameno/kryengritja-shqiptare.jpg",
+    "width": 1200,
+    "height": 628,
+    "alt": "Kryengritja shqiptare, Mihal Grameno — 21 krerë, 55.620 fjalë të transkriptuara në Fletoret.",
+    "unit": "krerë",
+    "unitCount": 21,
+    "words": 55620,
+    "pieces": 21,
+    "lines": 5059
+  },
+  "haki-stermilli/sikur-te-isha-djale": {
+    "image": "/images/og/haki-stermilli/sikur-te-isha-djale.jpg",
+    "width": 1200,
+    "height": 628,
+    "alt": "Sikur t'isha djalë, Haki Stërmilli — 8 kapituj, 56.362 fjalë të transkriptuara në Fletoret.",
+    "unit": "kapituj",
+    "unitCount": 8,
+    "words": 56362,
+    "pieces": 8,
+    "lines": 4889
+  },
+  "hil-mosi/lotet-e-dashtnies": {
+    "image": "/images/og/hil-mosi/lotet-e-dashtnies.jpg",
+    "width": 1200,
+    "height": 628,
+    "alt": "Lotët e dashtniës, Hil Mosi — 141 vjersha, 12.853 fjalë të transkriptuara në Fletoret.",
+    "unit": "vjersha",
+    "unitCount": 141,
+    "words": 12853,
+    "pieces": 141,
+    "lines": 2353
+  },
+  "konica/doktor-gjilpera": {
+    "image": "/images/og/konica/doktor-gjilpera.jpg",
+    "width": 1200,
+    "height": 628,
+    "alt": "Doktor Gjilpëra, Faik Konica — 3 pjesë, 25.651 fjalë të transkriptuara në Fletoret.",
+    "unit": "pjesë",
+    "unitCount": 3,
+    "words": 25651,
+    "pieces": 3,
+    "lines": 3114
+  },
+  "konica/ese": {
+    "image": "/images/og/konica/ese.jpg",
+    "width": 1200,
+    "height": 628,
+    "alt": "Ese, Faik Konica — 18 ese, 31.789 fjalë të transkriptuara në Fletoret.",
+    "unit": "ese",
+    "unitCount": 18,
+    "words": 31789,
+    "pieces": 18,
+    "lines": 2405
+  },
+  "leke-dukagjini/kanuni": {
+    "image": "/images/og/leke-dukagjini/kanuni.jpg",
+    "width": 1200,
+    "height": 628,
+    "alt": "Kanuni, Lekë Dukagjini — 12 libra, 38.384 fjalë të transkriptuara në Fletoret.",
+    "unit": "libra",
+    "unitCount": 12,
+    "words": 38384,
+    "pieces": 12,
+    "lines": 3301
+  },
+  "migjeni/novelat-e-qytetit-te-veriut": {
+    "image": "/images/og/migjeni/novelat-e-qytetit-te-veriut.jpg",
+    "width": 1200,
+    "height": 628,
+    "alt": "Novelat e qytetit të veriut, Migjeni — 27 novela, 30.737 fjalë të transkriptuara në Fletoret.",
+    "unit": "novela",
+    "unitCount": 27,
+    "words": 30737,
+    "pieces": 27,
+    "lines": 2807
+  },
+  "migjeni/vargjet-e-lira": {
+    "image": "/images/og/migjeni/vargjet-e-lira.jpg",
+    "width": 1200,
+    "height": 628,
+    "alt": "Vargjet e lira, Migjeni — 47 vjersha, 7.158 fjalë të transkriptuara në Fletoret.",
+    "unit": "vjersha",
+    "unitCount": 47,
+    "words": 7158,
+    "pieces": 47,
+    "lines": 1107
+  },
+  "naim-frasheri/bageti-e-bujqesi": {
+    "image": "/images/og/naim-frasheri/bageti-e-bujqesi.jpg",
+    "width": 1200,
+    "height": 628,
+    "alt": "Bagëti e Bujqësija, Naim Frashëri — 448 vargje, 4.317 fjalë të transkriptuara në Fletoret.",
+    "unit": "vargje",
+    "unitCount": 448,
+    "words": 4317,
+    "pieces": 1,
+    "lines": 448
+  },
+  "ndre-mjeda/juvenilja": {
+    "image": "/images/og/ndre-mjeda/juvenilja.jpg",
+    "width": 1200,
+    "height": 628,
+    "alt": "Juvenilja, Ndre Mjeda — 29 vjersha, 11.313 fjalë të transkriptuara në Fletoret.",
+    "unit": "vjersha",
+    "unitCount": 29,
+    "words": 11313,
+    "pieces": 29,
+    "lines": 2083
+  },
+  "ndre-mjeda/lirija": {
+    "image": "/images/og/ndre-mjeda/lirija.jpg",
+    "width": 1200,
+    "height": 628,
+    "alt": "Lirija, Ndre Mjeda — 90 vargje, 573 fjalë të transkriptuara në Fletoret.",
+    "unit": "vargje",
+    "unitCount": 90,
+    "words": 573,
+    "pieces": 1,
+    "lines": 90
+  },
+  "sami-frasheri/proverba": {
+    "image": "/images/og/sami-frasheri/proverba.jpg",
+    "width": 1200,
+    "height": 628,
+    "alt": "Proverba, Sami Frashëri — 1.394 fjalë të urta, 29.688 fjalë të transkriptuara në Fletoret.",
+    "unit": "fjalë të urta",
+    "unitCount": 1394,
+    "words": 29688,
+    "pieces": 4,
+    "lines": 2560
+  },
+  "sami-frasheri/shqiperia": {
+    "image": "/images/og/sami-frasheri/shqiperia.jpg",
+    "width": 1200,
+    "height": 628,
+    "alt": "Shqipëria - ç’ka qënë, ç’është e ç’do të bëhetë?, Sami Frashëri — 26 krerë, 19.911 fjalë të transkriptuara në Fletoret.",
+    "unit": "krerë",
+    "unitCount": 26,
+    "words": 19911,
+    "pieces": 26,
+    "lines": 2076
+  },
+  "zef-serembe/vjersha": {
+    "image": "/images/og/zef-serembe/vjersha.jpg",
+    "width": 1200,
+    "height": 628,
+    "alt": "Vjersha, Zef Serembe — 35 vjersha, 8.989 fjalë të transkriptuara në Fletoret.",
+    "unit": "vjersha",
+    "unitCount": 35,
+    "words": 8989,
+    "pieces": 35,
+    "lines": 1551
+  }
+}

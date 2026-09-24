@@ -97,6 +97,22 @@
     <AuthorCard authorInfo={author} />
   </aside>
   <div id="content">
+    {#if bookEntries?.length > 1}
+      <nav class="shelf" aria-label="Veprat">
+        <span class="count">{bookEntries.length} vepra</span>
+        <ul>
+          {#each bookEntries as [book]}
+            <li>
+              <a href="#{book.folder.split('/').pop()}">
+                {#if book.thumbnail}<img src={book.thumbnail} alt="" />{/if}
+                <span>{book.name}</span>
+                <span class="year">{book.datePublished}</span>
+              </a>
+            </li>
+          {/each}
+        </ul>
+      </nav>
+    {/if}
     {#if bookEntries}
       {#each bookEntries as [book, chapters]}
         <BookEntryPoint {book} {chapters} />
@@ -108,7 +124,11 @@
 <Footer />
 
 <style>
+  /* body is a flex column and auto margins stop a flex item from stretching, so
+     without an explicit width main would shrink to its content and the columns
+     would change size from book to book. */
   main {
+    width: 100%;
     max-width: 1000px;
     display: flex;
     gap: 3rem;
@@ -117,13 +137,61 @@
     margin: auto;
   }
   main #content {
-    width: 70%;
+    flex: 1;
+    min-width: 0;
     display: flex;
     flex-direction: column;
     gap: 2rem;
   }
+  /* Sized to the 300px cover/author card, not a percentage that can fall below it. */
   aside {
-    width: 30%;
+    flex: 0 0 300px;
+  }
+
+  .shelf {
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing-sm);
+    padding-bottom: var(--spacing-lg);
+  }
+  .shelf .count {
+    color: var(--text-secondary);
+    font-size: var(--text-sm);
+  }
+  .shelf ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--spacing-sm);
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  .shelf a {
+    display: flex;
+    align-items: center;
+    gap: 0.625rem;
+    padding: 4px 0.875rem 4px 4px;
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-lg);
+    color: inherit;
+    text-decoration: none;
+    font-size: var(--text-sm);
+    transition: background-color 0.15s ease, border-color 0.15s ease;
+  }
+  .shelf a:hover {
+    border-color: var(--border-color-light);
+    background: rgba(127, 127, 127, 0.1);
+  }
+  .shelf img {
+    width: 22px;
+    height: 32px;
+    object-fit: cover;
+    /* chip radius minus its padding, so the corners stay concentric */
+    border-radius: var(--radius-md);
+    display: block;
+  }
+  .shelf .year {
+    color: var(--text-secondary);
   }
 
   @media (max-width: 900px) {
@@ -133,12 +201,14 @@
     }
 
     main aside {
+      flex: 1 1 100%;
       width: 100%;
       display: flex;
       justify-content: center;
     }
 
     main #content {
+      flex: 1 1 100%;
       max-width: 600px;
       width: 100%;
     }

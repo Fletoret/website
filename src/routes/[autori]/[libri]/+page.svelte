@@ -111,7 +111,11 @@
 <Footer />
 
 <style>
+  /* body is a flex column and auto margins stop a flex item from stretching, so
+     without an explicit width main would shrink to its content and the columns
+     would change size from book to book. */
   main {
+    width: 100%;
     max-width: 1000px;
     display: flex;
     gap: 3rem;
@@ -120,7 +124,8 @@
     margin: auto;
   }
   main #content {
-    width: 70%;
+    flex: 1;
+    min-width: 0;
     display: flex;
     flex-direction: column;
     gap: 2rem;
@@ -131,8 +136,9 @@
       font-size: var(--text-2xl);
     }
   }
+  /* Sized to the 300px cover/author card, not a percentage that can fall below it. */
   aside {
-    width: 30%;
+    flex: 0 0 300px;
   }
 
   @media (max-width: 900px) {
@@ -142,12 +148,14 @@
     }
 
     main aside {
+      flex: 1 1 100%;
       width: 100%;
       display: flex;
       justify-content: center;
     }
 
     main #content {
+      flex: 1 1 100%;
       max-width: 600px;
       width: 100%;
     }

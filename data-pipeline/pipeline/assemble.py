@@ -50,10 +50,27 @@ class Chapter:
 
     @property
     def body(self) -> str:
+        """Joined text, with footnotes renumbered 1..n for this file."""
         text = ""
+        notes: list[str] = []
         for page in self.pages:
-            text = _join(text, (page.get("text") or "").strip(), self.form)
-        return text.strip()
+            page_text = (page.get("text") or "").strip()
+            for note in page.get("footnotes") or []:
+                marker, note_text = note.get("marker", ""), (note.get("text") or "").strip()
+                if marker == "cont" and notes:
+                    notes[-1] = _join(notes[-1], note_text, "prose")
+                    continue
+                ref = f"[^{marker}]"
+                if ref not in page_text:
+                    notes.append(note_text)  # orphan; keep it, numbered, for the editor
+                    continue
+                notes.append(note_text)
+                page_text = page_text.replace(ref, f"[^@{len(notes)}]", 1)
+            text = _join(text, page_text, self.form)
+        text = text.strip().replace("[^@", "[^")
+        if notes:
+            text += "\n\n" + "\n".join(f"[^{i}]: {n}" for i, n in enumerate(notes, 1))
+        return text
 
 
 def _join(previous: str, nxt: str, form: str) -> str:
@@ -66,6 +83,11 @@ def _join(previous: str, nxt: str, form: str) -> str:
     if previous.endswith("-"):
         # A word the typesetter split across the page break.
         return previous[:-1] + nxt.lstrip()
+
+    if form == "verse":
+        # Verse lines all open with a capital, so the head tells us nothing;
+        # a stanza break at a page turn is rarer than a running stanza.
+        return previous + "\n" + nxt
 
     tail = previous.rstrip()[-1:]
     head = nxt.lstrip()[:1]

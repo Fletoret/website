@@ -23,6 +23,8 @@ you are being asked instead.
   If the scan is too faint to tell them apart, prefer the reading the rest of
   the page uses for the same word, and list the word in `uncertain`.
 - Use `ŷ`, never `ÿ`.
+- Some typefaces print `d` with a crossed or ð-shaped glyph. It is plain `d`:
+  never output `ð` or `đ`.
 - A vowel before `nd`/`mb` is nasal often enough to be the default reading:
   `kâmbë, dhâmbë, trêmbë, vênd, mênd, kând, rând, mbrênda`.
 - The root `mênd-` (mind) is nasal in every derivative. `mëndafsh` (silk) and
@@ -55,6 +57,16 @@ kasavet, çajre, kismet, marifet, xhamadan, mahrama, çardak, branavekë`.
   period and are not a sign of missing text.
 - Mark a section break printed as `* * *` or a row of asterisks as a markdown
   thematic break on its own line: `***`.
+
+# Footnotes
+
+Footnotes printed at the foot of the page do not go in `text`. Where the text
+carries a reference mark (`1`, `*`, `(2)`, a superscript), write `[^m]` in its
+place, with no space before it, where `m` is the mark as printed without
+brackets (`[^1]`, `[^*]`). Put each note in `footnotes` as
+`{"marker": "m", "text": "..."}`, transcribed with the same care as the body.
+A note that runs on from the previous page (no mark of its own) gets marker
+`cont`. Pages with no footnotes return an empty list.
 
 # Verse vs prose
 

@@ -215,8 +215,8 @@ async function fillCover(page, { title, subtitle, author, theme, palette, font, 
   // A cover that quietly exports the page's placeholder text is worse than no
   // cover at all, so confirm the text landed before anything gets captured.
   for (const [cls, expected] of [['title', title], ['subtitle', subtitle], ['author', author]]) {
-    const actual = await page.locator(`#book-cover .${cls}[contenteditable]`).innerText();
-    if (actual.trim() !== String(expected).trim()) {
+    const actual = await page.locator(`#book-cover .${cls}[contenteditable]`).textContent();
+    if ((actual ?? "").trim() !== String(expected).trim()) {
       throw new Error(
         `generate-cover: ${cls} did not take — expected ${JSON.stringify(String(expected))}, ` +
           `cover shows ${JSON.stringify(actual)}`
@@ -309,7 +309,13 @@ async function main() {
   console.log(`generate-cover: wrote ${outBase}.avif and ${outBase}.webp`);
 }
 
-main().catch((err) => {
-  console.error(err);
-  process.exit(1);
-});
+// Exit explicitly: the Vite server's workerd child (Cloudflare platform proxy)
+// outlives server.close() and would keep the process alive after the cover is
+// written.
+main().then(
+  () => process.exit(0),
+  (err) => {
+    console.error(err);
+    process.exit(1);
+  }
+);
