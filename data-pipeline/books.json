@@ -14,6 +14,18 @@
       "author_name": "Mihal Grameno"
     },
     {
+      "slug": "lahuta-e-malcis",
+      "title": "Lahuta e Malcis",
+      "manifest": "libra1!HASH01f8!3560cc6a.dir",
+      "author": "Fishta, Gjergj",
+      "year": "1937",
+      "pages": 526,
+      "source": "https://bibliotekadigjitale.bksh.al/iiif/Manifester/IIIF/libra1!HASH01f8!3560cc6a.dir",
+      "author_folder": "fishta",
+      "book_folder": "lahuta-e-malcis",
+      "author_name": "Gjergj Fishta"
+    },
+    {
       "slug": "lotet-e-dashtnies",
       "title": "Lotët e dashtniës",
       "manifest": "libra112!HASH01f0.dir",
