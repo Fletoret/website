@@ -2,6 +2,18 @@
   "$comment": "Registry of books pulled from bibliotekadigjitale.bksh.al. Managed by data-pipeline/bksh.py; safe to hand-edit.",
   "books": [
     {
+      "slug": "agimi-i-gjytetniis",
+      "title": "Agimi i Gjytetniis",
+      "manifest": "libra1!HASHa2e0!95771249.dir",
+      "author": "Gjeçov, Shtjefën Konstantin.",
+      "year": "1910",
+      "pages": 151,
+      "source": "https://bibliotekadigjitale.bksh.al/iiif/Manifester/IIIF/libra1!HASHa2e0!95771249.dir",
+      "author_folder": "gjecovi",
+      "book_folder": "agimi-i-gjytetniis",
+      "author_name": "Shtjefën Gjeçovi"
+    },
+    {
       "slug": "kryengritja-e-shqiptareve",
       "title": "Kryengritja shqiptare",
       "manifest": "libra1!HASH8b45!94a869fc.dir",

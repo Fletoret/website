@@ -21,6 +21,17 @@
     "pieces": 8,
     "lines": 4307
   },
+  "fishta/lahuta-e-malcis": {
+    "image": "/images/og/fishta/lahuta-e-malcis.jpg",
+    "width": 1200,
+    "height": 628,
+    "alt": "Lahuta e Malcis, Gjergj Fishta — 30 këngë, 90.778 fjalë të transkriptuara në Fletoret.",
+    "unit": "këngë",
+    "unitCount": 30,
+    "words": 90778,
+    "pieces": 30,
+    "lines": 15437
+  },
   "fishta/mrizi-i-zanave": {
     "image": "/images/og/fishta/mrizi-i-zanave.jpg",
     "width": 1200,
@@ -42,6 +53,17 @@
     "words": 35766,
     "pieces": 7,
     "lines": 2722
+  },
+  "gjecovi/agimi-i-gjytetniis": {
+    "image": "/images/og/gjecovi/agimi-i-gjytetniis.jpg",
+    "width": 1200,
+    "height": 628,
+    "alt": "Agimi i Gjytetniis, Shtjefën Gjeçovi — 6 pjesë, 27.846 fjalë të transkriptuara në Fletoret.",
+    "unit": "pjesë",
+    "unitCount": 6,
+    "words": 27846,
+    "pieces": 6,
+    "lines": 752
   },
   "grameno/kryengritja-shqiptare": {
     "image": "/images/og/grameno/kryengritja-shqiptare.jpg",

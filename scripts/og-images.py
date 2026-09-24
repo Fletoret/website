@@ -81,7 +81,9 @@ BOOK_META = {
     "konica/ese": {"kind": "Ese", "unit": "ese"},
     "fishta/mrizi-i-zanave": {"kind": "Vjersha", "unit": "vjersha"},
     "fishta/gomari-i-babatasit": {"kind": "Poemë satirike", "unit": "pjesë"},
+    "fishta/lahuta-e-malcis": {"kind": "Epos", "unit": "këngë"},
     "leke-dukagjini/kanuni": {"kind": "Kanun", "unit": "libra"},
+    "gjecovi/agimi-i-gjytetniis": {"kind": "Edukatë qytetare", "unit": "pjesë"},
     "sami-frasheri/shqiperia": {"kind": "Traktat", "unit": "krerë"},
     "sami-frasheri/proverba": {
         "kind": "Fjalë të urta",
