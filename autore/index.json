@@ -483,5 +483,41 @@
         "publishedFletoret": true
       }
     ]
+  },
+  "gjecovi": {
+    "folder": "gjecovi",
+    "name": "Shtjefën Gjeçovi",
+    "description": "Shtjefën Gjeçovi (1874–1929) ka qenë prift françeskan, etnograf, arkeolog e folklorist nga Janjeva e Kosovës. Mbledhës i Kanunit të Lekë Dukagjinit, të cilin e botoi pjesë-pjesë në revistën “Hylli i Dritës”, shkroi edhe vjersha, drama e studime mbi lashtësinë shqiptare. U vra në Zym të Hasit më 1929.",
+    "thumbnail": "/images/shtjefen-gjecovi.avif",
+    "progressState": "partial",
+    "author": {
+      "@type": "Person",
+      "givenName": "Shtjefën",
+      "familyName": "Gjeçovi",
+      "birthDate": "1874-07-12",
+      "birthPlace": {
+        "@type": "Place",
+        "address": "Janjevë, Kosovë"
+      },
+      "deathDate": "1929-10-14",
+      "deathPlace": {
+        "@type": "Place",
+        "address": "Zym, Kosovë"
+      },
+      "image": "/images/shtjefen-gjecovi.avif"
+    },
+    "books": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Book",
+        "name": "Agimi i Gjytetniis",
+        "folder": "gjecovi/agimi-i-gjytetniis",
+        "genre": "classic",
+        "datePublished": "1910",
+        "thumbnail": "/images/covers/agimi-i-gjytetniis.avif",
+        "abstract": "Libër edukate qytetare për rininë shqiptare, i shkruem në gegnishten e veriut dhe i ndamë në paragrafë me pyetje e përgjigje, citate nga Aristoteli e Ciceroni. Gjeçovi flet për shoqninë e detyrat e njeriut ndaj shokëve, për vllaznimin, besimin e atdheun, atdhedashtninë, dhe për gjuhën shqipe si detyrë që i ka çdo shqiptar ndaj të parëve.",
+        "publishedFletoret": true
+      }
+    ]
   }
 }
