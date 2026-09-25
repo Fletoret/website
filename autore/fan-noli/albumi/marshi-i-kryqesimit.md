@@ -5,7 +5,7 @@ author: Fan Noli
 respectLineBreaks: true
 parent: Albumi
 grandparent:
-order: 8
+order: 9
 keywords:
 published: true
 ---
@@ -13,7 +13,7 @@ published: true
 Do t' të vrasim, Jesu, se të kemi Baba,
 Do t' të vrasim, Mesi, se të kemi Usta,
 Se s'ke dashur as jet' as martes' as para:
-Kryqësoje, Pilat, në Kalvar, Golgothas!
+Kryqësoje, Pilat, në Kalvar, Golgotha!
 
 Dy kusarë të vegjël i zumë në lak,
 Kryqësoji këta, se na vothnë fort pak,
@@ -28,9 +28,9 @@ Kryqësoje, Pilat, në Kalvar, Golgotha!
 Varreni, se me botën, me ne s'shëmbëllen,
 Se na ndreq shtrëmbëritë, dhe kurrë s'na rren,
 Se e do vegjëlin' e tiran' e urren:
-Kryqësoje, Pilat, në Kalvar, Golgothat!
+Kryqësoje, Pilat, në Kalvar, Golgotha!
 
-Vrajeni, se për vete s' kujdeset, s'lëfton,
+Vrajeni, se për vete s'kujdeset, s'lëfton,
 Dhe të mjerët, të humburit nuk i sfruton,
 Dhe për sherr, për vllavrasje, për luftë, s'punon:
 Kryqësoje, Pilat, në Kalvar, Golgotha!

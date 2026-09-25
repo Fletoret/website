@@ -5,7 +5,7 @@ author: Fan Noli
 respectLineBreaks: true
 parent: Albumi
 grandparent:
-order: 16
+order: 17
 keywords:
 published: true
 ---
@@ -22,7 +22,7 @@ Që të vjen me not.
 
 E arriva dhe ia thashë,
 Asnjë gur pa tundur s'lashë,
-Dhe mëgjunjazi i rashë,
+Dhe më gjunjazi i rashë,
 Ç'u mundova kot.
 
 Hapa gojën dhe vajtova,
@@ -42,5 +42,5 @@ Lavdi paç, o Zot!
 
 Dale, moj, se kam një fjalë,
 Se më rrjedhin djersët valë:
-Dale, moj, se kam i çalë
+Dale, moj, se [jam] i çalë
 Dhe më s'ecënj dot!

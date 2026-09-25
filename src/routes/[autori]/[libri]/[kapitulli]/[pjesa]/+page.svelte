@@ -3,6 +3,9 @@
   import Breadcrumbs from '$lib/components/Breadcrumbs.svelte';
   import EditorNoteSheet from '$lib/components/EditorNoteSheet.svelte';
   import ReadNext from '$lib/components/ReadNext.svelte';
+  import EpubDownload from '$lib/components/EpubDownload.svelte';
+  import { epubHref } from '$lib/epub';
+  import type { ExtendedBookType } from '$lib/types';
   import CONFIG from '$lib/config';
   import { stripMarkdown } from '$lib/utils';
   import '$lib/css/app.css';
@@ -12,6 +15,10 @@
   let post = $derived(data.post);
   let postAfter = $derived(data.postAfter);
   let authorInfo = $derived(data.authorInfo);
+  // The book this chapter belongs to, for its EPUB link.
+  let book = $derived(
+    authorInfo?.books?.find((b: ExtendedBookType) => `${b.folder}/` === post.relativeUrlBook),
+  );
 
   let description = $derived(stripMarkdown(post.body, 160));
 
@@ -85,6 +92,14 @@
 <svelte:head>
   <title>{title}</title>
   <link rel="canonical" href={post.url} />
+  {#if book?.epub}
+    <link
+      rel="alternate"
+      type="application/epub+zip"
+      href="{CONFIG.info.base_url}{epubHref(book.folder)}"
+      title="{book.name} (EPUB)"
+    />
+  {/if}
   <meta name="description" content={description} />
   <meta name="twitter:description" content={description} />
 
@@ -179,6 +194,13 @@
       {/if}
 
       <ReadNext post={postAfter} />
+
+      {#if book?.epub}
+        <p class="epub-offline">
+          Lexoje gjithë librin offline:
+          <EpubDownload bookFolder={book.folder} authorName={authorInfo?.name ?? ''} variant="compact" />
+        </p>
+      {/if}
     </div>
   </div>
 </main>
@@ -190,3 +212,16 @@
   html={openNoteId ? post.editorNotes?.[openNoteId] : undefined}
   onClose={() => (openNoteId = null)}
 />
+
+<style>
+  .epub-offline {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: var(--spacing-sm) var(--spacing-md);
+    margin-top: var(--spacing-xl);
+    font-family: var(--sans-serif);
+    font-size: var(--text-sm);
+    color: var(--text-secondary);
+  }
+</style>

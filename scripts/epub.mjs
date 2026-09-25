@@ -311,8 +311,9 @@ const typesetTitle = (s) =>
         .replaceAll("'", '’');
 
 function loadBook(folder, index = loadIndex()) {
-  const authorKey = folder.split('/')[0];
-  const author = index[authorKey];
+  // Index keys aren't always the folder prefix (Fan Noli is `noli`, his books
+  // `fan-noli/…`), so find the book by its folder.
+  const author = Object.values(index).find((a) => a.books?.some((b) => b.folder === folder));
   const book = author?.books?.find((b) => b.folder === folder);
   if (!book) throw new Error(`${folder}: no such book in ${INDEX_PATH}`);
 

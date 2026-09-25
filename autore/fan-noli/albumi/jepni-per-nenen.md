@@ -11,7 +11,7 @@ published: true
 ---
 
 Ç'thot' ajo e ve e gjorë,
--- Mbretëreshë pa kurorë -
+— Mbretëreshë pa kurorë —
 Faqeçjerrur, leshlëshuar,
 Shpirt e zemër përvëluar,
 Gjysm' e vdekur: "O Shqiptarë,
@@ -38,7 +38,7 @@ Mbahu, Nëno, mos kij frikë, etj.
 Cilët bij të tradhëtuan
 Dhe të doqnë dhe të shuan
 Dhe të lan', o Shkab' e ngratë,
-Pa fole, pa zog, pa shpatë7
+Pa fole, pa zog, pa shpatë?
 Këta qena, o shok' i mbytni,
 Mbushni gjyle që t'i shtypni.
 Mbahu, Nëno, mos kij frikë, etj.

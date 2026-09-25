@@ -33,10 +33,10 @@ Yll i pavdekur për Liri.
 
 Sa shpesh pastaj përdhë u shtrive
 Me zjarr e zi u ndeze, u nxive,
-Po çdo mizor me shpat” e grive,
+Po çdo mizor me shpat' e grive,
 O fushëkuq, o shkabëzi!
 
 Përpjetë prije Shqipërinë
 Përlintja shpirtin dhe fuqinë
-Diell për vllanë, yrnek për fqinë.
+Diell për vllanë, yrnek për fqinë,
 Për botën ëndrr' e qiell i ri!

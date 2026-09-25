@@ -22,3 +22,15 @@ export const epubDownloadName = (authorName: string, bookFolder: string) => {
     .replace(/^-|-$/g, '');
   return `${author}_${bookFolder.split('/')[1]}.epub`;
 };
+
+/**
+ * What pages say about a book's e-book, in Albanian and English, for meta
+ * descriptions and titles (the site is Albanian; English catches searches like
+ * "download albanian epub").
+ */
+export const EPUB_BLURB =
+  'Lexoje online ose shkarkoje falas si e-book (EPUB). Read online or download the free EPUB ebook.';
+/** The same for a page listing several books (an author's). */
+export const EPUB_BLURB_PLURAL =
+  'Lexoji online ose shkarkoji falas si e-book (EPUB). Read online or download the free EPUB ebooks.';
+export const EPUB_TITLE_SUFFIX = 'lexo online, shkarko EPUB falas';

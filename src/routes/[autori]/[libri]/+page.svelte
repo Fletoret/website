@@ -6,6 +6,7 @@
   import BookProfile from '$lib/components/BookProfile.svelte';
   // import { generateImageID } from "imagetools-core";
   import type { Author, ExtendedBookType, Post } from '$lib/types.js';
+  import { EPUB_BLURB, EPUB_TITLE_SUFFIX, epubHref } from '$lib/epub';
 
   let { data } = $props();
 
@@ -39,31 +40,40 @@
   });
 
   const serpDescription = $derived(
-    `${book?.abstract} Botuar në ${book?.datePublished}.`,
+    `${book?.abstract} Botuar në ${book?.datePublished}.${book?.epub ? ` ${EPUB_BLURB}` : ''}`,
+  );
+
+  // Books with an EPUB say so in the title too: people search for "… epub".
+  const pageTitle = $derived(
+    book?.epub
+      ? `${book?.name}, ${author?.name} – ${EPUB_TITLE_SUFFIX} | ${CONFIG.info.title}`
+      : `${book?.name}, ${author?.name} | ${CONFIG.info.title}`,
   );
 </script>
 
 <svelte:head>
-  <title>{book?.name}, {author?.name} | {CONFIG.info.title}</title>
+  <title>{pageTitle}</title>
   <link rel="canonical" href="{CONFIG.info.base_url}/{book?.folder}/" />
+  {#if book?.epub}
+    <link
+      rel="alternate"
+      type="application/epub+zip"
+      href="{CONFIG.info.base_url}{epubHref(book.folder)}"
+      title="{book.name} (EPUB)"
+    />
+  {/if}
   <meta name="description" content={serpDescription} />
   <meta name="twitter:description" content={serpDescription} />
 
   <!--twitter important OG data-->
-  <meta
-    name="twitter:title"
-    content="{book?.name}, {author?.name} | {CONFIG.info.title}"
-  />
+  <meta name="twitter:title" content={pageTitle} />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="@FletoretSQ" />
 
   <!-- OG params for sharable content -->
   <meta property="og:type" content="website" />
   <meta property="og:url" content="{CONFIG.info.base_url}/{book?.folder}/" />
-  <meta
-    property="og:title"
-    content={`${book?.name}, ${author?.name} | ${CONFIG.info.title}`}
-  />
+  <meta property="og:title" content={pageTitle} />
   {#if book?.thumbnail}
     <meta
       property="og:image"

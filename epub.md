@@ -26,6 +26,7 @@ All pass EPUBCheck 5.4 with no errors, warnings or infos.
 | `scripts/epub.css` | The book's stylesheet, modelled on Standard Ebooks' `core.css`. |
 | `src/lib/epub.ts` | URL, `static/` path and download filename. Shared by the builder and the site. |
 | `src/lib/components/EpubDownload.svelte` | Download button: `full` on the book profile, `compact` on the author page's book cards. |
+| SEO | Books with an EPUB get: "lexo online, shkarko EPUB falas" in the page title; a bilingual (sq/en) sentence in the book and author meta descriptions (`EPUB_BLURB` in `src/lib/epub.ts`); `<link rel="alternate" type="application/epub+zip">` on the book and chapter pages; a schema.org `workExample` (`bookFormat: EBook`, `encodingFormat: application/epub+zip`) in the book JSON-LD (`src/lib/db.ts`); a download line under every chapter; and an FAQ entry on the homepage (`faq/a-mund-ti-shkarkoj-librat.md`). |
 | `vite.config.ts` → `EpubPlugin` | Builds every flagged book when `dev` or `build` starts. |
 | `autore/index.json` | `"epub": true` opts a book in; optional `"subtitle"` goes on the title page; `"compiledBy"` (an author folder) credits a compiler on the title page, colophon and as `dc:contributor` (MARC `com`). |
 
@@ -132,7 +133,7 @@ A stress test on 2026-09-25 built each of these without flagging it.
 | `grameno/kryengritja-shqiptare` | **Shipped** | Proofread against all 214 scans (~195 fixes). Two chapter openings filed in the wrong chapter, moved back. First book with images. Four Vol. II photo plates aren't in the text. |
 | `gjecovi/agimi-i-gjytetniis` | **Shipped** | Proofread against the scans (~1,000 fixes: `yy` read as `yp`/`ŷ`, spaced proclitics, quotes). The index of cited authors (pp. 143–148) the `(n.)` citations point to isn't in the edition. |
 | `hil-mosi/lotet-e-dashtnies` | **Shipped** | Proofread against the scans for pp. 5–92; pp. 93–122 (files `order` 106–141) only against the page transcriptions, with 43 `uncertain` items left, so a scan pass there is still due. The markdown's post-processor had dropped the closing dashes, cut ellipses, invented subtitles and lost the preface (now `parathanje.md`). |
-| `fan-noli/*` | Not on the site | No entry in `autore/index.json`. |
+| `fan-noli/albumi` | **Shipped** | Its author's index key is `noli`, not `fan-noli`, which the builder used to assume (now it finds a book by folder). No scans (~65 fixes); `order` tie between two poems resolved. `fan-noli/vjershat-e-para` is unpublished. |
 
 **Raw HTML in markdown** that isn't valid XHTML is fixed in the sources (for
 example `<br>` → `<br/>`, balanced tags), which also improves the site.

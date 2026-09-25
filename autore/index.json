@@ -273,7 +273,8 @@
         "datePublished": "1948",
         "thumbnail": "/images/covers/albumi-fan-noli.avif",
         "abstract": "Albumi është një vëllim me poezi shkruar nga intelektuali dhe shtetari i shquar shqiptar, Fan Noli. Kjo antologji paraqet aftësinë lirike të Nolit dhe përkushtimin e tij të thellë për nacionalizmin shqiptar.",
-        "publishedFletoret": true
+        "publishedFletoret": true,
+        "epub": true
       },
       {
         "@context": "https://schema.org",

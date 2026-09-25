@@ -27,7 +27,7 @@ O Njeri-Perëndi: Hosanna, hosanna!
 
 Përmi Dhé, përmi Fron, përmi Qiell u bekofsh,
 Përmi djall dhe tiran, përmi Ferr mbretërofsh,
-Me pean dhe temjan, dhe këmban ‘u këndofsh,
+Me pean dhe temjan, dhe këmban' u këndofsh,
 Drit' e gas, rrofsh e qofsh: Hosanna, hosanna!
 
 O i fort', o i urt', o i ëmbl Jesu
@@ -35,7 +35,7 @@ Plot me bes' e me shpresë të biem mi gju,
 T'adhurojmë me zemër këtu e tehu,
 Gjithëkunt e pa funt: Hosanna, hosanna!
 
-Hosana, o çlironjës, Mesi, hosanna!
+Hosanna, o çlironjës, Mesi, hosanna!
 Shtroni udhën me lule, dafin' e hurma,
 Brohoritni trumbeta, timpane, zurna,
 Thirr e zbras, o gurmas: Hosanna, hosanna!

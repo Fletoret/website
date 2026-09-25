@@ -21,6 +21,7 @@
   href={epubHref(bookFolder)}
   download={epubDownloadName(authorName, bookFolder)}
   type="application/epub+zip"
+  title="Shkarko falas e-book-un në EPUB · Download the free EPUB ebook"
 >
   <span class="icon"><IconBookDownload size="100%" stroke={1.5} /></span>
   {#if variant === 'compact'}
@@ -28,7 +29,7 @@
   {:else}
     <span class="label">
       Shkarko e-book
-      <span class="format">EPUB, për lexuesit elektronikë</span>
+      <span class="format">EPUB falas · Kindle, Kobo, Apple Books</span>
     </span>
   {/if}
 </a>

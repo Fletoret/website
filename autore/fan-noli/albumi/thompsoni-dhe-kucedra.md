@@ -13,13 +13,13 @@ published: true
 _Te Ura, te Ura
 Vraponi, o burra_,
 
-Me armë, me topa, me kordh'e me shpata,
+Me armë, me topa, me kordh' e me shpata,
 Se dolli kuçedra e errët nga nata,
 Se ngriti bajrakun e lyer me gjak
 Dhe sulet prej Shjakut në Durrës me vrap.
 
 _Kuçedr' e Turqisë,
-hyen' e urisë_,
+Hyen' e urisë_,
 
 E rrahur nga Greku, nga Serbi e Bullgari
 Do gjak të thëthinjë dhe vjen te Shqiptari,
@@ -27,7 +27,7 @@ Si gjarpër zvarniset, i sillet përqark,
 Me dinin në gojë, me helmin në bark.
 
 _Kuçedrën e vrarë
-e hasi më parë_
+E hasi më parë_
 
 Thomsoni në Vlorë, kur vinte prej detit
 Me katërqint krahë lubi e Dovletit,
@@ -55,17 +55,17 @@ _Dy herë të theva,
 Të shtriva, të ndeva_,
 
 Po prapë u ngjalle dhe prapë u ngrite,
-Pritmë, the, pritmël Dhe prap'iu vërvite,
+Pritmë, the, pritmë! Dhe prap' iu vërvite,
 Dhe hovin kuçedrës ia preve, po re,
 Kalorës i huaj, që vdiqe për ne!
 
 _Nga Ura, nga Ura,
-Po ikni, 0 burra?_
+Po ikni, o burra?_
 
 Ju ikni, po hij' e Kalorësit s'ikën!
 Kuçedrës tërbuar ajo i fut frikën,
-Se Urën € ruan, se Urën e mpron
-Stihia- Shqiponjë me qip e me thonj.
+Se Urën e ruan, se Urën e mpron
+Stihia-Shqiponjë me qip e me thonj.
 
 _Te Ura, te Ura,
 Vajtoni, o burra_,

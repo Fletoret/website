@@ -16,6 +16,8 @@
 
   const year = new Date().getFullYear();
 
+  const homeDescription = `${CONFIG.info.misioni} Lexoji online ose shkarkoji falas si e-book (EPUB). Albanian classics to read online or download as free EPUB ebooks.`;
+
   let faqSchema = $derived({
     '@context': 'https://schema.org',
     '@type': 'FAQPage',
@@ -32,13 +34,13 @@
 
 <svelte:head>
   <title>{CONFIG.info.serp_title}</title>
-  <meta name="description" content={CONFIG.info.misioni} />
+  <meta name="description" content={homeDescription} />
   <meta name="author" content="Fletoret.com" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <!-- OG params for sharable content -->
   <meta property="og:type" content="website" />
   <meta property="og:title" content={CONFIG.info.title} />
-  <meta property="og:description" content={CONFIG.info.misioni} />
+  <meta property="og:description" content={homeDescription} />
   <meta property="og:site_name" content={CONFIG.info.title} />
   <meta property="og:locale" content="sq_AL" />
   <meta property="og:url" content="https://fletoret.com/" />
@@ -50,7 +52,7 @@
 
   <meta
     name="keywords"
-    content="fletoret, migjeni, fishta, fan noli, faik konica, leke dukagjini, sami frasheri, naim frasheri, veprat e plota, novelat e qytetit te veriut, vargjet e lira, fan noli albumi, kanuni lek dukagjinit, kanuni i leke dukagjinit, kanuni i malësisë, kanuni i maleve, kanuni i veriut, mrizi i zanave, gomari i babatasit, shqiperia cka qene, biblioteka dixhitale, libra shqip, letërsi shqipe, autorë shqiptarë, poezi shqip, prozë shqip, klasikë shqiptarë, digjitalizim, open source, kulturë shqiptare, histori shqiptare"
+    content="fletoret, migjeni, fishta, fan noli, faik konica, leke dukagjini, sami frasheri, naim frasheri, veprat e plota, novelat e qytetit te veriut, vargjet e lira, fan noli albumi, kanuni lek dukagjinit, kanuni i leke dukagjinit, kanuni epub, kanuni i malësisë, kanuni i maleve, kanuni i veriut, mrizi i zanave, gomari i babatasit, shqiperia cka qene, biblioteka dixhitale, libra shqip, letërsi shqipe, autorë shqiptarë, poezi shqip, prozë shqip, klasikë shqiptarë, digjitalizim, open source, kulturë shqiptare, histori shqiptare, e-book shqip, libra epub shqip, shkarko libra falas, shkarko e-book, libra elektronikë shqip, albanian ebooks, albanian epub, free albanian books, download albanian ebooks, albanian literature epub"
   />
 
   <!-- Canonical -->
@@ -69,7 +71,7 @@
 
   <!--twitter important OG data-->
   <meta name="twitter:title" content={CONFIG.info.title} />
-  <meta name="twitter:description" content={CONFIG.info.description} />
+  <meta name="twitter:description" content={homeDescription} />
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@FletoretSQ" />
   <meta

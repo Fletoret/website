@@ -5,7 +5,7 @@ author: Fan Noli
 respectLineBreaks: true
 parent: Albumi
 grandparent:
-order: 15
+order: 16
 keywords:
 published: true
 ---
@@ -42,15 +42,15 @@ Pres me vjet' e pres me ditë,
 Seç' u tera, seç' u mpaka,
 Seç' u çora, seç' u mplaka,
 Lark prej vatrës dhe prej punës,
-Anës Rinit,anës Tunës.
+Anës Rinit, anës Tunës.
 
 Çaskërdisur, batërdisur,
 Përpëlitur dhe zalisur,
 Endërronj pa funt, pa shpresë,
-Anës Flbës anës Spree-së.
+Anës Elbës, anës Spree-së.
 
 Dhe një zë vëngon nga lumi,
-Mëbuçet, më zgjon nga gjumi,
+Më buçet, më zgjon nga gjumi,
 Se mileti po gatitet,
 Se tirani lebetitet,
 Se pëlcet, kërcet furtuna,
@@ -68,10 +68,12 @@ Ky ilaç e ky kushtrim
 Më bën djal' e më bën trim,
 Më jep forc' e më jep shpresë,
 Anës Elbës, anës Spree-së.
+
 Se pas dimrit vjen një verë,
 Që do kthehemi një herë
 Pranë vatrës, pranë punës,
 Anës Vjosës, anës Bunës!
+
 Arratisur, syrgjynosur,
 Raskapitur e katosur,
 Brohorit me bes' me shpresë

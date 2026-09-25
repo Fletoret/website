@@ -10,7 +10,7 @@ keywords:
 published: true
 ---
 
-Në kështjellët'atdheut, në tempull të fesë
+Në kështjellë t'atdheut, në tempull të fesë
 Janë shtruar sarafët pa shpirt e pa besë,
 Tregojn' e gënjejnë, rrëmbejn' e sfrutojnë,
 Thon' ashtu Izraelin e mbrojn' e shpëtojnë.
@@ -21,7 +21,7 @@ Vegjëlia për ta batërdisen dhe vriten
 Dhe kështu parasitët gjakpirës po rriten.
 
 Tradhëtori dinak, hipokrit e kusar,
-Na u ngrit gjer në kulm' dhe u bë kryetar ;
+Na u ngrit gjer në kulm' dhe u bë kryetar;
 Nënë zgjedhën besnikët për vdekje lëngojnë,
 Se mëkat dhe mallkim kryengritjen kujtojnë.
 
@@ -31,7 +31,7 @@ Kush fitonte më tepër, ay ishte usta,
 Dhe kush nukë plaçkitte ish krejt budalla.
 
 Kur e pa këtë zi dhe këtë errësirë,
-Krisht' i ëmbël u' ndes dhe u' bë i vështirë:
+Krisht' i ëmbël u ndes dhe u bë i vështirë:
 Me kamçik e me fshikull sarafët i dboi,
 Dhe nga larot gjakpirës atdhen' e shpëtoi.
 
@@ -43,7 +43,7 @@ Dhe me forc' e pahir na çliro, na shpëto".
 "Je gabuar, o Krisht, që u ke predikuar,
 Se të marrët, të shurdhërit s'kanë dëgjuar;
 Ndreq kurrizin më parë, pastaj ndriçon trurin,
-Se shpirtrobi s'çlirohet askurrë pa durim."
+Se shpirtrobi s'çlirohet askurrë pa [drurin]."
 
 Jesu Krishti s'dëgjoi, dhe s'e mori vesh mikun,
 Dhe me lot i penduar e hodhi kamçikun,

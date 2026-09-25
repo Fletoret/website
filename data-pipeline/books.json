@@ -83,6 +83,18 @@
       "author_folder": "fishta",
       "book_folder": "mrizi-i-zanave",
       "author_name": "Gjergj Fishta"
+    },
+    {
+      "slug": "shqiperia",
+      "title": "Shqipëria ç’ ka qenë, ç’ është e ç’ do të bëhetë?",
+      "manifest": "libra1!HASH0181!8b1ffa07.dir",
+      "author": "Frashëri, Sami",
+      "year": "1899",
+      "pages": 103,
+      "source": "https://bibliotekadigjitale.bksh.al/?view=ThumbnailsView&manifest=https%3A%2F%2Fbibliotekadigjitale.bksh.al%2Fiiif%2FManifester%2FIIIF%2Flibra1%21HASH0181%218b1ffa07.dir&canvas=https%3A%2F%2Fbibliotekadigjitale.bksh.al%2Fiiif%2FManifester%2FIIIF%2Flibra1%21HASH0181%218b1ffa07.dir%2Fcanvas%2Fp1",
+      "author_folder": "sami-frasheri",
+      "book_folder": "shqiperia",
+      "author_name": "Sami Frashëri"
     }
   ]
 }
