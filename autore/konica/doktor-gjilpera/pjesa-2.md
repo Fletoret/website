@@ -13,7 +13,7 @@ kodrat e murrme prej shkëmbi të prerë maja-maja
 si nga dora e njeriut që i bëjnë një kurorë të rëndë
 përmi krye - duket për së largu, për udhëtarin që
 afrohet nga deti, një qytet përrallë dhe bukurie i
-shtrirë pranë valëve. Por i pari kontakt me Barkaret
+shtrirë pranë valëve. Por i pari kontakt me barkarët
 e limanit e prish menjëherë atë lodër të mendjes
 dhe e vë njeriun përpara një vërtetësie jo aq të
 pëlqyer. Barkat iu afruan anijes së avullit, dhe dr.
@@ -24,7 +24,7 @@ parrojtur, të pakrehur, probabilisht të palarë, njerëz
 të mërzitur nga bota dhe nga vetja e tyre, që nuk
 shihnin. Dr. Gjëlpëra u habit shumë, dhe në një
 italishte të thyer pyeti një oficer të anijes si qe e
-mundur të ndodheshin barkare nga Malta ose nga
+mundur të ndodheshin barkarë nga Malta ose nga
 Aleksandria në një liman të Shqipërisë.
 
 "_Ma che Maltesi, che Egiziani sono proprio
@@ -91,7 +91,7 @@ një gjë të gjallë."
 "Po unë nuk e lë të gjallë, sikur të pëlcasë!"
 tha doganieri tjetër dhe, duke u ulur me sytë e tij
 prej mace e gjeti morrin dhe krak! - "E vrava! Morr
-i majmë paska qenë qerratai" - tha.
+i majmë paska qenë qerrata!" - tha.
 
 "Je njeri pa shpirt!" - u përgjigj shoku i tij.
 Dr. Gjëlpëra e kish vëzhguar në heshtje këtë skenë
@@ -106,13 +106,13 @@ Dhe duke zbrazur kutinë me pluhurin e
 ndotur përmbi morrin.
 
 
-"Tani, - tha, - i ngritmë viktimës një monument-
-ment të bardhë: dhe në qoftë se ca më vonë e merr
-era dhe s'mbetet gjësendi, duhet të ngushellohemi
+"Tani, - tha, - i ngritmë viktimës një monument
+të bardhë: dhe në qoftë se ca më vonë e merr
+era dhe s'mbetet gjësendi, duhet të ngushëllohemi
 me kujtimin që çdo gjë në botë është efemere.
 Zotërinj, ku janë monumentet funerale të Nimrodit,
 të Nabukodonasorit dhe të njëqind luftëtarëve me
-famë?" - Doganierët dëgjonin gojehapur. "A kam
+famë?" - Doganierët dëgjonin gojëhapur. "A kam
 leje tani të largohem?" - pyeti dr. Gjëlpëra.
 
 "Kini për të paguar pesë napolona", - thanë
@@ -141,14 +141,14 @@ tim."
 
 "Asnjeri."
 
-"Halld ettin! Po s'e paguajtën, çan koken te
+"Halld ettin! Po s'e paguajtën, çan kokën të
 udhëtojë njeriu?"
 
 Dhe fytyra e kryetarit të policisë u ngrys më
-tepër,
+tepër.
 
 "Dëgjoni, - tha doktori. - Jam i pasur, pse të
-mos bëjë një udhëtim për të çlodhur mendjen dhe
+mos bëj një udhëtim për të çlodhur mendjen dhe
 për të kënaqur shpirtin tim?"
 
 Posa dëgjoi për pasuri, fytyra u zbut
@@ -159,7 +159,7 @@ dhe ia zgjati mjekut.
 për keq pyetjet e mia. Janë formalitete pa rëndësi,
 po kam detyrë t'i mbaroj."
 
-Pastaj iu kthye policit që kish prurë Dr. Gjilperën
+Pastaj iu kthye policit që kish prurë Dr. Gjëlpërën
 dhe i tha të porositë dy kafe të mira. Kur doli polici jashtë,
 komisari afroi fronin pranë doktorit.
 
@@ -167,7 +167,7 @@ komisari afroi fronin pranë doktorit.
 "Zoti doktor, më dukëni njeri i mirë dhe ju
 nderoj me të vërtetë. Le të flasim shkoqur. S'vjen
 njeri për qejf në Shqipëri, kur mund të shkojë kohën
-e tij në kafeshantanet me famë të Evropes. Ç'interes
+e tij në kafeshantanet me famë të Evropës. Ç'interes
 ju pruri në këtë vend të mallkuar?"
 
 Dr. Gjëlpëra kish nisur të shohë në thellësirat
@@ -178,17 +178,17 @@ ish kohë e humbur t'i jepte shpjegime të kthjellëta.
 për gjësendi. Po e dini që sa më tepër të ketë njeriu,
 aq më tepër i pëlqen ta shtojë pasurinë."
 
-"Tabit" - tha komisari.
+"Tabii" - tha komisari.
 
 "E mejtova, - vazhdoi dr. Gjëlpëra, - se po të
 vija në Shqipëri dhe të shisja ca hapa të çuditshme
 që shërojnë pa-një pa-dy gjithë sëmundjet e botës,
 aq sa dhe njerëzve që kanë mbetur me një mëlçi u
-rritet mëlçia tjetër, posa të gelltitin ato hapa, -
+rritet mëlçia tjetër, posa të gëlltitin ato hapa, -
 mejtova se do të kem myshterinj sa të dua dhe do të
-fitoj para pa masë." -
+fitoj para pa masë."
 
-"Haj-haj. - tha komisari, - ja tani kuptova,
+"Haj-haj, - tha komisari, - ja tani kuptova,
 dhe mund t'ju thom se do të bëni punë shumë,
 ndonëse do të gjeni në Tiranë një mjek me famë,
 një nxënës të mesh-hur Habibullah Pashait. Ky mjek
@@ -197,14 +197,14 @@ kundërshtar të rrezikshëm: po jam i bindur se do ta
 mundni."
 
 Qëndroi pak, nënqeshi dhe vazhdoi duke ulur
-zërin e duke shikuar Gjelpërën në sy:
+zërin e duke shikuar Gjëlpërën në sy:
 
 "Zoti doktor, kam grua dhe fëmijë, dhe s'janë
-mirë nga shëndeti, Kini mirësinë të më falni ca
+mirë nga shëndeti. Kini mirësinë të më falni ca
 ilaçe?"
 
 Dr. Gjëlpëra e shikoi në sy dhe kuptoi
-qëllimin të këtij barbari të korruptuar.
+qëllimin e këtij barbari të korruptuar.
 
 "Zoti komisar, s'kam prurë ilaç me vete, se
 ky udhëtim i parë që po bëj në Shqipëri është vetëm
@@ -215,7 +215,7 @@ vete."
 
 Dhe pa pritur tjetër përgjigje nga komisari,
 veç kënaqësisë së shfaqur me një buzëqeshje, nxori
-çantën i numëroi gjashtë bileta 50 liretash njëra.
+çantën, i numëroi gjashtë bileta 50 liretash njëra.
 Komisari i vuri shpejt në xhep duke i shtrënguar
 dorën, dhe e largoi fronin e tij. Atë çast u hap dera
 dhe hyri polici me të dy kafetë, e la tepsinë në tryezë,
@@ -246,12 +246,12 @@ t'ju shërbej me çfarëdo mënyrë. Po bëjeni dhe ju
 një të mirë. Kam gruan dhe vjehrrën të sëmurë. Më
 falni ca ilaçe, zoti doktor."
 
-"Me gjithë zemër, -- përgjigjet doktori, dhe i
+"Me gjithë zemër", -- përgjigjet doktori, dhe i
 vë në dorë 2 bileta nga 50 liretash njëra. Kur dualën
 në oborr komisari hapi penxheren, dhe duke ngritur
-gishtin deftonjës të dorës së djathtë.
+gishtin deftonjës të dorës së djathtë:
 
-"Edhe unë të pashë, iblisl -- i tha policit
+"Edhe unë të pashë, iblis! -- i tha policit
 turqisht, -- tani ti hisenë tënde e more vetë!" -- dhe
 mbylli penxheren pa pritur përgjigje.
 
@@ -285,15 +285,15 @@ kurrë njeriut burimin e informatave të mia."
 Polici heshti dhe vazhduan udhën.
 
 "Zoti doktor, -- tha më në fund, -- kemi dhe dy
-orë derisa të niset automobili. Më thatë qepari se doni
+orë derisa të niset automobili. Më thatë qëparë se doni
 të bëni një drekë me vezë të ziera dhe me pemë.
-Shtëpia ime është këtu afër, Nuk jam i martuar dhe
+Shtëpia ime është këtu afër. Nuk jam i martuar dhe
 rroj në shtëpi me dy shokë, edhe ata policë, të cilët
 tani ndodhen në detyrë e sipër. Në shtëpi mbajmë
 pula, dhe mund t'ju ziej vezë të ditës, që nuk do t'i
 gjeni në asnjë llokantë, dhe sa për pemë, kemi në
-bahçe shumë dhe të mira. Po deshtë, urdhëroni të
-vëmë në shtëpi time: atje s'do të na prishë njeri
+bahçe shumë dhe të mira. Po deshët, urdhëroni të
+vemë në shtëpi time: atje s'do të na prishë njeri
 muhabetin dhe muret s'kanë vesh. Do të flas
 zgjedhur dhe do të mbeteni i kënaqur."
 
@@ -303,7 +303,7 @@ dy hynë në shtëpi të policit.
 Polici e çalli doktorin te oda më e mirë, dhe
 shkoi të ziejë vezë e të mbledhë pemë. Dr. Gjëlpëra
 u ul në një fron prej kashte, pranë një tryeze prej
-errëzitë bardhë, të mbërthyer me gozhdë. Kish edhe
+dërrase të bardhë, të mbërthyer me gozhdë. Kish edhe
 katër frona të tjerë prej kashte në odë. Muret ishin
 të lyera me gëlqere dhe dy reklama fabrikash, me
 bojëra, përfaqësonin artin në këtë rreth të varfër. Dr.
@@ -315,8 +315,8 @@ shtëpie e mbajtur nga tre policër shqiptarë, të mos
 ish më e hijshme dhe më e pëlqyer. Të tre ndënjësit
 ishin të rinj, kishin punëra të rregullshme, rroga
 dhe bahshishe: - pse nuk ndiejnë nevojën e një rrethi
-më të bukur?" Ish në këto mendime, kur polici u
-thye me vezët dhe pemët, dhe me takëme prej
+më të bukur? Ish në këto mendime, kur polici u
+kthye me vezët dhe pemët, dhe me takëme prej
 neqeje. Dr. Gjëlpëra hëngri pa folur. Kur mbaroi,
 ndezi një cigaretë dhe i tha policit:
 
@@ -339,12 +339,12 @@ tha doktori.
 "Shumë ndryshim, - vazhdoi polici. - Tani,
 zoti doktor, në një vend ku asnjëri s'bën kabull të
 marrë ryshfete, po të gjithë presin dhurata, si i bëhet
-halli atij që ka hall?" T'u japësh të gjithëve është e
+halli atij që ka hall? T'u japësh të gjithëve është e
 pamundur. Të mos i japësh hiçnjërit, është marrëzi,
 se atëherë jo vetëm s'mbaron dot punën tënde, po të
 vënë dhe pengime. Fjala vjen, të ndalojnë të gjesh
 shtëpi: ka shumë shtëpi të zbrazura në Tiranë, po
-s't'i japin. Ti, axhami, s'merr vesh pse: Parake, njeri
+s't'i japin. Ti, axhami, s'merr vesh pse: Para ke, njeri
 i mirë je, po s'ta vënë veshin. Te kenda të gjesh
 gjëra taze për të ngrënë, nuk t'i shesin, ose që të
 flasim më drejtë, nuk të lënë të të afrohen njerëzit
@@ -371,7 +371,7 @@ dhe, shyqyr Perëndisë, e kemi përmirësuar dhe
 rregulluar me një sistem më të mbaruar se italianët
 vetë. Tani, zoti doktor, çfarëdo pune, hall, nevojë
 që të kini, e vetmja mënyrë e shpejtë, e sigurtë,
-e lirë, që të bëhet dëshira juaj, është të jini nën,
+e lirë, që të bëhet dëshira juaj, është të jini nën
 mbrojtjen e Kamorrës së madhe, ku s'ka as vjedhje,
 as shpërdorime, po çdo gjë është e parashikuar dhe
 rregulluar sipas udhës tuaj. Në qoftë, zoti
@@ -391,11 +391,11 @@ ishte të vidhni ose të digjni shtëpi, çmimi është..."
 Po dr. Gjëlpëra ia preu fjalën:
 
 "I ndërshëm zot, qëllimi im është vetëm të
-noj si mjek që t'i shërbej këtij populli."
+rroj si mjek që t'i shërbej këtij populli."
 
 "Në qoftë ashtu me të vërtetë, - tha polici, -
-ini nevojë vetëm për lehtësira, dhe tarifa për këtë
-Ishte e unjur: tridhjetë napolona në mot."
+kini nevojë vetëm për lehtësira, dhe tarifa për këtë
+ishte e unjur: tridhjetë napolona në mot."
 
 "Mirë, - tha dr. Gjëlpëra, - jam gati t'i jap: po
 kujt, ku, dhe kur?"
@@ -405,13 +405,11 @@ kujt, ku, dhe kur?"
 "Do t'jua jap unë porositë e duhura. Kryetari
 i përgjithshëm i Kamorrës është ministri Salemboza:
 këshilltar i tij është i shkëlqyeri Abd'-el-Katl. Ju
-pagesat do t'ia bëni Abd'-el-Katlit. Po Abd'-el-
-Katlin nuk mund ta shihni pa qenë i dorëzuar nga
+pagesat do t'ia bëni Abd'-el-Katlit. Po Abd'-el-Katlin nuk mund ta shihni pa qenë i dorëzuar nga
 një axhent i Kamorrës. Do t'ju vë unë në
 marrëveshje me axhentin Nr. 5 të seksionit 11, një i
-qojtur Ibn-el-Kelb. Tarifa e një axhenti për të
-paraqitur një kandidat të ri përpara këshilltarit Abd-
-el-Katl është pesë napolona. Kur të vini në Tiranë,
+quajtur Ibn-el-Kelb. Tarifa e një axhenti për të
+paraqitur një kandidat të ri përpara këshilltarit Abd-el-Katl është pesë napolona. Kur të vini në Tiranë,
 të zbrisni në hotelin që t'ju thom unë, dhe menjëherë
 të thërrisni Ibn-el-Kelbin. Kur të vijë ky, t'i thoni të
 fala nga ana ime dhe të zini buzët tuaja me tre
@@ -424,16 +422,16 @@ amanet nga mua dhe t'i numëroni të pesë napolonat.
 Ibn-el-Kelbi atëherë do t'ju pysë ç'hall kini dhe do
 të shkojë t'i japë raport Abd'-el-Katlit. Të nesërmen
 do të vijë t'ju marrë në hotel dhe do t'ju shpjerë
-përpara këshilltarit, Këtij, pa humbur kohë, i shfaqni
-punën tuaj: pastaj t'i levdoni Salernbozen, dhe t'i
+përpara këshilltarit. Këtij, pa humbur kohë, i shfaqni
+punën tuaj: pastaj t'i lëvdoni Salembozën, dhe t'i
 thoni që jeni habitur me rregullën dhe përparimin e
 Shqipërisë, dhe veçan me zhdukjen e ryshfetit.
 Atëherë Abd'-el-Katl do t'ju thotë se jini i pranuar,
-dhe menjëherë të nximni t'i nemëroni 15 napolonat
+dhe menjëherë të nxirrni t'i numëroni 15 napolonat
 për këstin e parë. Radha e këstit të dytë do të vijë
 pas gjashtë muajsh. Abd-el-Katl, - në i bëfshi
-përshtypje të mirë, round t'ju thotë të piqeni dhe
-me kryetarin e madh të Kamorrës, Salembozen.
+përshtypje të mirë, mund t'ju thotë të piqeni dhe
+me kryetarin e madh të Kamorrës, Salembozën.
 Duhet të dini që Salemboza, si gjithë njerëzit e
 mëdhenj, ka ca dobësira të vogla, dhe njëra nga këto
 është se i pëlqen të mësojë ç'bëjnë princet e Evropës
@@ -442,21 +440,21 @@ shembull. Ashtu, zoti doktor, rregullohuni pas
 nevojës."
 
 Dr. Gjëlpëra, i habitur nga këto të gjitha aq
-t' ra dhe të papritura e falënderoi policin dhe nxori
-një biletë një mijë liretash. Polici iu lut t' ipaje bileta
+të rralla dhe të papritura, e falënderoi policin dhe nxori
+një biletë një mijë liretash. Polici iu lut t'i jepte bileta
 më të vogla, se një biletë aq e madhe do të vihej re
 kur ta thyente, do t'i vinte në vesh ndonjë inspektori
-16 Kamorrës, dhe ashtu polici do të shtrëngohej të
-paguante hisë të rëndë, Dr. Gjëlpëra ia shkëmbeu
+të Kamorrës, dhe ashtu polici do të shtrëngohej të
+paguante hisë të rëndë. Dr. Gjëlpëra ia shkëmbeu
 biletën e madhe me dhjetë të vogla: dhe meqë
-afrohej ora e nisjes, duallne nga shtëpia, të kënaqur
+afrohej ora e nisjes, dualën nga shtëpia, të kënaqur
 njeri nga tjatri dhe shkuan te sheshi ku priste
 automobili.
 
-Udhës polici vazhdon së dhëni këshilla,
+Udhës polici vazhdon së dhëni këshilla:
 "Duhet të dini, zoti doktor, se Kamorra është
 organizuar aq mirë, sa në gji të saj përmblidhet tërë
-fuqia e Shqipërisë, Edhe sikur të bjerë kryetari i
+fuqia e Shqipërisë. Edhe sikur të bjerë kryetari i
 madh Salemboza me këshilltarët e tij Abd'-el-Katli,
 prapë organizata ka për të qëndruar në këmbë, se
 edhe Opozita ka shumë anëtarë të saj që janë
@@ -470,15 +468,15 @@ mbani miqësi me Kamorrën, se në ju ndihte sot,
 Kamorra do të jetë e zonja t'ju përkrahë dhe nesër."
 
 Dhe ashtu, duke kuvenduar ëmbël e butë,
-polici me dr. Gjelpërën arrijnë në shesh ku priste
+polici me dr. Gjëlpërën arrijnë në shesh ku priste
 automobili. Vendet ishin të gjitha të zëna: dhe dr.
-Gjëlpëra u tremb se mos mbetej në Durrës, Po polici
+Gjëlpëra u tremb se mos mbetej në Durrës. Po polici
 shtiri një sy të mprehtë mbi udhëtarët e vendosur mbi
 automobil, pastaj iu qas njërit atje dhe i tha:
 
 "Ku e ke pasaportën, ti?"
 
-"Ja tek e kam", - bëri udhëtari i friksuar
+"Ja tek e kam", - bëri udhëtari i friksuar.
 
 Polici bëri sikur e shikoi me kujdes.
 
@@ -490,41 +488,40 @@ nevojë të nisem shpejt në Tiranë, sapo erdha nga
 Bari, jam fukara, dhe s'pres dot."
 
 "S'dua shumë fjalë, - tha polici, - kanuni
-duhet të zbatohet me paanësi, Do të zbres me të
+duhet të zbatohet me paanësi. Do të zbres me të
 mirë, apo të bëj ndryshe?"
 
 Njeriu psherëtiu, dhe, pa thënë asnjë fjalë,
-mori plaçkat e tij dhe zbriti. Polici vuri dr. Gjelpërën
+mori plaçkat e tij dhe zbriti. Polici vuri dr. Gjëlpërën
 te vendi i zbrazur, e përshëndoshi dhe u largua me
-njerine e zënë. Automobili u nis ngadalë. Dr.
+njeriun e zënë. Automobili u nis ngadalë. Dr.
 Gjëlpëra shikonte qytetin e varfër, me udhë të
 pafshira, me shtëpi të mbajtura ligsht, dhe udhëve
 njerëzit e verdhë e të lodhur, dhe pastaj kthente sytë
 mbi bashkudhëtarët e tij në automobil: edhe këta të
 lodhur e të verdhë: edhe me mendje të tij ringjallte
-në këto vise një popull shqiptare të shëndoshë, të
-shkafet, buzëqeshur, Dhe ëndrrat e tij i përcillte ritmi
+në këto vise një popull shqiptar të shëndoshë, të
+shkathët, buzëqeshur. Dhe ëndrrat e tij i përcillte ritmi
 i rëndë i automobilit, posi një djep vigani.
 Automobili shkonte nëpër brigjet e nëpër luadhë të
-lulëzuara, me emra krejt shqip si Rashbulli (Eshter-
-bull), Rrethi, e të tjera Afër Shijakut e çuditi një
+lulëzuara, me emra krejt shqip si Rashbulli (Eshter-bull), Rrethi, e të tjera. Afër Shijakut e çuditi një
 pyll i vogël plot me zogj, plot me një popull zogjsh:
 këngët e të cilëve bashkohen dhe trazohen aq bukur
 dhe aq ëmbël, sa duket si një sinfoni e krijuar prej
 ndonjë muzikanti të natyrës, që rron me shelgjet dhe
 bën sheqeri me shpeshët. Shumë kohë pasi u largua
 automobili nga ky pyll i lëhuar, muzika po këndonte
-edhe në zemër të dr. Automobili u nis ngadalë, Dr.
-Gjelpërës. Ëndrrën e tij e preu të qëndruarit e
+edhe në zemër të dr.
+Gjëlpërës. Ëndrrën e tij e preu të qëndruarit e
 automobilit në një han. Doktori zbriti me të tjerët
-për të pirë një ujë të ftohtë, Udhëtimi në automobilin
+për të pirë një ujë të ftohtë. Udhëtimi në automobilin
 e rëndë vazhdoi, dhe një tok plepash të gjatë
 shënuan ardhjen në Tiranë, - në qytet të kopshteve,
 ku çdo shtëpi është si e veshur në mes të pemëve e
 të luleve, në qytet të përmbledhur e të qetë, i cili
 s'duket para se të shkelsh në prag të tij.
 
-Dr. Gjëlpëra shkoi në "hotel'" që i kishin
+Dr. Gjëlpëra shkoi në "hotel" që i kishin
 porositur; zuri një odë, hapi tubin e tij prej llastiku
 dhe me një sfungjer fshiu tërë trupin me ujë të ftohtë
 e të trazuar me pak alkool. U ndërrua; spërkati
@@ -534,11 +531,11 @@ të kërkuar Agjentin Nr. 5 të Seksionit 11 të
 Kamorrës, Ibn-el-Kelbin. E gjeti, shkëmbeu shenjat;
 dha të 5 napolonat, mori pjekje për të nesërmen për
 të shkuar te këshilltari i Kamorrës, Abd'-el-Katli.
-Dhe meqë ish vonë dhe e ndiente vetën të lodhur, u
+Dhe meqë ish vonë dhe e ndiente veten të lodhur, u
 kthye në odën e tij për të ngrënë e për të fjetur.
-Problemi i ngrënies është një nga me të rëndë për
+Problemi i ngrënies është një nga më të rëndët për
 njeriun që vjen në Shqipëri nga jashtë, ku ka qenë
-mësuar me tjetër soj gjellësh; në qoftë se ai njeri ".1
+mësuar me tjetër soj gjellësh; në qoftë se ai njeri ka
 një kuptim për rregullat e shëndetit në lidhje me të
 ngrënët, problemi bëhet një mundim i mendjes. Dr.
 Gjëlpëra kish porositur pemë, sallata të ndryshme
@@ -551,14 +548,14 @@ qesharake, dhe i vinte çudi si e solli rasti që ai, njeri
 armik i korrupcjes dhe i shoqërive të fshehta, të japë
 ryshfet dhe të bëhet i mbrojturi i Kamorrës, dhe për
 ç'arsye të japë ryshfet? Për të siguruar lirinë të
-punoje për stërvitjen e popullit? Pak nga pak e zuri
+punojë për stërvitjen e popullit? Pak nga pak e zuri
 gjumi, dhe të nesërmen u ngrit me një trup të çlodhur
 të fortë.
 
 Abd'-el-Katli e priti me oborrësi. Ky barbar
 fjalët i kish të pakta, dhe të matura. Hollësia e tij për
 të gërmuar lajme, duke pyetur tërthorazi, e habiti dr.
-Gjilpërën. Pasi u mbaruan formalitetet dhe pagesa,
+Gjëlpërën. Pasi u mbaruan formalitetet dhe pagesa,
 Abd'-el-Katli tha se, Salemboza kish nevojë për një
 keqyrje mjekësore; ndonëse jo i sëmurë, Salemboza
 dëshironte të dilte nga meraku. Dr. Gjëlpëra u
@@ -580,14 +577,14 @@ peshtymave dhe zhurmës. Po nga ana tjetër, për
 vëzhguesit e mënyrave, për nxënësit e shpirtit të
 popullit, kafenetë janë shkolla të vërteta plot me
 lëndë të vyer dhe me mësime. Dr. Gjëlpëra vendosi
-të shkojë çdo ditë nja dy orë nëpër kafene të për të
+të shkojë çdo ditë nja dy orë nëpër kafenetë për të
 studiuar. Kur u shtrua dy orë herën e parë në
 kafenenë e Erzënit dhe porositi një të pirë, të cilën
 natyrisht nuk e ngau dhe hodhi një sy mbi turmën e
 palarë dhe të parrojtur, - kumarxhinj - të ngrysur,
 spiunë syçakë, politikanë që bisedonin, jo vetëm
 me gojë por edhe me duar e supë, - kuptoi se ndodhej
-në një botë te fe, një botë fare të ndryshme nga ajo
+në një botë të re, një botë fare të ndryshme nga ajo
 që kish njohur gjer atëherë. Një zhurmë e mbytur, e
 përgjithshme, si e ndonjë pazari të ngjeshur me njerëz,
 mbushte erën. Nganjëherë zëri i mprehtë i
@@ -629,10 +626,10 @@ dërsirë, pa forcë. U ulën.
 
 "Efendem, - zuri dr. Emrullahu, - siç ju thashë
 dhe më parë, jam nxënës i dr. Habibullah pashait, -
-dhe meqë dr. Gjëlpëra s'bënte, - i mësh-hur
+dhe meqë dr. Gjëlpëra s'bëzante, - i mësh-hur
 Habibullah pashait" - shtoi dr. Emrullahu, duke
 rënduar zërin me fjalën "Mësh-hur" dhe duke shikuar
-dr. Gjilpërën me kryelartësi mu në fund të syve.
+dr. Gjëlpërën me kryelartësi mu në fund të syve.
 
 "Nuk e kam dëgjuar emrin e tij kurrë", - tha
 dr. Gjëlpëra.
@@ -643,19 +640,19 @@ dr. Gjëlpëra.
 
 "Ha-ha-ha-ha! Në axhaip, - qeshi dr.
 Emrullahu, dhe duke i folur një grupi kumarxhinjsh.
--Arkadashllar", - tha, - buna bakiniz. Dr. Habibullah
+- Arkadashllar, - tha, - buna bakiniz. Dr. Habibullah
 pashanën ismini bile işitmemiş, - dhe qeshi
 përsëri. Kumarxhinjtë shikuan pa folur dhe u kthyen
 te puna e tyre. - Dr. Habibullah pashai, - vazhdoi
-dr. Emrullahu së foluri dr. Gjelpërës, - është i madh:
+dr. Emrullahu së foluri dr. Gjëlpërës, - është i madh:
 është shumë i madh: aq i madh, sa edhe Evropa,
 hasusile Allamanja, pyet shumë herë mendimin e
-tij. Po zotëria s'i paskë dëgjuar as emrin. Tuhaf.
+tij. Po zotëria s'i paska dëgjuar as emrin. Tuhaf.
 Sido që në qoftë, dua të di se ku ndodhet ai vend
 tek i cili kini mësuar: Up-, Up, - si thatë?!"
 
 "Upsala, - bëri dr. Gjëlpëra, - Upsala. Dhe
-meqë për ju ky emër është aq i panjohur saqë për
+meqë për ju ky emër është aq i panjohur sa për
 mua emri i pashait, të dy mosdijat tona balancohen
 dhe jemi të larë."
 
@@ -671,12 +668,12 @@ rrojtur, me mustaqe të lyera me pomadë, dhe me sy
 prej delie, një kapelo të fishkur mbi krye.
 
 "Upsala, - tha i ardhuri, - është një qytet i
-Norvegjisë, e kanë themeluar elenët atje: Tlilt
-vjetra, siç e shfaq dhe emri i tij që ka kuptimin i
+Norvegjisë, e kanë themeluar elenët atje [në kohë të]
+vjetra, siç e shfaq dhe emri i tij, që ka kuptimin
 lartësi."
 
 "Zotëria e tij është një koleg, miku im, dr.
-Protagoras Dhalla", - dhe me këto fjalë të dr.
+Protagoras Dhalla", - dhe me këto fjalë dr.
 Emrullahu u ngrit dhe i paraqiti dr. Gjëlpërës të
 ardhurin. Si u përshëndetën, u ulën që të tre.
 
@@ -685,7 +682,7 @@ gjeografinë e mbi etimologjinë", - tha dr. Gjëlpëra.
 
 "Ju faleminderit, - ktheu dr. Protagoras
 Dhalla, - e di që jam i fortë, se jam teliofitos, tu
-Panepistimu ton Athinon."
+Panepistimiu ton Athinon."
 
 "Gëzohem fort, - tha dr. Gjëlpëra, - dhe s'dua
 prova të tjera të diturisë suaj."
@@ -693,27 +690,26 @@ prova të tjera të diturisë suaj."
 Të tre mjekët nisën të fjalosen për gjepura,
 për kohën e bukur, për ujërat e ftohta, për udhëtimet,
 për qejfet: po flisnin me shkel e shko, se cilido e
-kish mendjen te tjetri. Dr. Protagoras - Dhalla
+kish mendjen te tjetri. Dr. Protagoras Dhalla
 mendonte: "Vallë, do të më prishë punë ky o-atimos
 që doli si fandi spathi në Tiranë?" Dr. Emrullahu
 thoshte me vete: "Ky edepsiz, që ka ardhur nga
 Evropa, vallë do të më marrë ndonjë myshteri, mua
-nxënësit të dr. Habibullah pashait)?" Dhe dr. Gjëlpëra
+nxënësit të dr. Habibullah pashait?" Dhe dr. Gjëlpëra
 pyeste vetveten: "Këta të dy doktorë, që duken
 sheshit, se nuk e mbajnë trupin e tyre të paqme,
 vallë, a i kanë shpënë mësimet e tyre mjekësore aq
 thellë, sa të kenë kuptuar rëndësinë e lëkurës së
-paqme për shëndetin)?"
+paqme për shëndetin?"
 
 Përgjonin njeri-tjetrin me bisht të syrit dhe
 vazhdonin së foluri për gjepura. Po, padashur,
-bisedimi mori një udhë tjetër,
+bisedimi mori një udhë tjetër.
 
-"Kini shumë të sëmurë në këtë qytet)?" - pyeti
-dr. Gjëlpëra,
+"Kini shumë të sëmurë në këtë qytet?" - pyeti
+dr. Gjëlpëra.
 
-"Ka mjaft, po shyqyr Perëndisë, i shërojmë",
-- tha dr. Emrullahu.
+"Ka mjaft, po shyqyr Perëndisë, i shërojmë", - tha dr. Emrullahu.
 
 "I shëroni?" - pyeti përsëri dr. Gjëlpëra, me
 një çudi në zë dhe në sy të tij.
@@ -735,10 +731,10 @@ qenkeni magjistarë, dhe ditkeni magji shpëtimtare.
 
 Emr.: - Afedersiniz, jemi doktorë.
 
-Prot. Dh.: - Mos na shani, qiri e tjetër.
+Prot. Dh.: - Mos na shani, qirié jatre.
 
 Gjelp.: - Unë t'ju shaj? Përkundrazi, ju
-përgëzoj dhe thonë se bota duhet të jetë mirënjohëse,
+përgëzoj dhe them se bota duhet të jetë mirënjohëse,
 në qoftë se me të vërtetë paskeni shëruar njeri me
 ilaçe: shtoj vetëm që ato ilaçe duhet të jenë ilaçe
 magjie.
@@ -746,12 +742,12 @@ magjie.
 Prot. Dh.: - Atëherë s'na besoni?
 
 Gjelp.: - Jo, nuk ju besoj, më falni që ju
-hapur.
+flas hapur.
 
-(Dr. Emrullahu dhe dr. Protagoras - Dhalla
+(Dr. Emrullahu dhe dr. Protagoras Dhalla
 qeshin.)
 
-Emr.: - Dhe pse s'na besoni, rixha ederim?"
+Emr.: - Dhe pse s'na besoni, rixha ederim?
 
 Gjelp.: - Se s'kam parë kurrë njeri të sëmurë,
 me të vërtetë të sëmurë të shërohet me ilaçe, me të
@@ -772,16 +768,16 @@ Emr.: - Jo, një, po mijëra.
 
 Gjelp.: - S'dua mijëra, dua një vetëm.
 
-Prot. Dh.: - Efharistós. Eshtë këtu në Tiranë
+Prot. Dh.: - Efharistós.[^2] Është këtu në Tiranë
 një njeri që kish ethe gjashtë muaj më parë, i kam
 dhënë kininë me rregull, dhe tani s'ka më ethe.
 
 Emr.: - Mund të mohoni se kinina është
-Efharistós. Faleminderit. — specifiku i etheve?
+specifiku i etheve?
 
 Gjelp.: - Jini sigurt se njeriu u shërua me të
 vërtetë? Besoni se ethet janë një sëmundje e veçantë,
-apo shenja e një sëmundjeje tjetër)? Kinina e shëroi,
+apo shenja e një sëmundjeje tjetër? Kinina e shëroi,
 vallë, të sëmurin tuaj, apo zhduku vetëm shenjat e
 sëmundjes - dhe sëmundja vazhdon tinëz, së
 shkatërruar trupin e tij? Pastaj, jini sigurt se kinina
@@ -806,28 +802,28 @@ Prot. Dh.: - Periergon. Zotëria mohon fuqinë
 e specifikut më të njohur.
 
 Gjelp.: - Aspak. Jo vetëm nuk e mohoj fuqinë
-e kininës, po thonë se ka aq fuqi, sa prish të qëlluarit
+e kininës, po them se ka aq fuqi, sa prish të qëlluarit
 e rregullshëm të zemrës, prish hollësinë e veshit,
 dhe shpesh vë në rrezik sytë. (Dhe këtu dr. Gjëlpëra
 mbuloi kryet me kapellën që e mbante në dorë, dhe
-ngrit me këmbë.)
+u ngrit me këmbë.)
 
 Prot. Dh. dhe Emr.: - U zemëruat?
 
 Gjelp.: - Aspak. U ngrita që të shkojmë të
-shohim bashkë të shëruarin tuaj. Urdhëronit?
+shohim bashkë të shëruarin tuaj. Urdhëroni?
 
 Emr.: - Pse, myfetish na u bëtë zotëria?
 
 Prot. Dh.: - Na prosval, zoti doktor.
 
-Gjelp.: - Ju lutem, mos e merrni për shtrembër,
+Gjelp.: - Ju lutem, mos e merrni për shtrembër.
 Unë dua të nxë, s'dua t'ju shaj ose t'ju prish punë.
 Dua të mësoj për veten time. Në qoftë se njeriu që
 thoni, ka qenë me të vërtetë i sëmurë, në qoftë se u
 shërua me të vërtetë, dhe në qoftë se shërimi i tij u
 mbarua me kininën që i dhatë dhe jo nga arsyet e
-tjera, - atëherë ngjet nga tri gjëra, një: ose keni njësoj
+tjera, - atëherë ngjet një nga tri gjëra: ose keni njëfarë
 kininë të çuditshme të panjohur gjetkë, ose trupi i
 njerëzve këtu ndryshon nga trupi i njerëzve të tjerë,
 ose më në fund, dini ndonjë magji misterioze dhe i
@@ -835,10 +831,10 @@ përmbysni rregullat e natyrës.
 
 Po kam shumë frikë se të shëruarit tuaj do të
 gjej edhe të sëmurë nga sëmundja që ka pasur,
-ndonëse ethet, - shenja e sëmundjes tij - është
+ndonëse ethet, - shenja e sëmundjes së tij - është
 zhdukur: dhe kam frikë se do t'ia gjej zemrën batall,
 përveç veshit dhe syrit që mund të jenë kushedi se
-në ç'hall."
+në ç'hall.
 
 (Dr. Protagoras Dhalla shikoi dr. Emrullahun
 me një çudi pyetëse.)
@@ -853,10 +849,10 @@ këtu për gjepura nga cepi tjetër i Evropës.
 
 Emr.: - Zoti doktor, bëni himmet dhe thonani,
 ç'do bëni ju vetë, sikur t'ju shpien përpara një të
-sëmuri me ethe të forta?"
+sëmuri me ethe të forta?
 
 (Dhe këtu Dr. Emrullahu i luan syrin doktor
-Protagoras - Dhalla.)
+Protagoras Dhalla.)
 
 Gjelp.: - T'ju thom. Do ta shikoja me kujdes
 me të gjithë mënyrat të njohura nga dituria: do t'i
@@ -864,43 +860,39 @@ merrja gradën e nxehtësisë së trupit, pulsin, të
 qëlluarit e zemrës: do të vështroja gjuhën, grykën,
 sytë, do të tretja gjakun, peshtymën, të pështirët dhe
 ujët e tij: do të matja presionin e gjakut, do ta pyesja
-në ka të dhëmbura gjekund?, ç'ka ngrënë, s'ka zakon
+në ka të dhëmbura gjëkund, ç'ka ngrënë, ç'ka zakon
 të hajë, që kur e ndjeu veten të sëmurë. Dhe me
 këto elemente në dorë, do të bëja një diagnozë të
-heperheshme. Më vonë, po të qe nevoja, do të merrja
+përkohshme. Më vonë, po të qe nevoja, do të merrja
 një fotografi Roentgen të organeve të brendshme të
 tij.
 
 Prot. Dh.: - Pse, keni makinat e duhura për të
-marrë fotografi Roentgen, dhe dini t'i përdorni vetë?"
+marrë fotografi Roentgen, dhe dini t'i përdorni vetë?
 
 Gjelp.: - Pa fjalë. Ajo është një gjë elementare
 në ditët tona... Në qoftë se në qytetet e mëdha e të
 zhvilluara, mjekët nuk i aplikojnë:
-
-LiB lënë specialistëve atë punë, Jllit
-është e zorshme, po se është mirë JY Vit (11
-arsye lehtësie. Në një vend si Shqipëria, dil
-bëjmë vetë. Nuk është gjë aq e zorshme, po "
-mirë të jetë e ndarë për arsye lehtësie. Në lliç V lid
-si Shqipëria, duhet ta bëjmë vetë. Nuk është gjë: rill
-ç zorshme. Po të dëshironi, mund t'ju jap ca mësime.
+ua lënë specialistëve atë punë, [jo se]
+është e zorshme, po se është mirë të jetë e ndarë për
+arsye lehtësie. Në një vend si Shqipëria, duhet ta
+bëjmë vetë. Nuk është gjë aq e zorshme. Po të dëshironi, mund t'ju jap ca mësime.
 
 Prot. Dh. edhe Emr.: - Kujt, të më japësh mua
-mësime?" Ha-ha-ha-ha-ha!
+mësime? Ha-ha-ha-ha-ha!
 
 Emr.: - Na ndjeni që qeshëm. Kur ta zbuloni
 sëmundjen e të sëmurit në qoftë se vdes i sëmuri
-gjersa të mbaroni zbulimin tuaj, - ç'do të bëni?"
+gjersa të mbaroni zbulimin tuaj, - ç'do të bëni?
 
 Gjelp.: - Në qoftë se vdes, udhë e mbarë.
 Është faji i tij, se duhet të më kish thirrur para se të
 arrijë në prag të vdekjes. Po t'ju thom se ç'do t'i bëj
-të sëmurit."
+të sëmurit.
 
-Dr. Protagoras Dhalla dhe Dr. Emrullahu. -
+Dr. Protagoras Dhalla dhe dr. Emrullahu: -
 Pa na thoni, pra, si të kuptoni sëmundjen e njeriut
-me ethe, ç'do të bëni?'
+me ethe, ç'do të bëni?
 
 Dr. Gjëlpëra: - Mund t'i jap ca ilaçe të pakta,
 në qoftë nevojë, për të lehtësuar mundimet e tij.
@@ -911,11 +903,11 @@ jap të kuptojë se e vetmja shpresë për të që të
 shërohet, është të forcojë trupin e tij, se trupi i fortë
 e mund sëmundjen. Po trupi nuk forcohet me hapë,
 forcohet me një rrojtje më të mirë, me erë më të
-paçme, me diell, me çlodhje, "me të ngrënë të
+paqme, me diell, me çlodhje, me të ngrënë të
 arsyeshme.
 
 Dr. Emr.: - Dhe kujtoni se nuk ua thoni atë
-këshilla të sëmurëve?"
+këshilla të sëmurëve?
 
 Gjelp.: - Besoj se nuk ua thoni, ose në ua
 thoni me të tillë mënyrë, që i sëmuri të besojë se
@@ -925,7 +917,7 @@ sëmundjes së tij.
 
 Prot. Dh.: - Atëherë qenkeni i mendjes që
 mjeku duhet të jetë dhe mësues, duhet çdo të
-sëmuri t'i japë dhe mësime mjekësie?"
+sëmuri t'i japë dhe mësime mjekësie?
 
 Gjelp.: - Po. Jam i mendjes që populli,
 përgjithësisht, duhet stërvitur në parimet themeltare
@@ -935,12 +927,12 @@ stërvitur të kuptojë natyrën dhe zhvillimin e
 sëmundjes së veçantë të tij. Në qoftë se i sëmuri
 nuk kupton mirë se ç'është dhe si mund të rritet ose
 të pakësohet e të zhduket sëmundja e tij, si do
-t'bashkëpunojë me mjekun?" Dhe e vetmja udhë e
+t'bashkëpunojë me mjekun? Dhe e vetmja udhë e
 shërimit është bashkëpunimi i të sëmurit me
-mjekun."
+mjekun.
 
-- Emr.: - Po a e vazhdojnë gjëkundi këtë
-sistem?"
+Emr.: - Po a e vazhdojnë gjëkundi këtë
+sistem?
 
 Gjelp.: - Në gjithë vendet e përparuara.
 Shikoni buxhetet e shteteve moderne, me të vërtetë
@@ -984,8 +976,7 @@ do të orvatem të bind dhe qeverinë, pa ndryshim
 partie - të pëlqejë një plan të përgjithshëm për të
 luftuar mushkonjat dhe morrat, për të tharë kënetat
 dhe për të çmorritur turmën, për të rregulluar
-llogarinë, për të dërguar djemurinë të verojë grupe-
-grupe me çadra në malet, për të bërë ushtrinë një
+llogarinë, për të dërguar djemurinë të verojë grupe-grupe me çadra në malet, për të bërë ushtrinë një
 shkollë praktike të shëndetit, dhe për të marrë shumë
 masa të tjera. Është një ambicie e madhe dhe e rëndë.
 Më gënjen mendja se do të jem i zoti ta vërtetoj, në
@@ -993,16 +984,15 @@ gjefsha përkrahje nga populli dhe nga qeveria.
 Koha e magjisë dhe e hapave u mbarua: nisi koha e
 kuptimit dhe e natyrës. Në ju pëlqen, mund të
 bashkoheni me mua. Në daçi, vazhdoni së dhëni
-hapë."
+hapë.
 
-Të dy mjekët e pritën fjalën e dr. Gjelpërës
-me të qeshur. Dhe mateshin t'i përgjigjen. Tur i
-afrua Ibn-el-Kelbi dhe i tha dr. Gjelpërës st pll (
-priste ministri Salemboza. Ashtu ky u ngrit.
-përshëndoshi të dy mjekët dhe u largua me Ibn-el-
-Kelbin.
+Të dy mjekët e pritën fjalën e dr. Gjëlpërës
+me të qeshur. Dhe mateshin t'i përgjigjen, kur iu
+afrua Ibn-el-Kelbi dhe i tha dr. Gjëlpërës se e
+priste ministri Salemboza. Ashtu ky u ngrit,
+përshëndoshi të dy mjekët dhe u largua me Ibn-el-Kelbin.
 
-Salemboza e priti dr. Gjelpërën me fisnikëri,
+Salemboza e priti dr. Gjëlpërën me fisnikëri,
 me një buzëqeshje të pëlqyer si prej djali
 zemërbardhë që s'ka të ligë në zemër, po dhe me
 një kryelartësi të matur që desh të thotë: E di se jam
@@ -1010,7 +1000,7 @@ i madh, shumë i madh, po madhësia ime nuk është
 një pengim për marrëdhëniet me njerëzit. Si
 shkëmbyen ca fjalë të ëmbla, ca pyetje dhe ca
 përgjigje, dr. Gjëlpëra i tha në dëshironte një të
-keqyrur mjekësie,
+keqyrur mjekësie.
 
 "Këtë radhë, - tha doktori, - kam ardhur në
 Shqipëri vetëm për të shikuar vendin, dhe s'kam
@@ -1020,8 +1010,8 @@ marrim, pa humbur kohë, gjithë masat e duhura për
 përmirësimin e shëndetit tuaj. Është nevoja të hiqni
 gjithë rrobat nga trupi, që t'ju keqyr si duhet."
 
-"Si, është nevojë të zhvishem krejt?" - pyet
-Salemboza?"
+"Si, është nevojë të zhvishem krejt?" - pyeti
+Salemboza.
 
 "Krejt, - tha dr. Gjëlpëra. - Po në daçi, mund
 ta lëmë për një herë tjetër."
@@ -1033,9 +1023,9 @@ dobësitë e vogla të Salembozës.
 "Kur isha nxënës në Upsala, - tha dr. Gjëlpëra, - vizitoi një ditë Universitetin tonë
 Princi Gustav-Adolf i Suedisë. - Salemboza hapi sytë dhe afroi
 fronin që të dëgjojë më mirë. - Princi foli me ne
-studentët si shok. Që njeri buzëqeshur dhe i dashur.
+studentët si shok. Qe njeri buzëqeshur dhe i dashur.
 Një nga zakonet e tij ish që, nganjëherë, kur
-mëjtohej, bënte sikur kruante ballët me gishtin
+mejtohej, bënte sikur kruante ballët me gishtin
 deftonjës të dorës së mëngjër. - Këtu Salemboza
 ngriti menjëherë gishtin deftonjës të dorës mëngjër
 dhe bëri sikur kruante ballët. - Princi, - vazhdoi dr.
@@ -1045,11 +1035,11 @@ cili më kish mua për ndihmës. Princi bashkë me një
 shërbëtor, kish vajtur për gjah në Suedi të Veriut,
 dhe që të dy e ndienin veten e tyre të sëmurë. -
 Profesori u tha të zhvishen. Shërbëtorit i vinte turp
-dhe s'deshte. Po princi, papritur t'ia thotë dy herë u
+dhe s'deshte. Po princi, pa pritur t'ia thonë dy herë, u
 zhvesh shpejt, dhe profesori mundi ta keqyrte siç
 duhej. Me të dëgjuar këto fjalë, Salemboza u hodh
 me këmbë duke kruar ballët me gishtin deftonjës të
-mëngjër nisi të zhvishet me nxitim dhe pa drojtje:
+mëngjër, nisi të zhvishet me nxitim dhe pa drojtje:
 pallto, pantallona, këpucë, këmishë, brekë, çorapë,
 të gjitha u flakën me të mëngjër e me të djathtë, dhe
 njeriu i madh u bë si gjithë njerëzit e tjerë, që nga
@@ -1058,7 +1048,7 @@ gjithë një, pa ndryshim shkallë dhe ambicieje.
 
 Si u mbarua të shikuarit, Salemboza u vesh
 dhe u ul duke kruar ballët me gishtin deftonjës të
-mëngjër dhe duke pritur çdo thotë mjeku. Dr.
+mëngjër dhe duke pritur ç'do të thotë mjeku. Dr.
 Gjëlpëra nisi shpjegimet pa përdorur asnjë fjalë
 teknike.
 
@@ -1068,14 +1058,14 @@ besoj se do t'ju pëlqejë të kuptoni mirë punën e
 shëndetit tuaj, siç i pëlqente dhe Princit të Suedisë
 të marrë vesh me themel për shëndetin e tij. -
 Salemboza ngriti kokën me kryelartësi, krojti përsëri
-ballët me gishtin deftonjës të mëngjër dhe afroi ca zë
+ballët me gishtin deftonjës të mëngjër dhe afroi ca më
 fronin. Dr. Gjëlpëra vazhdoi kështu: - Zoti ministër,
 siç dini shumë mirë, eshtrat ose kockat duhet të jenë
 të forta dhe shumica e njerëzve ashtu i kanë. Po
 janë ca njerëz që eshtrat i kanë të buta. Që të merrni
 një ide, zini me dorë hundën dhe tundeni pakëz: do
-të shihni se hunda ka njëfarë koçkë që s'është tamam
-koçkë, se kocka e vërtetë nuk epet, dhe po të vesh
+të shihni se hunda ka njëfarë kockë që s'është tamam
+kockë, se kocka e vërtetë nuk epet, dhe po të vesh
 fuqi që ta epësh, do ta thyesh. Ashtu është edhe
 veshi. Çdo njeri hundën dhe veshin i ka si veshin
 dhe hundën - tuaj. Po ju, edhe kockat e trupit,
@@ -1090,7 +1080,7 @@ kockave. Ndonëse jini tani tepër i shkuar nga mosha
 për një shërbim të plotë, me gjithë këtë, do të bënit
 mirë sikur t'i jepnit trupit një banjë dielli çdo ditë.
 Banjën e diellit mund ta merrni kështu, përpara
-drekes. Zhvishuni si për të hyrë në banjë dhe
+drekës. Zhvishuni si për të hyrë në banjë dhe
 shtrihuni në diell ndonjë çerek sahati, duke e kthyer
 trupin nga të gjitha anët, në mos e bëni sot në kopsht,
 mund ta bëni në një odë po me penxherët të hapura,
@@ -1118,16 +1108,16 @@ shpjegime të lehta, po pa hollësira shumë."
 "Atëherë dëgjoni, - tha dr. Gjëlpëra, - ca
 zarzavate si lakrat, marulet, domatet, kur janë taze
 dhe të papjekura, kanë njëfarë fuqie të fshehtë që
-është e mirë për kockat. Dreken ose darkën, do t'ish
+është e mirë për kockat. Drekën ose darkën, do t'ish
 mirë ta bënit vetëm me këto zarzavate, po të
-papjekura dhe taze, dëgjoni?" Në të tjera fjalë, për
+papjekura dhe taze, dëgjoni? Në të tjera fjalë, për
 drekë ose darkë mos hani tjetër gjë, veçse një sallatë
-të madhe të bërë nga ato tri zarzavate që emerova.
+të madhe të bërë nga ato tri zarzavate që emërova.
 Kjo gjë mund t'ju shërojë dhe nga një tjetër
 sëmundje që keni."
 
 "Cila është ajo sëmundje tjetër?" - pyeti
-Salemboza."
+Salemboza.
 
 "Ajo sëmundje, zoti ministër, është shumë e
 shëmtuar. Më vjen keq që jua thom, po ju qelbet
@@ -1152,17 +1142,17 @@ Salemboza me njëfarë kryelartësie.
 "Katër ditë! Gjë e frikshme. Dhe ç'hani, zoti
 ministër?"
 
-"Unë ha vetëm mish, doktor.
+"Unë ha vetëm mish, doktor."
 
 "Atëherë, zoti ministër, kapsllëku dhe fryma
 juaj provojnë se ato që hani nuk i tret dot stomaku,
-ju mbeten në stomak, ku kalben, dhe ashtuju gelbin
-frymen, përveç dëmit që i bëjnë gjakut. Është lehtë
+ju mbeten në stomak, ku kalben, dhe ashtu ju qelbin
+frymën, përveç dëmit që i bëjnë gjakut. Është lehtë
 për të kuptuar, dhe kuptoni shumë mirë se, kur qenka
 ashtu puna, duhet të ndryshoni të ngrënët tuaj. Unë
 ju këshilloj, pra, këtë rregull: Në mëngjes, të hani
-ca perne të arritura mirë, si portokalle, melle, dardha,
-fig, pjeshkë, rrush, pjepër, po jo ftonj ose shegë ose
+ca pemë të arritura mirë, si portokalle, mollë, dardha,
+fiq, pjeshkë, rrush, pjepër, po jo ftonj ose shegë ose
 thanë: për drekë hani pulë ose mish taze të pjekur
 në skarë, dhe bukë gruri me gjithë krundet jo bukë
 të bardhë: për darkë, të hani vetëm një sallatë të
@@ -1172,15 +1162,15 @@ nginjeni, po pa bukë. Kjo rregull dhe një banjë dielli
 dhe pastaj do të shohim."
 
 
-"Kam besim teju, doktor, veçan st jriri TË "TI
-me princin e Suedisë. Dr. Emrullahu që iii" III
-më parë, s'më dha asnjë nga këto që Më tluuu, 4
-më porositi ndonjë ndryshim në të rrojtur. c mr 1
-ngrënë, po më dha vetëm një ilaç. Këtë këtu. - IJIII"
+"Kam besim te ju, doktor, veçan se [shembëllej]
+me princin e Suedisë. Dr. Emrullahu, që [më shikoi]
+më parë, s'më dha asnjë nga këto që më thoni, [as]
+më porositi ndonjë ndryshim në të rrojtur [e në të]
+ngrënë, po më dha vetëm një ilaç. Këtë këtu."
 Salemboza nxori një kuti. Dr. Gjëlpëra e mori dhe e
 shikoi, dhe s'mbajti dot të qeshurit. Qe një "patent
 medicine" si i thonë anglisht, një "spécialité," thonë
-frëngët, dornethene një ilaç i hazerte, i dalë prej
+frëngët, domethënë një ilaç i hazerte, i dalë prej
 fabrikë, edhe kish hekurin për bazë.
 
 "Nuk arrijnë hallet që ka stomaku juaj, po
@@ -1191,21 +1181,20 @@ të fëlliqur", - tha dr. Gjëlpëra.
 
 Salemboza i ra ziles dhe hyri një bashibozuk:
 
-"Hidhe këtë kuti në qenef!" - Urdhëroi
+"Hidhe këtë kuti në qenef!" - urdhëroi
 ministri.
 
 Bashibozuku e mori, bëri temena dhe doli.
 
 "Ju lumtë, zoti ministër! Kam shpresë t'ju
-shëroj, se shoh që kuptoni dhe vazhdoni këshillat",
-- briti dr. Gjëlpëra.
+shëroj, se shoh që kuptoni dhe vazhdoni këshillat", - briti dr. Gjëlpëra.
 
 "Dua t'ju pyes një gjë, - tha Salemboza: -
 princave u bie erë keq fryma?"
 
 Dr. Gjëlpëra u çudit me këtë pyetje të
 papritur, po mblodhi shpejt veten, dhe, menjëherë,
--'Pa fjalë, princave nuk u bie erë fryma, u përgjigj
+"Pa fjalë, princave nuk u bie erë fryma, - u përgjigj
 menjëherë: - princat, zoti ministër, kanë një natyrë
 të ndryshme nga njerëzit e tjerë. Mëlçitë, zorrët,
 gjaku i tyre është tjetër soj fare."
@@ -1215,7 +1204,7 @@ psherëtinte, vuri re në xhep të jelekut të doktorit
 një pende-kallamar - një "fountainpen" të Amerikës
 dhe pyeti ç'është. - Mjeku e nxori dhe i dha
 shpjegimet. Salemboza briti me një gëzim prej
-cilimiu të egër, e provoi pende-kallamarin, dhe kur
+çilimiu të egër, e provoi pende-kallamarin, dhe kur
 pa se shkruante pa marrë ngjyrë nga jashtë, iu lut
 doktorit t'ia falë.
 
@@ -1232,21 +1221,23 @@ Salemboza ia mori nga dora.
 "Vërtet i mirë, është një kronometër që
 kurdiset një herë në javë, dhe s'lajthitet kurrë."
 
-"- A ma shisni mua?"
+"A ma shisni mua?"
 
 "Nuk e shes, po do t'jua fal kur të nisem për
 Suedi, se mund të blej një tjetër atje."
 
-"Kuzum doktor, nuk mund të ma falni tani?"
+"Kuzum doktor, nuk mund të ma falni tani?
 Kam sevda për këtë sahat."
 
-Dr. Gjëlpëra ia dhuroi me gjithë "1" kiln
-Salemboza shtrëngoi dorën me një dorë I iriimn
-dhe e përcolli Dr. Gjelpërën gjer në derë, duke kru ti
-ballët me gishtin deftonjës të dorës së mëngjër. T iii
-zbriti në oborr, dhe para se të largohet, doktori hodhi
+Dr. Gjëlpëra ia dhuroi me gjithë zemër.
+Salemboza shtrëngoi dorën me një dorë […]
+dhe e përcolli dr. Gjëlpërën gjer në derë, duke kruar
+ballët me gishtin deftonjës të dorës së mëngjër.
+Zbriti në oborr, dhe para se të largohet, doktori hodhi
 një sy përpjetë: Ministri qëndronte në penxhere,
 duke kruar ballët me gishtin e mëngjër dhe duke
 shikuar sahatin në dorë të djathtë.
 
 [^1]: Ç'maltëzë more, ç'egjiptianë, janë thjesht shqiptarë.
+
+[^2]: Faleminderit.

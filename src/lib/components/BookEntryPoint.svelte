@@ -1,13 +1,15 @@
 <script lang="ts">
+  import EpubDownload from '$lib/components/EpubDownload.svelte';
   import TocItemList from '$lib/components/TocItemList.svelte';
   import type { ExtendedBookType, Post } from '$lib/types';
 
   interface Props {
     book: ExtendedBookType;
     chapters: Record<string, Post[]>;
+    authorName: string;
   }
 
-  let { book, chapters }: Props = $props();
+  let { book, chapters, authorName }: Props = $props();
 </script>
 
 <div class="book" id={book.folder.split('/').pop()}>
@@ -22,6 +24,13 @@
       <img src={book.thumbnail} alt="{book.name} - kopertina" />
     </div>
   </a>
+
+  <!-- A sibling of the header link, not inside it: links can't nest. -->
+  {#if book.epub}
+    <div class="download">
+      <EpubDownload bookFolder={book.folder} {authorName} variant="compact" />
+    </div>
+  {/if}
 
   <div>
     {#each Object.entries(chapters) as [chapterName, entries], idx}
@@ -52,6 +61,14 @@
     padding: var(--spacing-xl);
     justify-content: space-between;
   }
+  /* Lined up with the description, and pulled up so it reads as part of the
+     header rather than a separate block. */
+  .download {
+    display: flex;
+    padding: 0 var(--spacing-xl);
+    margin-top: calc(-1 * var(--spacing-xl));
+  }
+
   .book-entry:hover {
     background-color: var(--bg-secondary);
     border-radius: var(--radius-xl);
@@ -94,6 +111,10 @@
   @media only screen and (min-width: 320px) and (max-width: 576px) {
     .book-entry {
       padding: var(--spacing-xl) var(--spacing-md);
+    }
+
+    .download {
+      padding: 0 var(--spacing-md);
     }
 
     .title {

@@ -20,8 +20,8 @@ e derës, nga forma dhe shkaqet e penxhereve - secila
 nga të cilat ka njëzet xhama të vegjël, të lidhur
 me metal dhe veçan nga çatia e mbuluar me qeramidhe
 të bardha të rregulluara me dhe me kujdes, kuptohet
-se është një shtëpi e mejtuar prej një arkitekti - artist
-për një myshteri - poet. Kjo ndjenjë, e një gjëje
+se është një shtëpi e mejtuar prej një arkitekti-artist
+për një myshteri-poet. Kjo ndjenjë, e një gjëje
 të ndryshme nga të tjerat, rritet dhe më tepër
 kur shikon njeriu kopshtin, ku një shumicë lulesh,
 barërash, pemësh dhe shelgjesh edhe të vogla martojnë
@@ -63,9 +63,9 @@ të trashëguar, në mos për diturinë, për shkallën
 sociale të mjekut.
 
 Ashtu Gjëlpëra junior u shkrua nxënës në
-Universitetet e Petersburgut. Tre vjet i vazhdoi
+Universitetin e Petersburgut. Tre vjet i vazhdoi
 mësimet me vullnet dhe me sukses. Profesorët e tij
-e quanin një nxënës të shkëlqyer. Që nga të parët
+e quanin një nxënës të shkëlqyer. Qe nga të parët
 në fiziologji, në anatomi, në kimi; biologjia e
 tërhiqte shumë, biologjia, dituri e çuditshme, që hap
 udhë të errëta dhe misterioze ku s'kish shkelur
@@ -84,11 +84,11 @@ Po pak nga pak këtë ndjenjë ia mundën ndjenja të
 tjera, vazhdoi punën me zell, dhe u bë i mbaruar në
 anatominë. Në mes të mësimit të diturive të
 mërzitura, gjente kohë dhe për zbukurimin ose
-zbavitjen e mendjes. Këndonte me të mirat libra të
+zbavitjen e mendjes. Këndonte më të mirat libra të
 ditës. Njomte kujtimin e klasikëve duke kënduar
 kryeveprat e vjetra. Qëllonte pak pianon: një sonatë
 e Bethovenit, një 'nocturne' e Shopenit, dhe të
-interpretuara ligsht, kënaqin shpirtin si një mundim
+interpretuara ligsht, kënaqnin shpirtin si një mundim
 i ëmbël për të hyrë në bashkim ndjenje dhe kuptim
 me të mëdhenjtë.
 
@@ -98,14 +98,14 @@ baleti: Fokini, Pavlova, dhe veçan e perëndishmja
 Karsavina, i jepnin një shfaqje bukurie ritmike të
 paharruar.
 
-Në moshën e Gjelpërës zemra ose një nga
+Në moshën e Gjëlpërës zemra ose një nga
 më të thellat instinkte të njeriut, kanë nevojë të
 kënaqen. Studenti ynë kish një mikeshe të quajtur
 Vera, i ati i së cilës, një çinovnik (nëpunës i vogël i
 shtetit) zemërbardhë dhe i dhënë pas vodkës (vodka
 është rakia popullore e Rusisë) e kish lënë jetime
 pak vjet më parë. Vera punonte si koriste në një nga
-teatrot e mëdha të Petersburgut. Që një çupë e
+teatrot e mëdha të Petersburgut. Qe një çupë e
 gjatë dhe e shkathët, me sy ngjyrë manushaqeje, flokë
 gështenjë, hundën të drejtë, duart dhe këmbët të
 vogla, gjirin dhe këlqet jo të hedhura shumë; cipën
@@ -132,7 +132,7 @@ besonte te dashuria si te një forcë e gjallë, fatale, e
 domosdoshme. Gjëlpëra qeshte:
 
 "Vera, - i thosh, - jemi të gjithë viktima të një
-ëndrre. Ajo qe e quajmë dashuri, nuk është veçse
+ëndrre. Ajo që e quajmë dashuri, nuk është veçse
 një emër tjetër për dëshirën. Është një shtytje e
 fuqishme e natyrës, jo një zë i perëndishëm i shpirtit.
 Bah! Sot, çupa ime, pimë çaj në këtë odë dhe
@@ -150,8 +150,8 @@ Po Gjëlpëra e hiqte pranë dhe me fjalë të
 bukura, e përkëdhelte dhe e kënaqte.
 
 Kështu shkoi moti i tretë dhe hyri i katërti.
-Gjëlpëra ndjente përditë se irritej kuptimi, dhe truri
-i tij merrte një fuqi mëndonjëse të tijën, jo të
+Gjëlpëra ndjente përditë se rritej kuptimi, dhe truri
+i tij merrte një fuqi mendonjëse të tijën, jo të
 përsëritur nga të tjerët. Nuk harronte dhe kujdesin
 e trupit. Thosh me vete:
 
@@ -163,7 +163,8 @@ me popullin, dukja e tij duhet të jetë pasqyra e forcës
 dhe e shëndetit. Kush e mban dot të qeshurit sikur
 një ulok të dalë si mësonjës i vallës dhe të kërkojë
 nxënës? Një mjek i sëmurë sjell menjëherë në buzët
-e popullit të thënën e vjetër: "Mjek, shëro vetveten!"
+e popullit të thënën e vjetër: 'Mjek, shëro vetveten!'"
+
 I jepte pra trupit të tij ushtrime sistematike, hante dhe
 pinte mirë, po jo shumë; bënte gjumë të plotë. Fjala
 e vjetërsisë klasike "Çdo gjë me masë" qe fjala
@@ -176,14 +177,14 @@ e përcolli gjer te vapori që do ta shpinte në zallet e
 Suedisë.
 
 Gjëlpëra hyri tani në një botë të re. Suedia,
-ndonëse aq afër Rusise, ndryshon nga shumë
-pikepamje. Hiq mezet që hahen përpara drekës dhe
+ndonëse aq afër Rusisë, ndryshon nga shumë
+pikëpamje. Hiq mezet që hahen përpara drekës dhe
 darkës dhe që janë si zakuska e Rusisë, pothuajse
 çdo gjë tjetër - binatë, rrojtja, sjelljet, dukja e
 qyteteve dhe e njerëzve është tjetërsoj. Dhe për
-Gjelperen, për mendjen e tij vëzhguese dhe të
+Gjëlpërën, për mendjen e tij vëzhguese dhe të
 dhënë pas gjërave të fshehta, të gjitha rreth e rrotull tij
-kishin një interes të madh. Defronte me bukurinë e
+kishin një interes të madh. Dëfronte me bukurinë e
 Stokholmit, qytet i shtrirë në një shumicë ishujsh,
 posi një Venedik i dytë, po me bukuri veneciane
 më të ftohtë, dhe më të matur. Kur u
@@ -194,7 +195,7 @@ mendjet peshonin dhe prisnin fjalën e fundit të fatit,
 fjala që vonoi aq shumë sa në krye, asnjeri nuk do
 të kish besuar në një vonim aq të zgjatur. Çdo njeri
 ish ngrysur dhe për fatin e veçantë të tij zemra e
-Gjelperës ish plot me kujdes e me frikë. Ç'ndryshim
+Gjëlpërës ish plot me kujdes e me frikë. Ç'ndryshim
 do të sillte lufta në jetën e tij? Petersburgu, a qe
 tani një qendër mjaft të qetë për të vazhduar
 mësimet? Valle, nuk do ta shtrëngonin të vente në
@@ -265,7 +266,7 @@ qetësinë melankolike të një shtëpie të fortë që
 qëndronte e patundur kur jashtë furtuna përmbys
 shelgjet dhe tund shkëmbinj. Po dhe këtu
 nganjëherë - xhamat e penxhereve dhe çatia
-tundeshe aq shumë, sa dukej, që edhe këtë shtëpi
+tundeshin aq shumë, sa dukej, që edhe këtë shtëpi
 do ta shkatërronte furtuna e përgjithshme. Nga
 Petersburgu lajmet qenë të rralla dhe të shkurtra. I
 ati i bënte të njohur vetëm për shëndetin dhe i thosh
@@ -275,9 +276,9 @@ rënët e fortëses Przemislit, dhe të arrirët e fuqisë
 ruse përtej Karpateve gjer në prag të Budapestit, e
 zbuti censurën dhe hapi përgjysmë dyert e Rusisë.
 Plaku Gjëlpëra bëri një udhëtim në Upsalë. Pas afro
-dy vjet largimi, të bashkuarit e atit me djalin që plot
+dy vjet largimi, të bashkuarit e atit me djalin qe plot
 me gaz të mallëngjyer. Qanë hallet, kujtuan të
-vjetrat. Plaku prurë lajme të mira. E kish rritur dy
+vjetrat. Plaku pruri lajme të mira. E kish rritur dy
 herë pasurinë. Lufta dukej se do të vazhdonte shumë
 kohë. Në qoftë se marketa financiare e Rusisë nuk
 dobëtohej në fund të luftës dhe karta ruse qëndronte
@@ -308,7 +309,7 @@ diturisë.
 
 Mësimet e mjekësisë në Universitetin e
 Upsalasë janë më të gjatat në botë, marrin nëntë
-vjetë, - tre vjet më tepër se kudo gjetkë, Gjëlpëra që
+vjetë, - tre vjet më tepër se kudo gjetkë. Gjëlpëra qe
 i kënaqur. Desh dituri, jo diplomë vetëm dhe ish
 mjaft i zhvilluar sa të kuptonte që dituria e vërtetë
 do kohë.
@@ -319,16 +320,16 @@ vjet janë mjaft sa të mbajë mend njeriu parimet dhe
 formulat edhe të marrë një diplomë: po që të hyjë
 në thellësitë e mjekësisë, që të bëhej jo një mjek po
 një i ditur, i zoti të mendojë nga vetia e tij të gjejë
-udhë të errëta në rrënjët e sëmundjes ene burimet e
+udhë të errëta në rrënjët e sëmundjes e në burimet e
 shëndetit, duhet një zhvillim i ngadalshëm dhe i
 gjatë. Sistemi i Upsalasë, mendonte Gjëlpëra, është
 i drejtë. Gjëlpëra gëzohej që fati i jepte rastin t'i
-zgjatë mësimet në një qendër kulturore të vërtetë,
+zgjatë mësimet në një qendër kulturore të vërtetë.
 Pa fjalë, formohen edhe gjetkë mjekë të mirë, po në
 fitofshin dituri ç'fitojnë pasi dalin nga shkolla, në
 kurriz të njerëzve të sëmurë. Upsala, qytet i qetë
 dhe i paqme, i rrethuar prej një brezi kopshtesh të
-bukura, i dukej Gjelpërës posi një vend i shënuar
+bukura, i dukej Gjëlpërës posi një vend i shënuar
 nga perënditë për zhvillimin e diturisë pa pengime
 e pa zhurmë. Dhe Ingrida fisnike dhe e heshtur i
 dukej si simboli i gjallë i Upsalasë.
@@ -341,18 +342,18 @@ nxitojnë mbi tjetrën. Ca më vonë u përmbys
 dhe Karenski me republikën e tij, dhe një botë e
 vjetër mori fund përgjithnjë. Në mes të këtyre
 zhvillimeve historike, plasi edhe një sëmundje
-epidermike anë e mbanë të Evropës, "Duke korrur
+epidemike anë e mbanë të Evropës, duke korrur
 përditë mijëra njerëz, një sëmundje misterioze e cila,
 në mungesë të një emri më të kuptuar, u quajt
 "Espanjollë". Suedia e lumtur mbeti jashtë edhe
 kësaj furtune. Po Gjëlpëra ishte i kujdesur e i trembur
 për tanë, dy herë i kujdesur e i trembur: vallë në
-ç'hall ndodhej plaku nga puna" e do të që ishte i zoti të
+ç'hall ndodhej plaku nga puna? A do të qe i zoti të
 ruante veten nga epidemia? Që kur kish plasur
 revolucioni në Rusi, studenti i Upsalasë s'kish marrë
 as ndonjë letër as ndonjë lajm tërthorazi, dhe me tërë
 filozofinë e tij, zemra e tij ish e ngrysur me
-dëshpërim dhe qellonte me një ritëm të ndryshëm
+dëshpërim dhe qëllonte me një ritëm të ndryshëm
 nga ditët e bardha. Të vente në Rusi? Po, ish gati.
 Po a mund të vente, me rrezik për veten e tij dhe me
 fitim për asnjeri? Priti dhe ca javë, të cilat iu dukën
@@ -363,11 +364,11 @@ sëmundja espanjollë ose nga pika, dhe prej pasurisë
 së tij s'kish mbetur asnjë gjurmë.
 
 Gjëlpëra ndjeu një shtrëngim në zemër. U
-largua një javë nga mesimet, se shpirti i munduar
+largua një javë nga mësimet, se shpirti i munduar
 ka nevojë të përmblidhet dhe të vuajë, në vetmi.
 
 
-Mëjtonte për plakun, për trimërinë e tij në punë,
+Mejtonte për plakun, për trimërinë e tij në punë,
 për dashurinë që kish për të birin, dhe për bashkimin
 e atyre në jetë, si dy shokë të dashur më tepër sesa si
 një atë i ngrysur me një djalë të bindur. Sa keq i
@@ -378,8 +379,8 @@ ndërmend një nga ngjarjet të shkuara, i kujtoheshin
 kuvëndimet që kishin pasur bashkë, fjalët dhe
 qeshjet e t'et. Një plak me ca nga virtytet antike të
 shqiptarëve, dhe plot me një dashuri të panjohur
-për vendin, - një soj atdhesie instruktive që Frënjtë
-e quajnë 'amour du sol natal", po jo "patriotisme
+për vendin, - një soj atdhesie instinktive që Frënjtë
+e quajnë "amour du sol natal", po jo "patriotisme
 conscient". Pas mendjes së plakut, çdo gjë në
 Shqipëri ish më e mirë se kudo gjetkë: çupat më të
 hijshme, gratë më të ndershme, ujërat më të paqme,
@@ -390,7 +391,7 @@ dot të qeshurit, kur plaku i theu të verërat e
 Shqipërisë, si më të mirat në botë.
 
 "Ah baba, këtu e prishe, - tha: - mirë që s'na
-degjon njeri. Vera e vërtetë del vetëm në Francë,
+dëgjon njeri. Vera e vërtetë del vetëm në Francë,
 dhe në ca vende të Gjermanisë, anës lumit Ren. Në
 mes të asaj verë edhe të lëngut-rrushit të thartuar të
 Shqipërisë ka aq ndryshim, sa në mes të havjarit të
@@ -406,7 +407,7 @@ mira? Nuk më jep dhe mua të kuptoj?"
 aromë natyrale, që quhet lule e verës, ose bouquet.
 Kur pi një kupë verë të vërtetë, të mbetet në gojë
 një shije lulesh të panjohura, me një erë fare të
-largët dhe të dobët, të ngjitet në tru si një tip i hollë
+largët dhe të dobët, të ngjitet në tru si një tym i hollë
 i ndonjë bari të perëndishme. Nuk përshkruhet dot,
 po vetëm ndihet. Të vetë thënë, verërat e Ballkanit
 dhe të çdo vendi tjetër jashtë Francës dhe Renit, s'kanë
@@ -416,19 +417,19 @@ darkë në një restorant që ka qilar me verëra të
 çmuara - kam dëgjuar se është një me famë afër
 Prospekt Nevskijt - mund të gjykosh vetë."
 
-"Hajde të vemi që sonte, se s' dua të ta prish
+"Hajde të vemi që sonte, se s'dua të ta prish
 qejfin."
 
 Dhe atë mbrëmë, si u veshën dhe u ndreqën,
 thirrën një droshkë, e cila i shpuri te restoranti me
-afër Prospekt Nevskijt. Porositë i dha studenti ynë.
+famë afër Prospekt Nevskijt. Porositë i dha studenti ynë.
 Me havjarin dhe mezet e tjera, porositi një botile
 Johannisberger të vjetër, verë e lehtë e bardhë e
 Rhein-it që bëhet vetëm nga vreshtat e Princ
 Metternichut, të dhuruara diplomatit austriak prej
 fuqive aleate mirënjohëse pas rënies së Napoleonit.
-Plaku e piu kupën e parë me një gllënjkë. Jo, ashtu
-babai. Këto verëra nuk pihen, po shijohën, - posi
+Plaku e piu kupën e parë me një gllënjkë. Jo ashtu,
+babai. Këto verëra nuk pihen, po shijohen, - posi
 kafeja dhe çaji. Pas supës, Gjëlpëra i ri porositi një
 shishe Romance-Conti, verë e Bourgogne-s, një verë
 e kuqe me një lule aq të perëndishme, sa Princi de
@@ -443,20 +444,20 @@ mbajnë gjërat më të mira për veten e tyre dhe e pakta
 Romance-Conti që bëhet, shpërndahet anëmbane të
 botës për ata fatbardhët që janë të zotët ta paguajnë.
 Plaku Johannisberg-un nuk e kish përfillur, e kish
-quajtur njëfarë limonade të trazuar me vodkë. Ro-
-mance-Conti-n e pëlqeu më tepër,
+quajtur njëfarë limonade të trazuar me vodkë. Romance-Conti-n
+e pëlqeu më tepër.
 
 "Kjo, - tha, - më kujton verërat e Negzodit."
 
-Gjëlpëra i ri nënqeshi. Gjëllët e zgjedhura
+Gjëlpëra i ri nënqeshi. Gjellët e zgjedhura
 kryevepra të një chef-i vazhduan njëra pas tjetrës.
 
-Një nga gjëllët që kish porositur Gjëlpëra i
+Një nga gjellët që kish porositur Gjëlpëra i
 ri, quhej truffes la Cussy, njëfarë kërpudhe e zier në
 champagne dhe e servirur e ngrohtë e përshtjellë në
-një servietë. Që një nga gjëllët e shpikura prej
+një servietë. Qe një nga gjellët e shpikura prej
 gurmetit freng me famë Marquis de Cussy. Me
-gjëllët e fundit, prunë verën e tretë të porositur nga
+gjellët e fundit, prunë verën e tretë të porositur nga
 Gjëlpëra i ri, një shishe Château-Latour, verë e kuqe
 të hollë e Jugës së Francës, e cila e shijuar pas
 Bourgogne-s sjell një shplodhje, - një zgjim, një
@@ -464,7 +465,7 @@ ringjallje të mendjes dhe të vullnetit. Gjysmë filxhan
 kafeje të zezë i vuri kurorën kësaj darke elegante,
 luksi i së cilës e çuditi plakun, një çudi që u shtua
 më tepër kur shërbenjësi i pruri notën: 165 rubla -
-në një kohë kur rubla ish rubël. Kur droshka i lanë
+në një kohë kur rubla ish rubël. Kur droshka i la në
 shtëpi, "E, si t'u dukën verërat?" - pyeti studenti
 ynë.
 
@@ -479,16 +480,16 @@ zë të matur e të butë: vera që bie erë për së largu
 është si një njeri që bërtet duke folur dhe që e
 dëgjojnë tërë mëhalla."
 
-"Përveç kësaj, djalë i im, verërat që të pëlqejnë
+"Përveç kësaj, djali im, verërat që të pëlqejnë
 ty s'janë as për njerëz të pasur si unë, qenkan për
 njerëz milionerë."
 
 "Ka verëra në Francë të lira, im atë, desha
 vetëm të shijojmë - një herë ca nga ato më të
-famshmet, që të zgjidhim një pikë bisedimi.
+famshmet, që të zgjidhim një pikë bisedimi."
 
 Këto kujtime, dhe shumë të tjera i ktheheshin
-Gjelpërës, dhe zemra mallëngjehej për plakun e
+Gjëlpërës, dhe zemra mallëngjehej për plakun e
 dashur plot me mungesa barbare, po plot me virtyte
 barbare, i cili vdiq në mërgim kushedi se si, ndoshta
 me dëshpërimin në shpirt.
@@ -523,7 +524,7 @@ që, në këtë rast të paktën, vendin e Verës e zinte
 Ingrida. Këto mendime rrëkëlleheshin në mendje kur
 rrinte me Ingridën anës lumit Fyris, duke bërë sehir
 një anije me avull që shkonte nga Upsala për në
-Stokholm. Me një ndjenjë mirënjohjeje — për
+Stokholm. Me një ndjenjë mirënjohjeje për
 ftohtësinë plot me takt të Ingridës, Gjëlpëra i mori
 dorën dhe ia puthi me një të puthur vëllai, Ingrida i
 përkëdheli flokët, pa ia kthyer të puthurit.
@@ -534,7 +535,7 @@ të korrur sheshet të vaditura me gjakun e djemërisë.
 Doli urdhri dhe armët pushuan. Po lufta kish për të
 vazhduar shumë vjet nënë një formë tjetër. Në
 shkatërrimin e përgjithshëm që pasoi pushimin e
-armëve. Jo vetëm u përmbysën frone dhe u zhdukën
+armëve, jo vetëm u përmbysën frone dhe u zhdukën
 shtete të vjetra, por tërmeti rrëzoi dhe pasurira
 personale. Shumë njerëz, që rronin në mes të luksit
 më të madh, u zgjuan të nesërmen udhëve: se me të
@@ -551,11 +552,11 @@ të turbullt dhe të rrezikshme.
 
 Gjëlpëra tani e ndjente veten një savant të
 vërtetë. Në spital profesorët i çmojnë diagnozat e
-tija; me një shiguri te palajthitur, zbulonte shkaqet
+tija; me një siguri të palajthitur, zbulonte shkaqet
 dhe zhvillimet e sëmundjes, dhe bënte të duhuren -
 sipas shkallës që ndodhet sot dituria - për të pakësuar
 dhimbjet dhe për të zhdukur simptomat. Truri i tij
-që mjaft i arrirë për të mos besuar më në dogmat
+qe mjaft i arrirë për të mos besuar më në dogmat
 naive të doktorëve katundi. Kish marrë vesh mirë
 që mjekësia është një dituri në djep, që shkaqet e
 thella të sëmundjeve janë edhe të panjohura, që asnjë
@@ -586,7 +587,7 @@ në Suedi. Me këto mendime u largua nga Upsala
 dhe u vendos në Stokholm, ku mori lehtë leje të
 punojë në laboratoret e një instituti me famë -
 Karolinska Mediko-Kirurgiska Institut. Stokholmi
-është nga Upsala Dy orë me udhë të hekurt, Ose në
+është nga Upsala dy orë me udhë të hekurt, ose në
 dy orë me anije të avullt nëpër lumin Fyris dhe një
 pjesë të liqenit Mälaren. Dr. Gjëlpëra vente
 nganjëherë në Upsala për të bashkuar Ingridën:
@@ -594,10 +595,10 @@ po më shpesh e ftonte Ingridën në Stokholm, që ta
 shpinte në teatër, veçan kur jepnin ndonjë vepër të
 Strindbergut, një nga të fuqishmit shkrimtar dramatik të
 kohëve tona, i cili në shumë lodra të gjata ka vetëm
-iri fytyra dhe është i zoti, me aq pak fytyra
-shikonjesve, jo vetëm të shpëtojë nga monotonia,
+tri fytyra dhe është i zoti, me aq pak fytyra
+shikonjësve, jo vetëm të shpëtojë nga monotonia,
 po edhe ta mbajë disa orë publikun me vërejtje të
-palodhura e të gjalle: artist me të vërtetë i thellë, që
+palodhura e të gjalla: artist me të vërtetë i thellë, që
 arrin efekte të mëdha, me mjete të pakta. Ingrida e
 bënte udhëtimin në Stokholm me një gëzim çdo herë
 të përsëritur e të shtuar, dhe kthehej në Upsala me
@@ -623,14 +624,14 @@ pjesë në lëvizjen patriotike të Gjermanisë kundër
 Napoleonit, se edhe Gëte e quante veten një
 "qytetar të botës" si Sokrati. Bota ish atdheu i madh
 i çdo njeriu të kuptuar. Po nga ana tjetër, si mund të
-TY perparim, si mund të zhvillohet njerëzia, po të
+[ketë] përparim, si mund të zhvillohet njerëzia, po të
 mos ndahet puna? Si mund të lulëzojë sheshi i
-heut të përbashkët që është bota, në qoftë se
+dheut të përbashkët që është bota, në qoftë se
 ata nuk grupohen në një mënyrë a në një tjetër,
 të lëruar çdo grup një copë të dheut? Dhe, ku ka
-irn më afër natyrës sesa grupimi i njerëzve që
+[gjë] më afër natyrës sesa grupimi i njerëzve që
 flasin një gjuhë dhe kanë rrojtur brez pas brezi
-, në një qoshe të botës? Sokrati dhe Gëte
+në një qoshe të botës? Sokrati dhe Gëte
 ishin qytetarë të botës, jo njëri grek dhe tjetri
 gjerman: megjithatë, Sokrati nuk shkoi në Suze të
 Persisë ose Memfis të Egjiptit, për të dhënë
@@ -640,14 +641,14 @@ mendimet e tija, po qëndroi në Veimar. Ashtu edhe
 këta të dy kozmopolitë të lartë kanë pasur njëfarë
 patriotizme, po në një kuptim të gjerë, fare të
 ndryshme nga patriotizma e ngushtë dhe urrejtëse
-një Demosteni ose e një Bismarku. Dr. Gjëlpëra
-core të çajit, ku avulli aromatik që ngrihet nga
+një Demosteni ose e një Bismarku. Dr. Gjëlpëra,
+[në orët e] çajit, ku avulli aromatik që ngrihet nga
 filxhani merr fantazinë e njeriut dhe e shpie në
-kujtime të largme, endërronte shpesh për
+kujtime të largme, ëndërronte shpesh për
 Shqipërinë. I vinte ndër mend një ambicie e t'et për
 të bërë një spital në Shqipëri, ambicie naive prej të
 padituri zemërbardhë që s'thellonte. Ç'është një
-spital në një vend si Shqiperia, ku të gjithë janë të
+spital në një vend si Shqipëria, ku të gjithë janë të
 sëmurë? Është një shtëpi ku ata më të sëmurë, ata
 që janë në të vdekur e sipër, venë me shpresën
 patetike, po të marrë, se do të shërohen duke pirë
@@ -658,9 +659,9 @@ mund të organizohej anëmbanë vendit një luftë
 sistematike për të stërvitur popullin në parimet
 themeltare të shëndetit dhe të rrojtjes dhe për të
 gatitur një brez të ri prej njerëzish të shëndoshë, të
-paqmë, të shkafet, me trupa të hijshme dhe të forta,
+paqmë, të shkathët, me trupa të hijshme dhe të forta,
 ku sëmundja të thyejë dhëmbët e saj, posa të
-kafshojë dhe trupin murides ta lërë të pacenuar. Ja,
+kafshojë, dhe trupin […] ta lërë të pacenuar. Ja,
 një vepër me të vërtetë e madhe, një vepër aq fisnike,
 sa vlen të bëhet qëllimi dhe ambicia e një
 mendonjësi. Kështu fliste me vete dr. Gjëlpëra, kur
@@ -669,7 +670,7 @@ dhe u linin vendin ëndrrave. Vepra e pionierit,
 domethënë e njeriut që çan një udhë të re në çfarëdo
 shesh përparimi qoftë, i dukej me tërë madhështinë
 e bukurinë poetike të saj. Ah, se ç'ëndërr sikur të
-përmblidhte një herë tërë forcat e shpirtit e tij, të
+përmblidhte një herë tërë forcat e shpirtit të tij, të
 shkëputej nga rrethi i qytetëruar ku rronte dhe të
 vinte si apostull i qytetërisë në mes të barbarëve!
 Pse jo? Librat, pianon, veglat për kërkimet
@@ -683,49 +684,49 @@ mbledhur plaçkat. Kjo ide pak nga pak mori një
 formë aq të gjallë në zemër të filozofit tonë të ri, sa
 më në fund si një zë i brendshëm e shtyti ta nisë
 udhëtimin. Shkoi në Upsala, t'u lërë shëndet miqve
-dhe të perqafoje lngriden, edhe pa humbur kohë -
-neper qytetet e plagosura të Gjermanisë e të Austrisë - arriti në Itali.
+dhe të përqafojë Ingridën, dhe pa humbur kohë -
+nëpër qytetet e plagosura të Gjermanisë e të Austrisë - arriti në Itali.
 
 Italia! një emër që tingëllon si muzikë në
 veshin e njeriut të qytetëruar, djepi i qytetërisë
 moderne, burimi i arteve, i muzikës, dhe i
 elegancave në botën e sotme, - emri i një vendi ku
-çdo yip ka një histori, çdo gur një kujtim. Per një
-njeri që ka rrojtur tere jetën e tij ftohtësirat e Veriut,
+çdo cip ka një histori, çdo gur një kujtim. Për një
+njeri që ka rrojtur tërë jetën e tij ftohtësirat e Veriut,
 Italia ka dhe një tërheqje të dytë: është vend i diellit,
 i luleve, dhe i pemëve - një parajsë delikate dhe e
-njome që e beri dr. Gjelpërën si të dehur me bukurine
-e jetës. Vendosi të qendroje nja dy javë në Itali.
+njomë që e bëri dr. Gjëlpërën si të dehur me bukurinë
+e jetës. Vendosi të qëndrojë nja dy javë në Itali.
 
-Vizitoi Fiorencen, lulishte nga emri dhe plot
+Vizitoi Fiorencën, lulishte nga emri dhe plot
 me lulet e kujtimeve elegante të Rilindjes: mbeti i
-habitur perpara bukurisë së qetë dhe të matur të
-Sienes; dhe kur arriti në Rome, iu duk sikur u hapën
-perpara tij dyert e një bote të cuditshme,
-përmbledhje e vjetersise klasike, e kohes së mesme,
-dhe e ejeres së sotme, shesh në gjurmët e gjalla të tri
+habitur përpara bukurisë së qetë dhe të matur të
+Sienës; dhe kur arriti në Romë, iu duk sikur u hapën
+përpara tij dyert e një bote të çuditshme,
+përmbledhje e vjetërsisë klasike, e kohës së mesme,
+dhe e erës së sotme, shesh në gjurmët e gjalla të tri
 kulturave.
 
-Dr. Gjëlpëra qendroi në Rome tetë ditë, që iu
-dukën si tetë çaste. Çdo gjë atje e terhiqte,
-monumentet, muzete, kopshtet dhe dukja e grave
-të popullit në Transtevere, stermbesa të vërteta të
-romaneve të vjeter, si nga vijat e fytyres ashtu edhe
-nga dinjiteti e nga kryelartesia. Një gjë që e cuditi
+Dr. Gjëlpëra qëndroi në Romë tetë ditë, që iu
+dukën si tetë çaste. Çdo gjë atje e tërhiqte,
+monumentet, muzetë, kopshtet dhe dukja e grave
+të popullit në Transtevere, stërmbesa të vërteta të
+romanëve të vjetër, si nga vijat e fytyrës ashtu edhe
+nga dinjiteti e nga kryelartësia. Një gjë që e çuditi
 në Itali, është se i gjeti gratë aq të bardha. Në mes
 të bukurive të ftohta të Veriut, në mes të cipave prej
-debore, kish enderruar shumë herë per të bijat e
-luges - çupat e Espanjes e të Algerise - me lekuren
-të thekur në diell dhe me trupin të ngrohte. Po në
-Itali nuk ikish zene syri nonje tip të atille: ndoshta,
-duhej të udhetonte me teper nga ana e luges per të
+dëbore, kish ëndërruar shumë herë për të bijat e
+Jugës - çupat e Espanjës e të Algerisë - me lëkurën
+të thekur në diell dhe me trupin të ngrohtë. Po në
+Itali nuk i kish zënë syri ndonjë tip të atillë: ndoshta,
+duhej të udhëtonte më tepër nga ana e Jugës për të
 shikuar ato statuja të gjalla prej balte të pjekur që ia
 deshte zemra.
 
 Po treni që e shpinte nga Roma në Bari, ia
-ktheu mendimet te qellimi i madh i udhëtimit të tij.
-Dhe kur anija e vogel me avull, mblodhi hekurin
-dhe beri per nga zallet e Shqiperise, ndien në zemër
+ktheu mendimet te qëllimi i madh i udhëtimit të tij.
+Dhe kur anija e vogël me avull, mblodhi hekurin
+dhe bëri për nga zallet e Shqipërisë, ndien në zemër
 një shtrëngim si të një njeriu që mbyll një pjesë të
-librit të jetes së tij dhe hap një pjesë të re, ku s'di se
-ç'ka per të shkruar dora e fshehte e Fatit.
+librit të jetës së tij dhe hap një pjesë të re, ku s'di se
+ç'ka për të shkruar dora e fshehtë e Fatit.

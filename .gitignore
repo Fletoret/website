@@ -4,6 +4,8 @@ node_modules
 /.svelte-kit
 # Generated from autore/index.json at build time — see vite.config.ts
 /_redirects
+# Built from autore/ at dev/build start — see scripts/epub.mjs
+/static/epub
 /.asset-history
 /package
 .env

@@ -57,6 +57,10 @@ export type ExtendedBookType = WithContext<Book> & {
   redirectPaths?: string[];
   thumbnail?: string;
   thumbnailWebp?: string;
+  /** Printed under the title on the cover and the EPUB title page. */
+  subtitle?: string;
+  /** Build an EPUB of this book and offer it on the profile (scripts/epub.mjs). */
+  epub?: boolean;
 };
 
 export type Author = {

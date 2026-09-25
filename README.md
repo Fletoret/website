@@ -221,7 +221,7 @@ faq/               pyetjet e shpeshta, të shfaqura në faqen kryesore
 src/lib/           komponentët Svelte, përpunuesi i Markdown-it, leximi i të dhënave
 src/routes/        faqet: /, /[autori]/[libri]/[kapitulli], /blog, /copeza, /ocr
 static/            imazhet (portrete, kopertina), fontet, ligji 35/2016
-scripts/           mjete ndihmëse: wrap, kopertina, portrete, pamje ndarjeje, verifikim publikimi
+scripts/           mjete ndihmëse: wrap, kopertina, portrete, EPUB, pamje ndarjeje, verifikim publikimi
 data-pipeline/     nga një URL e BKSH Dixhitale te Markdown-i në autore/ (Python)
 ocr/               dalja e OCR-së së draftit, që ushqen redaktuesin te /ocr
 ```
@@ -302,6 +302,22 @@ npm run author-image -- grameno https://example.com/mihal-grameno.jpg
 npm run wrap -- autore/migjeni/vargjet-e-lira
 npm run dev
 ```
+
+</details>
+
+<details open>
+<summary><b>4. E-book (EPUB)</b></summary>
+
+<br>
+
+Shto `"epub": true` te zëri i veprës në `autore/index.json` dhe profili i librit merr butonin «Shkarko e-book». EPUB-i ndërtohet nga i njëjti Markdown sa herë nis `npm run dev` ose `npm run build`, te `static/epub/<autori>/<vepra>.epub` (jashtë git-it), kështu që shkarkimi është gjithmonë teksti i fundit. Fusha opsionale `"subtitle"` del nën titull në faqen e titullit.
+
+```bash
+npm run epub                                # të gjitha veprat me "epub": true
+npm run epub -- konica/doktor-gjilpera      # vetëm një vepër, për ta provuar
+```
+
+Ndërtimi ndalet me gabim nëse EPUB-i do të dilte i pavlefshëm — HTML i papërshtatshëm për XHTML (`<br>` pa mbyllje, `<center>`), imazhe jashtë librit, lidhje të këputura — dhe tregon skedarin `.md` që duhet ndrequr. Veprat me `shenimet.md` nuk mbështeten ende.
 
 </details>
 

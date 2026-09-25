@@ -2,6 +2,7 @@ import { sveltekit } from '@sveltejs/kit/vite';
 import type { Plugin, HmrContext } from 'vite';
 import { writeFileSync } from 'node:fs';
 import { getRedirects, renderRedirects } from './src/lib/redirects';
+import { buildAllEpubs } from './scripts/epub.mjs';
 // import { imagetools } from 'vite-imagetools';
 
 function ReloadOnContentChangePlugin(): Plugin {
@@ -47,6 +48,29 @@ function CanonicalRedirectsPlugin(): Plugin {
   };
 }
 
+/**
+ * Build the EPUBs of books flagged `"epub": true` in autore/index.json into
+ * static/epub/, so a book profile's download is always the current text.
+ * Dev builds on startup (restart dev to pick up text edits). SvelteKit's build
+ * reloads this config for its second bundle, so the EPUBs are written twice;
+ * the output is byte-identical and takes well under a second.
+ * A failure fails the build rather than shipping a stale or missing file.
+ */
+let epubBuild: Promise<string[]> | undefined;
+
+function EpubPlugin(): Plugin {
+  return {
+    name: 'epub',
+    async buildStart() {
+      epubBuild ??= buildAllEpubs().then((written) => {
+        console.log(`epub: ${written.length} book(s) written to static/epub`);
+        return written;
+      });
+      await epubBuild;
+    },
+  };
+}
+
 /** @type {import('vite').UserConfig} */
 const config = {
   plugins: [
@@ -62,6 +86,7 @@ const config = {
 
     ReloadOnContentChangePlugin(),
     CanonicalRedirectsPlugin(),
+    EpubPlugin(),
     sveltekit(),
   ],
   cssTarget: 'inline',

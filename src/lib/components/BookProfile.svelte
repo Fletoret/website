@@ -1,5 +1,5 @@
 <script lang="ts">
-  // import DownloadIcon from "$lib/icons/DownloadIcon.svelte";
+  import EpubDownload from './EpubDownload.svelte';
   import type { Author, ExtendedBookType } from '$lib/types';
   import BreadcrumbItem from './BreadcrumbItem.svelte';
 
@@ -19,6 +19,9 @@
       alt="{book?.name} - kopertina"
     />
   </div>
+  {#if book?.epub}
+    <EpubDownload bookFolder={book.folder} authorName={author?.name ?? ''} />
+  {/if}
   <div class="book-details">
     <div class="intro">{book?.abstract} Botuar në {book?.datePublished}.</div>
     <div class="author-wrapper">
@@ -31,15 +34,6 @@
       />
     </div>
   </div>
-
-  <!-- <div class="actions">
-    <button class="btn">
-      <div class="icon">
-        <DownloadIcon />
-      </div>
-      <div>Shkarko e-book</div>
-    </button>
-  </div> -->
 </div>
 
 <style lang="scss">

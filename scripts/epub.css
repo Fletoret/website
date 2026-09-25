@@ -1,0 +1,192 @@
+@charset "utf-8";
+@namespace epub "http://www.idpf.org/2007/ops";
+
+/* Stylesheet for the EPUBs built by scripts/epub.mjs, modelled on Standard
+   Ebooks' core.css. It sets rhythm and hierarchy only: typeface, size, margins
+   and colours stay with the reader and their device. */
+
+body {
+  font-variant-numeric: oldstyle-nums;
+  hyphens: auto;
+  -epub-hyphens: auto;
+  -webkit-hyphens: auto;
+  adobe-hyphenate: auto;
+}
+
+p {
+  margin: 0;
+  text-indent: 1em;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+hgroup {
+  break-after: avoid;
+  break-inside: avoid;
+  page-break-after: avoid;
+  page-break-inside: avoid;
+  font-variant: small-caps;
+  font-weight: normal;
+  hyphens: none;
+  -epub-hyphens: none;
+  -webkit-hyphens: none;
+  adobe-hyphenate: none;
+  margin: 3em 0;
+  text-align: center;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+h3 {
+  font-size: 1.25em;
+}
+
+hgroup > * {
+  margin: 0;
+}
+
+hgroup p {
+  font-style: italic;
+  font-variant: normal;
+  margin-top: 0.5em;
+  text-indent: 0;
+}
+
+/* A new section starts flush, as in print: the indent only marks a paragraph
+   that follows another one. */
+h1 + p,
+h2 + p,
+h3 + p,
+h4 + p,
+h5 + p,
+h6 + p,
+hgroup + p,
+hr + p,
+blockquote + p,
+.asterism + p,
+section > p:first-child {
+  text-indent: 0;
+}
+
+section[epub|type~="chapter"],
+section[epub|type~="part"],
+section[epub|type~="endnotes"],
+section[epub|type~="colophon"] {
+  break-before: page;
+  page-break-before: always;
+}
+
+blockquote {
+  margin: 1em 2.5em;
+}
+
+blockquote p {
+  text-indent: 0;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid;
+  height: 0;
+  margin: 1.5em auto;
+  width: 25%;
+}
+
+p.asterism {
+  margin: 1.5em 0;
+  text-align: center;
+  text-indent: 0;
+}
+
+/* Poems keep their own line breaks, set in markdown with respectLineBreaks. */
+section.verse p {
+  hyphens: none;
+  -epub-hyphens: none;
+  -webkit-hyphens: none;
+  adobe-hyphenate: none;
+  margin: 1em 0;
+  text-align: left;
+  text-indent: 0;
+}
+
+/* Notes */
+
+a[epub|type~="noteref"] {
+  font-size: 0.75em;
+  font-style: normal;
+  hyphens: none;
+  -epub-hyphens: none;
+  -webkit-hyphens: none;
+  adobe-hyphenate: none;
+  line-height: 1;
+  vertical-align: super;
+}
+
+section[epub|type~="endnotes"] > ol > li {
+  margin: 1em 0;
+}
+
+section[epub|type~="endnotes"] p {
+  text-indent: 0;
+}
+
+a[epub|type~="backlink"] {
+  text-decoration: none;
+}
+
+/* Front and back matter */
+
+section[epub|type~="titlepage"] {
+  text-align: center;
+}
+
+section[epub|type~="titlepage"] h1,
+section[epub|type~="titlepage"] hgroup {
+  margin: 3em 0 0;
+}
+
+section[epub|type~="titlepage"] hgroup p {
+  font-size: 1.25em;
+  margin-top: 1em;
+}
+
+section[epub|type~="titlepage"] p.author {
+  font-size: 1.25em;
+  font-variant: small-caps;
+  margin-top: 3em;
+  text-indent: 0;
+}
+
+section[epub|type~="imprint"],
+section[epub|type~="colophon"] {
+  text-align: center;
+}
+
+section[epub|type~="imprint"] p,
+section[epub|type~="colophon"] p {
+  margin: 1em 0;
+  text-indent: 0;
+}
+
+section[epub|type~="imprint"] {
+  font-size: 0.9em;
+  margin-top: 3em;
+}
+
+section[epub|type~="colophon"] {
+  margin-top: 3em;
+}
+
+section[epub|type~="colophon"] hr {
+  margin: 2em auto;
+}

@@ -115,7 +115,7 @@
     {/if}
     {#if bookEntries}
       {#each bookEntries as [book, chapters]}
-        <BookEntryPoint {book} {chapters} />
+        <BookEntryPoint {book} {chapters} authorName={author.name} />
       {/each}
     {/if}
   </div>
