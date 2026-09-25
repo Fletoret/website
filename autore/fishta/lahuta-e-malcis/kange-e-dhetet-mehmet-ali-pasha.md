@@ -84,7 +84,7 @@ Vendi e gjindja lshue pa zot:
 Hajni e cubi ndêjë mbí post:
 I pafaji vjerrë m' konop:
 Gjâja hupë nder thoj t' *murtatit:*
-Erzi e burri per dŷ pare:
+Erzi i burri per dŷ pare:
 Kryet e burrit p'r'i cingare.
 E sot dashtka baba Mbret
 Me Shqypní me bâm aj nderë,
@@ -182,7 +182,7 @@ E t' kan dalë m' at fushë t' Gjakovës
 Porsi miza per kercunë.
     Anì shán s' largut anmiku,
 Se kurr bashkë s' bâhen Shqyptarët!
-Preki 'i herë ti m' doke t' t' Parve,
+Preki 'i herë ti m' tokë të t' Parve,
 Preki 'i herë ti m' erz të fisit,
 Edhè tý kan me t' diftue,
 Se si dijn kta me u bashkue,

@@ -272,6 +272,7 @@ Qi, ti i kshtênë e na t' krishtênë,
 Me kryq n' dorë e me kryq n' ballë,
 Turkut n' nihmë ti me na i dalë?
 A mâ mirë ju rob nen turk,
+Qi ká kênë gjithmonë terfurk
 Me u rá shpinës e me u llomitë.
 Mandej gjân jue me u grabitë:
 A po ortakë me u bâ me né,
@@ -627,7 +628,7 @@ Dér qi m'çika na mos t'jesim,
 E shosho'it carâ'n e voters
 Vendit mos t'i a kem' na shkulun,
 Edhè mbyllë deren me ferrë!
-Kshtû i ká thânë, e e ká shliruɛ,
+Kshtû i ká thânë, e e ká shlirue,
 Edhè lânë e ká me shkue.
    N'ato fjalë qe se 'i djalosh
 Del prej shkurrjet me nji kosh
@@ -638,7 +639,7 @@ Koparanin brrylash shkye,
 Dy kapakësh n'parzem shperthye:
 Plasë shallvarët e mârrë m'njâ'n í
 T'pa ilik e t'pa tehrí:
-Puplat njeshë tanë gjalma e zhanga,
+Pulpat njeshë tanë gjalma e zhanga,
 Shtjerrë këputa e shtjerrë opanga:
 Ujë djersitë e krejt llomitë,
 Gervishtë duer e gervishtë ftyrë:
@@ -673,7 +674,7 @@ Me sharrue nder ujq e Shkjé?
 Veç rreziku, lum kumara!
 Persè sod, me kênë e mara,
 Un me u gjetun në Shqypní
-M' tokë e m' copë, e m' plang e shpí,
+M' okë e m' copë, e m' plang e shpí,
 Kû m' la Zoti e t' Parët e mí.
 Por shka se rreziku i zí
 M' çoi me u vrá me do shokë t' mí,

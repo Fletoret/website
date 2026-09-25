@@ -10,11 +10,11 @@ keywords: gjakesoreve
 published: true
 ---
 
-Ndalnju! Kû veni burra ?...
-Pash Zotin; lshoni hutat!
+Ndalnju! Kû veni burra?...
+Pásh Zotin; lshoni hutat!
 Pse teper gjak â derdhun,
 Pse teper bajtë kem'futat:
-Prej vaj't na â marrun zâni
+Prej vaj't na â marrun zâni....
 Medet, o qiellë, medet!
 
 A thue nuk jemi vllazen
@@ -25,7 +25,7 @@ Ata, qi 'i gjûhë e 'i doke
 E 'i gjak kan bashkë e 'i Mbret?
 
 Ah váj! rrjedhë vala e Drinit
-T'tânë gjak - ah! gjak Shqyptarit...
+T'tânë gjak — ah! gjak Shqyptarit...
 Kush kje, kush kje aj mizori,
 Qi pushken rroku s'parit
 E duert tash don me i zhye
@@ -50,21 +50,21 @@ Nder luâj e pardha jeten
 Mizuer, kush don me shkimun
 Në gjak t'vllazenve eten,
 Atjè, pá kênë vajtue,
-Mbaroftë i nâmët per lak ...
+Mbaroftë i nâmët per lak....
 
 Djelmt t'onë, — ah kob i zí!
 Djelmt t'onë e Arbnís uzdaja,
 Të cillt dergue i pat qiella
 Per me mbarue pûnë t'mdhaja,
 E vllazenve i muer pushka
-E kalben sod në vorr ...
+E kalben sod në vorr....
 
 E kânga nder né shuejti,
 Porsi n'nji shpí dalë fare:
 Me thirr nder hatlla mblue
 Lahuta eshtë shqyptare
 E por shêjzeza qyqe
-Shqyptarve u kndon n'oborr ...
+Shqyptarve u kndon n'oborr....
 
 Dridhu, gjaksuer i mnershem,
 Se t'erdh i zí rreziku!
@@ -74,7 +74,7 @@ Dridhet n'themel t'tânë sheklli,
 Kundra teje po vjen.
 
 I zí e i perfrigueshem
-I prin Atij thellimi;
+I prîn Atij thellimi;
 Ftyren i a zblon vetima,
 T'cillen i a ndezi idhnimi;
 Tue bumbullue rrufeja
@@ -88,16 +88,16 @@ E 'i dét të zí ankimesh
 Permbi krye t'and dikon.
 
 Qe, se edhe vala e mnershme
-Perpin me gjire t'veta
-Shpin t'ande prej themelit;
+Perpîn me gjire t'veta
+Shpín t'ande prej themelit;
 E grueja e jote shkreta,
 Fmîn t'ue tue mbajtë nen sjetull,
 Nper valë kot pshtim kerkon.
 
 U dha mbi tý tash gjygji,
 E zhgjeta e frigshme e Zotit
-Mbi tý vjen tue fishkllue ...
-Rrzou, o i pashpirt! pse q'motit
+Mbi tý vjen tue fishkllue...
+Rrzou, o i pashpírt! pse q'motit
 Pat thânë nji Zot: do t'bjeje
 Kshtû, nierin m'tokë kush vrau.
 

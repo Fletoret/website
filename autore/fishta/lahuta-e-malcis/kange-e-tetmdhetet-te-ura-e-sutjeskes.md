@@ -397,6 +397,7 @@ Si ajo lava n'muej të Shndreut.
      Tý, o Zot, të kjoshim falë!
 N'at fushë t'lame kur kan dalë,
 Kur kan dalë Shqyptarë e Shkjé,
+Se ç'kan nisë atà me u pré
 Se ç'kan nisë-o me u shemtue
 Krahësh e krenash tu' u krekcue,
 Hundësh e buzësh t'u rrumullue,
@@ -421,13 +422,14 @@ E veç ndiehen ke rrapllojn
 Idhtë taganat ndeshë m'shoshojn,
 Ndeshë per krena e ndeshë per llana,
 Ndeshë per togza e koparana:
+Thue janë korrcat tue korrë n'arë.
 Shkrabiq Pera 'i trim budallë
 T' fortë jurish aj kisht' pa' marrë
 Edhe lshue ç' isht' kênë m' Shqyptarë,
 Me i perpî, thue, po do gjallë.
 Pret Sulë Memen m' hov të parë;
 Nji djalosh prej Lumit t' Bardhë,
-Si ajo « Itina » e shtatit ardhë,
+Si ajo « ltina » e shtatit ardhë,
 Sá nisë djali me u burrnue:
 Edh' âsht turrë kryet m' i a shkurtue,
 Dhantí Knjazit me ja çue;
@@ -474,7 +476,7 @@ T'cillit mrapa s'i muer thêmra,
 As nen gjyle të havanit,
 As nen tef të prehtë t'taganit,
 Kurdoherë duel n'fushë t'mejdanit:
-Štojan Rade i ki'n pa' thânë.
+Stojan Rade i ki'n pa' thânë.
 Kaprroç burrë e i shkathtë zarânë,
 Me do sŷ t'tanë gjak e vnerë;
 Ky, kur pá ungjin e mjerë
@@ -680,15 +682,15 @@ Se un, manà, t'kam lypë nper qiellë
 Jo mâ tash qi t'hasa m'tokë
 Po t' lâ gjallë me shkue me kokë?...
 Edhè âsht lshue m' tê si kulshedra,
-…hue, po e shtje ndandë pashë nen dhé.
-… shpejt Prêla i ka ndêjë gati,
-… mirë pritë e ka m' tagan.
-… ç' kan shkrepë shkndija taganat,
-… ç' janë kputë, shitofti Zâna!
-… t' ki'n kênë dý cokla Drini:
-…ollzat veç u kan metë n' dorë.
-… herë msŷ t' a kan shoshojën,
-… t' janë hjedhë edhe perdredhë;
+[…]hue, po e shtje ndandë pashë nen dhé.
+[…] shpejt Prêla i ka ndêjë gati,
+[…] mirë pritë e ka m' tagan.
+[…] ç' kan shkrepë shkndija taganat,
+[…] ç' janë kputë, shitofti Zâna!
+[…] t' ki'n kênë dý cokla Drini:
+[…]ollzat veç u kan metë n' dorë.
+[…] herë msŷ t' a kan shoshojën,
+[…] t' janë hjedhë edhe perdredhë;
 Shoqishojën s' po mûjn me e rrzue.
 
   Lavd shoshoqit qi po i qesin,

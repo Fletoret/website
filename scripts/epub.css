@@ -119,6 +119,32 @@ section.verse p {
   text-indent: 0;
 }
 
+/* The site's own elements (see siteHtmlToXhtml in epub.mjs). */
+div.center,
+div.center p {
+  text-align: center;
+  text-indent: 0;
+}
+
+div.epigraph {
+  font-style: italic;
+  margin: 1em 0;
+}
+
+span.caps {
+  font-size: 0.85em;
+}
+
+/* Glossary headwords link to themselves (permalinks on the site). */
+dt {
+  font-weight: bold;
+}
+
+dt a {
+  color: inherit;
+  text-decoration: none;
+}
+
 /* Notes */
 
 a[epub|type~="noteref"] {

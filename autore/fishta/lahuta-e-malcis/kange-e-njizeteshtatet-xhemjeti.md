@@ -164,7 +164,7 @@ Mund të rrnohej gjall mbî dhé:
 Se mos heret, sado vonë:
 N'per miq t'vet e hasem t'onë:
 Mund t'u shkepshin prej Sulltanit,
-Si do tjerë Shtetan t' Ballkanit,
+Si do tjerë Shteten t' Ballkanit,
 Edhè m' vedi me u sundue,
 Pashë as beg per pa ndigjue.
 E ké t' vshtirë nji herë me reshtë
@@ -245,7 +245,7 @@ Turkoshakë e Anadollakë
 Manovë, Jevk, Lacë e Zejbek
 Kurd, Harapë edhè Felah
 Me pushkë n'krah, me zjarm n'sylah
-Njani n' «fes» tjetri n'qylah»
+Njani n' «fes» tjetri n' «qylah»
 Toka e zezë me 'i pasë qirah;
 Edhè m'shpinë aj i a ka lshue,
 Me Moskov, thue, âsht tue luftue.
@@ -254,7 +254,7 @@ Fund e maje tue e mshî mbarë,
 Kshtû Shqypnís i u rras asqeri
 Ç'merr prej Jugut der ke Veri;
 Edhè Pasha Turgut Pasha,
-Idhtë ngerihye ato vetlla t'trasha
+Idhtë ngerthye ato vetlla t'trasha
 T'ká ngrefë top, t'ká ngrefë havan,
 Edhè qitë ká nji «ferman»,
 E pa i lânë kund kujë derman
@@ -342,7 +342,7 @@ Tue i rá fyellit e bylbylit.
 Por pse atí i duhej me u ndollë
 Sá mâ para në Stambollë,
 Kshtû mbasi mendue kje hollë
-Per t' çue m' vend « fermane « e « irade »
+Per t' çue m' vend « fermane » e « irade »
 Hini e zgodh per veqilade,
 Do shqyptarë: do kallavrade,
 Hasem t' lemë të gjytetnís,

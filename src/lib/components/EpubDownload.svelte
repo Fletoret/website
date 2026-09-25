@@ -40,10 +40,14 @@
     font-family: var(--sans-serif);
     text-decoration: none;
     border: solid 1px var(--border-color);
-    background-color: transparent;
+    background-color: var(--bg-secondary);
+    transition: background-color 0.15s ease;
 
+    /* Filled at rest so it stands apart from the chapter list below; hover
+       mixes in a little text colour, which darkens in light mode and lightens
+       in dark mode. */
     &:hover {
-      background-color: var(--bg-secondary);
+      background-color: color-mix(in srgb, var(--bg-secondary), var(--text-primary) 7%);
     }
 
     /* Sized to the two-line label; .compact scales it back down. */

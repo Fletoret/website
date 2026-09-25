@@ -20,7 +20,7 @@ Besa, jo, pra nuk kjenë gjâmë
 Qi u dridh toka ashtu nên kâmë;
 Por kjenë topat e Rusís,
 Kjenë havanat e Turkís
-Qi bumbllluen fushës s'Rumelís,
+Qi bumblluen fushës s'Rumelís,
 Nâtë e ditë tue rrahë pá dá,
 Rumelín t'tânë n'gjak tue e lá
 Kah na u pré Turku me Shkjá,
@@ -47,7 +47,7 @@ Tue ngulë gúr, tue ngulë kufî,
 Per gjith vend, per gjith mbretní,
 Giatë Balkanit m' Dét të Zí.
 
-    Por tue kênë se besë e fé
+  Por tue kênë se besë e fé
 Nuk po kisht', jo, sod mbi dhé,
 E se i forti, n' armë merthye,
 Aj po kisht' gjithmonë arsye,
@@ -90,7 +90,7 @@ Me mârrë Plavë, me mârrë Gucí,
 Me mârrë Shkodren me Malcí,
 Dér kû dán vendi me Drî :
 Si atê Zoti m'a marroftë,
-Mbret, a Krajĺ, a kushdo kjoftë,
+Mbret, a Krajl, a kushdo kjoftë,
 Qi vû dorë m'leter mâ i pari
 Vendit t'vet me dalë Shqyptari,
 Ase rob me ndêjë nen Shkjá,
@@ -177,7 +177,7 @@ Per çka m' flet, per vende t' hueja.
 Jo, po, mirë do t' isht' per tý
 Kamelaf me vû ti n' krye,
 Me lshue mjekren dér nen gjí,
-E me dalë Pop ti n' Malcí:
+E me dalë Pop ti n' Mal t'Zí:
 Per n' mos daç ti n' shpí me shkue
 Me njitë furken porsi grue,
 E aty n' derë, ndêjë mbî ndo'i krroqe,

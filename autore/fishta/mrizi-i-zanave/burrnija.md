@@ -11,7 +11,7 @@ published: true
 ---
 
 Qitë dhâmbët perjashta, porsi lata t'prefta
-Zgaverr kerçikët e plasaritet shtanguemun,
+Zgaverr kerçikët e plasaritët shtanguemun,
 Kosen pështetun permbi kocka t'ngrefta,
 T'cepit t'shpupluemun,
 
@@ -21,18 +21,18 @@ Lshue krahve 'i haver t'zezë, si rê thellimit,
 Rrin Deka e tmershme.
 
 Prej avisit t'humnerevet t'gropueme
-Këthellet në rrashtë të thatë, plot mizori,
+Këthellët në rrashtë të thatë, plot mizori,
 Të hapët terthoren e natyrës s'krijueme
 Kundron me mní,
 
-E idhtë asa 'i kercnohet. Nji t'perqethët
+E idhtë asa'i kercnohet. Nji t'perqethët
 Acarr, atbotë, natyrës i shkon nper tejza,
 Amull të cillt mbrendë i a ngurron të njethët'
 E jetës nder fejza.
 
 Me u zbé nisë rrezja shi n'krue t'vet t'shkelxyeshem
 Brés dryshku njeshet, njat shauret mbi rrota
-Se moknes s'rrokullís e boshtit rryeshem
+Së moknes s'rrokullís e boshtit rryeshem
 I vjen rreth bota.
 
 Felgruemun njerzit nen tiara struken;
@@ -41,7 +41,7 @@ Depertojn rêt e nalt kahë qiella zhduken;
 N'angra t'dheut zdrypin.
 
 Por kot. Mizore ajo kosë t'vet kahë sjell,
-Shungllon thellimi per nen kupë t'Empirit ;
+Shungllon thellimi per nen kupë t'Empirit;
 Gjarpen rrfeja lvitet neper qiell,
 E nen kâmbë t'nirit
 
@@ -51,7 +51,7 @@ Tallaz m'tallaz nisë deti me gjimue,
 Ulron stuhija.
 
 E para Dekës, at herë, bijn rob'e Mbreta;
-Shkrefen mbretni, gjytetet kulm rroposen;
+Shkrefen mbretní, gjytetet kulm rroposen;
 Shuhet krenija, po, 'dhe shkimet jeta
 Ka'ajo sjellë kosen.
 
@@ -62,12 +62,12 @@ Sheklli perkulet.
 
 Vetem s'perkulet para Dekës njaj trimi,
 N'zêmer të cillit nuk randojn punë t'liga,
-E qi s'e ndale, kû atê t'a lypë perlimi,
+E qi s'e ndalë, kû atê t'a lypë perlimi,
 As paja, as friga.
 
 Per nen murojë t'ndergjegjes s'vet t'kullueme;
-Atje n'kufi t'Atdheut ase në truell
-T'elterit shêjt, pa u tutë, ai Dekës s'shemtueme
+Atje n'kufî t'Atdheut ase në truell
+T'elterit shêjt, pa u tutë, aj Dekës s'shemtueme
 I rrin kundruell.
 
 Perpara tij shkon moti rreth t'u êndun:
@@ -75,8 +75,8 @@ Vjen fati i nierit t'terrnue pá dá;
 Tash Mbreten n'burg, tash shkartha m'fron t'permêndun
 Kan per t'u pá.
 
-Por, ngulë aj synin m'ideal t'naltueshem,
-Si 'i kep, qi vala s'mundet n'dét m'e kundun,
+Por, ngulë aj sŷnin m'ideal t'naltueshem,
+Si 'i kep, qi vala s'mundet n'dét m'e lkundun,
 Sido qi t'dajë neshtrasha e dheut t'mjerueshem
 Ngelë m'vend pá u tundun.
 
@@ -87,5 +87,5 @@ S'i bân lak zêmra.
 
 Rekton mbarë jeta per nen fyell t'kerrçik'e
 Të Dekës s'shemtueme t'permnershme, mizore:
-Vetem Burrnija - nji Burrni çelike
-Asa 'i rrshet dore.
+Vetem Burrnija — nji Burrní çelike
+Asa'i rrshet dore.

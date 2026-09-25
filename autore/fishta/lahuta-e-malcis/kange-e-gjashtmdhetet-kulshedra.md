@@ -201,7 +201,7 @@ Jashta shpellet per m'e qitun.
 Se ç'âsht hjedhë atŷ Kulshedra,
 Se ç'perpushë ká ajo me kthetra,
 Ç'ká hingllue me shtatë germaza,
-M'i u nòî vigma te Shperdhaza.
+M'i u ndî vigma te Shperdhaza.
 Ngurrue shtatit, bâ germuq,
 Randë per tokë tue rá palmuq,
 T'u perplasë, t'u kalamênë,
@@ -529,7 +529,7 @@ Pse Drangojve u pelqen kanga.
 Me ato petka bardh si bora,
 E jânë kapun dora-dora,
 Shpervjelë mangët mbi cep të krahit,
-Flokët dér m'kâmë zhvillue giatë shtratit,
+Flokët dér m'kâmë zhvillue giatë shtatit,
 Me kunora lulesh m'krye
 Me ato kâmë kaleçë tue kcye,
 Dá dý lagjesh ballë per ballë,

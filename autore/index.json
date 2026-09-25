@@ -100,7 +100,8 @@
         "datePublished": "1913",
         "abstract": "Mrizi i Zanave është një përmbledhje lirike, kryesisht me poezi atdhetare. Fishta i këndon dashurisë për atdheun, duke shprehur krenari, por edhe ankth e dëshpërim për fatin e tij. Vepra thekson rëndësinë e punës dhe veprës për të kapërcyer harresën, duke nënvizuar se puna e njeriut vazhdon edhe pas vdekjes. Ajo shfaq shpesh një frymë kryengritëse dhe patriotike, duke vënë në qendër gjuhën shqipe si simbol të identitetit kombëtar.",
         "thumbnail": "/images/covers/mrizi-i-zanave.avif",
-        "publishedFletoret": true
+        "publishedFletoret": true,
+        "epub": true
       },
       {
         "@context": "https://schema.org",
@@ -109,9 +110,10 @@
         "folder": "fishta/gomari-i-babatasit",
         "genre": "dramatic poem",
         "datePublished": "1923",
-        "abstract": "Satirë politike për demagogët qe udhëheqin vendin.",
+        "abstract": "Satirë politike për demagogët që udhëheqin vendin.",
         "thumbnail": "/images/covers/gomari-i-babatasit.avif",
-        "publishedFletoret": true
+        "publishedFletoret": true,
+        "epub": true
       },
       {
         "@context": "https://schema.org",
@@ -122,7 +124,8 @@
         "datePublished": "1937",
         "thumbnail": "/images/covers/lahuta-e-malcis.avif",
         "abstract": "Eposi kombëtar shqiptar, që Fishta e shkroi gjatë më shumë se tri dekadash dhe e botoi të plotë në vitin 1937. Në tridhjetë këngë e rreth 17 mijë vargje, i ngjizur mbi këngët e kreshnikëve të Veriut, poema ndjek qëndresën e malësorëve kundër pushtuesve, nga luftërat në kufi me Malin e Zi, përmes Kongresit të Berlinit dhe Lidhjes së Prizrenit, deri te shpallja e pavarësisë. Për përmasat dhe frymën e saj heroike, shpesh është quajtur “Iliada shqiptare”.",
-        "publishedFletoret": true
+        "publishedFletoret": true,
+        "epub": true
       }
     ]
   },

@@ -304,7 +304,7 @@ Atŷ qiellë mâ nuk u pá,
 Atŷ pushkë mâ nuk u dá;
 Njekaq tymi erdh tue e mlue,
 Njekaq gjâma erdh tue ushtue!
-Rrihte *Itina* edhè *dudumja*;
+Rrihte *ltina* edhè *dudumja*;
 Porsi breshni vîte plumja:
 Jitshin gjindja neper kneta,
 Neper kneta—e neper mreta
@@ -460,7 +460,7 @@ Si kah vau, si kah Liqêni,
 E se mbetë s'kisht' Oso Kuka
 Me tjerë t'vrám, perjashtë ke suka,
 M' *Xhebehane* u turr m'at hera,
-Si, kur t'Ishoje kah Prendvera,
+Si, kur t'lshoje kah Prendvera,
 Vrullet bleta çark njaj zgjonit,
 Tue zukatë si rryma e prronit.
 N'brohorí tue i lutë jetë Knjazit

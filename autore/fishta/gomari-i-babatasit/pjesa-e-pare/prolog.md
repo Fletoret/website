@@ -40,7 +40,7 @@ Se po gjen fatos ndër né,
 Se po gjen burra n'ketë dhé —
 Burra fjalet e atdhetarë:
 Kta veç, Zot! Kjoshin për farë;
-Se, per tjetër, mbyti n'ujë:
+Se, për tjetër, mbyti n'ujë:
 Gja-ha' i keq — s'i duhen kujë.
 
 E vërtetë qi njadisa
@@ -91,16 +91,16 @@ As për njat trimnin'e t'Parit,
 Ké janë dhanë mbas rrogash arit.
 Prandej thashë un se për s'mârit
 Do t'tingllojë për veshë t'Shqiptarit
-Nji poem mbi'i zog gomarit.
+Nji poem mbi 'i zog gomarit.
 Edhe kshtu, si fola s'parit,
 Vetë me vedi kam mendue,
-Mbasi ngaeshëm paçë qillúe-
+Mbasi ngaeshëm paçë qillúe —
 Mbi 'i gomar nji kangë me shkrue,
 Herë tue qeshë, herë tue vajtue,
 "Simbas" rregllave t'Poezisë,
 E nevojve t'Shqiptarisë.
 
-Eja, Zanë, pra, prej Parnasit [^1],
+Eja, Zanë, pra, prej Parnasit[^1],
 E kaluer ti m'shpinë t'Pegasit,
 Mêndes s'eme shkundja blozën,
 E m'difto metamorfozën
@@ -109,13 +109,12 @@ Qi njâ'i vlershmi zotëni
 Babatasi bleu sivjet
 Në Tiranë, n'atë kryeqytet,
 Ku Ministra e Deputetën
-
-— Ktyne Zoti jau rritët jetën!-
-— Qesin xhixha atdhédashtnije
+— Ktyne Zoti jau rritët jetën! —
+Qesin xhixha atdhédashtnije
 Për lulzim të ksaj Shqipnije
 E për ...kambë t'ndo'i sandalije,
 Sado qi, mâ e shumta sish,
-— Si thanë m'ka mue nji dervish-
+— Si thanë m'ka mue nji dervish —
 Der dje kjenë... nuk dij se shka...
 Kush n' "kapicë" kush në "qylah",
 Por qi sod, npër rroga arit,

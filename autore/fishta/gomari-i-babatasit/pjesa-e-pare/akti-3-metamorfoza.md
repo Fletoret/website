@@ -5,7 +5,7 @@ author: Gjergj Fishta
 respectLineBreaks: true
 parent: Gomari i Babatasit
 grandparent: Gomari i Babatasit
-order: 3
+order: 4
 keywords:
 published: true
 ---
@@ -79,7 +79,7 @@ Kta shqiptarë — shqiptarë kah ksula,
 N'vend qi jú me u vû m'konop,
 A se brinjt m'jau zbrû me shkop,
 A, mos tjetër, me u ngushtue
-Me xjerrë zhuri kund m'ndo' i prrue,
+Me xjerrë zhuri kund m'ndo'i prrue,
 Për me shtrue ndo 'i rrugë të shtetit
 A me dlirë ndo 'i skele detit,
 Lavjerrë buzësh, harrû si viça,
@@ -96,13 +96,13 @@ Shka asht Vllaznija e Parasija,
 Përparimi e Qytetnija,
 Por veç pse endè der më sot
 Nji tyran s'po e gjêni dot,
-Nën kambët'cillit ju me u shtrue,
+Nën kambë t'cillit ju me u shtrue,
 Se un mâ tash jam regjë me jue,
 E jau njof shpirtin der m'palc:
 Pleh i ndytë, me u bartun m'shkalc
 E, me u qitë jashta Shqipnije.
 
-(**HinëDrejtori A**)
+(**Hinë Drejtori A**)
 
 **DREJTORI A**
 T'u ngjatët jeta!
@@ -167,7 +167,7 @@ E po 'imend — t'drejtën m'a thuej —
 P'r Arkeolog shka i viej un kuj?...
 Si edhe ti — m'ndiej se po t'tham —
 Rrogën t'ânde e han haram
-Pse, me e ndjekë punën hollë — hollë,
+Pse, me e ndjekë punën hollë-hollë,
 Ti s'mund t'jesh bedel n'nji shkollë,
 — Sè për shkollë nuk ké kuptim —
 Jo me t'vû Drejtuer n'Arsim,
@@ -213,8 +213,8 @@ Nji kjo faqe qi asht sod gjâllë
 T'cillt prandej kanë mbetë në záll —
 Nuk ka sý me ngrefë Shqipni.
 Na kem' prishun nji Turki:
-T'cilen, ndoshta, edhe e kem'dashtë,
-Por sugure se e kem 'drashtë:
+T'cilen, ndoshta, edhe e kem' dashtë,
+Por sugure se e kem' drashtë:
 Jo po t'ngrefim Shqipni t'ré,
 Për të cillën po bâj bé,
 Se as s'e duem — as nuk e druem.
@@ -232,7 +232,7 @@ Thom me i prû për "eksperta"
 — Shka nuk do' me thânë "shegerta" —
 Qi ata 'i herë ktu tash ma s'parit
 Lè t'na sjellin punët për s'mbârit;
-Perse né, si thashë ma para;
+Përse né, si thashë ma para;
 — Mbasi ndodhë kém lara-lara —
 Nuk na hecë aq fort e mâra:
 Kè edhe dija na mungon,
@@ -327,7 +327,6 @@ Qi pret t'a' n mshirë aspak.
 
 **BABATASI**
 _(tue lëshue n'tryezë fletoren)_
-Drejtimi
 Ah, jo, jo, mor'samadák:
 Nuk asht gja, besà, ajo fjalë.
 Se un po dij ku don me dalë:
@@ -336,7 +335,7 @@ Por e ké ti krejt angllisht;
 Pse fletoret për nji shtet
 Jo veç s'janë nji garramet,
 Si ti mue po do' me m'thanë,
-Por ma tepër atojanë
+Por ma tepër ato janë
 Për té 'i armë e fortë. Zotni,
 Shtypi asht sot nji artiljeri,
 Qi, si puna e ban dishmi,
@@ -370,7 +369,7 @@ Qi edhe n'mênd ia shtijn Qevrisë
 Kur do punë janë për t'u bamë
 E, kur jo. Kështu po e zamë,
 Se n'nji cillëndo Qevri,
--S'jam tue folë për ktu n'Shqipni —
+— S'jam tue folë për ktu n'Shqipni —
 Ka ministra batakçi,
 Njerz kopukë t'pa farë kulture,
 Zemrën lepër, mendët kobure;
@@ -409,11 +408,11 @@ Shpërdoron auktoritetin
 E me forcë ngushton të shkretin
 Morè popull, qi s'di gjâ,
 Me përdhuni me dhanë zâ
-Qi ndo i cull a kalama,
+Qi ndo'i cull a kalama,
 Ndo'i bastardh a ndo'i kopuk,
 Krye-babune e mullë-terrçuk
 T'kalangerrçet mbi "kulltuk",
-Kush ma fort se'i "Orë ndër vallé"-
+Kush ma fort se 'i "Orë ndër vallé" —
 Se 'i gazetë Qevris batalle
 Ia shtypë hundët e e bjen n'hullí,
 Si ajo Shkodra e ban dishmí?...
@@ -463,7 +462,7 @@ Shitu princa e profesora,
 Shitu béj, shitu doktora:
 Shkoje ditën ndër sokaqe
 Kalo natën ndër handraqe:
-Gënje shok e trdhto mik
+Gënje shok e tradhto mik
 Për nji llastër "metelik",
 E kur, mbetë me miza n'grusht,
 Me gjallnim kta kanë rá ngusht,
@@ -535,10 +534,12 @@ Nieri idjótë e laramàn,
 Qi mendon se për tamàn
 Të tanë bota rrì n' "sahàn",
 Shka mund t'shkruej, po t'pves un ty,
-Ky qi as byk nuk ka në krye, Jo mâ trû?
+Ky qi as byk nuk ka në krye,
+Jo mâ trû?
 
 **DREJTORI A**
-Si urdhnon e thue — M'a nep lejen, zot, me shkue,
+Si urdhnon e thue —
+M'a nep lejen, zot, me shkue,
 Pse pak tepër jam vonue.
 Mirë u pashim! — T'u ngjatët jeta!
 
@@ -550,7 +551,7 @@ Mbasi sod asht ditë pazarit,
 Po e qes n'treg atë zog gomarit
 Qi paçë blé për punë t'Muzeut,
 "Për Lulzim e nderë t'Atdheut"
-Pàle i'herë a e blén ndokush.
+Pàle 'i herë a e blén ndokush.
 Mana, drue se s'do t'dalë kush
 Myshteri; pse Barbullush
 Asht bâ sod edhe Tirana.
@@ -558,8 +559,7 @@ Asht bâ sod edhe Tirana.
 <br>
 
 **Oborri i Muzeut**. — Dita e të çilunit t'Asamblesë Kushtetuese.
-_(Gomari lidhë m'kûj. Babatasi e zgjidhë e niset me dalë me gomar për dore. Porsa kanë mbrrijtë té portarja, gomari
-ndrron formë e prej hijes s'tij del S. S., korrispondenti i fletores "Vllaznija". Frêni i lavjerrët m'qafë e shala i bjen té kambët.)_
+_(Gomari lidhë m'kûj. Babatasi e zgjidhë e niset me dalë me gomar për dore. Porsa kanë mbrrijtë té portarja, gomari ndrron formë e prej hijes s'tij del S. S., korrispondenti i fletores "Vllaznija". Frêni i lavjerrët m'qafë e shala i bjen té kambët.)_
 
 **S.S.**
 Zotëni!
@@ -567,7 +567,7 @@ Zotëni!
 **BABATASI**
 _(Sjellë kryet, e, tue mos pa gomarin, thotë në habí:)_
 
-Palè!... Ç' m'u bâ,
+Palè!... Ç'm'u bâ,
 Tash gomari?
 
 **S.S.**
@@ -585,7 +585,8 @@ T'lutem, fol kadalë.
 Çudi! Si tash, ti gomar?
 
 **S.S.**
-Zotni, Po vetë jam gomari i yt:
+Zotni,
+Po vetë jam gomari i yt:
 A s'm'â shef ti frênin m'fyt,
 Edhe shala si m'ka rá
 Poshtë té kambët?...
@@ -610,11 +611,12 @@ A veç bâ jé masandej!
 
 **S.S.**
 Jo zotni; q'n'vjeshtë e tèktej
-Qi un jam bâ gomar.
-Përpara Kam kenë njeri....
+Qi un jam bâ gomar. Përpara
+Kam kenë njeri....
 
 **BABATASI**
-Lara-lara Mjaft, kujtoj, e stramastik....
+Lara-lara
+Mjaft, kujtoj, e stramastik....
 Kámë-kujrril e krye-lladik....
 Por kallxo si kênke bâ
 Ti gomar!...
@@ -627,11 +629,11 @@ Si e din vetë, nji zotëni,
 Qi e kish mirë me Qeveri
 E, qi vû aj kishte dhámb
 M'"Opozitë", për me i bâ dám
-M'lutë me i qitë nji Dityramb' [^3]
+M'lutë me i qitë nji Dityramb'[^3]
 Kundra "Orës s'Maleve". Edhe vetë,
 Qi kurr kenë nuk jam poetë,
-Por, si ngjeshëm kish'qillue,
-N' fjalë t'ti u vuna, atëherë, me shkrue,
+Por, si ngjeshëm kish' qillue,
+N'fjalë t'ti u vuna, atëherë, me shkrue,
 E me krraba e me çengela,
 Mbasi zhvjeva do kartela,
 edhe 'i javë bana haram,
@@ -687,7 +689,7 @@ E, as Shqipnisë s'i ka sjellë dám.
 E ti shtî e ké n'Dityramb?
 
 **S.S.**
-Po, zotni; por npër terthuer.
+Po, zotni; por npër tërthuer.
 
 **BABATASI**
 Hangké bar, e? — e po qysh kur? —
@@ -707,7 +709,7 @@ Kur t'më kapet mendja tel,
 E medje — ty t'u ngjatët jeta! —
 Njikaq mendja mue m'u rrit,
 Qi un nji ditë dola prej Shkodret
-Edhe u nisa për Parnas [^1],
+Edhe u nisa për Parnas[^1],
 Ku lodrojnë Orë edhe Zana,
 Kin me marrë un kezen larit.
 
@@ -719,7 +721,7 @@ Jo, po, ashtu mandej duel puna —
 Kur u kapa n'vrrî t'Parnasit,
 Lâgë e ndrâgë e kputun rruget,
 Qé po shof se, lshue pa zot,
-Po kullotte i hjèdhtë Pagasi
+Po kullotte i hjèdhtë Pegasi
 Npër ato rudina t'blera,
 Ku lulzon gjithmonë prendvera
 E s'ka dimën as rreh era
@@ -727,7 +729,7 @@ Lodhë e kputë si un kish' qillue,
 Tèk e pava, i kceva m'shpinë,
 Edhe e lshova brijs s'Parnasit,
 Mos m'e e pa dy herë me sy.
-Ashtu m't katrat lshue Pegasin [^2]
+Ashtu m't katrat lshue Pegasin[^2]
 Gjatë asaj termales s'rryeshme,
 Kam nisë kangën me kendue
 Dityrambin, qi kish' shkrue,
@@ -743,7 +745,7 @@ E mbërthye kamët nën bark t'tij,
 U mundova me ì qindrue.
 Por se kot, besà, zotni,
 Pse t'u çue shàh m'kamë t'para,
-Edhe t'm' hòdh, si planc, n'nji prroskë.
+Edhe t'm'hòdh, si planc, n'nji prroskë.
 Gjysa e s'keq'; por se m'i vuni
 Shtjelma brish' njadisa hera,
 Qi edhe sod, besà, m'dhêm shtati.
@@ -789,7 +791,7 @@ Po, pra, zotni;
 Se me rrêjtë, besà, nuk di:
 Nuk t'a tham nji fjalë p'r'i tjetër.
 Ti edhe kndue do t'keshë në letër
-Si njaj Aelius' [^4]. Shkrues i vjetër,
+Si njaj Aelius'[^4]. Shkrues i vjetër,
 Na kallxon për s'dij se ç'nieri,
 Qi kjé bâ gomar pa hiri
 Tue u lye me do bar shtrigash,
@@ -806,7 +808,7 @@ Qi m'nji lvere masonike
 Quejt "Revistë Pedagogjike"
 Ia pàt nisë kinse me u kapë
 Me "Hyll t'Dritës", e klér e Papë?
-Ketë tésh prá Pallas Athina [^5]
+Ketë tésh prá Pallas Athina[^5]
 Për arsye qi poshtërsina
 Ky kisht' shkrue për "Hyll të Dritës",
 Námë e paska nji "dishditës"
@@ -819,7 +821,7 @@ Si un kjéçë bâ, por (posë gjithkujë)
 Ky kjé bâ gomar për ymër;
 N'mos e njifsh, e ké n'Tiranë
 Tuj bajtë m' "karro" pleh e ranë,
-Per "Reformë" t'nji "burgu" t'gjanë
+Për "Reformë" t'nji "burgu" t'gjanë
 Mbrenda Ministrisë s'Arsimit.
 
 **BABATASI**
@@ -834,7 +836,7 @@ Tue bâ fjalë për Deputetën:
 Për me lidhë gomarin-o
 Si e pat lidhë até dikur
 Nji poetë, me 'i copë ushkur.
-_Lassen Sie nur_ [^6]
+_Lassen Sie nur_"[^6]
 Edhe tash mirë tue pá.
 Se ké paske dashtë me vrá
 Me kto fjalë e dokrra t'shkreta.
@@ -849,7 +851,7 @@ Pezmit t'tij s'mundesh me 'i pshtue?
 Tash, kah t'duesh mundesh me shkue.
 Edhe i lirë prej mejét jé;
 Veç, t'a dijsh se borxh m'i ké
-Gjashtë naplonat qi páçë dhanë
+Gjashtë napoljonat qi páçë dhanë
 Kur gomar t'bleva n'Tiranë;
 Por, jo sod; palè se kur...
 

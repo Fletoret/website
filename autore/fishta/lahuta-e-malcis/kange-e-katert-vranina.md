@@ -206,7 +206,7 @@ Foli Knjazi, e Krenët u dane,
 E n'Vraninë, mbi *xhebehâne*
 Zû me krrokë nji sorrë kob-zâne.
 
-    Deh! moj Zânë, pásh njato kroje,
+  Deh! moj Zânë, pásh njato kroje,
 Pásh currilat neper prroje,
 Pásh bylbylat e Prendverës
 E pásh t'amlin fllad të erës

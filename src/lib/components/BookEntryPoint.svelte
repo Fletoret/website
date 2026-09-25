@@ -1,4 +1,5 @@
 <script lang="ts">
+  import { IconBook } from '@tabler/icons-svelte';
   import EpubDownload from '$lib/components/EpubDownload.svelte';
   import TocItemList from '$lib/components/TocItemList.svelte';
   import type { ExtendedBookType, Post } from '$lib/types';
@@ -25,12 +26,16 @@
     </div>
   </a>
 
-  <!-- A sibling of the header link, not inside it: links can't nest. -->
-  {#if book.epub}
-    <div class="download">
+  <!-- Siblings of the header link, not inside it: links can't nest. -->
+  <div class="actions">
+    <a class="btn btn-sm read" href="/{book.folder}">
+      <span class="icon"><IconBook size="100%" stroke={1.5} /></span>
+      Lexo librin
+    </a>
+    {#if book.epub}
       <EpubDownload bookFolder={book.folder} {authorName} variant="compact" />
-    </div>
-  {/if}
+    {/if}
+  </div>
 
   <div>
     {#each Object.entries(chapters) as [chapterName, entries], idx}
@@ -62,11 +67,36 @@
     justify-content: space-between;
   }
   /* Lined up with the description, and pulled up so it reads as part of the
-     header rather than a separate block. */
-  .download {
+     header, with a little air left below the header's hover background. */
+  .actions {
     display: flex;
+    flex-wrap: wrap;
+    gap: var(--spacing-md);
     padding: 0 var(--spacing-xl);
-    margin-top: calc(-1 * var(--spacing-xl));
+    margin-top: calc(-0.5 * var(--spacing-xl));
+  }
+
+  /* The primary action, inverted so it never blends into the header's hover
+     background or the EPUB button beside it. */
+  .read {
+    gap: var(--spacing-sm);
+    font-family: var(--sans-serif);
+    font-size: var(--text-sm);
+    text-decoration: none;
+    border: solid 1px var(--text-primary);
+    background-color: var(--text-primary);
+    color: var(--bg-primary);
+    transition: background-color 0.15s ease;
+
+    &:hover {
+      background-color: color-mix(in srgb, var(--text-primary), var(--bg-primary) 18%);
+    }
+
+    .icon {
+      --size: 18px;
+      padding: 0;
+      color: inherit;
+    }
   }
 
   .book-entry:hover {
@@ -113,7 +143,7 @@
       padding: var(--spacing-xl) var(--spacing-md);
     }
 
-    .download {
+    .actions {
       padding: 0 var(--spacing-md);
     }
 

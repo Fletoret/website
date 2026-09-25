@@ -1,6 +1,6 @@
 ---
 title: Zhvillimi i disá fjalve te librit
-subtitle: Asht marrë në kujdes mâ teper kuptimi i posaçem qi i jipet fjales në vend të perdorun. O. e B.
+subtitle: Âsht marrë në kujdes mâ teper kuptimi i posaçem qi i jipet fjalës në vend të perdorun. O. e B.
 author: Gjergj Fishta
 respectLineBreaks: false
 parent: Mrizi i Zânavet
@@ -19,13 +19,13 @@ published: true
 <dd>Deti Adrijatik</dd>
 
 <dt><a id='Agamemnon' href='#Agamemnon'>Agamemnon (i)</a></dt>
-<dd>kryeprisi i ushtrís greke në Trojë</dd>
+<dd>kryeprîsi i ushtrís greke në Trojë</dd>
 
 <dt><a id='ag' href='#ag'>ag (u)</a></dt>
 <dd>dritë e marrët, (bagliore)</dd>
 
 <dt><a id='agzot' href='#agzot'>agzot (i)</a></dt>
-<dd>barot, qi vêhet në falme te çarkut.</dd>
+<dd>barot, qi vêhet në falme të çarkut.</dd>
 
 <dt><a id='Akej' href='#Akej'>Akej (t)</a></dt>
 <dd>Grekt</dd>
@@ -47,10 +47,10 @@ published: true
 <dd>atletë, azgan</dd>
 
 <dt><a id='Aulidë' href='#Aulidë'>Aulidë (a)</a></dt>
-<dd>vend ne breg te Grekís</dd>
+<dd>vend në breg të Grekís</dd>
 
 <dt><a id='avis' href='#avis'>avis (i)</a></dt>
-<dd>humnerë, (abisso)</dd>
+<dd>humnere, (abisso)</dd>
 
 <dt><a id='bashtinë' href='#bashtinë'>bashtinë (a)</a></dt>
 <dd>tokët, livadhet, pronet e njaj shpije.</dd>
@@ -74,7 +74,7 @@ published: true
 <dd>rrshas.</dd>
 
 <dt><a id='bubrroj' href='#bubrroj'>bubrroj</a></dt>
-<dd>rmoi, heci barkas.</dd>
+<dd>rmoj, heci barkas.</dd>
 
 <dt><a id='bubuqe' href='#bubuqe'>bubuqe (ja)</a></dt>
 <dd>kelçi, në të cillin çilë lulja.</dd>
@@ -82,7 +82,7 @@ published: true
 <dt><a id='bulku-i-votrës' href='#bulku-i-votrës'>bulku i votrës</a></dt>
 <dd>nji soj kandrret, qi kndon naten (grillo). </dd>
 
-<dt><a id='bulurine' href='#bulurine'>bulurine (a)</a></dt>
+<dt><a id='bulurinë' href='#bulurinë'>bulurinë (a)</a></dt>
 <dd>gjâmë.</dd>
 
 <dt><a id='carâ' href='#carâ'>carâ (ni)</a></dt>
@@ -92,15 +92,15 @@ published: true
 <dd>gúr: tuf (terreno di tufo)</dd>
 
 <dt><a id='cemtë' href='#cemtë'>cemtë (i, e, të)</a></dt>
-<dd>gúr: i ftoftë</dd>
+<dd>i ftoftë.</dd>
 
 <dt><a id='Cukal' href='#Cukal'>Cukal (i)</a></dt>
-<dd>mal kahë lindja e Shkodres.</dd>
+<dd>mal kahë lindja e Shkodrës.</dd>
 
 <dt><a id='çakrrí' href='#çakrrí'>çakrrí (ja)</a></dt>
 <dd>çikrrí, send i vogel, pá vlerë.</dd>
 
-<dt><a id='çapoj' href='#çapoj'>çapoj (ja)</a></dt>
+<dt><a id='çapoj' href='#çapoj'>çapoj (t)</a></dt>
 <dd>kthetra.</dd>
 
 <dt><a id='çeste' href='#çeste'>çeste (ja)</a></dt>
@@ -115,14 +115,17 @@ published: true
 <dt><a id='Deçiq' href='#Deçiq'>Deçiq (i)</a></dt>
 <dd>mal mbi Tuz.</dd>
 
-<dt><a id='deikë' href='#deikë'>deikë (a)</a></dt>
+<dt><a id='dejkë' href='#dejkë'>dejkë (a)</a></dt>
 <dd>dallndyshë.</dd>
 
-<dt><a id='dera-e-Ali-Osmanit' href='#dera-e-Ali-Osmanit'>dera e Ali Osmanit (a)</a></dt>
-<dd>dinastija e mbretenvet te Turkís.</dd>
+<dt><a id='dera-e-Alì-Osmanit' href='#dera-e-Alì-Osmanit'>dera e Alì Osmanit</a></dt>
+<dd>dinastija e mbretenvet të Turkís.</dd>
+
+<dt><a id='derptuem' href='#derptuem'>derptuem (i, e, të)</a></dt>
+<dd>i shtrydhun, i pershkuem dhimbet.</dd>
 
 <dt><a id='dikoj' href='#dikoj'>dikoj</a></dt>
-<dd>derohi.</dd>
+<dd>derdhi.</dd>
 
 <dt><a id='dirgjem' href='#dirgjem'>dirgjem</a></dt>
 <dd>ulem.</dd>
@@ -130,8 +133,11 @@ published: true
 <dt><a id='doke' href='#doke'>doke (ia)</a></dt>
 <dd>zakon, adet.</dd>
 
+<dt><a id='dheu-i-Frangut' href='#dheu-i-Frangut'>dheu i Frangut</a></dt>
+<dd>dheu i Europës së qytetnueme.</dd>
+
 <dt><a id='Eden' href='#Eden'>Eden (a)</a></dt>
-<dd>Parrizi i tokës.</dd>
+<dd>Parrîzi i tokës.</dd>
 
 <dt><a id='emblem' href='#emblem'>emblem (i)</a></dt>
 <dd>dhumere (Dukagjin): tumarë (Tiranë).</dd>
@@ -157,7 +163,7 @@ published: true
 <dt><a id='flater' href='#flater'>flater (a)</a></dt>
 <dd>krah, fletë.</dd>
 
-<dt><a id='flauri' href='#flauri'>flauri (ja)</a></dt>
+<dt><a id='flaurí' href='#flaurí'>flaurí (ja)</a></dt>
 <dd>hjedhë (drithit).</dd>
 
 <dt><a id='frotë' href='#frotë'>frotë (a)</a></dt>
@@ -167,7 +173,7 @@ published: true
 <dd>turrshem, me hov.</dd>
 
 <dt><a id='Fushat-Elizé' href='#Fushat-Elizé'>Fushat Elizé</a></dt>
-<dd>vendi i të lumvet n'at jetë, (në mitologi).</dd>
+<dd>vendi i të lumvet n'at jetë, (në mitologí).</dd>
 
 <dt><a id='futë' href='#futë'>futë (a)</a></dt>
 <dd>faculetë jazit.</dd>
@@ -182,7 +188,7 @@ published: true
 <dd>bertas, vikas.</dd>
 
 <dt><a id='Gigë' href='#Gigë'>Gigë (a)</a></dt>
-<dd>êmen vigânit (ne mitologi).</dd>
+<dd>êmen vigânit (në mitologí).</dd>
 
 <dt><a id='gledhoj' href='#gledhoj'>gledhoj</a></dt>
 <dd>due mirë, lmoj (accarezzo).</dd>
@@ -190,8 +196,8 @@ published: true
 <dt><a id='glinë' href='#glinë'>glinë (a)</a></dt>
 <dd>ujë âmull.</dd>
 
-<dt><a id='gocë' href='#gocë'>gocë</a></dt>
-<dd>a, êm f. vajzë.</dd>
+<dt><a id='gocë' href='#gocë'>gocë (a)</a></dt>
+<dd>vajzë.</dd>
 
 <dt><a id='gopeder' href='#gopeder'>gopeder (a)</a></dt>
 <dd>top.</dd>
@@ -211,8 +217,8 @@ published: true
 <dt><a id='gjeraçinë' href='#gjeraçinë'>gjeraçinë (a)</a></dt>
 <dd>skyfér.</dd>
 
-<dt><a id='halë' href='#halë'>halë</a></dt>
-<dd>a êm f. ród pishet.</dd>
+<dt><a id='halë' href='#halë'>halë (a)</a></dt>
+<dd>ród pishet.</dd>
 
 <dt><a id='henik' href='#henik'>henik (u)</a></dt>
 <dd>top i vogel.</dd>
@@ -226,14 +232,14 @@ published: true
 <dt><a id='iris' href='#iris'>iris</a></dt>
 <dd>bader (lule).</dd>
 
-<dt><a id='irnuem' href='#irnuem'>irnuem (i e, lë)</a></dt>
-<dd>i perxim: thohet per varrë (livido).</dd>
+<dt><a id='irnuem' href='#irnuem'>irnuem (i, e, të)</a></dt>
+<dd>i perxîm: thohet per varrë (livido).</dd>
 
 <dt><a id='jank' href='#jank'>jank (u)</a></dt>
-<dd>êmen antonomastik i Amerikajvet; si « Leke» i Malcorvet te Mbishkodres.</dd>
+<dd>êmen antonomastik i Amerikajvet; si «Lekë» i Malcorvet të Mbishkodrës.</dd>
 
 <dt><a id='jone' href='#jone'>jone (t)</a></dt>
-<dd>kânge, jehone.</dd>
+<dd>kângë, jehonë.</dd>
 
 <dt><a id='kacilitë' href='#kacilitë'>kacilitë (a)</a></dt>
 <dd>rubë, qi vênë në krye varzat e Mirditës.</dd>
@@ -256,20 +262,20 @@ published: true
 <dt><a id='kernalle' href='#kernalle'>kernalle (ja)</a></dt>
 <dd>kënetë.</dd>
 
-<dt><a id='kerthnestë' href='#kerthnestë'>kerthnestë (i, e, te)</a></dt>
+<dt><a id='kerthnestë' href='#kerthnestë'>kerthnestë (i, e, të)</a></dt>
 <dd>në shndet.</dd>
 
 <dt><a id='Kerubim' href='#Kerubim'>Kerubim (i)</a></dt>
 <dd>Êngjell.</dd>
 
-<dt><a id='kjasol' href='#kjasol'>kjasol</a></dt>
+<dt><a id='kjasoj' href='#kjasoj'>kjasoj</a></dt>
 <dd>kjáj.</dd>
 
 <dt><a id='kndellem' href='#kndellem'>kndellem</a></dt>
 <dd>vêhem në shndet, ngjallem.</dd>
 
-<dt><a id='koha-e-"ballhutës"' href='#koha-e-"ballhutës"'>koha e "ballhutës"</a></dt>
-<dd>koha e vjeter, (e bollekut: kúr  hate qêni pagaçë).</dd>
+<dt><a id='koha-e-ballhutës' href='#koha-e-ballhutës'>koha e „ballhutës“</a></dt>
+<dd>koha e vjeter, (e bollekut: kúr hate qêni pagaçë).</dd>
 
 <dt><a id='kolibë' href='#kolibë'>kolibë (a)</a></dt>
 <dd>ksollë</dd>
@@ -308,7 +314,7 @@ published: true
 <dd>spatë qi perdoret me latue.</dd>
 
 <dt><a id='Lekë' href='#Lekë'>Lekë (t)</a></dt>
-<dd>Malcorët e Mbishkodres.</dd>
+<dd>Malcorët e Mbishkodrës.</dd>
 
 <dt><a id='leqetisi' href='#leqetisi'>leqetisi</a></dt>
 <dd>ndŷj, zhyej.</dd>
@@ -325,7 +331,7 @@ published: true
 <dt><a id='londis' href='#londis'>londis</a></dt>
 <dd>trandi, lkundi.</dd>
 
-<dt><a id='Ipozë' href='#Ipozë'>Ipozë (a)</a></dt>
+<dt><a id='lpozë' href='#lpozë'>lpozë (a)</a></dt>
 <dd>çagjë, pshtimë.</dd>
 
 <dt><a id='lurtimë' href='#lurtimë'>lurtimë (a)</a></dt>
@@ -335,7 +341,7 @@ published: true
 <dd>mikloj.</dd>
 
 <dt><a id='madergonë' href='#madergonë'>madergonë (a)</a></dt>
-<dd>bimë ferrçe.</dd>
+<dd>bîmë ferrçe.</dd>
 
 <dt><a id='malukat' href='#malukat'>malukat (i)</a></dt>
 <dd>perbindsh.</dd>
@@ -344,13 +350,13 @@ published: true
 <dd>fjalë qi thohet në të perbuzun per Aziatikë.</dd>
 
 <dt><a id='mardhë' href='#mardhë'>mardhë (a)</a></dt>
-<dd>të ftoftë te madh.</dd>
+<dd>të ftoftë të madh.</dd>
 
 <dt><a id='marsë' href='#marsë'>marsë</a></dt>
 <dd>pjest. perziem, xé.</dd>
 
-<dt><a id='mashtri' href='#mashtri'>mashtri (ja)</a></dt>
-<dd>dredhí, sherri.</dd>
+<dt><a id='mashtrí' href='#mashtrí'>mashtrí (ja)</a></dt>
+<dd>dredhí, sherrí.</dd>
 
 <dt><a id='Meone' href='#Meone'>Meone (ja)</a></dt>
 <dd>vendi i të lemit te Homerit.</dd>
@@ -361,8 +367,8 @@ published: true
 <dt><a id='moh' href='#moh'>moh</a></dt>
 <dd>befas, pá pritë.</dd>
 
-<dt><a id='mojë' href='#mojë'>mojë (ja)</a></dt>
-<dd>nji vend i naltë, qi del mbi tjere.</dd>
+<dt><a id='moje' href='#moje'>moje (ja)</a></dt>
+<dd>nji vend i naltë, qi del mbi tjerë.</dd>
 
 <dt><a id='morriz' href='#morriz'>morriz (i)</a></dt>
 <dd>ferrçë</dd>
@@ -371,7 +377,7 @@ published: true
 <dd>Rusija.</dd>
 
 <dt><a id='mret' href='#mret'>mret (i)</a></dt>
-<dd>mare (nji ród pêmet)</dd>
+<dd>mare (nji ród pêmet).</dd>
 
 <dt><a id='mrrutë' href='#mrrutë'>mrrutë (a)</a></dt>
 <dd>rrole, plakë.</dd>
@@ -379,17 +385,17 @@ published: true
 <dt><a id='murojë' href='#murojë'>murojë (a)</a></dt>
 <dd>shyt (scudo).</dd>
 
-<dt><a id='namli' href='#namli'>namli (ja)</a></dt>
-<dd>hekuri i pushkes.</dd>
+<dt><a id='namlí' href='#namlí'>namlí (ja)</a></dt>
+<dd>hekuri i pushkës.</dd>
 
 <dt><a id='Nazaré' href='#Nazaré'>Nazaré (u)</a></dt>
 <dd>Jezu Krishti (prej Nazaretit).</dd>
 
 <dt><a id='neshtrashë' href='#neshtrashë'>neshtrashë (a)</a></dt>
-<dd>rethânë, ogur, fat.</dd>
+<dd>rrethânë, ogur, fat.</dd>
 
 <dt><a id='nzis' href='#nzis'>nzis</a></dt>
-<dd>shtýj, ngacmoj.</dd>
+<dd>shtŷj, ngacmoj.</dd>
 
 <dt><a id='ndofllash' href='#ndofllash'>ndofllash</a></dt>
 <dd>(ablativ) fulqîjsh.</dd>
@@ -397,8 +403,8 @@ published: true
 <dt><a id='ngallis' href='#ngallis'>ngallis</a></dt>
 <dd>gergas.</dd>
 
-<dt><a id='ngarmoi' href='#ngarmoi'>ngarmoi</a></dt>
-<dd>shtýj, nzis.</dd>
+<dt><a id='ngarmoj' href='#ngarmoj'>ngarmoj</a></dt>
+<dd>shtŷj, nzis.</dd>
 
 <dt><a id='ngerthej' href='#ngerthej'>ngerthej</a></dt>
 <dd>vrâj, mrrudhi.</dd>
@@ -432,7 +438,7 @@ published: true
 <dd>heshtë.</dd>
 
 <dt><a id='pegame' href='#pegame'>pegame (ja)</a></dt>
-<dd>ndŷsi (lordura).</dd>
+<dd>ndŷsí (lordura).</dd>
 
 <dt><a id='pellg' href='#pellg'>pellg (u)</a></dt>
 <dd>gjí lumit (bacino).</dd>
@@ -461,7 +467,7 @@ published: true
 <dt><a id='plojtë' href='#plojtë'>plojtë (i, e, të)</a></dt>
 <dd>i ngathët.</dd>
 
-<dt><a id='plleshëm' href='#plleshëm'>plleshëm (i, e, të)</a></dt>
+<dt><a id='plleshem' href='#plleshem'>plleshem (i, e, të)</a></dt>
 <dd>i frytshem (fertile).</dd>
 
 <dt><a id='polip' href='#polip'>polip (i)</a></dt>
@@ -471,9 +477,9 @@ published: true
 <dd>sterklas (aspergo).</dd>
 
 <dt><a id='prone' href='#prone'>prone (t)</a></dt>
-<dd>pasuni tokësh (possesione).</dd>
+<dd>pasuní tokësh (possesione).</dd>
 
-<dt><a id='prujtë' href='#prujtë'>prujtë (i, e, të)</a></dt>
+<dt><a id='prûjtë' href='#prûjtë'>prûjtë (i, e, të)</a></dt>
 <dd>i poshter.</dd>
 
 <dt><a id='qeparizë' href='#qeparizë'>qeparizë (a)</a></dt>
@@ -492,7 +498,7 @@ published: true
 <dd>udhtoj, rrugoj.</dd>
 
 <dt><a id='rektoj' href='#rektoj'>rektoj</a></dt>
-<dd>hjeki, ap shpirt (agonizzo).</dd>
+<dd>hjeki, ap shpírt (agonizzo).</dd>
 
 <dt><a id='reshi' href='#reshi'>reshi</a></dt>
 <dd>sjelli.</dd>
@@ -531,12 +537,12 @@ published: true
 <dd>krisem, zhurmë.</dd>
 
 <dt><a id='rrushkull' href='#rrushkull'>rrushkull (a)</a></dt>
-<dd>bimë ferrçe.</dd>
+<dd>bîmë ferrçe.</dd>
 
 <dt><a id='Saharë' href='#Saharë'>Saharë (a)</a></dt>
-<dd>shkreti râne n' Afrikë gjithmonë e blért.</dd>
+<dd>shkretí râne n'Afrikë gjithmonë e blért.</dd>
 
-<dt><a id='selvi' href='#selvi'>selvi (ja)</a></dt>
+<dt><a id='selví' href='#selví'>selví (ja)</a></dt>
 <dd>landë (cipresso).</dd>
 
 <dt><a id='Serafini-i-Asizit' href='#Serafini-i-Asizit'>Serafini i Asizit</a></dt>
@@ -552,27 +558,27 @@ published: true
 <dd>rojë.</dd>
 
 <dt><a id='shag' href='#shag'>shag (u)</a></dt>
-<dd>(shegj, t). shtrojë, hali.</dd>
+<dd>(shegj, t). shtrojë, halí.</dd>
 
 <dt><a id='shajak' href='#shajak'>shajak (u)</a></dt>
 <dd>zhgun.</dd>
 
 <dt><a id='shart' href='#shart'>shart (i)</a></dt>
-<dd>lat (sorte).</dd>
+<dd>fat (sorte).</dd>
 
 <dt><a id='shatergaz' href='#shatergaz'>shatergaz (i)</a></dt>
 <dd>vegel me thye token.</dd>
 
-<dt><a id='shatorre' href='#shatorre'>shatorre</a></dt>
-<dd>ja, em, f. çader.</dd>
+<dt><a id='shatorre' href='#shatorre'>shatorre (ja)</a></dt>
+<dd>çader.</dd>
 
 <dt><a id='shauret' href='#shauret'>shauret (i)</a></dt>
 <dd>lugat.</dd>
 
 <dt><a id='Shé' href='#Shé'>Shé (u)</a></dt>
-<dd>nji nder dyer të Trojes.</dd>
+<dd>nji nder dyer të Trojës.</dd>
 
-<dt><a id='shinoj' href='#shinoj'>shinoj</a></dt>
+<dt><a id='shînoj' href='#shînoj'>shînoj</a></dt>
 <dd>shênjoj.</dd>
 
 <dt><a id='shkallme' href='#shkallme'>shkallme (ja)</a></dt>
@@ -584,8 +590,8 @@ published: true
 <dt><a id='shkepter' href='#shkepter'>shkepter (i)</a></dt>
 <dd>shkop mbretnuer.</dd>
 
-<dt><a id='shkerbé' href='#shkerbé'>shkerbé</a></dt>
-<dd>ja, em, f. bishë e eger.</dd>
+<dt><a id='shkerbé' href='#shkerbé'>shkerbé (ja)</a></dt>
+<dd>bishë e eger.</dd>
 
 <dt><a id='shkerdhyem' href='#shkerdhyem'>shkerdhyem (i, e, të)</a></dt>
 <dd>i poshtnuem, i dhunuem.</dd>
@@ -603,9 +609,9 @@ published: true
 <dd>idé.</dd>
 
 <dt><a id='shpendme' href='#shpendme'>shpendme (ja)</a></dt>
-<dd>bimë e helmatisun.</dd>
+<dd>bîmë e helmatisun.</dd>
 
-<dt><a id='shtim' href='#shtim'>shtim (i, e, të)</a></dt>
+<dt><a id='shtîm' href='#shtîm'>shtîm (i, e, të)</a></dt>
 <dd>i lém pá kohë; (abortito).</dd>
 
 <dt><a id='shtoj' href='#shtoj'>shtoj (i)</a></dt>
@@ -621,9 +627,9 @@ published: true
 <dd>konop leshit i hollë.</dd>
 
 <dt><a id='termale' href='#termale'>termale (ja)</a></dt>
-<dd>te njitun perpjetë</dd>
+<dd>të njitun perpjetë</dd>
 
-<dt><a id='termet' href='#termet'>termet (i, em)</a></dt>
+<dt><a id='termet' href='#termet'>termet (i)</a></dt>
 <dd>termek.</dd>
 
 <dt><a id='Titanik' href='#Titanik'>Titanik (u)</a></dt>
@@ -638,7 +644,7 @@ published: true
 <dt><a id='tufâ' href='#tufâ'>tufâ (ni)</a></dt>
 <dd>thellim, duhí.</dd>
 
-<dt><a id='turshii' href='#turshii'>turshii</a></dt>
+<dt><a id='turshîj' href='#turshîj'>turshîj</a></dt>
 <dd>shtypi, thermoj me turr.</dd>
 
 <dt><a id='theki-kamben' href='#theki-kamben'>theki kamben</a></dt>
@@ -651,7 +657,7 @@ published: true
 <dd>ltér.</dd>
 
 <dt><a id='Theta' href='#Theta'>Theta</a></dt>
-<dd>θ (germa fillore e fjalës grekishte θάνατος = dekë</dd>
+<dd>Θ (germa fillore e fjalës grekishte θάνατος = dekë).</dd>
 
 <dt><a id='thith' href='#thith'>thith (i)</a></dt>
 <dd>çiví (cardine).</dd>
@@ -674,7 +680,7 @@ published: true
 <dt><a id='vamqir' href='#vamqir'>vamqir (i)</a></dt>
 <dd>shpend (lakuriq) qi thithë gjakun.</dd>
 
-<dt><a id='vigâ' href='#vigâ'>vigâ (ni.)</a></dt>
+<dt><a id='vigâ' href='#vigâ'>vigâ (ni)</a></dt>
 <dd>gjigant.</dd>
 
 <dt><a id='vigem' href='#vigem'>vigem (a)</a></dt>
@@ -689,17 +695,17 @@ published: true
 <dt><a id='vringlloj' href='#vringlloj'>vringlloj</a></dt>
 <dd>sjelli (shpaten).</dd>
 
-<dt><a id='zallotë,-a' href='#zallotë,-a'>zallotë, a</a></dt>
-<dd>pare (turkut).</dd>
+<dt><a id='zallotë' href='#zallotë'>zallotë (a)</a></dt>
+<dd>30 pare (turkut).</dd>
 
 <dt><a id='zgorkë' href='#zgorkë'>zgorkë (a)</a></dt>
 <dd>plasë (pertugio).</dd>
 
 <dt><a id='zushë' href='#zushë'>zushë (a)</a></dt>
-<dd>te xét të madh, zheg.</dd>
+<dd>të xét të madh, zheg.</dd>
 
 <dt><a id='zhablloj' href='#zhablloj'>zhablloj</a></dt>
-<dd>bâj zhurme (tue hecë).</dd>
+<dd>bâj zhurmë (tue hecë).</dd>
 
 <dt><a id='zhaurrimë' href='#zhaurrimë'>zhaurrimë (a)</a></dt>
 <dd>rropame, krisme e fortë.</dd>

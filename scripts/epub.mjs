@@ -126,6 +126,24 @@ function typographyRule(state) {
   }
 }
 
+/**
+ * Gheg drops the start of a word with an apostrophe: `'i` (nji), `'imend`,
+ * `'izet`, `'dhe`. markdown-it's smartquotes would pair that `'` with the next
+ * elision as a quotation (‘i dêm … ka’). Set the known elided forms as
+ * apostrophes before it runs, and leave real single-quoted text alone.
+ */
+const WORD_START_ELISION =
+  /(^|[\s(«“"—–-])'(?=(?:[iìíîju]|am|[aâ]sht|or|[dD]h[eè]|Madh\p{L}*|[Ff]ort\p{L}*|i(?:m[eê]nd|z[eè]t|qind|her[eë])|m)(?!\p{L}))/gu;
+
+function elisionRule(state) {
+  for (const block of state.tokens) {
+    if (block.type !== 'inline' || !block.children) continue;
+    for (const token of block.children) {
+      if (token.type === 'text') token.content = token.content.replace(WORD_START_ELISION, '$1’');
+    }
+  }
+}
+
 function textToken(state, content) {
   const token = new state.Token('text', '', 0);
   token.content = content;
@@ -172,6 +190,7 @@ function makeParser(breaks) {
         : self.renderToken(tokens, idx, options);
 
   md.use(mdFootnote).use(mdAttrs);
+  md.core.ruler.before('smartquotes', 'epub_elision', elisionRule);
   md.core.ruler.push('epub_typography', typographyRule);
   endnoteRules(md);
   return md;
@@ -179,11 +198,31 @@ function makeParser(breaks) {
 
 const parsers = { prose: makeParser(false), verse: makeParser(true) };
 
+/**
+ * The site's markdown uses a few elements of its own, styled in
+ * src/lib/css/blog.css: `<center>` (obsolete in HTML5), `<epigraph>` (stage
+ * directions in plays) and `<caps>`. They become classed divs and spans,
+ * styled in epub.css. Bare `<br>` gets closed. Web-only extras give way:
+ * video embeds are dropped, and the site's ✱ divider becomes a section break.
+ */
+const SITE_HTML = [
+  [/<div class="iframe-container">[\s\S]*?<\/div>\s*(?:<figcaption>[\s\S]*?<\/figcaption>)?/g, ''],
+  [/<div class="divider[^"]*" data-content="[^"]*"><\/div>/g, '* * *'],
+  [/<(center|epigraph)>/g, '<div class="$1">'],
+  [/<\/(center|epigraph)>/g, '</div>'],
+  [/<caps>/g, '<span class="caps">'],
+  [/<\/caps>/g, '</span>'],
+  [/<br\s*>/g, '<br/>'],
+];
+
+const siteHtmlToXhtml = (body) =>
+  SITE_HTML.reduce((text, [pattern, replacement]) => text.replace(pattern, replacement), body);
+
 /** Render one chapter body; returns its XHTML and the endnotes it defines. */
 function renderChapter(body, verse, file, noteBase) {
   const md = verse ? parsers.verse : parsers.prose;
   const env = { file, noteBase };
-  const tokens = md.parse(body, env);
+  const tokens = md.parse(siteHtmlToXhtml(body), env);
   const split = tokens.findIndex((t) => t.type === 'footnote_block_open');
   const bodyTokens = split < 0 ? tokens : tokens.slice(0, split);
 
@@ -208,6 +247,14 @@ function loadIndex() {
  * grouped by `parent`, each group sorted by `order`, groups by their lowest
  * `order`.
  */
+/** Titles skip markdown, so give them the body's quotes and apostrophes. */
+const typesetTitle = (s) =>
+  s == null
+    ? s
+    : String(s)
+        .replace(/"([^"]*)"/g, '“$1”')
+        .replaceAll("'", '’');
+
 function loadBook(folder, index = loadIndex()) {
   const authorKey = folder.split('/')[0];
   const author = index[authorKey];
@@ -224,7 +271,13 @@ function loadBook(folder, index = loadIndex()) {
     .sort()
     .map((file) => {
       const { attributes, body } = frontmatter(readFileSync(file, 'utf-8'));
-      return { ...attributes, file, body };
+      return {
+        ...attributes,
+        title: typesetTitle(attributes.title),
+        subtitle: typesetTitle(attributes.subtitle),
+        file,
+        body,
+      };
     });
   if (entries.length === 0) throw new Error(`${folder}: no chapters found`);
 
@@ -568,8 +621,11 @@ async function coverJpeg(book) {
     .ensureAlpha()
     .raw()
     .toBuffer({ resolveWithObject: true });
+  // Walk the top row to where the corner turns opaque. Lossy alpha leaves
+  // "opaque" a little under 255, and a cover without rounded corners has no
+  // transparent pixels at all, so count 200 and up as opaque.
   let radius = 0;
-  while (radius < info.width / 4 && data[radius * info.channels + 3] < 255) radius++;
+  while (radius < info.width / 4 && data[radius * info.channels + 3] < 200) radius++;
 
   return sharp(source)
     .extract({
@@ -688,10 +744,15 @@ function scanXml(name, text) {
         if (match >= 0) stack.length = match;
         continue;
       }
+      const parent = stack.at(-1);
+      if (/^d[td]$/.test(tag) && parent !== 'dl' && parent !== 'div') {
+        problems.push(`${at}: <${tag}> outside a <dl>`);
+      }
       for (const [, attr, dq, sq] of (attrs ?? '').matchAll(XML_ATTR)) {
         const value = dq ?? sq;
         if (attr === 'id') {
           if (ids.has(value)) problems.push(`${at}: duplicate id "${value}"`);
+          if (/["\s<>]/.test(value)) problems.push(`${at}: id "${value}" can't be a link target`);
           ids.add(value);
         }
         if (attr === 'href' || attr === 'src' || attr === 'full-path') {

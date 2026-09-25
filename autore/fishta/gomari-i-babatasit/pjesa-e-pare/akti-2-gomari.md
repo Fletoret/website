@@ -5,7 +5,7 @@ author: Gjergj Fishta
 respectLineBreaks: true
 parent: Gomari i Babatasit
 grandparent: Gomari i Babatasit
-order: 2
+order: 3
 keywords:
 published: true
 ---
@@ -15,7 +15,7 @@ published: true
 **BABATASI**
 Besà, pra, Arkeologu i shkretë
 Fort asht lodhë e krejt ka mbetë
-Kah do t'endet poshtë — përpjetë,
+Kah do t'endet poshtë-përpjetë,
 Për me gjetë jevkë e ustallarë,
 Për me blé drrasa e binarë,
 Qepra, trena e pullazina,
@@ -32,7 +32,7 @@ T'a zâ besë, po, lum kumbara,
 Se jé lodhë; por mue m'kanë thânë,
 Se nji shoq, me gjasë, t'kanë dhânë,
 Për m'e pasë ti si ndihmtar
-Në ndertesë t'Muzeut kombtar.
+Në ndërtesë t'Muzeut kombtar.
 
 **BABATASI**
 Jo, po, dhanë m'a kanë nji shoq —
@@ -44,13 +44,12 @@ Për me dijtë si asht puna e ktij,
 Mjaft 'asht ktu ty me t'kallxue
 Se ç'rrezik i pat tokue
 Nëpër tè Financës s'Atdhéut.
-
 — Vjet qi shkoi në muej të Shndréut
 — Rexhep beu, Ministri i Arsimit,
 Shty prej zêllit t'përparimit
 E mbas planit t'ktij mendizit,
 (Qi aj e mban p'r 'i farë telbizit,
-Si t'isht'shkputë prej dhéut t'Inglizit...)
+Si t'isht' shkputë prej dhéut t'Inglizit...)
 Qiti argàt, llaca e ustallárë,
 Për me mkâmbë Muzeun kombtár.
 Bèsa, i thojshe, shporru s'i
@@ -71,7 +70,7 @@ Kur, qé, 'i nade, tue rá dielli,
 Brî Muzeut po kalon filli
 Nji grue plakë, pështjellë n'"binish",
 Garravaxh e bâ dyfish
-— Ashtu lamsh, si shtupë buliret-
+— Ashtu lamsh, si shtupë buliret —
 Me 'ì shkop n'dorë e shmërtisë ftyret,
 Jo pse ndie kisht' gja njimênt
 Se isht çilë fjala n'Parlament
@@ -90,9 +89,9 @@ Hè! Até Zana m'a shitoftë! —
 Kè isht' tue fry nji erë e ftoftë
 E, ajo lehtë fort ishte veshë.
 Po ja nisë nji herë me u teshë,
-"Tshjef" e"tshjef" tuj u ngërdheshë,
+"Tshjef" e "tshjef" tuj u ngërdheshë,
 Mandej kolli i çohet peshë,
-"Rruf"e "gjuf" njâ disa hera,
+"Rruf" e "gjuf" njâ disa hera,
 Sa as me hecë mâ s'mujt e mjera.
 Ashtu, n'kambë, tu' u teshë, tu' u kuell,
 Bâ prej lotësh... e, nejse, quell,
@@ -107,7 +106,8 @@ Rràsh pesqind e 'i napoljon.
 
 **DREJTORI B**
 Shka po flet, brè burrë?
-Kam ndie Si ndër dhámë punën e tij,
+Kam ndie
+Si ndër dhámë punën e tij,
 Por, kush asht, endè s'e dij.
 
 **BABATASI**
@@ -163,7 +163,7 @@ Si t'isht' Gjoti — a Bonarroti.
 Çudë, njimend, me bâ! Shqiptari
 Për nji krrabë, p'r'i rreth kulari,
 P'r'i' krye lakne a 'i bisht purrîni
-Pushkë shi m't'vllan ndo'iherë aj shtîni,
+Pushkë shi m't'vllan ndo'i herë aj shtîni,
 Edhe bartë nuk ka qi nieri
 T'a damtojë hiri e pa hiri
 N'tokë a n'gjâ sado qi vetë,
@@ -172,7 +172,7 @@ Kjé gjithmonë zemërbujar,
 Si për shokë si për shtegtarë,
 Si për miq, për nevojtarë,
 Edhe dalë u ka aj vllá
-N'daç me bukë, në daçme uhá
+N'daç me bukë, në daç me uhá
 Por, qé sod, qi disa piça,
 — Qi po mbahen për ogiça:
 Kush mehmur e kush Ministër —
@@ -185,8 +185,7 @@ Nëpër krushq e kushrini,
 Nëpër miq e kumbari,
 Për me ngrefë me tá parti —
 Parti barkut e karrigash,
-
-— Klika t'mshefta, çerdhe intrigash.-
+— Klika t'mshefta, çerdhe intrigash. —
 Jo, veç gjyq Shqiptari s'lypë,
 Pse aj do t'hajë veç bukë e krypë,
 Ndërsa ata npunsat e shtetit
@@ -307,7 +306,7 @@ Asht tue i lá rodi i shqiptarit?
 **DREJTORI B**
 Jo, qé bésà, kurrnji sênd
 Der sod bâ s'asht për ketë vênd —
-Per ketë t'mjerën moj Shqipni,
+Për ketë t'mjerën moj Shqipni,
 Edhe tham se kta zotni
 Kot thajnë dokrra e thajnë kopalla,
 Çajnë makllada e qesin prralla,
@@ -325,7 +324,7 @@ Edhe Atdhénë t'na qesin m'breg
 _Nulla_, po, _cupido ignoti_,
 Ka pasë thanun Aristoti,
 Për me u orvatë, pra, për Atdhé,
-Duhet pasë ma para i'idé,
+Duhet pasë ma para 'i idé,
 E me dijtë se shka asht Atdhéu,
 Shka asht Shqipnija e Skanderbeu.
 Po, por kta, kishe me thanë,
@@ -349,7 +348,7 @@ Prandej fjalët "demokraci",
 E, sa tjera fjalë kso dore
 Nuk janë tjetër veç se dokrra,
 "Thasha" e "thana" të pakokrra
-E krejt fjalë à la zhon — tùrka,
+E krejt fjalë à la zhon-tùrka,
 Qi më sa shpata ndër furka,
 Aq n'gojë t'tyne kto kanë hije:
 Fjeshtë makllada komedije.
@@ -383,7 +382,7 @@ Si çdo tjetër matrapaz.
 
 **BABATASI**
 E prandej un do t'pëlsas
-Poshtë — përpjetë nëpër Tiranë
+Poshtë-përpjetë nëpër Tiranë
 Se për shoq mue më kanë dhanë:
 Nji mendiz qi s'asht mendiz,
 As me çilë kund ndo'i gjeriz,
@@ -415,15 +414,16 @@ Jo zyrtarët me u zgjedhë për zyre
 E prandej sod ketë linjyre —
 Ketë mendiz — ekspert e kam
 Nepër kamë sabah e aksham,
-Der sa vetë — nga poshtë — përpjetë,
+Der sa vetë — nga poshtë-përpjetë,
 Kaq jam lodhë e kputë e lmekë,
 Sa qi n'mênd e kam me hjekë
 Dorë prej punet t'ktij Muzéut,
-Dalë ku t' dalë "lulzimi i Atdhéut";
+Dalë ku t'dalë "lulzimi i Atdhéut";
 Pse edhe kshtu s'po mújë m'e qitë.
 
 **DREJTORI B**
-Jo, zotni, asht mirë me pritë Kush e di si puna sillet:
+Jo, zotni, asht mirë me pritë
+Kush e di si puna sillet:
 Sod asht vrântë e neser kthíellet.
 
 **BABATASI**
@@ -497,7 +497,7 @@ M'lypë për té?
 
 **KATUNDARI**
 Pesqind korona
-Pak kishin me kênë,vallahi;
+Pak kishin me kênë, vallahi;
 Veç tash s'voni u ka hupë pahi
 — S'dij se pse — kualve e gomarve,
 E s'po shiten n'dorë t'tregtarve
@@ -522,7 +522,7 @@ Thatë m'ka ngelë mue t'mjerit n'gji
 E, me lá kam do "vergî",
 S'kam shka bâj: M'ep shka t'duesh vetë:
 Drue bles tjerë se s'mujë me gjetë.
-Pse, t'mos isht'se tregu asht ndalë,
+Pse, t'mos isht' se tregu asht ndalë,
 Me Itali, e as mushk as kalë
 E as gomar ma atje s'mund t'dalë,
 Tetë napolona un t'kish kputë
@@ -563,7 +563,8 @@ Me njátë ar qi lajn' shqiptarët...
 _(mbasi i ka pague 6 napoljonat)_
 N'qoftë se punë tepër nuk ké,
 A po vjen ti bashkë me né
-Për m'e çue der té hanxhija Ketë gomar?
+Për m'e çue der té hanxhija
+Ketë gomar?
 
 **KATUNDARI**
 Po, lum zotnija;
@@ -618,12 +619,12 @@ Edhe Itale e Shqiptarí
 Kanë me u ndezun flakë n'dashni
 — Merret vesht, njana edhe tjetra —
 E, tu' u dashtun mirë me kthetra,
-Kryet shò — shoqes kanë m'i a lmue,
+Kryet shò-shoqes kanë m'i a lmue,
 Krah e m'krah, edhe tuj kndue
-Márë e márë si'i parë zamáre,
+Márë e márë si 'i parë zamáre,
 Kanë me marrë njat kangë shqyptare:
 _"Hajde hajde, Ali Dervêlla:
-Po kush t'qiti n'kto punë t' kthêlla!"_
+Po kush t'qiti n'kto punë t'kthêlla!"_
 Edhe atëherë Ministri i jonë
 Ka me u çue 'i sahat mâ vonë —
 Kah mjesdita a njatypari:
@@ -641,10 +642,10 @@ Prá, si thashë, kur n'Kvirinal[^1]
 T'shkojë Ministri "okcidental" —
 Ky Ministri i Shqiptarisë,
 T'shkojë me "çantë" t'diplomacisë,
-Gjatë dy pllambë "cilindrin" m' krye,
+Gjatë dy pllambë "cilindrin" m'krye,
 Ngrî manshetat n'dorë mbërthye,
-Si aj Bismarku[^2] hapa — hapa,
-Un shpresoj se atë — herë e mbrapa
+Si aj Bismarku[^2] hapa-hapa,
+Un shpresoj se atë-herë e mbrapa
 Do t'na siellen punët për s'marit
 E, n'Shqipni nji zog gomarit
 S'ka me u gjetë as n'Barbullush

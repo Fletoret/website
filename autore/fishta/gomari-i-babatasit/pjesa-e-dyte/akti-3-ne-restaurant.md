@@ -5,7 +5,7 @@ author: Gjergj Fishta
 respectLineBreaks: true
 parent: Visku i Babatasit
 grandparent: Gomari i Babatasit
-order: 3
+order: 7
 keywords:
 published: true
 ---
@@ -14,7 +14,7 @@ published: true
 
 Kryetari i Bashkisë së Tiranës e Kryetari i Asamblesë qendrojnë përballë e, me fesa të thijtë në krye, kanë xanë kryet e vendit. Mandej, Ministra e Deputetën e tjerë të grishun, ndër të cilët edhe BABATASI, janë ulë kush ndër vende t'caktueme, kush aty ku mbas gjaset i duket se asht té vendi. Disa shikjojnë jo vendin që mund t'u takonte, por nierin ngjat të cillit dishrojnë me ndêjë. Kshtu:
 
-KRYEKUNGULLI me TERRTABUCLECIN; VESHLLAPOTA me KRYEMATAREN, SURRATQEREPI me FTYRFUDULLIN, KRYETULI me GOJOPANGEN, HUNDSPECI me HUNDKASTRAVECIN e tjerë, sidomos dallkaukë aty-ktu, rreth e rrotull. Diku atje poshtë ka xanë vend edhe MIHAJL GRAMENO. Në fund të salonit nji INSPEKTOR ARSIMI, që s'din shqip, pshty prej Turkijet në Shqipni. Në fillim mbi tryezë nuk ka pije, por Deputetënt lypin shumica birrë, ndokush edhe "mastikë", edhe menjiherë u mblodhën tryezat me shishe birre, si lâmi i grunit me korba. Kush s'pijte, filloi me hangër minestrën që me kohë ka pasë kenë dikue(qitë) ndër çinija. Tue u çilë shishët e birrës, xen me u çilë edhe llapa e zotnive të grishun e nisin me bisedue, kush vesh m'vesh e kush t'madhe me shoqi-shojnë, tue thanë fjalë që me u ndie edhe skaj më skaj të salonit. Kah herë VESHLLAPOTA po flet dishka nën zâ me KRYEMATAREN.
+KRYEKUNGULLI me TERRTABUCLECIN; VESHLLAPOTA me KRYEMATAREN, SURRATQEREPI me FTYRFUDULLIN, KRYETULI me GOJOPANGEN, HUNDSPECI me HUNDKASTRAVECIN e tjerë, sidomos dallkaukë aty-ktu, rreth e rrotull. Diku atje poshtë ka xanë vend edhe MIHAJL GRAMENO. Në fund të salonit nji INSPEKTOR ARSIMI, që s'din shqip, pshty prej Turkijet në Shqipni. Në fillim mbi tryezë nuk ka pije, por Deputetënt lypin shumica birrë, ndokush edhe "mastikë", edhe menjiherë u mblodhën tryezat me shishe birre, si lâmi i grunit me korba. Kush s'pijte, filloi me hangër minestrën që me kohë ka pasë kenë dikue (qitë) ndër çinija. Tue u çilë shishët e birrës, xen me u çilë edhe llapa e zotnive të grishun e nisin me bisedue, kush vesh m'vesh e kush t'madhe me shoqi-shojnë, tue thanë fjalë që me u ndie edhe skaj më skaj të salonit. Kah herë VESHLLAPOTA po flet dishka nën zâ me KRYEMATAREN.
 
 </epigraph>
 
@@ -39,7 +39,7 @@ Edhe bindet nieri i shkretë
 Për shka mund të mbîj n'ketë jetë.
 Qé, po zamë, sot njizet vjet
 Me pasë kapë kush muhabet
-E me t'thanë se i'ditë m'mbretni
+E me t'thanë se 'i ditë m'mbretni
 Do t'na mbahej kjo Shqipni,
 Shqipni e keqe – e krejt teneqe –
 Un, për vedi, do t'kish thânë
@@ -65,7 +65,7 @@ Tue britë t'madhe: Rrnoftë Shqipnija!
 E prá, e di, ti lum zotnija,
 Se si vetë, po tash do mot,
 – Kur ktu urdhnote tjetër zot –
-E ná 'i m n' "fès" e n' "redingot" –
+E ná 'i'm n' "fès" e n' "redingot" –
 Kam lá lesh pa kqyrë shka â mshira,
 Me t'gjith njata shqiptarë qafira
 Që i kam gjetë se për Shqipni
@@ -108,11 +108,11 @@ Mkamsit bijnë "pilafin" m'tryezë. Nji palë Deputetën nisin me u xanë për p
 <center>
 
 **DIALOGU II**
-Kalangêrrçi e Kryekortolla
+Kalangerrçi e Kryekortolla
 
 </center>
 
-**KALANGÊRRÇI**
+**KALANGERRÇI**
 Jo, po, vetë – e kam pa rrênë –
 Kurr shqiptar – tobè! – s'kam kênë,
 As s'kam dijt se shka â Shqipnija,
@@ -174,7 +174,7 @@ Qatje vonë – për ç'punë s'e di –
 Paska rá Mbretit hasí
 Edhe hikë e dalë kah Zhuba,
 Ku na u bâkà me do cuba,
--Brac i keq – tue vjedhë ndo'i shtrrí,
+– Brac i keq – tue vjedhë ndo'i shtrrí,
 Der' që e kapin dy zaptí,
 Dy djelmoça – si kaprroça,
 Me mustaqe vesh e m'vesh,
@@ -276,7 +276,7 @@ Pa gjâ n'xhep e me byk n'rrashtë.
 Por, po e zâmë se un dishka dij,
 – Se prap Turku ktu n'Shqipni
 Po sundon, si pat sundûe
-N'ato kohë qi kan kalue, -
+N'ato kohë qi kan kalue, –
 Sa meash, thue, do t'm'kisht' dhânë?
 Pesqind grosh n'muej, shum me thânë!
 Po, por kjo Shqipni e jona
@@ -285,7 +285,7 @@ Rrogë në muej, pósë se aq e mâ
 Marr nën dorë. Eh!... shka me bâ...
 Kshtu po e kishte kjo dynjâ:
 Dy nën dorë e tri nën thue,
-Un _për vedi_ e ti _për mue_ - ...
+Un _për vedi_ e ti _për mue_ – ...
 E pra vetë mezì me kndue
 Që dij shqip: Se mâ me shkrue,
 Pak e aspak. Do t'kuqem n'ftyrë
@@ -397,7 +397,7 @@ Kamë për kamë e duer për duer
 Me oficera e me mehmurë
 Me Njizetetetë Nanduer;
 Pse po thonë, ka thanë Luigj Shala,
-Gjergj Kokoshi e Qamil Bala, -
+Gjergj Kokoshi e Qamil Bala, –
 Zgjedhun teste mbas besimit –
 Se t'gjith vrapi i qytetnisë
 E i lulzimit të Shqipnisë,
@@ -506,7 +506,7 @@ E, se mue do t'm'kthete n'shpi
 Me 'i qèrr huj e 'i kal hakrri
 Tue m'a qitë gjithë ketë travajë!
 Se, t'mos isht' po, shêrri i sajë,
-Un,vallahi, npër Shqipni
+Un, vallahi, npër Shqipni
 Kjeshë tue e vue krejt n'terezi,
 Pse po m'thonë qi atje ma vonë
 Nji pension Shqipnija e jonë
@@ -553,7 +553,7 @@ Bâjnë për shtet, disa cingâre
 Sa t'marr n' "Stamles"? Në Financë
 Prap ndoj púllë? Nji udhtim der n'Francë?
 N'Semmering, mbasi pak n'zgrip
-Jam me shndet? Prap pse n "Agip"
+Jam me shndet? Prap pse n' "Agip"
 Mangut t'dalë ndoj but benzinë?
 N'petka ushtarësh pse ndoj sterlinë,
 Si pa dashtë, t'm'rrshasë në xhep,
@@ -608,7 +608,7 @@ N'shpinë të t'bukrës moj Shqipni.
 M'pasët m'qafë baba – kjoftë i zi! –
 Që gaboj e léu n'Shqipni
 E, jo kund n'Greqi, n'Turki,
-N' Rumani, n' Jugosllavi!
+N'Rumani, n'Jugosllavi!
 Mjaft me lshue nji sy n'Arsim
 Për me pá, po, se ç'gëzim
 Asht me kênë muhaxherim
@@ -622,7 +622,6 @@ Se po asht harrna 'i gurabi:
 Gurabi e vogël-gogël;
 Prap, gjenè, ketë gurabi:
 Kaq t'a vukân n'terezi
-
 Muhaxhirët saloniklí,
 Gogë, rumun, serb, stambollí,
 Kush barí, kush djathaxhí,

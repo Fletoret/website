@@ -224,6 +224,7 @@ static/            imazhet (portrete, kopertina), fontet, ligji 35/2016
 scripts/           mjete ndihmëse: wrap, kopertina, portrete, EPUB, pamje ndarjeje, verifikim publikimi
 data-pipeline/     nga një URL e BKSH Dixhitale te Markdown-i në autore/ (Python)
 ocr/               dalja e OCR-së së draftit, që ushqen redaktuesin te /ocr
+skills/            udhëzime për agjentët e AI-së (p.sh. si bëhet një EPUB); shih skills/README.md
 ```
 
 ## ➕ Si të shtosh një vepër

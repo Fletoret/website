@@ -209,7 +209,7 @@ Njânen shkyje, bâne fele,
 Tjetren preje, gjakun pija:
 Bân veç dam lukur e kija.
 
-    T'u çue m'kâmbë at herë Malcija,
+  T'u çue m'kâmbë at herë Malcija,
 T'u shpervol m'tagan djelmnija
 E t'u qitë sŷt zjarm e shkndija,
 T'jânë flakrue perposhtë cabokut,
@@ -315,7 +315,7 @@ Vashë, si motit, trimëneshë:
 Qi per Fé ti e per lirí
 Msue ké kênë me dalë n'ushtrí,
 Me lidhë varrët e djelmve t'ue,
-Me u dhânë zêmer, me i trimrue
+Me u dhânë zêmer, me i trimnue
 Krena Turqish per t'shkurtue.
 Mos t'lshojë zêmra, pra, as n'ditë t'sotit
 Ke thânë paska kênë prej Zotit,
@@ -752,6 +752,7 @@ Me at Mil Spasin faqe m'faqe
 N'mndyrë t'Kanûs s'Maleve âsht falë,
 Turrin trimi atŷ e ká ndalë:
 E lavjerrë ato musteqe
+Toje toje e leqe leqe
 Toje toje dér m'sylah,
 «Huten» vjerrun per nen krah,
 Llanës per s't'gjatit tue i shkue gjaku

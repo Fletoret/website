@@ -10,7 +10,7 @@ keywords: mbi varr te alois paliq,
 published: true
 ---
 
-Barbart ... e mbyten! E prá
+Barbart... e mbyten! E prá
 Ky 'i dhûnë kurrkuej s'i a bâni;
 Nuk bâni kand me kjá:
 Per t'keq s'i duel kurr zâni;
@@ -20,7 +20,7 @@ Pûnoi me t'drejtë m'ket dhé.
 I vorfni, pá prind mbetun,
 Qi kján per bukë i mjeri,
 Te ky shûjten pat gjetun:
-Ky lott prej sysh i a teri,
+Ky lott prej sŷsh i a teri,
 S'e la nen dhûnë me fshâ
 E át e mâmë i u bâ.
 
@@ -29,10 +29,10 @@ E gjaksi, e i patenzoni
 E i trishtueshmi kursari,
 Qi s'njef se shk'âsht zakoni,
 Kahë t'duen ata po mbajn:
-Pse kshtû me e mbytë t'pafaj'n ?...
+Pse kshtû me e mbytë t'pafaj'n?...
 
 Por, po; per shkjá të prûjtun
-Isht' ky n'dý faje zhye,
+Isht' ky n'dŷ faje zhye,
 Qi ndryshej nuk ká mujtun,
 Veç se me gjak me i shkmye:
 Shqypnín dote t'lirueme,
@@ -46,15 +46,15 @@ Edhè me tê të ngratit
 Zêmren shporoi aj Fratit.
 
 U rrzue sherbtori i Zotit
-— Heu! si nuk plasi djerri! --
+— Heu! si nuk plasi djerri! —
 E sŷt per t'gjatë të motit
 Ndermjet anmiqve i erri;
 Gjaku prej varrvet t'ngrata
 Gurglloi mbi bûca t'thata.
 
-O Perendi i amshueshem,
-A thue tư' i vũ kjé trollin
-Ndo i rruzllit mâ t'lumnueshem,
+O Perendí i amshueshem,
+A thue tu'i vû kjé trollin
+Ndo 'i rruzllit mâ t'lumnueshem,
 Qi per nen qiellë mund t'ndollin
 Kso pûnësh mbi ftyrë t'ksaj bote,
 Pá shkrepun mnija e Jote?
@@ -71,11 +71,11 @@ As gurt e eltervet t'ue
 S'mund reshkan mshrirë Shqyptarvet,
 Nuk mujtkan mnín me t'zgjue?
 E fatin e Shqypnís
-E lânkan n'dorë t'shkjenís? ...
+E lânkan n'dorë t'shkjenís?...
 
 O e mjera, moj e mjera
 Shqypní, se keq ké ngelun!
-Se mire, moj, tý t'thau vera,
+Se mirë, moj, tý t'thau vera,
 Qýsh se shkjau âsht tue t'shkelun
 E tue t'poshtnue pá dhimë,
 Tue t'lânun n'váj e n'brimë.
@@ -88,7 +88,7 @@ E shk'â mâ fort per t'kjá,
 Me dorë t'Mbretnivet t'Mdhá.
 
 O Zot! o Zot! mos tjeter
-Per ket pleqni trathtare,
+Per ket pleqní trathtare,
 Qi Europa, rrênce e vjeter,
 Bâni mbi tokë shqyptare,
 Deh! Ti mos lên qi niri

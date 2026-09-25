@@ -198,3 +198,201 @@ Me trazime e pûnë t'pambara,
 E mandej vetë prej Rusijet,
 Si harusha prej pusijet,
 Me i rá Turkut fulikare,
+M'e zhbî m'vend, m'e qitun fare;
+Per pá bâ aj me mend pleqní,
+Se me at pûnë boten unjí
+Mujtte, ndoshta, m'e pshtjellë n'zí...
+  Kur ket punë e ká pleqnue,
+Ká marrë trimi e n'odë ká shkue,
+Ká ndêjë m'tryezë e âsht vû me shkrue,
+Me u shkrue miqve kah Serbija,
+Kah Zagrebi e kah Sofija:
+Me lidhë besen shkaf âsht Shkjá,
+Mbí Budin, m'Çanak-Kalá,
+Edhè, tok kta ndermjet vetit,
+Mos m'i a dá të keqen Mbretit;
+Por m'e nzitë, por m'e merzitë,
+M'i u vardisë si 'i ditë per ditë,
+Herë per shtek, herë per kufî,
+Tash me pêng, tash me pleqní,
+Por gjithmonë, po, pá kanû,
+Veç si t'mujën n'teposhtë m'e vû.
+Masandej, ky zogu i Shkinës,
+Mêrr e i shkruen Knjazit t'Cetinës,
+Mêrr e 'i leter i a angllatisë,
+Me dredhí tuj i a qendisë:
+Ti, qi jé qaj Knjazë Nikolla,
+Falmeshndet Cari i Rusis.
+Se zâ t'madh per tý kam ndie
+Qi jé trim e gerxhelí,
+Qi jé burrë e kuvendtár,
+Me t'a drashtë hijen anmiku.
+Por, me giasë, kjo fjalë s'isht' gjâ;
+Pse, qe, ti m'at rrasë Cetine
+Më ké ndêjë me 'i gjymsë opinge,
+E jé bâ, po, gazi i dheut,
+Tue merzitë miq e kumbarë,
+Veç e per bukë thatë në gojë.
+Mje sa Turku, per brî tejet,
+Dredhun çallmen m'vetull t'sŷnit,
+Derdhë shallvarët aj pola-pola,
+Rrin e bân kokrren e pallës,
+E as m'e pá ti s'mund t'a shofish
+Per mbas koders së pilafit...
+Po a, thue, t'la tý kamba e dora,
+A se njitë jé ndoshta, m'rrogë,
+Jo se hî ké bulkë n'e huejen,
+Qi s'po ndihesh kund per s'gjalli?
+Mo', bre burrë, se nuk ká hije,
+Urtë me ndêjë Cubi i Cetinës,
+Edhè n'shpí me e shkuem aj motin,
+Tuj u ndeshë nper furka t'gravet!...
+Po a s't'a mbushë sŷnin Shqypnija,
+Me ato male të madhnueshme,
+Me ato fusha të blerueshme,
+Qi kurrkund s'jé kah orvate,
+Me i a shkye 'i skundill per vedi?....
+M'tê, krahthát, e mos rri fjetun!
+Pse, pa luejtë ti kambë e dorë,
+S't'nihmon Zot as i Shên Nkollë:
+Por, ti luej, nafaka luej,
+Ká pasë thânë aj burri i huej,
+Sá per bukë e per fyshekë,
+Piqu m'mue, se t'i qes vetë;
+Edhè ksulen vêne m'sŷ,
+Se të nget Mbreti i Stambollës:
+Nuk t'a lâ me t'prekë me pupel.—
+Letren kshtû Cari e ká shkrue,
+Edhè mirë e ka palue,
+E e ka mbyllë me dýll të zí;
+I a ká dhânë kasnecit t'rí,
+Me i a çue Knjazit n' Mal t' Zí.
+Letren n' gjí ká qitë kasneci,
+Ká thekë kambët aj sá mund heci:
+Ká lânë mbrapa fushë e zalle
+Kapercye ká bjeshkë e male,
+Edhè dalë ká lum e shé:
+Ká shtektue per ujë e dhé,
+Dér qi 'i ditë, tue marrun dilli,
+Në Cetinë ká behë aj filli:
+Shtjerrë opangat, grisun setren:
+Knjazit n' dorë kû ká dhânë letren,
+Me dýll Cari si e kisht' mshilë.
+Ká marrë Knjazi edh' e ká çilë,
+E ká çilë edh' e ká kndue.
+Trí herë rresht aj e ká kndue,
+Trí dit rresht edh' âsht mendue;
+Masandej aj fjalë ká çue
+Njatij Vulo Radoviqit,
+Kerkserdarit t' Vasoviqit,
+Qi me dalë me rá n' Cetinë,
+Pá kqyrë shtek, pá kqyrun stinë:
+Me flutrue si gjeraçinë,
+Per me u pjekë me «Gospodarin».
+Njiky Vuloja Serdari
+Kisht' pasë kênë nji trim i çartun:
+M' e pasë randë toka m' e bartun.
+Pá të pré kund s'ishte marrë,
+Pá fjalë t' tij ngarkue s'isht' barrë,
+Pague s'ishte varrë as gjak,
+S'kishte vû nuse duvak,
+As s'isht'dá gjýgj a pleqní.
+Pse edhe Turku i Malit t'Zí
+Po e kisht'pasë shqype mbi krye,
+Mos m'e lânë me pá me sŷ.
+—Se edhè 'i punë, ky zogu i Shkinës,
+Po e kisht'bâ m'at udhë t'Cetinës.
+Paska mârrë e shi në rrugë
+Per terthuer shtrîka nji strugë,
+Edhè i çueka fjalë terthores,
+Qi shka âsht Turk i Cernagores,
+Mos me mujtë m'e shkapercye,
+Per pá lá 'i dukat per krye—
+Bre! kish kênë edhè 'i farë burri,
+Larg e larg me i dajtun turri.
+Ftyra e tij porsi duhija,
+Sŷni i tij, tanë zjarm e shkndija;
+Vetllat trashë ngerthye kulár,
+Porsi lesh derrit bugár;
+Vesh e m'vesh dega e mustakut,
+Si dy korba lidhë per lakut;
+Edhe i mbrrîjte kryet më trá:
+Burrë i atillë me sŷ m'u pá.
+Veshë e mbathë e m'armë shterngue,
+Kishe thânë se âsht lé drangue.
+Se ktê Knjazi fort e dote,
+Fort e dote edhè e ndigiote;
+Pse edhè i urtë aj kishte ndollë,
+Me i a pré mendja fort hollë.
+Prandej Knjazi i çueka fjalë
+Në Cetinë per ngut me dalë.
+Edhè Vulja bjen m'Cetinë,
+Pá kqyrë shtek, pa kqyrun stinë,
+Tue flutrue si gjeraçinë.
+  N'at Cetinë kúr Vulja zbriti,
+Atê Knjazi mirë e priti,
+Mirë e priti e n'odë e qiti,
+I qiti duhan e kafe,
+Edhè nisi kshtû t'bâjë llafe:
+Kû jé Vulo, eh kopilane!
+Se ti ujk, po, né na u bâne,
+Ke s'po duke kah Cetina,
+Kû ké miq e probatina,
+Qi s'të ndrrojn me sŷ të ballit?...
+Po a ké mûjtë?... a ké farë hallit?...
+Si po t'shkon n'Vasoviq moti?—
+Per jetë t'ande!... si do Zoti,
+Mêrr e i thotë Vulo Serdari;
+Pse sivjet, lum «Gospodari»,
+Nuk ká pasë toka valigë,
+E ká ardhë nji kohë e ligë;
+Sá nuk dij si ká m'i u bà,
+Per me pshtue do rob e gjâ,
+Pse edhè buka âsht tuj na lânë.
+Hajt, eh qê'! Knjazi i ká thânë...
+Se s'po gjên cubi me ngrânë...
+Se s'po gjên skyferi mish...
+Se ti e xjerrë koren dyfish!...
+Mjaft t'i bijsh ndoj vendit pré,
+Se po e bân me lopë e qé,
+Sá me mbajtë njerzt e kujrís,
+Jo se mâ gjinden e shpís...
+A din shka, Vulo Serdari,
+Ndiej shka t'thotë tý « Gospodari »;
+Pshtilli bashkë nja disá cuba:
+T'idhtë si gjarpni nder kaçuba,
+T'letë e t'shpejtë si gjeraçina:
+Edhè lshoj ti kah Vranina,
+Per me vrá atà e per me pré,
+Per me djegun gur e dhé,
+Mbrendë tuj vjedhë e tuj plaçkitë,
+Tuj grabitë e tuj robitë,
+N'daç me natë e n'daç me ditë;
+Se un prandej të kam çue fjalë,
+Dér n'Cetinë nji herë me dalë,
+Pse dishka mue tash m'ká kcye,
+Prap me Turk me u kaperthye:
+Prap me Turk, po, na me u vrá.
+Pse edhè as hije, tham, nuk ká,
+Urtë me ndêjun Turk e Shkjá.
+E kështû, tue ligjirue,
+Krye më krye tuj bisedue,
+Hollë e giatë e ká qortue,
+Si me u sjellë e si me u prue,
+Per m'e lá Vraninen n'gjak.
+E si vesht janë mârrë me fjalë,
+Knjazi m'bukë atë e ká ndalë,
+Edhè falë i ká do pare;
+E i ká falë nji « xheverdare »,
+Krejt n'argjan kandakut ngrí,
+Mos m'i u gjetë shoqja n'Mal t'Zí:
+M'e drashtë vjerrun në sergjí,
+Jo mâ m'krah të nji luftarit,
+Jo mâ n'krah t'Vulo Serdarit,
+Qi isht' me bré hekur me dhambë!
+At herë Vulja âsht çue në kambë:
+Ká bâ Knjazit « tungiatjeta »,
+Edh' âsht nisë malit perpjeta
+Udhës me mend aj tuj perblue,
+Si Vraninen me shkretnue,
+Knjazi ashtû si e kisht' qortue.

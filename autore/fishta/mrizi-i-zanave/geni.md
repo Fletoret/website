@@ -24,10 +24,10 @@ Mendja e nierit n'terr ngelisi;
 Edhè nieri, m'vedi lshue,
 Dalkadalë erdh tu'egercue;
 Si shkerbé malit kerkoi.
-Kamben zdathë e pa giâ shtatit,
+Kamben zdathë e pa gjâ shtatit,
 Naten shko nper biga e stana,
 Kerko diten fushës e shpatit
-Per mush - molla; dardha e thana,
+Per mush-molla; dardha e thana,
 Nieri i shkretë jeten n'mjerí
 E kaloi, edhè kerdí
 Pá dhîmbë bâni m'shokë të vet.
@@ -39,10 +39,10 @@ E i bashkova tok nder fise,
 E u caktova truell e vise:
 Ngrefë u kam kalá e gjytet.
 Urat lshova terthuer bregut,
-Çilë kam rrugat neper karma ;
+Çilë kam rrugat neper karma;
 I dhaçë t'mbarë punës edhè tregut,
 Fuqí t'ré muer plori e arma.
-Tei per tej qymen e shpova,
+Tej per tej qymen e shpova,
 M'fletë t'vetimës dhén e vallova,
 Rrëfés hovin thye i a kam.
 Neper mue nieri n'ditë t'sodit
@@ -51,10 +51,10 @@ Kuvend shtron aj me antipodit,
 N'terezí peshon pjanetin:
 Edhè vên kupólen m'Sh'Pjeter.
 Kolosén si çoi n'kohë t'vjeter,
-Rruzlla t rí skjyrton nper xham.
+Rruzlla t'rí skjyrton nper xham.
 Menden nierit n'shkollë un mbrefa,
 Kû kam rritë atà Platonat,
-E ato shpatat me, dy tefa —
+E ato shpatat me dy tefa —
 Demostent e Çiçeronat:
 Edhè t'vetmin n'jetë Omerin,
 Me at Virgilin e Allighierin,

@@ -276,7 +276,7 @@ Q'me prendverë të rruzullimit.
 Prej kah fíll zèn rriba e Verit
 E m'Vezuv t'veshun n'gjineshtra:
 Prej Kaukazit m'Shkam t'Doverit,
-Kû rri Albjona e pjekë gjenjeshtra,.
+Kû rri Albjona e pjekë gjenjeshtra,
 Fis mâ t'vjeter kund nuk ká
 Se âsht ky fisi n'zâ i Shqyptarit,
 Në mes t't'cillit punët e mdhá
@@ -290,7 +290,7 @@ Nisen valle me vallzue,
 E nper vrrîje e fusha t'gjâna
 Zû Pegazi me lodrue.
 Këtu, Leka mati hapin
-Me i dalë botes n'fund e n'krye,.
+Me i dalë botes n'fund e n'krye,
 Edhe n' Hind e çpori vrapin
 Rrufén n' dorë, vetimen n'sŷ:
 Si edhè Pirri, qi, mbrefë pallen
