@@ -7,50 +7,10 @@ grandparent: Shqipëria
 order: 11
 ---
 
-Pamë më siprë se sa i gjerë ka qënë një herë që
-moti vëndi, që rrininë Shqipëtarëtë edhe sa ishinë të
-përhapurë prindëretë tanë e qysh ishinë të ndarë në
-Ilyrjanë, Epirotë, Maqedonas, Thrakas, Prygas, etj. Pam'
-edhe qysh në kohët të Romanëvet Maqedonasitë,
-Thrakasitë e Prygasitë, duke përzjerë me kombe të tjerë,
-zunë të humbisninë gjuhën' e kombërin' e tyre e qysh më
-pastaj, në kohët të Byzantinjet, erdhë mizëri Shqehsh në
-sinisit të Balkanit e zunë Thraqn' e Maqedoninë edhe
-Ilyrin' e Sipërme.
+Pamë mê siprë se sa i gjerë ka qënë një herë që moti vëndi që rrininë Shqipëtarëtë, edhe sa ishinë të përhapurë prindëretë tanë, e qysh ishinë të ndarë në Illyrjanë, Epirotë, Maqedhonas, Thrakas, Frygas etj. Pam' edhe qysh në kohët të Romanëvet Maqedonasitë, Thrakasitë e Frygasitë, duke përzjerë me kombe të tjerë, zunë të humbisninë gjuhën' e kombërin' e tyre, e qysh mê pastaj, në kohët të Byzantínjet, erdhë mizëri Shqehsh në Sinisit të Balkanit, e zunë Thraqn' e Maqedhoninë edhe Illyrin' e Siperme.
 
-Që m'atëher' e tëhu Shqipëria është vogëluarë
-shumë; nga gjith' ata vënde, që kishinë prindërit tanë,
-Pelasgëtë, vetëm Ilyri' e Poshtërme a e Jugësë, Epiri
-edhe Maqedoni' e Sipërme a e Veriut e e Perëndimit kanë
-mbeturë Shqipëri. Por sot emënatë Ilyri, Epir, Maqedoni
-etj. janë të lën' e të haruarë, janë emëna të dheshkronjës
-së vjetërë; sot për sot vëndi, që rrinë Shqipëtarëtë, thuhetë
-Shqipëri në gjuhët tënë edhe Albania në gjuhërat të huaja.
+Që m'atëher' e tëhu Shqipëria ështê vogëluarë shumë; nga gjith' ata vënde, që kishinë prindërit' tanë Pelasgëtë, vetëm Illyri e Poshtërme a e Jugësë, Epiri edhe Maqedoní e Siperme a e Veriut e e Perëndimit kanë mbeturë Shqipërí. Por sot emënatë Illyrí, Epír, Maqedhoní etj. janë të lën' e të haruarë, janë emëna të dheshkronjës' së vjetërë; sot për sot vëndi që rrinë Shqipëtarëtë thuhetë *Shqipërí* në gjuhët tënë edhe *Albania* në gjuhërat të huaja.
 
-Shqipëria është një copë e Sinisisë së Ballkanit në
-juglindje të Evropës. Ka zënë mesin e anës së perëndimit
-të asaj sinisie, duke u zgjatur mb'anë detit Adriatik e detit
-Jon që nga shkalla 42° gjer në Mëngën e Artës më poshtë
-shkallës 39°. Kufijtë e veriut të Shqipërisë, me të ndarë
-nga ana e detit, ngjiten drejt veriut duke u mbështetur në
-kufijtë e Malit të Zi e Novi-Bazarit, gjer në kufi të Serbisë
-më sipër shkallës 43°. Kufijtë e jugut kthehen prapë drejt
-veriut me lumin e Artës e me kufijtë e Greqisë gjer në
-Zhigo. Sa për kufijtë e lindjes, një vijë e hequr që nga
-kufijtë e Serbisë afër Vranjës gjer në kufijtë e Greqisë te
-mali Zhigo, vijë e cila do të hiqet nëpër krehërat e maleve,
-tek ndahen ujërat e nëpër lumenjtë, duke vështruar sa
-mundet kombësinë e njerëzve, domethënë duke marrë
-brenda vendet e ndenjtura prej kombeve të tjera, një vijë
-e këtillë do të ndajë Shqipërinë nga të tjerat vende të
-sinisisë. Kështu Shqipëria ndahet gjatazi në mes të 39° e
-të 43° të shkallës së veriut edhe gjerazi në mes të 17° e të
-19° 25' të shkallës së lindjes. Është pra afro 450 kilometra
-e gjatë e 200 kilometra e gjerë; edhe përcipja e saj është
-afro 80 000 kilometra të katërcipta.
+Shqipëria është një cop' e Sinisis' së Balkanit në jugë-lindjet t'Evropësë. Ka zënë mez' e anës' së perëndimit t'asaj sinisije, duke xjaturë mb'anë detit Adriatik e detit Jonës që nga shkalla 42° gjer në Mënget t'Artësë mê poshtë shkallësë 39°. Kufit' e veriut të Shqipërisë, me të ndarë nga an' e detit ngjitenë drejt veriut duke rreshturë në kufit të Malit-të-Zi e Novi-Bazarit gjer në kufit të Serbisë mê siprë shkallësë 43°. Kufit' e jugësë kthehenë prapë drejt veriut me lumët t'Artësë e me kufit' të Greqisë gjer në Zhigo. Sa për kufit' e lindjesë një vijë e hequrë që nga kufit' e Serbisë afrë Vranjësë gjer në kufit të Greqisë në Mali Zhigo, vijë e cila do të hiqetë nëpër krehëret të malevet tek ndahenë ujëratë e nëpër lumënjt, duke vështuarë sa mundetë kombëri e njerëzet do-me-thënë duke marrë brënda vëndet' e ndënjturë prej të tjerë kombeve, një vijë e këtillë do të ndanjë Shqipërinë nga të tjeretë vënde të sinisisë. Kështu Shqipëria ndahetë gjatazi në mest të 39° e të 43° shkallës' së veriut edhe gjerazi në mest të 17° e të 19° 25' shkallës' së lindjesë. Është pra afro 450 qilometra e gjatë e 200 qilometra e gjerë; edhe përcipj' e saj ësht' afro 80,000 qilometra të katërçipta.
 
-Shqipëria nga veriu ka kufi e fqinjë Malin e Zi,
-Novi-Bazarin a Bosnjën, q'e urdhëron Austria, edhe
-Serbinë; nga lindja ka Maqedoninë, nga juglindja Greqinë,
-nga jugperëndimi e nga perëndimi ka detin, i cili e ndan
-nga Italia e nga Evropa e qytetuar.
+Shqipëria nga veriu ka kufi e fqinjë Mal'-e-Zi, Novi Bazar, a Bosnjënë q'e urdhëron Austria edhe Serbinë, nga lindja ka Maqedoninë, nga jugë-lindja Greqínë, nga jugë-perëndimi e nga perëndimi ka detnë i cili e ndan nga Italia e nga Evrop' e qytetuarë.

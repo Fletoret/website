@@ -26,17 +26,17 @@ elektronik se sa në telefon.
 |---|---|
 | Vepra | **20** |
 | Autorë | **14** |
-| Fjalë gjithsej | **mbi 557 000** |
-| Kapituj | **473** |
+| Fjalë gjithsej | **mbi 560 000** |
+| Kapituj | **482** |
 | Shënime në fund të librit | **262**, të lidhura në të dy drejtimet |
 | Vepra më e vjetër | *Apologjia e Skënderbeut*, Frang Bardhi, **1636** |
 | Vepra më e re | *Albumi*, Fan Noli, **1948** |
-| Faqe skanimesh të lexuara për kontroll | **mbi 1 400** |
+| Faqe skanimesh të lexuara për kontroll | **mbi 1 500** |
 | Ndreqje teksti | **mbi 4 000** |
 | Madhësia e të gjithë librave bashkë | **3,6 MB** — më pak se një foto telefoni |
 | Gabime në kontrollin zyrtar (EPUBCheck) | **0** |
 
-Mbi gjysmë milioni fjalë janë rreth 1 850 faqe libri të shtypur, ose
+Mbi gjysmë milioni fjalë janë rreth 1 870 faqe libri të shtypur, ose
 37 orë lexim pa pushim.
 
 ### Librat
@@ -46,7 +46,7 @@ Mbi gjysmë milioni fjalë janë rreth 1 850 faqe libri të shtypur, ose
 | [Apologjia e Skënderbeut](/frang-bardhi/skenderbeu/) | Frang Bardhi | 1636 | 34 497 |
 | [Proverba](/sami-frasheri/proverba/) | Sami Frashëri | 1878 | 29 682 |
 | [Bagëti e Bujqësija](/naim-frasheri/bageti-e-bujqesi/) | Naim Frashëri | 1886 | 4 317 |
-| [Shqipëria – ç'ka qënë, ç'është e ç'do të bëhetë?](/sami-frasheri/shqiperia/) | Sami Frashëri | 1899 | 20 420 |
+| [Shqipëria – ç'ka qënë, ç'është e ç'do të bëhetë?](/sami-frasheri/shqiperia/) | Sami Frashëri | 1899 | 25 077 |
 | [Lirija](/ndre-mjeda/lirija/) | Ndre Mjeda | 1901–1911 | 574 |
 | [Agimi i Gjytetniis](/gjecovi/agimi-i-gjytetniis/) | Shtjefën Gjeçovi | 1910 | 27 273 |
 | [Mrizi i Zânavet](/fishta/mrizi-i-zanave/) | Gjergj Fishta | 1913 | 24 236 |
@@ -75,7 +75,7 @@ menjëherë.
 Prandaj, para se të dilte si e-book, çdo vepër u lexua nga fillimi në
 fund. Aty ku kishim skanimet e botimit origjinal, teksti u krahasua
 faqe për faqe me to — dhe fjala e fundit i takoi gjithmonë skanimit,
-jo kujtesës së dikujt. Rreth 1 400 faqe të skanuara u lexuan kështu.
+jo kujtesës së dikujt. Mbi 1 500 faqe të skanuara u lexuan kështu.
 Gjithsej, më shumë se 4 000 ndreqje: shkronja të ngatërruara nga OCR-i
 (`b` e lexuar si `ta`, `F` si `P`, `yy` si `yp`), rreshta vargu të
 ngjitur, kapituj të renditur së prapthi, shënime që kishin humbur fare.

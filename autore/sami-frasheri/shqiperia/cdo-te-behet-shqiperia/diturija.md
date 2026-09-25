@@ -1,0 +1,20 @@
+---
+title: Diturija
+author: Sami Frashëri
+respectLineBreaks: false
+parent: Ç'do të bëhetë Shqipëria?
+grandparent: Shqipëria
+order: 33
+---
+
+Në ka një gjë për të cilënë Shqipëtarëtë duhetë të kujdesenë me të teprë, ajo pa ndryshim është **Diturija**. Gjithë katundetë e gjithë pshatratë a dy tre pshatra t'afërta bashkë duhetë të kenë shkolla të para edhe qytetetë të kenë nga më shumë se një, pas madhëris' së tyre. Gjithë djemt' e vashatë që më 7 vjeç e gjer më 13 do të jenë të shtrënguarë të venë do-mos-do në shkollë, edhe ata prindërë që të mos dërgojnë fëmijënë në shkollë do të qërtohen' e të shtrëngohenë t'i dërgojnë. Mësimi do të jetë pa nonjë pagesë, edhe të varferet do t'u epenë edhe fletoretë e karta etj. pa pagesë. Në mest të çdo nënëgastrë do të jetë një shkoll' e dytë për djemt edhe një për vajzat. Në mest të çdo gastrë do të jenë veç shkollavet të dyta (*ryshdije*, σχολεῖον), edhe të treta (*i'dadije*, γυμνάσιον) për djem e për vajza veçan edhe shkolla për mjeshtëri pas vëndit a për bujqësi etj.
+
+Në kryeqytett të Shqipërisë, përveç shkollavet të dyta e të treta do të jetë një gjithëmësime (*dar-yl-fynun*, πανεπιστήμειον), një shkollë ushtërije, një për metaletë, e për pyjetë, një për bujqësinë edhe shumë të tjera për dituri e për mjeshtëri të veçanta. Më pastaj edhe dy gjithëmësime duhetë të hapenë: një në Shqipëri të Sipërme e një në të Poshtërmet. Shkoll' e anierisë duhetë të jetë mb'anë detit, tek të jen' edhe aniat' e luftësë, në Durrësë a në Ujët-të-Ftohtë (afrë Vlorësë).
+
+Një këshillë diturije (*akademie*) duhetë të jetë në kryeqytett, e cila të kujdesetë për gjuhët' e për livratë që duhenë etj. Një shtypëtore e qeverisë do të merretë me të shtypurë livratë që duhenë për shkollatë, edhe të nxjerrë fletore diturije të përkohëshme e çdo gjë që duhetë për të xgjuarë Shqipëtarëtë. Disa shoqërirëra do të bëhenë me ndihmit të ministris' së diturisë për të shpënë përpara dheshkronjënë, istorinë, dhekërkonjënë (γεωλογία), metaletë e të tjera punëra të Shqipëris; edhe cilado nga këto do të nxjerrë një herë në muajt a më pakë një fletore të përkohçime; në të cilët të rrëfehetë gjithë ç'ka gjetur' a çpikurë shoqërija.
+
+Në kryeqytett të Shqipërisë do të jenë dy shkolla të mbëdha për gjuhërat; në njërët nga këto do të mësohenë gjuhërat' e ra t'Evropësë: francishtja, gjermanishtja, italishtja, inglishtja, slavishtja, greqisht' e re etj.; në tjatëret gjuhërat' e vjetëra: Greqisht' e vjetërë, latinishtja, arabishtja, persishtja, sanskrishtja etj. Cilado nga këto shkolla do të ketë një këshillë, e cila do të jetë e mbledhurë prej njerësh që dinë këto gjuhëra, edhe do të përpiqenë të shkruajn' e të shtypinë livra mësimi etj. në këto gjuhë, edhe shtypëtore e qeverisë do të ketë shkronjat' e gjithëve këtyre gjuhe për të shtypurë ato.
+
+Një musie e përgjithçime do të jetë në kryeqytett për gjithë sa gjërëra të vjetëra, shtaturëra, fytyrëra, gurë të shkruarë etj. që do të gjendenë në Shqipëri e gjetkë, edhe qeveri e kësaj musie do të mihnj' e të rrëmojë gjithë vëndet' e qytetevet të vjetërë për të kërkuarë antikëra. Një tjatrë musie do të jetë për istori të naturtë, edhe këshill' e kësaj do të bënjë kërkime nëpër të tërë Shqipërit për barëratë, drurëtë, metaletë, gjërërat' e gjalla etj. të Shqipërisë, si edhe gjërërat' e vjetëra të dhet[r]egonjësë e të njeritregonjësë. Cilado nga këto të dy këshilla të musievet do të nxjerrë një fletore një herë në muajt, në të cilat të shkrujnë kërkimet' e gjendjet' e tyre edhe shumë diturirëra prej ç'bëhenë n'Evropë e gjetkë për këto punëra. Një bibliothek' e madhe do të bëhetë e të ketë brënda livra etj. të shkruara të nevojta e të vyera në gjithë gjuhët që munt të merrenë vesh në Shqipëri.
+
+N'ata vënde të Shqipërisë që flitenë edhe të tjera gjuhë përveç Shqipesë, si bulgarisht, greqisht, vllahisht, ata që flasinë këto gjuhë do të mësojnë në shkollat të para gjuhën' e tyre edhe shqipenë bashkë; shkollat' e dyta e të lartëta do të jenë Shqip; po në dashçinë, munt të bëjnë edhe shkolla të mbëdha në gjuhet të tyre për vehte; po, pos ditnë të shkruajn' e të këndojnë shqip, në nonjë punë të qeverisë s'hyjnë dot, as në këshillat mundinë të xgjidhenë si mise.

@@ -7,106 +7,18 @@ grandparent: Shqipëria
 order: 13
 ---
 
-Brënda në kufit, që treguam siprë, Shqipëria ka
-afro 2,000,000 njerës a edhe më teprë. Nga këta ndo
-100,000 janë Vlleh a Xinxarë në malet të Pindosë edhe
-nëpër të tjerë vënde të përhapurë: edhe aqë të tjerë munt
-të jenë Grekër, rrotull Janinës, e shqeh në fushën e
-Manastirit e nga anët e Kosovës. Po edhe këta munt të
-jenë Shqipëtarë, që kanë haruarë gjuhën' e tyre e kanë
-nxënë greqishten' a shqahishtenë në shkollë e në kishë.
-Edhe shumë nga këta s'kan' as dhe as shtëpi të tyre, po
-janë bujqër në dhe të të tjerëve, të cilëtë i kanë sjellë së
-largu për të punuarë dhen' e tyre në kohëra që
-Shqipëtarëtë s'muntninë të lininë pushkënë për të marrë
-kazmënë në dorë.
+Brënda në kufit që treguamë siprë, Shqipëria ka afro 2,000,000 njerës a edhe mê teprë. Nga këta no 100,000 janë Vlleh a Xinxarë në malet të Pindosë edhe nëpër të tjerë vënde të përhapurë; edhe aqë të tjerë munt të jenë Grekër, rrotull Janinësë, e Shqeh në fushët të Manastirit e nga anët' e Kosôvësë. Pô edhe këta munt të jenë Shqipëtarë që kanë haruarë gjuhën' e tyre e kanë nxënë greqishten' a shqahishtenë në shkollë e në kishë. Edhe shumë nga këta s'kan' as dhe as shtëpi të tyre, pô janë bujqër në dhe të të tjerëve, të cilëtë i kanë sjellë së largu për të punuarë dhen' e tyre në kohëra që Shqipëtarëtë s'muntninë të lininë pushkënë për të marrë kazmënë në dorë.
 
-Gjithë të tjerëtë vëndës të Shqipërisë janë fjeshtë
-Shqipëtarë, të ndarë më gegë e toskë. Shkumbija ndan
-Gegërinë nga Toskëria, po edhe në jugët të këti lumi ka
-pakë gegë e flitetë në ca vënde gegërisht.
+Gjithë të tjerëtë vëndës të Shqipërisë janë fjeshtë Shqipëtarë, të ndarë më Gegë e Toskë. Shkumbija ndan Gegërinë nga Toskëria, pô edhe në jugët të këti lumi ka pakë Gegë e flitetë në ca vënde gegërisht. Në mest të Gegëvet e të Toskëvet nukë ka nonjë ndarje me rënjë. Të gjithë janë një komp, flasinë një gjuhë me fort pakë të ndruarë, të cilëtë do të ngrihetë fare për s'afri duke ndërtuarë gjuha. Edhe nga besa Shqipëtarëtë ndahenë më myslimanë, që janë dy të treta, e më të krishtenë, që janë një e treta. Të krishtenëtë ndahenë afro për gjymësë më katolikë a Llatinë, si i themi, edhe më orthodhoksë. Në Gegëri të krishtenëtë janë katolikë, në Tosqëri, orthodhoksë. Edhe myslimanëtë janë të ndarë më *synninj* e *Bektashinj*.
 
-Në mest të gegëvet e të toskëvet nukë ka ndonjë
-ndarje me rrënjë. Të gjithë janë një komp, flasinë një
-gjuhë me fort pakë të ndruarë, të cilëtë do të ngrihetë fare
-për s'afri duke ndërtuarë gjuha. Edhe nga besa
-Shqipëtarëtë ndahenë më myslimanë, që janë dy të treta,
-e më të krishtenë, që janë një e treta. Të krishtenëtë
-ndahenë afro për gjymësë më katolikë a llatinë, si i themi,
-edhe më orthodhoksë. Në Gegëri të krishtentë janë
-katolikë, në Tosqëri orthodhoksë. Edhe myslimanëtë janë
-të ndarë më Synninj e Bektashinj.
+Pô këto ndarje të besësë nukë sjellënë nonjë ç'qim e çarje në mes të Shqipëtarëvet. Grindat' e besësë, të cilatë, jo vetëm në vëndet të Lindjesë pô edhe n'Evropë e në vënde të ndrituara me qytetërí, shumë herë kanë nxjerrë vrasje të mbëdha e të tëmeruara, në Shqipëri këto grinda nukë dihenë, edhe kurrë në këtë vënt s'ka ngjarë gjë në mest të myslimanëvet e të të krishtenëvet, në mest të katolikëvet e t'orthodhoksëvet a në mest të synninjet e të bektashinjet. Shqipëtari është shqipëtar përpara se të jetë mysliman a i krishtenë. Ç'ka qënë kur kish besën' e ti, besën' e Pelasgëvet, ay qe edhe si u bë i krishtenë, ay është edhe si mori besën' e Muhamedit. Besa s'e ka ndruarë fare edhe kurrë, se vë gjithënjë kombërinë përpara besësë.
 
-Po këto ndarje të besës nukë sjellënë nonjë çqim a
-çarje në mes të Shqipëtarëvet. Grindat' e besësë, të cilatë,
-jo vetëm në vëndet të Lindjes po edhe n'Evropë e në vënde
-të ndrituara me qytetëri, shumë herë kanë nxjerrë vrasje të
-mbëdha e të tëmeruara, në Shqipëri këto grinda nukë
-dihenë edhe kurrë në këtë vënt s'ka ngjarë gjë në mest të
-myslimanëvet e të të krishtenëvet, në mest të katolikëvet
-e t'orthodhoksëvet a në mest të synninjet e të
-bektashinjet. Shqipëtari është shqipëtar përpara se të jetë
-mysliman a i krishtenë. Ç'ka qënë kur kish besën' e ti,
-besën' e Pelasgëvet, ay qe edhe si u bë i krishtenë, ay është
-edhe si mori besën' e Muhamedit. Besa s'e ka ndruarë fare
-edhe kurrë, se vë gjithënjë kombërinë përpara besësë.
+Me fuqit të kësaj lidhjeje e të kësaj dëshire që kanë mbajturë gjithëmonë brez pas brezi me kombërit të tyre, Shqipëtarëtë kanë mundurë të ruajnë kombërin' e gjuhën' e tyre nëpër mest të kaqë rezikeve q'i kanë mbyturë kohë më kohë. Me gjithë ndryshimet' e besësë, me gjithë ndryshimet' e kohëravet, Shqipëtarëtë janë edhe sot ç'ishinë këtu e kaqë mijë vjet mê parë; janë Pelasgët' e kohëravet të përallave, Illyrinjt' e Maqedonasit' e kohëravet të vjetëra, Epirotët' e kohës' së Skënderbeut. Janë një komp shum' i vjetërë që ka mbeturë gjer më sot si ka qënë që në kryet.
 
-Me fuqit të kësaj lidhjeje e të kësaj dëshire, që kanë
-mbajturë gjithëmonë brez pas brezi më kombërit të tyre,
-Shqipëtarëtë kanë mundurë të ruajnë kombërin' e gjuhën'
-e tyre nëpër mest të kaqë rrezikeve, q'i kanë mbyturë kohë
-më kohë. Me gjithë ndryshimet' e besësë, me gjithë
-ndryshimet' e kohëravet, Shqipëtarëtë janë edhe sot
-ç'ishin këtu e kaqë mijë vjet më parë; janë Pelasgët' e
-kohëravet të përallave, Ilyrinjt' e Maqedonasit' e
-kohëravet të vjetëra, Epirotët' e kohës së Skënderbeut.
-Janë një komp shum' i vjetërë, që ka mbeturë gjer më sot
-si ka qënë që në kryet.
+Shqipëtarëtë kanë gjithë ç'i duhetë një kombi: Janë aqë trima e të fortë, sa duk me qënë mê pakë se 2 miliunë njerës burra e gra, po të shtrëngohenë, mundinë të nxjerrinë 300,000 a edhe mê teprë ushtarë, të cilëtë janë mbaras me një miliun të një kombi tjatërë. Trimërin' e Shqipëtarit edhe fuqin' e forcën' e ti në luftë nuk' e themi vetëm na Shqipëtarëtë; pô edhe anëmikëtë tanë s'e pshehinë dot, e e thonë përherë. Pô q'është kështu, s'ka ndryshim që Shqipëtarëtë janë të zottë të ruajnë vëndin' e tyre kuntrë ç'do anëmiku e ç'do reziku. Duhetë pra që Shqipëria të mos shkeletë kurrë prej të huajsh, e të mbanjë gjithënjë dlirin' e saj. Shqipëtari trim e i fortë, pse të mos jetë zot' i Shqipërisë, pse të mos urdhëronjë në vëndit të ti?
 
-Shqipëtarët kanë gjithë ç'i duhetë një kombi: Janë
-aqë trima e të fortë, sa, duk me qënë më pak se 2 miliunë
-njerës burra e gra, po të shtrëngohenë, mundinë të
-nxjerrinë 300,000 a edhe më teprë ushtarë, të cilëtë janë
-mbaras me një miliun të një kombi tjatërë. Trimërin' e
-Shqipëtarit edhe fuqin' e forcën' e tij në luftë nuk' e themi
-vetëm na Shqipëtarëtë; po edhe anëmikëtë tanë s'e
-pshehinë dot e e thonë përherë. Po q'është kështu, s'ka
-ndryshim që Shqipëtarëtë janë të zottë të ruajnë vëndin e
-tyre kuntrë çdo anëmiku e çdo reziku. Duhetë pra që
-Shqipëria të mos shkeletë kurrë prej të huajsh e të mbajnë
-gjithënjë dlirinë e saj. Shqipëtari trim e i fortë pse të mos
-jetë zot' i Shqipërisë, pse të mos urdhëronjë në vëndit të
-ti?
+Shqipëtari s'është vetëm i fortë e trim, pô edhe i xgjuarë mé teprë se ç'do komp. Në ç'do shkollë, në ç'do mësim që të hynjë Shqipëtari, çquan nga të tjerëtë, edhe del siprë të gjithëve. Në punërat e në mjeshtërit Shqipëtari s'është mê pak' i zoti se në luftët e në diturit: Punon dhenë pa lodhje, hap vija të thella, munt të bënjë punëra të mbëdha e të vyera. Është hekurpunonjës i çquarë; bën thika, gërshërë, armë etj.; një herë t'a shohë një pushkë të dalë nga fabrikat' e Evropësë e të bërë me maqina të mbaruara, ësht' i zoti atë çast t'a bënjë pa të çquarë me dorë e me vegëlla të meta. Shqipëtari punon edhe mëndafshinë, leshnë, pambuknë, linë; bën pëlhurë, shajak, napë etj. Punon lëkurënë, bën meshin, gëzof etj. Djathi, gjalpëtë, vaji, vera e të tjera gjërëra që bëhenë prej bulmetit të bagëtivet a prej pemëvet të dheut janë nga mê të përdoruratë punëra me të cilatë merrenë Shqipëtarë.
 
-Shqipëtari s'është vetëm i fortë e trim, po edhe i
-xgjuarë më tepërë se çdo komp. Në çdo shkollë, në çdo
-mësim që të hynjë Shqipëtari, çquan nga të tjerëtë edhe
-del siprë të gjithëve. Në punërat e në mjeshtërit
-Shqipëtari s'është më pak i zoti se në luftët e në diturit:
-punon dhenë pa lodhje, hap vija të thella, munt të bënjë
-punëra të mbëdha e të vyera. Është hekurpunonjës i
-çquarë; bën thika, gërshërë, armë etj; një herë ta shohë
-një pushkë të dalë nga fabrikat' e Evropës e të bërë me
-maqina të mbaruara ësht' i zoti atë çast ta bënjë pa të
-çuarë me dorë e me vegëla të meta. Shqipëtari punon edhe
-mëndafshnë, leshnë, pambuknë, linë; bën pëlhurë, shajak,
-napë etj. Punon lëkurënë, bën meshin, gëzof etj. Djathi,
-gjalpëtë, vaji, vera e të tjera gjërëra, që bëhenë prej
-bulmetit të bagëtivet a prej pemëvet të dheut, janë nga më
-të përdoruratë punëra, me të cilat merrenë Shqipëtarëtë.
+Shqipëtarkatë, aqë të hjeshime sa edhe të nderçime, mê teprë se burrat' e tyre edhe, po thua, aqë trime sa edhe ata, vështojnë vetëm për vetëm punët' e shtëpisë, pa përzjerë burratë. Me gjithë këtë edhe avlëmëndin' e gjergjefnë s'e çkrehinë; bëjnë pëlhura të holla e byrynxyke të mëndafshta fort të bukura, e qëndisinë me ar e me mëndafsh. Përveç të prerët' e të qepurit' e rrobavet, të pleksurit' e çorapevet e të tjera punëra të përdorme të shtëpisë.
 
-Shqipëtarkat, aqë të hjeshime sa edhe të nderçime,
-më teprë se burrat' e tyre edhe, po thua, aqë trime sa edhe
-ata, vështojnë vetëm për vetëm punët' e shtëpisë, pa
-përzjerë burratë. Me gjithë këtë edhe avlëmëndin' e
-gjergjefnë s'e çkrehinë; bëjnë pëlhura të holla e
-byrynxhyke të mëndafshta fort të bukura e qëndisinë me
-ar e me mëndafsh, përveç të prerët' e të qepurit' e
-rrobavet, të pleksurit' e çorapavet e të tjera punëra të
-përdorme të shtëpisë.
-
-Me një fjalë: Shqipëtarëtë janë trima, të mënçimë,
-punëtorë, të zottë për çdo punë. Me gjithë ndryshimt të
-besëvet nukë janë të ndar' e të çarë po të bashkuarë; kanë
-dashurinë në mest të tyre. Kanë, do-me-thënë, gjith' ato
-që duhetë të ketë një komp për të vajturë mbarë.
+Me një fjalë: Shqipëtarëtë janë trima, të mënçime, punëtorë, të zottë për ç'do punë. Me gjithë ndryshimt të besëvet nukë janë të ndar' e të çarë pô të bashkuarë; kanë dashurinë në mest të tyre. Kanë, do-me-thënë, gjith' ato që duhetë të ketë një komp për të vajturë mbarë.

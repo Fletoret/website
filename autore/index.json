@@ -187,7 +187,8 @@
         "thumbnail": "/images/covers/shqiperia-sami-frasheri-cover.avif",
         "abstract": "Mendime për shpëtimt të mëmëdheut nga reziket që e kanë rethuarë.",
         "publishedFletoret": true,
-        "epub": true
+        "epub": true,
+        "subtitle": "Mendime për shpëtimt të mëmëdheut nga reziket që e kanë rethuarë"
       },
       {
         "@context": "https://schema.org",
