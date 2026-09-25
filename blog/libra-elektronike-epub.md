@@ -17,8 +17,8 @@ reklama, pa pagesë.
 EPUB-i është formati standard i librave elektronikë. Ndryshe nga një
 faqe interneti, ai lexohet pa internet, e mban mend ku ke mbetur, dhe
 të lë të zgjedhësh vetë shkronjat, madhësinë dhe ngjyrën e faqes. Një
-libër i gjatë si *Lahuta e Malcís* lexohet shumë më mirë në një lexues
-elektronik se sa në telefon, në mes të skedave të shfletuesit.
+libër i gjatë si *Lahuta e Malcís* lexohet më mirë në një lexues
+elektronik se sa në telefon.
 
 ### Në shifra
 
