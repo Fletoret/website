@@ -24,7 +24,6 @@ Po don me m'shky?»
 
 Me rrâj e nxora,
 E mora n'gji,
-
 Në kopsht e çova,
 Në t'bukren shpië.
 

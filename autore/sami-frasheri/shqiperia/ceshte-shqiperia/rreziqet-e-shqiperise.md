@@ -1,10 +1,10 @@
 ---
-title: Reziket' e Shqipërisë.
+title: Reziket' e Shqipërisë
 author: Sami Frashëri
 respectLineBreaks: false
 parent: Ç'është Shqipëria
 grandparent: Shqipëria
-order: 7
+order: 17
 ---
 
 Shqipëria gjer pak kohë më parë ka qën' e
@@ -21,7 +21,7 @@ Austria i ka ardhurë mi krye. Me Tyrqinë e lith një rrip
 dheu i hollë në mest të Bulgaris' e të detit Egje, që këtë
 rrip Bulgarëtë mundinë me të parët ta marrin' e t'unjenë
 mb'anë detit, edhe ta presin' e ta çkëpujnë Shqipërinë nga
-Turqia, e cila s'ka as nonjë fuqi në dett, që t'i ndihnj' andej
+Tyrqia, e cila s'ka as nonjë fuqi në dett, që t'i ndihnj' andej
 Shqipërisë. Prandaj në një luftë, në të cilët të marrin' anë
 edhe Bullgarëtë, Shqipëtarëtë duhetë të jenë të zottë të
 ruajnë vetë më vetëhe vëndin' e tyre e të mos varenë më
@@ -31,14 +31,14 @@ Po veç këtyre rezikeve, që do të dukenë në kohët të
 luftësë, Shqipëria ka rezike më të mbëdhenj e më të thellë,
 të cilëtë po i nxjerrinë rënjëtë në kohët të paqit, pa gjak e
 pa armë. Kjo është luft' e pëndës' e e shkollësë, luft' e
-kombërisë. Kombetë' q'e kanë rrethuarë Shqipërinë duanë
+kombërisë. Kombetë, q'e kanë rrethuarë Shqipërinë duanë
 ta copëtojn' e ta ndajnë në mest të tyre. Greqtë, Shqehtë e
 të tjerë kombe fqinjë s'duanë të njohinë qënien' e
 kombërisë shqipëtare. Sicilido përdor besën' e ti e do të
 heqë m'anët të ti ata Shqipëtarë, që kanë një besë me të.
 M'i pari Tyrku do të heqë Shqipëtarëtë myslimanë e t'i
 ndanjë nga vëllezërit' e tyre, Shqipëtarët' e krishtenë,
-duke futurë në mest të tyre fanastismën' e grindenë. Për
+duke futurë në mest të tyre fanatismën' e grindenë. Për
 të ndarë të krishtenëtë për jetë nga myslimanëtë e për të
 hapurë në mest të tyre një trap të thellë, qeveri' e Tyrkut
 Shqipëtarët' e krishtenë s'i njeh për Shqipëtarë, po i quan
@@ -46,7 +46,7 @@ Rum domethënë Greq, Bulgarë, Sërbët, Llatinë etj. edhe
 myslimanëtë i quan islam; edhe emëninë Shqipëtar s'e
 njeh e s'do ta dëgjonjë. Të verbëritë Tyrq! Nuk' e kuptojnë
 dot, e s'iau pret mëndja që me këtë udhë shërbejnë
-qëllimet' e armikëvet të tyre e nxierinë themelet' e rënjët'
+qëllimet' e armikëvet të tyre e nxjerinë themelet' e rënjët'
 e tyre!
 
 Greqtë, të cilëtë dlirin' e tyre edhe mbretërinë, që
@@ -77,24 +77,24 @@ bukurënë e të mësohenë të flasin' e të shkruajn' e të
 ligjërojnë greqisht e me këtë udhë të bëhen Grekër.
 Mendohenë se, po të bëhenë të krishterëtë Grekër,
 myslimanëtë Evropa s'i ka për të vënë në vatrë, edhe po
-të vinjë koha, ay vënit, do-me-thënë gjithë Shqipëri e
+të vinjë koha, ay vënt, do-me-thënë gjithë Shqipëri e
 jugësë e gjithë Toskëria, do t'i epetë Greqisë.
 
 P'andaj Grekëritë, më nj'anë nga Athina me
 shkolla, me mësonjës, me livra, me shëronjës e me shumë
-gjërëra të tjera edhe me të holla të tepra, ifcë paguara
+gjërëra të tjera edhe me të holla të tepra, të paguara
 prapë prej Shqipëtarësh të çmëndurë e trathtorë
 grekomanë, edhe më nj'anë tjatërë nga Konstantinopoja
 me anët të patrikërisë, të dhespotëvet, të priftëret e të
 kishësë, duke përdorurë aforismonë e të dëbuarët nga
 kisha, sikur t'ish edhe Krishti Grek edhe sikur, për të
 qënë i krishten' e orthodhoks, duhet pa ndryshim të jetë
-gjithëikush Grek a grekoman; nga të dy këto anë, themi,
+gjithëkush Grek a grekoman; nga të dy këto anë, themi,
 Grekëritë po përpiqenë që të kthejnë ditë me ditë
 Shqipëtarëtë orthodhoksë e t'i bëjnë Grekër.
 
 E Shqipëtarëtë orthodhoksë, nga padija e nga
-erësira në të cilët gjendënë, gënjehenë çpejt, u duketë
+erësira në të cilët gjendenë, gënjehenë çpejt, u duketë
 sikur vërtet s'munt të jenë të krishtenë pa qënë Grekër,
 pandehinë se vetëm greqishtja është gjuh' e orthodhoksisë
 edhe që, me të lënë këtë gjuhë, të cilënë e dinë fort pakë
@@ -123,7 +123,7 @@ Fenerit.
 
 Pas Tyrqet e Grekërvet Shqipëria ka armikër
 Bulgarët' e Sërbëtë, të cilëtë duanë të bëjnë nëpër anët të
-lindjes' e të veriut itë Shqipërisë ato që bëjnë Grekëritë
+lindjes' e të veriut të Shqipërisë ato që bëjnë Grekëritë
 n'anët të jugësë. Edhe nëpër ato anë shumë Shqipëtarë
 orthodhoksë, aqë të paditur' e të pakupëtuarë sa të tjerëtë,
 tregojnë një dëshirë për gjuhën' e Shqehet e duanë të
@@ -131,21 +131,21 @@ harojnë gjuhën' e bukurë që kanë folurë prindërit' e tyre
 që kaqë mijë vjet e tëhu. Ç'i math turp e ç'e madhe
 poshtëri e unjtëri e fëlliqurë! Po edhe këtyre Shqehe u
 ndihinë Tyrqitë, (të cilët atyre u lenë duartë çpenguarë të
-hëjnë ç'të duanë e neve na i lidhinë skrupullë; atyre u
+bëjnë ç'të duanë e neve na i lidhinë skrupullë; atyre u
 apënë fermanë të hapinë shkolla e mitropolitirëra ndër
 vëndet tanë e neve s'na lenë të kemi as një shkollë të
-vogëlë! Pa menduarë një herë se Grekëretë e Shqehtë janë
+vogëlë!) Pa menduarë një herë se Grekëretë e Shqehtë janë
 miqt' e Tyrqisë apo Shqipëtarëtë, edhe cilëtë kanë
 derdhurë edhe derdhinë edhe sot gjak për të?
 
 Kështu Tyrqitë edhe me ndihmën e këtyre, grekërit
-e shqehtë janë armikët' e Shqipërisë' e të Shqipëtarëvet;
+e shqehtë janë armikët' e Shqipërisë e të Shqipëtarëvet;
 edhe përpiqenë, me sa u vjen nga dora, ta humbasinë
 kombërin' e gjuhën' e këti kombi, të cilit edhe emëninë
 duan t'ia ngrenë fare. Greqia, Bulgaria e Serbia përpiqenë
 ta humbasin' e ta ngrenë kombërinë shqipëtare e gjuhënë
 shqip cilado nga ajo cop' e Shqipërisë, q'i ka rënë më pjesët
-të saj edhe q'e vështon që tani të sajnë, dyke kthyerë të
+të saj edhe q'e vështon që tani të sajnë, duke kthyerë të
 krishtenëtë në kombërit të tyre; edhe Tyrqia më nj'anë u
 ndih këtyre në këtë punë e më nj'anë tjatrë kërkon të heqë
 Shqipëtarëtë myslimanë e t'i ndanjë nga vëllezërit' e tyre,

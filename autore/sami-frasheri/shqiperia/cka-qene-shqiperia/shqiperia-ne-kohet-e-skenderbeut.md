@@ -21,10 +21,10 @@ n’ushtëri të Tyrqet, që çuditësh gjithë bota; kudo që vinte,
 muntte e njeri s’i qëndronte dot kundrejt.
 
 Kur u këthye Skënderbeu nga Syria, tek kish vajturë të
-lëftonte për Tyrqit, dëgjoi nga goj’ e Sulltani't vetë q’i ati
+lëftonte për Tyrqit, dëgjoi nga goj’ e Sulltanit vetë q’i ati
 kish vdekur; po duk me qënë që pas kuvëndit e pas besësë,
 që kish lidhur i ati me Sulltanë, duhesh që një nga të bijtë
-të vinte në Krojë për të ndënjturë në front të t’et,
+të vinte në Krujë për të ndënjturë në front të t’et,
 Skënderbeu bashkë me vdekjen e t’et mësoi edhe vdekjen
 e të tre vëllezëret të ti, të cilëtë s’muntninë të vdisninë nga
 Perëndia, kështu të tre për një herë. Trimi shqipëtar nuk’
@@ -40,7 +40,7 @@ t’ikënj’ e të vejë në Shqipëri, për të shpëtuarë edhe
 vetëhen’ e ti edhe mëmëdhenë, për të cilën’ i digjësh
 zëmra. Kohënë, që kërkonte e gjeti pa priturë shumë; edhe
 vate në Krujë, përzuri Tyrqitë andej edhe ndenjti në front
-të t'et. Gjime zotërinjt’ e të parët' e Shqipërisë u mbluadhë
+të t'et. Gjithë zotërinjt’ e të parët' e Shqipërisë u mbluadhë
 në Krujë, lithnë fjal' e kuvënt e dhanë besë të përpiqenë e
 të vdesinë për shpëtimt të mëmëdheut, duke njohurë të
 gjithë për krye e mbret të tyre Skënderbenë.
@@ -57,10 +57,10 @@ tëmerrë në zëmrat të Tyrqet.
 Dyzet e kaqë vjet qëndroi kështu Skënderbeu me
 Shqipëtarëtë duke vrar’ e duke handakosurë armikëtë; e
 mbajti Shqipërinë të pamundur’ e të paposhtuarë. Gjithë
-pushtetat’ e Evropës, q’ishinë atëhere, kishinë shpresë ne
+pushtetat’ e Evropës, q’ishinë atëhere, kishinë shpresë në
 Skënderbeu e prisninë shpëtimin’ e Evropësë nga
 Shqipëtarëtë. Po ata nuk kishinë trima e burra si
-Skënderbeu, as kishinë besën’ e Shqiptarëvet. Shumë
+Skënderbeu, as kishinë besën’ e Shqipëtarëvet. Shumë
 herë Ungrëtë (Maxharëtë) e Papa e futninë Skënderbenë
 në zjart, pastaj hiqëshinë e e lininë vetëm, duke vështuarë
 së largu. Me gjithë këtë Skënderbeu qëndroi e duroi; edhe

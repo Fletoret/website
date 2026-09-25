@@ -1,5 +1,6 @@
 ---
-title: Proverba - Vëllimi 3
+title: Vëllimi 3
+slug: proverba-vellimi-3
 author: Sami Frashëri
 respectLineBreaks: false
 parent: Proverba
@@ -12,9 +13,9 @@ order: 3
 669. Gabimet që harrohen, përsëriten.
 670. Një fatkeqësi që vjen papritmas duket e madhe, fatkeqësia që shikohet për së
     largu dhe matet me kompasin e arsyes, nuk ndihet fare.
-671. Edhe fatkeqësia ia verbon njeriut sytë ashcu si lumturia; kush e ka pësuar mund të
+671. Edhe fatkeqësia ia verbon njeriut sytë ashtu si lumturia; kush e ka pësuar mund të
     gabohet edhe me një shpresë fare të dobët.
-672. Njeriu është gjithnjë në dëm pse llogarit gjithënjë borxhet dhe mëkatet e tij.
+672. Njeriu është gjithnjë në dëm pse llogarit gjithnjë borxhet dhe mëkatet e tij.
 673. Sikundër që bleta prodhon mjaltë çdo vit dhe pjergulla jep rrush çdo vit, edhe
     njeriu, pasi të ketë bërë një mirësi, nuk duhet të ndalet duke u lavdëruar, por të
     përpiqet për të përsëritur atë mirësi.
@@ -36,7 +37,7 @@ order: 3
 681. S'ka gjë më të vështirë se të larguarit e zakoneve të këqia nga një popull, e
     megjithëkëtë s'ka punë më të mirë se ajo.
 682. Kush dëshiron të vërë në rrugë të mirë një popull, më parë duhet të përpiqet të
-    fitojë sirapatinë e besimin e tij.
+    fitojë simpatinë e besimin e tij.
 683. Madhështia është krimbi i pasurisë, kurse lakmia për famë, krimbi i lirisë.
 684. Talismani, për të qeverisur me lehtësi dhe për ta kënaqur një komb: nëpunësve
     dhe luftëtarëve — grada sipas zotësisë, bujqve — bukë, tregtisë — mbrojtje,
@@ -45,9 +46,9 @@ order: 3
     shkakton armiqësinë në mes tyre; vetëm tregtia përpiqet t'i bashkojë kombet.
 686. Keqbërja ia shqyen barkun shkaktarit ashtu si akrepi.
 687. Një pjesë e një bashkësie po të pranojë ndihmën e huaj për t'u ndarë më vehte,
-    përveçse ka bërë fli të mirën e përgjithshme për të mirën c vet. edhe dobinë e vet
+    përveçse ka bërë fli të mirën e përgjithshme për të mirën e vet, edhe dobinë e vet
     ua ka lënë të huajve.
-688. Prika ka bërë që të dobëtit të bëhen me dëshirën e tyre skllevër të të fortëve.
+688. Frika ka bërë që të dobëtit të bëhen me dëshirën e tyre skllevër të të fortëve.
 689. Sadoqë frika është e dëmshme në vetvete, të kesh frikë nga ligji dhe opinioni
     publik është e dobishme për individët dhe për shoqërinë.
 690. Një qeveri, e cila s'lë të qetë njerëzit e ndershëm, nuk është në gjendje të frikësojë
@@ -65,7 +66,7 @@ order: 3
     (që do të kishin përfituar vetitë e përmendura).
 696. Njeriu përpiqet të shërojë sëmundjet e trupit të tij, por nuk mendon fare për
     shërimin e atyre të mendjes.
-697. Nëse jeta është një dru i rairë, vdekja është pema e tij, nëse jeta është një varg
+697. Nëse jeta është një dru i mirë, vdekja është pema e tij, nëse jeta është një varg
     vuajtjesh, vdekja është fundi i tyre.
 698. Të dashurosh është një lumturi, të kesh mëri është një vuajtje; dashuria është një
     shenjë nga parajsa e armiqësia nga skëterra.
@@ -79,7 +80,7 @@ order: 3
 702. Janë gjëra që nuk pajtohen: absolutizmi me lirinë, pakënaqësia me qetësinë,
     shkelja e ligjit me rregullin.
 703. Shumë rrallë del e mundur dhelpëria në luftë me nderin.
-704. Eshtë një zotësi e madhe të dish si duhet trajtuar të mundurit.
+704. Është një zotësi e madhe të dish si duhet trajtuar të mundurit.
 705. Ata që i zë gjumi i pakujdesisë me nananinat e lajkatarëve, janë fëmijë në botën e
     mendjes e të zotësisë.
 706. Detyra e parë e qeverisë është të mos bëhet padrejtësi nga ana e gjykatave.
@@ -94,7 +95,7 @@ order: 3
     kënaqësi armiqtë e tij.
 713. Ai njeri që arrin të zhdukë një të mijtën e veseve të liga dhe të besimeve të kota të
     kombit të tij, ka bërë një të mirë shumë të madhe në botë.
-714. Porca, zotësia dhe fati mund të pushtojnë një vend; por atë vend nuk mund ta
+714. Forca, zotësia dhe fati mund të pushtojnë një vend; por atë vend nuk mund ta
     ruajë (që të mos dalë nga dora) askush veçse drejtësia.
 715. Njeriu që ka lindur i verbër është e pamundshme të marrë me mend se ç'është
     zjarri; megjithëkëtë ai di se në botë është një gjë që quhet zjarr dhe di se zjarri të
@@ -116,7 +117,7 @@ order: 3
 722. Ashtu siç e forcon lëvizja trupin, mendimi forcon mendjen.
 723. Puna e njeriut qëndron më shumë se eshtrat e tij (d.m.th. ndërsa eshtrat kalben një
     ditë pema e punës del në shesh).
-724. Njeriu nuk duhet të harrojë se mbetet pas tij (d. m.th. pas vdekjes) çdo gjë që ka
+724. Njeriu nuk duhet të harrojë se mbetet pas tij (d.m.th. pas vdekjes) çdo gjë që ka
     bërë dhe çdo fjalë që ka thënë.
 725. Është lehtë të japësh një gjë, të kërkosh një gjë prej ndokujt është shumë zor;
     megjithëkëtë, ata që kërkojnë janë shumë, ata që japin fare pak.
@@ -131,7 +132,7 @@ order: 3
     mundshme.
 731. Për çdo vuajtje që pëson zemra i ngarkon shumë faje mendjes; por dashuria e
     akuzon mendjen më shumë se të tjerat.
-732. Pjala e një njeriu të ndersbëm nuk është e shtrenjtë për të zotin, por është shumë e
+732. Fjala e një njeriu të ndershëm nuk është e shtrenjtë për të zotin, por është shumë e
     vlefshme për të gjithë.
 733. Fjala është dokumenti më i fortë midis njerëzve të ndershëm.
 734. Sikundër që pesha e barrës e lodh trupin, edhe ëndërrimet e tepruara e lodhin
@@ -150,10 +151,10 @@ order: 3
 741. Do të kishte shumë njerëz të lumtur në botë po të vazhdonte dashuria edhe pas
     martesës, si para martesës.
 742. Detyra e burrit ndaj gruas është ta dojë dhe ta mbrojë atë, ai që kërkon të bëhet
-    sundues i gruas, del nga të qenët taurrë i saj.
+    sundues i gruas, del nga të qenët burrë i saj.
 743. Është një tregti martesa që bëhet duke lakmuar pasurinë e gruas; është një çthurje
     martesa e bërë duke lakmuar bukurinë e saj; është një skllavërim martesa e bërë
-    duke lakmuar pozitën e lartë të farefisit të saj; Martesë e vërtetë është ajo që bëhet
+    duke lakmuar pozitën e lartë të farefisit të saj; martesë e vërtetë është ajo që bëhet
     me zgjedhjen dhe pëlqimin e të dy palëve.
 744. Burri që nuk është i mirë për gruan, nganjëherë është i mirë për fëmijët e tij; por
     gruaja që nuk është e mirë për burrin, edhe për fëmijët nuk vlen kurrë.
@@ -164,11 +165,11 @@ order: 3
     shumë, nuk është ligj, por një shpagim kundër shoqërisë.
 748. Sado i madh të jetë faji i një njeriu, ligji nuk ia heq nga dora mjetin e jetesës.
 749. Sa e dëmton njeriun një dentist, i cili në vend të një dhëmbi të dëmtuar i heq një
-    dhëmb të shëndoshë, duke qenë e ngarkuar për të ndeshkuar fajtorët — edhe
+    dhëmb të shëndoshë, duke qenë e ngarkuar për të ndëshkuar fajtorët — edhe
     gjykata që dënon një të pafajshëm, po në atë shkallë e dëmton njerëzinë.
 750. Gjykatësi, i cili nuk i ndëshkon fajtorët, mund të numërohet neglizhues, por një
     gjykatës që ndëshkon të pafajshmit është vetë një kriminel dhe gjakpirës.
-751. Kur dielli duket sheshit, a mund t'i thuhet gënjeshtar atij që thotë  se është ditë?
+751. Kur dielli duket sheshit, a mund t'i thuhet gënjeshtar atij që thotë se është ditë?
 752. Gjykatësi, i cili ndëshkon të pafajshmit, njollos emrin dhe famën e vet.
 753. Njeriu trishtohet nga një gjë e vogël, e me një gjë të vogël ngushëllohet.
 754. Zbulimet dhe shkencat përparojnë nga shekulli në shekull, se mirësia dhe keqbërja
@@ -187,25 +188,25 @@ order: 3
 763. Te porta e nderit duhet të jenë roje mirëvetia dhe besimi.
 764. Thjeshtësia është bukuria kryesore e grave, se gjëndet shumë rrallë.
 765. Burrat ankohen kundër grave lozonjare, por s'kënaqen nga ato me qëndrim të
-    rëndë (serioz). (D. m.th. s'kënaqen as me njerën as me tjetrën).
+    rëndë (serioz). (D.m.th. s'kënaqen as me njerën as me tjetrën).
 766. Gruaja e ndershme dhe shpneshë është stoli e shtëpisë, lumtëri e burrit, lavdi e
     grave.
-767. Është më lehtë të durosh fatkeqësinë se sa të shpëtosh me anë <të vetëvrasjes.
+767. Është më lehtë të durosh fatkeqësinë se sa të shpëtosh me anë të vetëvrasjes.
 768. Sado e vogël të jetë mirësia (që don të bëjë njeriu), prapëseprapë një sakrificë
     është.
 769. Sa më e madhe të jetë stolia e një gjëje, aq më e vogël është dobia e saj.
 770. Atdhetaria dhe humanizmi bëhet me punë e jo me fjalë; kush tregohet i tillë me
-    fjalë, është nje mashtrues.
+    fjalë, është një mashtrues.
 771. Mirësia që pritet të bëhet për një kohë të gjatë, e humbet vlerën kur realizohet.
 772. Pema e mirësisë është kujtimi i mirë që mbetet në mendje.
 773. Mirësia që të bën një tjetër, formon një detyrim; ai që nuk mund ta shpërblejë
     është një myfliz (i falimentuar) i njerëzimit.
-774. Brendia e njeriut është e mbushur me atë që quhet "unë"; ajo që mendon al në
+774. Brendia e njeriut është e mbushur me atë që quhet "unë"; ajo që mendon ai në
     çdo kohë, është kuptimi i kësaj fjale.
 775. Mirësia e bërë me hipokrizi e mërzit shpejt të zotin.
 776. Njeriu i përngjan qypit, kur është bosh tingëllon më shumë.
 777. Kur njeriu rri duke menduar vetë me vete, të shumtën e herës mendon për
-    lartësimin dhe lumturinë e vetë.
+    lartësimin dhe lumturinë e vet.
 778. Njeriu është një inxhinier, i cili çdo ditë vizaton planin e jetës së tij, mirëpo
     arkitekti nuk përfill asnjë nga planet e atij dhe nuk zbaton asnjërin prej tyre.
     Megjithkëtë, ky inxhinier nuk heq dorë nga hartimi i planeve.
@@ -213,17 +214,17 @@ order: 3
     lumtur në botë, sepse ëndërrimi i një lumturie është më i mirë se realizimi i saj
     (sepse pastaj do të dëshirojë një gjë tjetër).
 780. Thjeshtësia është stolia e atyre që janë të edukuar dhe të mësuar.
-781. Të gjithë e duan thjeshtësinë, disa e lavdojnë. pak vetë e zbatojnë, asnjëri nuk e
+781. Të gjithë e duan thjeshtësinë, disa e lavdojnë, pak vetë e zbatojnë, asnjëri nuk e
     dëshiron.
 782. Është marrëzi të presësh shërimin e një vuajtjeje nga ai që e ka shkaktuar.
 783. Sa e ëmbël është mëshira, aq e hidhur është ta kërkosh (nga të tjerët).
-784. Mos diskuto me partizanin (e një çeshtjeje); sepse po të jesh pro anës që përkrah
-    ai, diskutimi mba ron para se të ketë filluar, po të jesh kundër, duhet të grindesh
+784. Mos diskuto me partizanin (e një çështjeje); sepse po të jesh pro anës që përkrah
+    ai, diskutimi mbaron para se të ketë filluar, po të jesh kundër, duhet të grindesh
     me të.
-785. Nuk duhet diskutuar me atë, që hedh poshtë një çeshtje pa dëgjuar argumentet.
+785. Nuk duhet diskutuar me atë, që hedh poshtë një çështje pa dëgjuar argumentet.
 786. Nuk mund të na bëjë të lumtur gjëja që nuk na e përmirëson gjendjen tonë.
-787. Çdo njeri që të do nuk mund te numërohet mik i vërtetë; miq të vërtetë janë ata që
-    — përveç dashurisë — janë të taashkuar edhe në mendim dhe princip.
+787. Çdo njeri që të do nuk mund të numërohet mik i vërtetë; miq të vërtetë janë ata që
+    — përveç dashurisë — janë të bashkuar edhe në mendim dhe princip.
 788. Të miqësohesh me njerëz të ligj dhe vete të jesh i mirë, është si të jesh hamall
     qymyri dhe të mbesish i pandyrë.
 789. Gjuha është një organ i trupit. Nga ajo mjekët kuptojnë gjendjen shëndetësore të
@@ -260,12 +261,12 @@ order: 3
     bashkatdhetarëve të tij.
 807. Gëzimi shkaktohet nga një gjë e vogël, por vlen sa një jetë që kalohet në mërzi
     dhe në mendime.
-808. Ashtu si ka nevojë trupi për ushqlm, edhe shpirti ka nevojë për edukim.
+808. Ashtu si ka nevojë trupi për ushqim, edhe shpirti ka nevojë për edukim.
 809. Edukata është një petk që do ta veshë njeriun derisa do të jetë gjallë, prandaj
     duhet pasur kujdes që të jetë sa më e përsosur.
 810. Të shumtën e herës janë të barabarta prirjet e njeriut ndaj së mirës dhe së keqes;
     veçse kontakti dhe edukimi dobëson njërën anë e forcon anën tjetër. Është lehtë të
-    shdukësh ligësitë natyrale të njeriut me anë të edukimit; por është e pamundshme
+    zhdukësh ligësitë natyrale të njeriut me anë të edukimit; por është e pamundshme
     të largosh ligësitë që i ka rrënjosur në zemër të njeriut edukimi i keq dhe kontakti
     me njerëz të ligj.
 811. Edukata shumëherë i ngjan velit, i mbulon të metat e njeriut, por nuk i zhduk.
@@ -305,13 +306,13 @@ order: 3
     ato që fitojnë kumarxhinjtë.
 833. Qyshkur gratë, në vend të gërshërës dhe të gjilpërës, filluan të mësojnë pianon,
     burrat u bënë trok.
-834. Është shumë lehtë të blesh një kësulë të re, por ajo kësulë e re kërkon të përtërisht
+834. Është shumë lehtë të blesh një kësulë të re, por ajo kësulë e re kërkon të përtërish
     dhe pallton.
 835. Ai që kursehet për një gjë të vogël të nevojshme, pëson dëm të madh; kush nuk
     ndërron një tra të kalbur të shtëpisë së tij, pa shkuar shumë kohë shtrëngohet ta
     ndërtojë shtëpinë rishtazi.
 836. Është më mirë të biesh i uritur se të zgjohesh në mëngjes nga kreditori.
-837. Po të vesh mënjanë një pjesë të fitimlt, e ke gjetur eliksirin për të kthyer bakrin në
+837. Po të vesh mënjanë një pjesë të fitimit, e ke gjetur eliksirin për të kthyer bakrin në
     ar.
 838. Në vend që të ndërtosh dy oxhaqe, është më mirë të mbash një të ngrohtë.
 839. Kush don të ketë një shërbyes besnik, duhet t'i kryejë vetë shërbimet e tij, se
@@ -358,10 +359,10 @@ order: 3
     dinjitetin e tyre.
 862. Asgjë nuk e mërzit njeriun sa fjala e atij që kuptohet se ç'do të thotë posa të hapë
     gojën.
-863. Qëllirni i fjalës është të thuash atë çka duan të mësojnë ata që dëgjojnë, ose të
+863. Qëllimi i fjalës është të thuash atë çka duan të mësojnë ata që dëgjojnë, ose të
     thuash një gjë që duan ta dëgjojnë. Mirëpo, nëntëdhjetë e nëntë për qind e fjalëve
     që fliten thuhen vetëm pse don të flasë ai që flet.
-864. Përsosrnëria e ligjit lind sigurinë, siguria punën, puna pasurinë.
+864. Përsosmëria e ligjit lind sigurinë, siguria punën, puna pasurinë.
 865. Mirëqenia dhe lumturia e njeriut varet nga një ligj i përsosur dhe nga zbatimi i tij
     të përpikët.
 866. Justifikimi nuk mund të jetë i dëlirë nga gënjeshtra; po të stërhollohet, kuptohet se
@@ -369,13 +370,13 @@ order: 3
 867. Fajet e të tjerëve bëhen shkak të korrigjojmë tonat.
 868. Mirësia që bëhet në botë i ngjan një guri të hedhur në një shpellë të thellë, që sado
     që humbet që të mos gjendet më, për shumë kohë i dëgjohet jehona përreth.
-869. Pjala për njerëzi dhe dashamirësi, që del nga goja e ngatrrestarit dhe keqdashësit,
+869. Fjala për njerëzi dhe dashamirësi, që del nga goja e ngatrrestarit dhe keqdashësit,
     trishton njeriun si fëshfëllimi i gjarpërit.
 870. Mos kij frikë nga arliku që të frikëson; ruaju nga arliku që të tregohet i shenjtë.
 871. Ruaju nga miku që bisedon me armikun tënd.
 872. Çka s'mund të të bëjë armiku, ndonjëherë ta bën miku.
 873. Veset e liga aq shumë i kanë pushtuar rrugët e jetës sa që vetive të mira u ka
-    mtaetur vetëm një rrugicë e ngushtë dhe e errët.
+    mbetur vetëm një rrugicë e ngushtë dhe e errët.
 874. Pasuria më e sigurtë është talenti dhe karakteri i pëlqyer.
 875. Pasi ambiciozi nuk do asnjeri përveç vetes së tij, as atë nuk e do kurrëkush.
 876. Të duash veten tënde do të thotë të mos duash të tjerët, të mos duash të tjerët do të
@@ -385,7 +386,7 @@ order: 3
     e kanë mëri të gjithë, fillon të ketë mëri edhe veten e vet.
 878. Pleqëria nuk është jetë.
 879. Shumica e gjërave që na pëlqejnë janë në kundërshtim me të drejtën.
-880. Ashtu sikundër që trathëtia shkakton mosbesimin, edhe mostaesimi shurnëherë
+880. Ashtu sikundër që trathëtia shkakton mosbesimin, edhe mosbesimi shumëherë
     lind trathtinë.
 881. Atij që kërkon shumë gjëra, nuk duhet t'i jipet asgjë.
 882. Fqiu yt, i cili të mbyll një dritare të shtëpisë sate dhe mbasi të lë shtëpinë pa dritë,
@@ -401,7 +402,7 @@ order: 3
     shtratin tënd dhe të të helmojë.
 889. Po e pe gjarpërin, shtypja kokën; po të gjeti të hutuar, nuk të lë gjallë.
 890. Nuk mund të qëndrojnë bashkë liria e forca shkatrrimtare.
-891. Krimet dhe barbarizmat më të mëdha që bëhen në botë, janë ato që taëhen në
+891. Krimet dhe barbarizmat më të mëdha që bëhen në botë, janë ato që bëhen në
     emër të lirisë.
 892. E keqja më e madhe në botë është ajo që bëhet duke u menduar për të mirë.
 893. Bashkimi i mëshirës dhe i forcës, në një vend sjell drejtësinë dhe lirinë.
@@ -423,7 +424,7 @@ order: 3
 901. Ka shumë nga ata që qajnë pse i dhëmb koka një personi në pozitë të lartë; por
     kur ai e humb pozitën, nuk qan njeri për të edhe sikur të vdesë.
 902. Sikundër që libri dëmtohet duke mos u hapur e lexuar dhe i ngjiten fletët njëra me
-    tjetrën, edhe kujtimet e mtaetura në mendjen e njeriut harrohen po nuk u sollën në
+    tjetrën, edhe kujtimet e mbetura në mendjen e njeriut harrohen po nuk u sollën në
     mendje herëpashere.
 903. Gruaja e burrit xheloz duhet ta konsiderojë të shoqin të sëmurë dhe të përpiqet të
     mos i largohet nga shtrati.
@@ -435,7 +436,7 @@ order: 3
     shumë gruaja, provo të kundërtën e kësaj.
 908. Gruaja harron shpejt moshën e saj; por s'ka grua që të mos dijë sa vjeç është
     secila nga ato që njeh.
-909. Po shkove për t'u mbytur, zhvish petkat; ato i vesh burri i gruas sata.
+909. Po shkove për t'u mbytur, zhvish petkat; ato i vesh burri i gruas sate.
 910. Sa do shumë shpenzues të jetë burri i gruas shpneshë, ai nuk hy në borxhe.
 911. Një punë prej pesë qindarkash që kryen gruaja në shtëpi me duart e saj, shpëton të
     shoqin nga një shpenzim prej 100 lekësh.
@@ -447,14 +448,14 @@ order: 3
     shtrëngohet ta kalojë kohën jashtë; megjithëkëtë jeton në mirëqenie dhe rehati.
     Burri i gruas dijetare, por që s'punon, në shtëpinë e tij gjen gjithmonë një shoqe
     për të biseduar dhe për t'u kënaqur në bashkëbisedim, por nuk i mbetet këmishë
-    në trup. Sa i lumtur është burri i asaj gruaje që mban në një dorë gjilperën e në
+    në trup. Sa i lumtur është burri i asaj gruaje që mban në një dorë gjilpërën e në
     tjetrën librin.
 915. Nuk mund të ketë miq besnikë ai që nuk është vetë i tillë.
 916. S'ka gjë më të rrallë se dashamirësia.
 917. Cilësia për të bërë mirë dhe për të falur gabimet është hajmali e lumturisë.
 918. Mjerimi plotëson meritën e njeriut, por ia dobëson kujtesën.
 919. Gënjeshtari kapet më lehtë se topalli.
-920. Pasqyra më e bukur për njeriun është miku i vjetër që ia thotë  të metat.
+920. Pasqyra më e bukur për njeriun është miku i vjetër që ia thotë të metat.
 921. Asnjë gjë nuk është e mbaruar kur çpiket e re; me kalim të kohës përmirësohet
     duke shkuar dorë më dorë.
 922. Mos i rri kaut përpara, mushkës prapa e imoralit në asnjerën anë.
@@ -489,9 +490,9 @@ order: 3
 938. Ndërsa të metat e grave i kanë edhe burrat, meritat që kanë gratë janë të posaçme
     për to.
 939. Te gruaja është zemra, te burri është mendja më e fortë.
-940. Është e dyshiratë ndershmëria e atij që thotë  se s'ka njeri të ndershëm në botë.
+940. Është e dyshimtë ndershmëria e atij që thotë se s'ka njeri të ndershëm në botë.
 941. Armiqtë e shumicës së njerëzve janë ata që nuk u japin gjë atyre.
-942. Pati e fatkeqësia kanë edhe ngushëllimin e tyre.
+942. Fati e fatkeqësia kanë edhe ngushëllimin e tyre.
 943. Njerëzit për të shtypur një tjetër, e shumëherë një të njohur të tyre, presin t'i
     rrëshqasë këmba.
 944. Po të merrej taksë për bukurinë dhe urtinë, nuk do të ishte nevoja për
@@ -516,11 +517,11 @@ order: 3
 954. Njerëzit s'kanë zili për atë që hyp në minare, kanë zili për atë që hyp dhe këndon
     bukur. Nuk thuhet i lumtur për atë që merr një nëpunësi të lartë, thuhet i lumtur
     për atë që plotëson mirë detyrën që ka marrë.
-955. Njeriu është i përbërë prej dy gjërash: një është trupi, i cili është i përbashikët me
+955. Njeriu është i përbërë prej dy gjërash: një është trupi, i cili është i përbashkët me
     shtazët e tjera; tjetra është shpirti i marrë hua nga bota shpirtërore (ose ideale). Te
     disa njerëz përbërja e dytë është më e madhe, te këta shihet një ndjenjë e lartë; te
     të tjerët është më e madhe përbërja e së parës, te këta është ndjenja e ultë; këta të
-    i'undit janë të afërt me shtazët: kush i përngjan ariut, kush majmunit e kush skiles.
+    fundit janë të afërt me shtazët: kush i përngjan ariut, kush majmunit e kush skiles.
 956. Njerëzit dallohen nga shtazët me ndjenja, me mend, me talent dhe përsosmëri. Sa
     më shumë ndryshim të ketë njeriu nga shtazët, aq më shumë njeri është.
 957. Nuk është faj për kalin pse nuk fluturon; por është faj të mos ecën mirë; nuk është
@@ -539,20 +540,20 @@ order: 3
 963. Nuk vlen asgjë mendja dhe zotësia e atyre që nuk u shihet puna.
 964. Kur do të nisësh një punë, mos mendo për vështirësitë që do të hasësh, sepse
     vendimi i prerë dhe vullneti mundin çdo vështirësi dhe të dërgojnë ku dëshiron.
-965. Nuk është për t'u qortuar ai që perkrah një gjë që e merr për të mirë; është shumë
+965. Nuk është për t'u qortuar ai që përkrah një gjë që e merr për të mirë; është shumë
     gabim të quhet njeri ai që di se është e keqe një gjë dhe e përkrah atë.
 966. Do të ishim të gjithë të lumtur po të çmonim nderin, mendjen dhe diturinë aq sa i
-    japim rëndësi pasurisë, pozitës, gradës dhe dinjitctit.
+    japim rëndësi pasurisë, pozitës, gradës dhe dinjitetit.
 967. Ashtu sikundër që të hollat e arta dhe të argjendta të një shteti shkojnë edhe në
     tokën e armikut të tij, edhe mendimi e fjala e drejtë e një njeriu duhet të pranohet
     edhe nga ata që nuk e duan.
-968. Ta quajsh njeri atë që s'ka mendje, di'turi, nder dhe sjellje të mira, vetëm pse
+968. Ta quajsh njeri atë që s'ka mendje, dituri, nder dhe sjellje të mira, vetëm pse
     është në formën e njeriut, është si ta quash mollë një copë dylli, vetëm pse i
     përngjan mollës.
 969. Në aktet e para të shfaqjeve teatrale nëse fitojnë gjithmonë pasanikët, gjykatësit,
     oficerët dhe personat me influencë, në aktet e fundit të shumtën fitojnë të varfërit,
     lypësat, të shtypurit dhe të pafajshmit; kështu është edhe në jetë.
-970. Gjysma e fjalëve që flasin njerëzit miciis tyre përbëhen nga lëvdatat e të sharat
+970. Gjysma e fjalëve që flasin njerëzit midis tyre përbëhen nga lëvdatat e të sharat
     për njëri-tjetrin e pjesa më e madhe e gjysmës tjetër është për ajrin, ujët, të
     ngrënët dhe të tjera gjëra pa rëndësi si këto, për të lodhur nofullat. Edhe shumica e
     fjalëve për punë bëhen më shumë se sa duhet dhe janë të padobishme.
@@ -560,7 +561,7 @@ order: 3
     do të shkaktojë kënaqësi.
 972. S'ka fjalë më të keqe se fjala e mirë e folur pa vend.
 973. Sipër sofrës nuk duhet të ketë libër e sipër tryezës së punës, gjellë.
-974. Në vend që t'i ai'rohesh një pasaniku, afroju një dijetari; kopracia e pasanikut s'të
+974. Në vend që t'i afrohesh një pasaniku, afroju një dijetari; kopracia e pasanikut s'të
     lë të përfitosh nga të mirat e tij; nga dituria e dijetarit, përveç që do të përfitosh,
     edhe nuk do të humbësh nderin tënd.
 975. Ai njeri që ka dëshirë të ketë një at që të mos ecën këmbë, pasi ta zotërojë këtë,
@@ -577,9 +578,9 @@ order: 3
     xhep të hollat që shpenzuan ata. Kur çdo njeri nderohet dhe kap një pozitë, ti, po
     mbete i privuar, mos u hidhëro, sepse nderi që ata kanë dhënë ka mbetur fitim
     pranë teje.
-979. Mos i vë t'aj fatit dhe rastit; po të hetosh punët dhe mënyrën e jetesës së njerëzve
+979. Mos i vë faj fatit dhe rastit; po të hetosh punët dhe mënyrën e jetesës së njerëzve
     që u ke zili, do të kënaqesh me fatin tënd.
-980. Heronjtë e lashtë kanë fituar famë duke u zëne dhe mundur me diva shumë
+980. Heronjtë e lashtë kanë fituar famë duke u zënë dhe mundur me diva shumë
     frikësues dhe me shtazë shqyese. Sa shumë diva dhe shtazë shqyese ka në pyllin e
     gjerë brenda zemrës së çdo njeriu; hero i vërtetë është ai që i mund këto e që
     pastron zemrën e tij.
@@ -596,9 +597,9 @@ order: 3
 984. Asnjëri nuk armiqësohet me njeriun modest; kryelarti ka fare pak miq.
 985. Është një hipokrizi të tregohesh shumë fetar.
 986. Njeriu nuk duhet t'i shfaqë as meritat as aftësitë e tij, as s'duhet të shpallë të metat
-    dhe veset që ka, sepse e para është e shëmtuet, e dyta nuk sjell ndonjë dobi.
+    dhe veset që ka, sepse e para është e shëmtuar, e dyta nuk sjell ndonjë dobi.
 987. Mendimet janë si diamanti, sa është zor të gjenden aq është zor të përpunohen.
-988. Mos e përçmo tjetrin pse tregon padijeninë e tij në një çeshtje; ka mundësi që në
+988. Mos e përçmo tjetrin pse tregon padijeninë e tij në një çështje; ka mundësi që në
     një çështje tjetër të ketë dituri më shumë se ti. Ai që ti e ke kritikuar pse nuk është
     i zoti në të ngarë të kalit, mund të kritikojë ecjen tënde.
 989. Vdekja i gjen ca njerëz në gjysmën e rrugës së parajsës e ca në gjysmën e asaj të
@@ -609,12 +610,12 @@ order: 3
     stolisjen e një dhome; sado që duken shumë të bukura, prapa tyre s'gjen gjë tjetër
     veç pluhur e merimanga.
 992. Nata është krijuar për t'u qetësuar, e dita për të punuar, ata të mjerë që punojnë
-    natën janë të shtypurit nga shoqëria njerëzore, përtacët (parazitët.) që nuk punojnë
+    natën janë të shtypurit nga shoqëria njerëzore, përtacët (parazitët) që nuk punojnë
     ditën, janë kusarët e shoqërisë njerëzore.
 993. Mund të numërohet i urtë në botë, vetëm ai që kupton shkallën e mungesës së
     urtisë së tij.
 994. Trimi i mirë e din sa i pret shpata.
-995. Kush del në pullazin e xhamisë, kur shikon tëposhtë, e kujton veten lart në qiell,
+995. Kush del në pullazin e xhamisë, kur shikon teposhtë, e kujton veten lart në qiell,
     kur shikon minarenë që është më sipër, sheh se ku ndodhet.
 996. Nuk është burrëri t'i japësh shpullë atij që i ka duart të lidhura.
 997. Kush dashuron me një të parë, harron me një të parë.

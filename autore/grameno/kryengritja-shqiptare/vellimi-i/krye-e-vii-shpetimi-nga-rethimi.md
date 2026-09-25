@@ -45,7 +45,7 @@ prej të tijat, se ishim xbathurë, një kartë me duhan edhe bukë me
 qepë.
 
 U puthmë edhe muarm lamtumirë dyke u falënderuar për mirësin' e tyre,
-pastaj shkuam dyke ju lutur evgjitit të vejë në Gjinokastrë. për të
+pastaj shkuam dyke ju lutur evgjitit të vejë në Gjinokastrë, për të
 gëzuar atdhetarët që shpëtuam shëndoshë edhe të na dërgonin 2-3 palë
 opinga e të ngrënë, në mal të gjërë.
 
@@ -132,7 +132,7 @@ t'anë në Gjinokastrë!
 Kolonjareja, e ëma e Asllan Starjes, trimëreshë si kurdoherë dolli
 edhe mburreshe dyke thënë që kështu dinë të lëftojnë bijt' e
 Skënderbeut, të cilët me gëzim e japin shpirtin e tyre, për
-Shqipërinë, dyke na nleruar neve, nënat, edhe gjithë kombim!
+Shqipërinë, dyke na nderuar neve, nënat, edhe gjithë kombin!
 
 Sa për Labëreshën, t'ëmën e Myftarit, është një çudi e madhe me këtë
 grua, e cila kur e pa të plagosurë e puthi edhe i tha: Më rofsh e

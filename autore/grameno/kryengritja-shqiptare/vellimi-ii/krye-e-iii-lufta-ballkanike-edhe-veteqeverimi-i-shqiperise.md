@@ -9,7 +9,7 @@ order: 14
 
 U pandeh me të vërtetë që u shua zjari, q'ish ndezurë, në gjithë anët
 e Shqipërisë, po ish vetëm një pandihm, se me të ardhur pranvera e të
-gjelbëronte gjethi zuri të lëviste prapë kryengritja, ue vitiu 1912.
+gjelbëronte gjethi zuri të lëviste prapë kryengritja, në vitin 1912.
 Barbarizmat e tmeruara vepëruar, prej Turqvet, kundra Shqipëtarëvet
 deshnin shumë kohë që të shërohen edhe harrohen, po gjithë këto
 Tyrqit, në vënt të gjenin melemin për të mbyllur plagët, përkundrazi
@@ -38,7 +38,7 @@ kohë vranë komitat Shqipëtarë të tmeruarin Rexhep Palla, i cili vriste
 edhe priste në Prefekturë të Korçës pa pyetur njeri, me qenë zemra
 edhe shpirti i Xhemietit!
 
-Qeveria Tyrke atëhere vetëm e kupëtojti që medhelpëritë, të
+Qeveria Tyrke atëhere vetëm e kupëtojti që me dhelpëritë, të
 zakonëshme, si edhe me ushtërinë nuku munte te pushonjë kryengritjen
 Shqypëtare prandaj dërgojti një Komisjon fuqiplotë, nga Stambolli, për
 të nënëshkruar një traktat të marëveshjes edhe lidhjes midis Turqisë e
@@ -78,7 +78,7 @@ të mëdhenj, Esat Pasha Toptani edhe Esat Pasha Janina, dy herojë të
 cilët habitnë gjithë botën me burrërin' e tyre që treguan!
 
 Dëshpërimi pra ishte i pa treguarë nër gjithë Shqipëtarët, për fatin
-që i priste, po ç'munt të bëniu? Gjithë shpresën e kishin varur tek
+që i priste, po ç'munt të bënin? Gjithë shpresën e kishin varur tek
 Perëndia për të mjerën Shqipëri, edhe si të hequr prej magneti
 drejtoheshin në Vlorë për të gjetur nonjë shpëtim. Plakosnë nga gjithë
 anëtë të Shqipërisë po as nonjë vendim nuku mereshe prej askujt, për
@@ -168,7 +168,7 @@ varrimi i sigurtë! Lumtërisht ushtëria Greke nuku kish urdhër për
 Vlorën edhe kështu zunë prapë jetën të bllokatës, dyke pritur dita
 ditën që të nënëshkrueshe paqeja.
 
-Kur se ndodheshim në të këtillë gjendje e dështpërim ardhi në Vlorë,
+Kur se ndodheshim në të këtillë gjendje e dëshpërim ardhi në Vlorë,
 prej Serbie, Fehim be Zavalani i dërguar me një mision te posaçmë nga
 ana e qeverisë Sërbe. Misioni ishte një proponim q'i bëheshe qeverisë
 tonë që të rynte Shqipëria në një Konfederacie me Serbinë dyke patur
@@ -181,7 +181,7 @@ neve, pa nonjë shpresë që do të hapeshe bllokata. Për fat të keq
 kishte ca kohë që edhe aniet Greke nuku na vizitonin si përpara,
 prandaj ndodheshim të brengosur e të mërzitur po ç'munt të bënim?
 
-Në të këtillë dështpërim ndodheshim kur një brëma, errëtë fare edhe
+Në të këtillë dëshpërim ndodheshim kur një brëma, errëtë fare edhe
 gjindja ishte mbyllurë në për shtëpitë, dëgjonet një signall vapori që
 rynte në liman të Vlorës, më 26 Mars 1913. Ishte mjaft që të çkulët
 gjithë gjindja e të rëzohet në skelë për të mësuar ç'vapor ishte edhe
@@ -267,7 +267,11 @@ si i mundur po mundës!!!
 
 Pa si ndenji ca kohë në Tiranë edhe mori vehten, pas kaqe të vojtura,
 ardhi në Vlorë edhe për hir të atdheut pranojti të rynjë në Kabinet
-dyke marë Ministrinë të punëravE Brendëshme. Gëzimi ishte i patreguarë
+dyke marë Ministrinë të punërave Brendëshme. Gëzimi ishte i patreguarë
 në zemrat e popullit, për këtë marëveshje e cila siguronte pritmjen e
 lumturë për Shqipërinë, po ky gëzim ishte i shkurtër se me vrap zunë
-mjerimet! Si
+mjerimet! Si në shumë raste historike, kështu edhe ahëre u ndodhë
+zemër liq të cilët, për të mbushur inatet edhe qëllimet vetiake, kallë grindje
+midis Ismail Qemalit edhe Esat Pashës edhe muntnë të bindin Esat
+Pashën që të formonjë tjatër qeveri në Durrës me Shqipërin e mesme
+nënë sundim!

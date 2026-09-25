@@ -4,7 +4,7 @@ author: Sami Frashëri
 respectLineBreaks: false
 parent: Ç'do të bëhetë Shqipëria?
 grandparent: Shqipëria
-order: 6
+order: 27
 ---
 
 Shqipëria sot pas pagesavet, që merr qeveri' e
@@ -12,17 +12,17 @@ Tyrqisë në të katrë vilajejet me gjithë kumerqe e krip' etj,
 nxjerr afro 3,000,000 lira tyrku në mott, përveç ç'vidhen'
 e ç'hajen' e ç'humbasinë kot.
 
-Është' e vërtetë që të shumat' e pagesave janë të
-tepra si pages' ë bagëtivet etj. edhe duanë unjurë, që të
+Ësht' e vërtetë që të shumat' e pagesave janë të
+tepra si pages' e bagëtivet etj. edhe duanë unjurë, që të
 lehcohenë bota. Po kundrejt këtyre janë kaqë gjërëra, që
-sot humbasinë e venë fcot, si pyjetë, metaletë e kaqë
+sot humbasinë e venë kot, si pyjetë, metaletë e kaqë
 gjërëra të tjera, që po të vështohenë si duhetë, mundinë të
 sjellënë një begati të madhe.
 
 Me gjithë këto, e po të vështohetë si duhetë,
 Shqipëria munt të ketë në mott shumë më teprë t'ardhurë;
 po le të na arrijnë 3,000,000 lira francishte, në të cilat
-sTca ndryshim, do-me-thënë 60,000,000 franga.
+s'ka ndryshim, do-me-thënë 60,000,000 franga.
 
 Shqipëria, kur të jetë më vethe, duhetë me të parët
 të godinjë monella të çquara e të çkoqura. Një lirë e artë
@@ -32,20 +32,20 @@ katrëtë të lirësë prej ari si edhe dy e gjymësë e pesë lira,
 do-me-thënë 50 e 100 copë bashkë. Copëtë do të jenë prej
 ergjëndi. Do të ketë edhe dy e gjymësë e pesë copë bashkë
 si edhe gjymësë e të katërtë të copësë, do-me-thënë 50 e
-20 cinga të ergjëntta. Prej niqeli do të ketë monella V2
+20 cinga të ergjëntta. Prej niqeli do të ketë monella ½
 edhe 5 edhe 10 edhe 20 cingash. Këto do të jenë gjithë
-monellat' e Shqipërisë; po rëz' e themel' i tyre do të jetë l.i
-r' e artë; monellat e ergjëntta e të niqelta do të jenë vetëm
+monellat' e Shqipërisë; po rëz' e themel' i tyre do të jetë lir'
+e artë; monellat e ergjëntta e të niqelta do të jenë vetëm
 për të mbushurë sumat' e vogëla e aqë të paka, sa të mos
 mundinë të ndrojnë të vyerët' e lirësë pas pjacës'
 s'ergjëndit e të niqelit, si bëhetë sot në Tyrqi nga të qënëtë
 mexhidet' e bardha me barë.
 
-Një bankë kombërishte do ngrehurë që kreiit në
+Një bankë kombërishte do [të jetë] ngrehurë që kreit në
 Shqipëri. Gjith' ata njerës, që kanë të holla e s'dinë ku e
-qysh 't'i ruajnë e humbasinë jo vetëm uzurënë po shumë
+qysh t'i ruajnë e humbasinë jo vetëm uzurënë po shumë
 herë edhe krerëtë, do të lenë të hollat' e tyre pa frikë në
-këtë bankë të vërtetuarë e të zotuarë prej qevenisë. Edhe
+këtë bankë të vërtetuarë e të zotuarë prej qeverisë. Edhe
 pagesatë, që do të mbledhë qeverija, nukë do t'i mbajnë
 nëpër arka, po do t'ia apë në çast bankësë. Banka do të
 ketë në çdo gastrë e në ca nënëgastra të trekta dega të
@@ -72,7 +72,7 @@ muajt:
 |       |                                                             |  nga |                     copë |
 | :---- | ----------------------------------------------------------- | ---: | -----------------------: |
 |       | Krei i Pleqësisë                                            | 3000 |                     3000 |
-|       | Nenëkrei                                                    | 2500 |                     2500 |
+|       | Nënëkrei                                                    | 2500 |                     2500 |
 | 13    | Misetë                                                      | 2000 |                    26000 |
 | 15    | Shkronjës                                                   |  300 |                     4500 |
 | 7     | Ministrë                                                    | 2000 |                    14000 |
@@ -114,13 +114,13 @@ muajt:
 
 Kështu gjithë të prishuratë nukë bëhenë shumë më
 teprë se 2 miliunë lira edhe tepërojnë afro një miliun lira,
-të cilaitë do të prishenë për të bërë udhëra të hekurta,
+të cilatë do të prishenë për të bërë udhëra të hekurta,
 udhëra qerreje, limane e të tjera punëra të përgjithçime,
 si edhe anie e vapore për luft' e për tregëti. Këto gjërëra
 duke shpënë gjithnjë sa mbar' e më mbarë, do të shtojnë
 mot me mot më teprë t'ardhurat' e Shqipërisë, aqë sa
 munt të vinjë një ditë që të qeverisetë vëndi vetëm me
-pagesat' e kumerqevet e të tregërivet; edhe 'të shpëtojnë
+pagesat' e kumerqevet e të tregërivet; edhe të shpëtojnë
 fshatarët' e varfër nga pagesatë, q'apënë për vetëhe, për
 bagëtit, për dhet e për shtëpit të tyre, pagesa që po u
 thyejnë mezë e s'i lenë të marrënë frymë. Atëhere
@@ -128,7 +128,7 @@ Shqipëtarëtë, si Amerikanëtë sot, do të rojnë si në parajsë.
 
 Monell' e Shqipërisë më njërët faqe do të ketë një
 Shqipe të qëndruarë më këmbë me krahë gjymësë hapurë
-e me një yll (Hyjnë) mi ballët, shënjën' e Shqipërisë, do-
-me-thënë, edhe rrotullë emënin' e Shqipërisë e nënë
+e me një yll (Hyjnë) mi ballët, shënjën' e Shqipërisë, do-me-thënë,
+edhe rrotullë emënin' e Shqipërisë e nënë
 këmbët të ketë në mest të një redhi prej degash numurinë
-edhë nënë të emënin e copëvet a të cingavet.
+edhe nënë të emënin e copëvet a të cingavet.

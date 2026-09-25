@@ -1,7 +1,6 @@
 ---
 title: Kânga e natës
 author: Hil Mosi
-subtitle: Goethe
 respectLineBreaks: true
 parent: Lotët e dashtniës
 grandparent: null
@@ -11,8 +10,8 @@ order: 114
 > Träumend, ein halb Gehör!
 > Bei meinem Seitenspiele
 > Schlafe! Was willst du mehr?
-> 
-> Goethe.
+>
+> — Goethe.
 
 Un ktu çu në drit t'kandilit
 Du me kâng me gjet qetsië;

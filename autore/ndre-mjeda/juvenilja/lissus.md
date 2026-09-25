@@ -8,7 +8,7 @@ grandparent: null
 order: 24
 ---
 
-# I
+#### I
 
 Nëpër kodra të stolisuna me vneshta
 Ku vilet àrit xhixhilloshin në dielli,
@@ -29,14 +29,14 @@ Kreshnikët e Ilirvet e anmiqt e ngelun:
 Gadhnjyes Bardhylin e Perdikën thye,
 
 
-# II
+#### II
 
 E përgjegjshin të mahnituna ndër mâje
 E nepër lugje të grumbullueme në hije
 Të blijve të lulzuem, të lulishteve paskaje
 Zanat e malit me nji kângë plot shije.
 
-Me j'kângë qi fllade t'ambetuem ndër plâje
+Me 'j kângë qi fllade t'ambetuem ndër plâje
 Bishin të gjytetse, o ku mâ nalt në shkambije,
 Sogjetarë të patundshëm si murrâje,
 Ruejshin Ilirsit për atdhe bâ flije.
@@ -50,7 +50,7 @@ Vala e Drinit të madhnuem e "t'a gëzoj" thote
 "Ma së mbramit djalin qi ngiat deket pata".
 
 
-# III
+#### III
 
 Të falem, o Lesh, i lum për së Madhnija
 Shpërdau rreth teje miradina e hire,
@@ -64,14 +64,14 @@ Vujshin, fatosat e nji kohës më të vshtirë.
 
 E kqyrshe sqelen qi Sirakuzani
 Ndërtoi, e në dritë të venituna ti njifshe
-Fytyren fënde me stoli të nji mbreti. 
+Fytyren tënde me stoli të nji mbreti.
 
 E lundra të hueja mbushë me rob qi bëni
 Fitues Ilirsi, e, porsi fjetun, shifshe
 Andrra fatosash, tui të perkundun deti.
 
 
-# IV
+#### IV
 
 Lum për kështjellin qi mbi kodra ngrehej,
 I palodhshem vigë perkundra armikut;
@@ -81,46 +81,46 @@ O si shkulmat e Drinit në frymë të denikut.
 Ku shqypja ilire nepër ajr dëfrehej
 Në gjiri të madhnueshem, e mje në breg të Baltikut
 Gadhnjime të reja tui hartuemun, shgrehej
-Prato vënde të pënjoftuna jetikut.
+Prato vënde të panjoftuna jetikut.
 
 E fushët e sukat e ndërtesat të tuja,
 Porsi grigjen barija i zgjuet, veshtote
 Tui të pruemun das' e ndërlikime të hueja.
- 
+
 Por oh! ma fort se kshtjellit hija të zhgote,
 E prej hovit e resave të ndokuja
 Me parzëm të hekurtë djelmenija të mprote.
 
 
-# V
+#### V
 
 Deh! Ç'u perhap rreth maleve kushtrimi,
 Qi ndër lugje ma të mbshehuna persritte
 Hova-hova tu' e shtue lehona, e thirrte
 Kombin e Ilirve në fushatë nderimi.
 
-Grishte prej rjesh ku flllon agimi,
+Grishte prej rjesh ku fillon agimi,
 Ku vala e Drinit nepër lugje rrshitte,
 Ku në borë t'amshueme bukuri pershndritte
 Tui u zhdukun nën dët qetas, prëndimi.
 
 E i thirrshin nanat djelmnis kreshnike,
 E, dalë tui i prapun, krushqeve ju thoshin:
-"Djelmt e Ilit", në kushtrim së bashkut shpejtoni:
+"Djelmt e Ilit, në kushtrim së bashkut shpejtoni:
 
 Ecni me heshta, ecni me armë jetike,
 Hova' ju kualve me at mëni qi të paret ju mësoshin
 Për lulzimin e atdheut ju fton Agroni".
 
 
-# VI
+#### VI
 
-E u lëshuen si j' nieri të tanë. Si shprazen shinat
+E u lëshuen si 'j nieri të tanë. Si shprazen shinat
 Rrmbyeshëm prej mëjesh nepër gryka e zbrisin
 Bubulluesa teposhtë, e tui mbëlue dhënat,
 Kësolla e ndërtesa shpartallojnë e krisin:
 
-O si lëshohen langojt kërnbë-shpejtë, ndër brënat
+O si lëshohen langojt këmbë-shpejtë, ndër brënat
 E nëlt së qiella të bregut të Tunës, e vrisnin
 Për mbas drenave të frigueshem kur, krënat
 Ngatrrue ndër drriza tui dihatun jisin; 
@@ -131,10 +131,10 @@ E presin rregjin grumullue ndër curra,
 
 E kur fatosi në patershanë tui prekë,
 "Ç'detyrë" - tha - "kemi për atdhën, o burra"
-Nji t'llirvet kje të gjegjunit: "Me dekë".
+Nji t'Ilirvet kje të gjegjunit: "Me dekë".
 
 
-# VII
+#### VII
 
 Jo kurr aq rrmbyeshëm nepër fusha rrodhi
 Prej borës të maleve e fryeme e prei stuhijet,
@@ -152,10 +152,10 @@ Patërshana të pergjakuna vetoshin.
 
 E vaj e ankime për gjith anë granija,
 Kur ahte e burrash e ulurima ushtoshin,
-Nën thundrë të kualve tui i shtypë Shqypnija
+Nën thundrë të kualve tui i shtypë Shqypnija.
 
 
-# VIII
+#### VIII
 
 Ktheni ndër shpija, o djelm, sokola ktheni,
 Me at dritë të shkelqyeshme qi ju suell trimnija;
@@ -176,7 +176,7 @@ Perciell fatosat qi prei jetës u shkoqne
 Tui i dhanë shpirtin atdheut e kohës përtardhme.
 
 
-# IX
+#### IX
 
 Këtu Amëzone ilire e bind natyret,
 Fis i Hyjvet të Dodonës, Teuta mbretnote,
@@ -185,9 +185,9 @@ Jeten mbretnore e rregjinin e shtote,
 
 E të nji mëndes kreshnike të gjitha zyret
 Adrijatikut me kujdes ja trote,
-E pë leje t'llirve, o 'j shëj pagtyret
+E pa leje t'Ilirve, o 'j shëj pagtyret
 Dëtin shqyptër i hueji s'e kalote.
- 
+
 E kur, ndërkrye për ushtrija e mndore
 E mbretnina të grabituna me dhune,
 Ju turr Roma me e trembë me fjalë madhshtore,
@@ -197,10 +197,10 @@ E atëherna së parit kaperthyeshem xune
 Luftime e gjaqe Shqyptarët me shqype.
 
 
-# X
+#### X
 
 Por se fatmadhe, o Lesh, nji ditë do të mbërrite
-E rnë të lumin ndër shokë bota do të thote,
+E më të lumin ndër shokë bota do të thote,
 Kur në nji kishë t'ande tempull të rij të përtrite
 Për lirimin e atdheut Shqypja kob-plote.
 
@@ -218,7 +218,7 @@ Të nji gjallimit kreshnik, e t'ulte shpaten,
 E ti vorrin do të mbëjshe të Skanderbegut.
 
 
-# XI
+#### XI
 
 Porsi 'j luë luftnave, kreshniku
 U pshtet, molisun për atdhen, e shgjeshi
@@ -239,7 +239,7 @@ Dalun prei fronesh të madhes fushë t'Elisit,
 Fatosat e gjith kohnave lotoshin.
 
 
-# XII
+#### XII
 
 E nëlt prej qiellet fluturim qe zbritne
 Tuba-tuba qiellorët, e ndër duer kishin
@@ -247,13 +247,13 @@ Kryq e kunorë qi të dekunit i bishin,
 E, si lterit të shugruem, pruijshëm ju avitne.
 
 Pezull tu 'e bëjtun në shejtet duert e pritne,
-E në hapsina të pëmatuna, kah ishin,
+E në hapsina të pamatuna, kah ishin,
 Fluturuene me tëne e, ku vetë rrishin,
 Së bashkut tui kënduemun me nderim e njitne.
 
 "Qe dishmuesin, o Zot", - këndoshin - "qi jeten
 Për shejten fë, për Shqyptarin e shkrini
-E pë tundshme perherë shtyll' e mburoje.
+E pa tundshme perherë shtyll' e mburoje.
 
 Aj diq, o Zot, për mbas detyrës, por të shkreten
 Atme ti rueja, qi dikur pertrini,

@@ -8,11 +8,11 @@ grandparent: Vjersha
 order: 6
 ---
 
-këngëtori:
+*Këngëtori:*
 Parmbrëmë pashë një yll un' me gëzim,
 M’u trondit zëmra me shumë ëmbëlsi,
 Më ngrihej shpirti lart në fluturim
-Dhe gjith ky dhé mu duk plot lumëri.
+Dhe gjith ky dhé m’u duk plot lumëri.
 
 Në më do mirë ti me të vërtetë,
 Folëm, o buzëkuqe, o sy-ulli.
@@ -24,14 +24,14 @@ Malli ma shpoi edhe isha i pafaj:
 Të pashë, o vashë e njomë, i vëndosur,
 Për këtë faj më vjen të vdes prandaj.
 
-shokët:
+*Shokët:*
 Kush sevdanë kërkon qoftë i mallkuar,
 I humptë gazi, si këtij iu buar.
 
-këngëtori:
+*Këngëtori:*
 Rrofsh e pafsh mirë, vashëz kanakare,
-Ti, gocë je’ si hëna ndër të tjera,
-Bukurinë që ke se kanë fare
+Ti, gocë je si hëna ndër të tjera,
+Bukurinë që ke s’e kanë fare
 As trëndafilat tek na çel pranvera.
 
 Dhe kur nga deti Jon agimi del
@@ -44,11 +44,11 @@ Që për së pari hedh dritën në jetë,
 E kujt i flet, o vashë, i hapet qielli
 Dhe malli ja prek zëmërën vërtetë.
 
-shokët:
+*Shokët:*
 Vashëz, mos ke për zëmër një thëngjill?
 S’e sheh se po vënitet si kandil?
 
-këngëtori:
+*Këngëtori:*
 Edhe pardje, si i marr nga malli i mjeri,
 Të të shoh desha ty unë, moj vashë,
 E forta dashuri zëmrën ma theri
@@ -61,9 +61,9 @@ M’u errën dhe më ra si vilani.
 
 Dhe, sapo m’erdhi fryma, tërë lot
 Bukurin’ tënde, o vashëzë, këndova:
-“Çupë me rreze dielli, o sy hirplot.
+“Çupë me rreze dielli, o sy hirplot,
 Me qetë s’ndrin në terrin që kalova”.
 
-shokët:
+*Shokët:*
 O vashë, mos harro djalin e mjerë,
 Se shpejt si bari i djegur do të bjerë.

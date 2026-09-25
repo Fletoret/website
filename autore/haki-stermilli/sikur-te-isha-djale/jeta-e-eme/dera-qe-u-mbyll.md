@@ -16,13 +16,13 @@ dhe ia kishte kujtue detyrën që të vraponte me më shpëtue sa ma parë
 nga thonjt e njerkës. Ai ishte pezmatue jashtë masës. Kur e pashë sot
 më gjajti sikur qante me syt e zemrës dhe i lëngonte shpirti. Mbas
 shumë mendimesh që u këmbyen, tue qenë gati edhe Irena, martesa u
-zgjodh si mjeti ma i mirë për shpëtimin t'em nga njerka. Për t'i a
+zgjodh si mjeti ma i mirë për shpëtimin t'em nga njerka. Për t'ia
 mbrrimë qëllimit vendosën që ma parë të merret leja e s'amës së
 Shpendit me anën e mamë Gjystinës dhe mbasandej të shkojë Xha Simoni
 ke im atë si mesit. U ngarkue Irena që të fjaloset me mamë Gjystinën
 dhe mandej me Xha Simonin. Shpendi ka vendosë me shkue n'Itali për me
 i ndjekë mësimet në nji shkollë ushtarake. Prandaj asht i mendimit që
-martesa të bahet sa më parë dhe kur të vijë vjeti shkolluer të
+martesa të bahet sa ma parë dhe kur të vijë vjeti shkolluer të
 shpërngulemi n'Itali. Un jam turbull. Jam e shtangun nga droja se mos
 na dalin pengime.
 
@@ -30,7 +30,7 @@ na dalin pengime.
 
 Mamë Gjystina ishte takue dje me t'amën e Shpendit dhe kishte folë me
 të rreth çashtjes së martesës s'onë. Ajo e kishte pëlqye dëshirën e
-Shpendit dhe ishte gëzue kur kishte marrë vesht se na e dashunojmë
+Shpendit dhe ishte gëzue kur kishte marrë vesht se na e dashunojmë [njeni]
 tjetrin. Tash mamë Gjystina do të kuvendojë me Xha Simonin që t'a çojë
 ke im atë për me kërkue pëlqimin e tij për bashkimin e Shpendit me
 mue. Zemrën, s'dij se pse, e kam të ftofët dhe më duket sikur do të
@@ -41,7 +41,7 @@ ngjasi ndonji e papritun.
 Kushrini i em Hamit Kërthiza asht hidhnue me t'em atë qysh asokohe që
 ai më hoq nga shkolla dhe më futi në çarçaf. Qysh atëhere kamba e tij
 nuk ka shkelë në prakë të portës s'onë. E shof vetëm kur i shkoj në
-shtëpi tinës t'ime ëti. Hamiti zotnon nji kulturë mjaft të gjanë, ka
+shtëpi tinës t'im eti. Hamiti zotnon nji kulturë mjaft të gjanë, ka
 nji gjykim të mprefët e të kthjellët, karakter të fortë, ndërgjegje të
 pastër dhe asht idealist. Mbi të gjitha ka edhe nji veçanti që e ban
 të dallohet ndër shokët: asht njeri i sakrificit dhe e ndin detyrën
@@ -56,7 +56,7 @@ edhe therorina të mëdha. Prandaj shkova sot t'i lutem të pajtojë me
 t'em atë që mandej të përpiqet me e bindë për martesën t'eme me
 Shpendin.
 
-Por m'erdh turp e s'munda me i thanë gja. Ai më priti, si për herë, me
+Por m'erdh turp e s'munda me i thanë gja. Ai më priti, si përherë, me
 buzë në gaz dhe tue më shfaqë dashuni prej vëllau. Më pyeti edhe se
 pse isha zbemë pak dhe si shkoj me njerkën. Nuk i thashë gja mbi sa
 kisha pësue prej njerkës, pse e dijsha se do të pezmatohesh shum. I
@@ -80,12 +80,12 @@ parë në daçim të rrojmë si njerës.
 
 ## 12 Gusht
 
-U takue Irena me Hamitin dhe ai u pajtue me t'em atë. Neser, në nji
+U takue Irena me Hamitin dhe ai u pajtue me t'em atë. Nesër, në nji
 kohë të caktueme, do të shkojë Hamiti në dyqan të babës dhe mbas pak
 do të vejë Xha Simoni me më kërkue n'emën të s'amës së Shpendit.
 Përgatitjet e planet janë bamë mirë, por nuk dij se a do të kemi fat
 me ngadhnue. Sa e largët më duket dita e nesërme. Më gjan sikur nuk do
-të vijë kurrë e nesermja e kësaj dite plot shqetsime.
+të vijë kurrë e nesërmja e kësaj dite plot shqetsime.
 
 ## 14 Gusht
 
@@ -110,7 +110,7 @@ dëshpërueme. Edhe Shpendi nuk asht ma mirë se un. Irena sajoi me e
 lajkatue njerkën dhe me e krye punën me anën e saj, por un nuk e
 lashë, pse e dij se ajo nuk e dëshiron lumnin t'eme. Jemi turbullue
 fare. S'jemi në gjendje me marrë nji vendim për me mundë me ia mbrrimë
-qellimit.
+qëllimit.
 
 Hof moj nanë! Jam tue plasë. Do të më lehtësohesh shpirti ndopak po të
 mundesha me shfry tue qamë. Por, sikundër duket, edhe burimet e syvet
@@ -121,12 +121,11 @@ Oh fatkeqsi!
 
 ## 16 Gusht
 
-Hamiti ende përpiqet për me ia mbushë mendjen t'im ët që t'a pëlqejë
+Hamiti ende përpiqet për me ia mbushë mendjen t'im et që t'a pëlqejë
 martesën t'eme me Shpendin. Ai shpreson t'a bindi. Sot më kishte çue
 fjalë me anë të Irenës që të mos e humbi shpresën dhe të kem besim
-
 se, ma në fund, do të shduken gjithë pengimet. M'anë tjetër Shpendi
-mendon t'i dërgojë t'ime ët nji shkesë tjetër, ndonji njeri që i
+mendon t'i dërgojë t'im et nji shkesë tjetër, ndonji njeri që i
 peshon e i shkon fjala ma fort. Un jam e ngrime dhe e shtangun. Më
 duket sikur qëndrojnë mbi kokë t'eme turma resh, gati me u përplasë
 për me më gjuejtë me ndonji rrëfe vdeksuese.
@@ -149,7 +148,7 @@ vu gishtin në tamth dhe dorën në zemër po t'a marri vesht dashunin
 t'onë.
 
 — Në rasë të kundërt - thotë ai - nuk kemi se ç'humbim, mbasi ai ka
-vendosë me e kundërshtue martesen t'onë.
+vendosë me e kundërshtue martesën t'onë.
 
 Kam frigë se zemra e eme e trishtueme nuk do të mundet me i durue këta
 mundime dhe do të pëlsasi para se t'arrijë me u gëzue.
@@ -181,10 +180,10 @@ të Xha Simonit. Un, e shtangun dhe e trishtueme, e ndigjojsha nga
 kthina e eme. Ky ndalim më pezmatoi shumë, pse nuk do të mundem me u
 pamë e me kuvendue ma me ata që më duen e sidomos me Shpendin. Tash u
 burgosa dhe u robnova plotsisht. Për kët shkak nji kohë të gjatë
-derdha lot deshpërimi dhe e shpraza krejt vënerin e zemrës. Edhe tash,
+derdha lot dëshpërimi dhe e shpraza krejt vënerin e zemrës. Edhe tash,
 që dukem si e qetsueme, syt e mij janë plot dhe pikat e lotvet bijen
 mbi këto fletë që po shkruej. Oh sa fatzezë paskam qenë. Sigurisht i
-vjen keq t'im ët për vorfënin e vobsin e nji njeriut, por nuk i vjen
+vjen keq t'im et për vorfënin e vobsin e nji njeriut, por nuk i vjen
 keq për mjerimin shpirtnuer që don me i shkaktue së bijës; m'a merr
 mendja se i dhimset i sëmuni, por nuk i dhimset e bija që lëndon nga
 zemra; besoj se i vjen keq për të trenuemin, por nuk don me kuptue se
@@ -196,7 +195,7 @@ pajtohet shpirti i em me t'atij? S'dij.
 
 ## 23 Gusht
 
-Ishte vrazhdue Irena tue kujtue se jam sëmunë. Prandaj erdh sot e më
+Ishte vrahthue Irena tue kujtue se jam sëmunë. Prandaj erdh sot e më
 pyeti se pse nuk kisha shkue ndër to. Ia shpjegova shkakun me pikëllim
 të madh dhe u zhgreha në vaj. Edhe ajo s'u mbajt. Qau për mue e për
 fatkeqsin t'eme. Lotët e saj, për mue të ngratën qenë si pika shiu mbi
@@ -209,7 +208,7 @@ eme. U puthëm me dashuni dhe u ndamë me sy të mbushun plot me lot.
 ## 25 Gusht
 
 Sot në mëngjes kishte ardhë ke na Kumja, e shoqja e xha Cenit që kemi
-fqi. E kisht e marrë me vetëhe edhe djalin e saj motak. Kumes nuk i
+fqi. E kishte marrë me vetëhe edhe djalin e saj motak. Kumes nuk i
 rrojnë fëmijt. Shpesh i asht djegë zemra tue mbulue nën tokë ajkën apo
 pemën e jetës së vet.
 
@@ -217,7 +216,7 @@ pemën e jetës së vet.
 fjalë mbi vdekjen e fëmijvet të saj.
 
 Kur i sëmuhen fëmijt nuk merr doktor. Përpiqet me i shërue me prime
-plakash dhe me hajmalia. Doktori kurrë s'ka shkëlë në shtëpi të saj,
+plakash dhe me hajmalia. Doktori kurrë s'ka shkelë në shtëpi të saj,
 megjithqë i kanë vdekë aq fëmij. Salihun - emni i djalit - e ruen si
 dritën e syvet dhe mundohet me e rritë mirë, ashtu si e kupton ajo
 këtë të mirë. Që t'a mprojë çunin nga mordja shtrigë i ka mvarë në
@@ -229,17 +228,17 @@ besojë se ajo dikur ka qenë e burgosun dhe e lidhun me vargoj hekuri.
 Në ball i ka vumë nji gjysmë napoloni dhe nji gisht të zi, të marrun
 nga fundi i fteres! Në krahënuer, përveç hajmaliave, i ka mvarë nji
 thelb hudhër me nji copë shtipz, të mbështjellun në nji pece të ndytë.
-Vargu i hajmaliave, bashkë më shukun e hudhrës, gjajnë si dekorata. Ai
+Vargu i hajmaliave, bashkë me shukun e hudhrës, gjajnë si dekorata. Ai
 që e shef ka përshtypjen se ndodhet para nji… personi të madh të
 dekoruem dhe, patjetër, e ndin nevojën me e përshëndetë me nderimet
-përkatse!.... Të gjitha këto, simbas Kumes, vlejnë për me mos u sëmue
+përkatse!... Të gjitha këto, simbas Kumes, vlejnë për me mos u sëmue
 dhe me mos marrë sysh çuni!... I thashë t'ia heki e t'ia mvari në
 djep, por ku i mbushesh mendja se? E pashë se iu prish qejfi. Prandaj
 nuk e zgjata shum. Kështu rriten dhe kështu mbyten fëmijt t'onë.
 
 Kumja ka edhe nji motër që banon diku, atje tej. Ajo megjithëqë asht
 martue gati pesë vjet ma parë, s'ka fëmij, pse s'ka pjellë kurrë. Kur
-të flasish me të mbi këtë, çashtje, të përgjigjet:
+të flasish me të mbi këtë çashtje, të përgjigjet:
 
 — S'don Zoti.
 
@@ -265,11 +264,11 @@ përbujt dhe u argëtue zemra e eme. Nashti s'mundem me e pamë ma Xha
 Simonin e mirë, at plak që më ka dashtë si Irenën e vet. Tash s'mundem
 me u kënaqë ma me argëtimet e mamë Gjystinës që m'ish bamë si nanë e
 dytë. As nuk mundem me kuvendue me Irenën që m'a pat dhanë gjysmën e
-zemr s dhe pat marrë pjesë plotsisht në gëzimet ose hidhnimet e mija.
+zemrës dhe pat marrë pjesë plotsisht në gëzimet ose hidhnimet e mija.
 Gjithashtu s'mundem me i pamë vëllaznit e saj që edhe për mue qenë
 vëllazën. E Shpendin e mirë jo se jo.
 
-Em atë i mbylli për mue dyert e kësajë familjeje, Por ai s'mendon se
+Em atë i mbylli për mue dyert e kësajë familjeje. Por ai s'mendon se
 zemrat e tyne s'i kanë mbyllë dyert për Dijen që aq fort e kanë dashë.
 Oh sa mallëngjehem kur i ndigjoj nga oborri zanat e tyne. Oh sa
 dëshirojsha të më ngushullonte mamë Gjystina tue m'i lëmue flokët e
@@ -283,7 +282,7 @@ valvitet në zemrat t'ona. Ndoshta ai mendon t'a ftorisi zemrën t'eme
 me jargët e ndonji bandillit që i pëlqen tue kujtue se zemra asht nji
 enë bakri e jo nji magje ndiesish e lakmish të pastra. Ai demede nuk e
 din se atje ku shkrep dashunia e vërtetë hapet nji vullkan i
-pashueshëm për jetë. Lavët e këtij vullkani janë lotet dhe krateri i
+pashueshëm për jetë. Lavët e këtij vullkani janë lotët dhe krateri i
 tij syt. Ky vullkan edhe kur duket si i shuem, ndizet e digjet
 përmbrenda për të shpërthye ma vonë ma me forcë. Ai do të ndizet, do
 të digjet dhe do të grafëllojë, pse ashtu e ka krijue natyra, pse
@@ -305,15 +304,15 @@ zot nji femne që, tue mos i frenue sencet e veta, arrin të poshtnohet
 dhe dënimi i saj, megjithqë tepër i rreptë, asht i justifikueshëm.
 Vetëm due të dij se pse dënimi randon vetëm mbi femnën e gjorë? N'asht
 se ajo u dhunue ose bani kurvëni, mashkulli ç'bani? A nuk bani edhe ky
-bikni? Kush mundet me na sigurue se femna qe ajo që i nxiti pasionin
-mashkullit dhe e ndolli në të kryemit e asajë vepre qe e dënon shoqnia
+bikni? Kush mundet me na sigurue se femna që ajo që i nxiti pasionin
+mashkullit dhe e ndolli në të kryemit e asajë vepre që e dënon shoqnia
 e sotshme me fjalët ilegale dhe e turpshme.
 
 Sikur të kishte pasë njerzia nji histori turpesh, natyrisht të
 shkrueme prej duersh të pastra e të padridhuna nga ndikimi ose
 kërcnimi i tjerve, kishim për të vu re se, qysh nga Adam-Eva e deri më
 sot, femna asht ngucë e kabue prej mashkullit për t'u bamë vegël
-dëfrimi për të. Me gjithë këtë, kur asht diktue, asht denue dhe
+dëfrimi për të. Me gjithë këtë, kur asht diktue, asht dënue dhe
 mashkulli s'asht trazue. Përse ajo ndëshkohet dhe ai nuk trazohet? A
 nuk kanë bamë mëkat ose faj të dy së bashku? Apo mëkati i mashkullit
 asht i falshëm? Mos asht edhe zoti me burrat apo vetëm i burravet që
@@ -323,8 +322,8 @@ tjetër ndoshta as nuk u skuq në fëtyrë kur e muer vesht veprën që kreu
 i biri. N'asht se i pari e vrau të bijën për me e lamë turpen me
 gjakun e saj, a nuk duhej që edhe i dyti t'a vritte të birin për t'a
 shly atë njollë që djali i tij vulosi me gjakun e nji të ngratës? N'u
-quejt ajo lavirë ose fërshëndi, a nuk lupsesh quejtë edhe ky njimitar
-ose bik? Përse randon vetëm nga femna balanca denuese e drejtësis
+quejt ajo lavirë ose fërshëndi, a nuk lypsesh quejtë edhe ky njimitar
+ose bik? Përse randon vetëm nga femna balanca dënuese e drejtësis
 mashkullore? Apo nuk asht i njinjishëm faji për të dy? Nuk dij, por më
 duket se të pakën në këtë punë mashkulli nuk lypsej të kishte nji
 privilegj.
@@ -356,7 +355,7 @@ ndonji verset i Kuranit ose i Ungjillit. Kjo përbuzje kaq trashanike,
 që i bahet femnës prej mashkullit, synon me e qëllue këtë mu në shpirt
 e në palcë: në sedër. Për atë q'asht burimi i jetës dhe shtylla e
 ekzistencës njerëzore bahet kjo përbuzje kaq e poshtme dhe e vorfën
-nga vlera mentare e morale. Mashkulli, biri i femrës, ia përplas në
+nga vlera mentare e morale. Mashkulli, biri i femnës, ia përplas në
 fëtyrë asajë këtë të fyeme kaq të randë për me ia therë zemrën
 mizorisht. Eh fatkeqësi. Mashkulli që mburret me aventurat e veta tue
 thanë se ka mashtrue e ka kabue këtë ose atë femën, ka guximin e
@@ -370,7 +369,7 @@ i shkullojnë dhe na i shterrin burimet e sedrës e të krenaris si femna
 e si njerës, që na e shtypin pamëshirshëm ndërgjegjen dhe shtefnin.
 Duhet t'u apim të kuptojnë se përparimi i nji kombi matet me
 zhvillimin e femnës dhe se kjo lypset të zajë nji vend të
-kosinderueshëm në shoqnin njerëzore.
+konsiderueshëm në shoqnin njerëzore.
 
 A s'ka zemra që të ndijnë dhimë për pësimin t'onë? A nuk ka veshë që
 t'a ndigjojnë klithmën t'onë? Ah sikur t'isha djalë. Po, sikur të
@@ -406,9 +405,9 @@ ndjesit shpaguese që ushqejshin kundrejt zotve të tyne. Kush e din se
 sa helm e vëner kanë pasë grumbullue zemrat e tyne të plasuna. Kush e
 din. Sigurisht ato do të kenë vdekë ma tepër prej pezmit e dëshprimit
 që i ka bamë me plasë, se sa prej sëmundjesh. Por edhe sot, thuej se,
-kështu asht femna, sidomos fëmna Shqiptare. Sikur të guxonte kush me e
+kështu asht femna, sidomos femna Shqiptare. Sikur të guxonte kush me e
 zbulue dufin dhe urrejtjen që ka zemra e sajë do të lemerisesh e tanë
-bota dhë atëherë do të kuptonte skota mashkullore se deri ku ka arrit
+bota dhe atëherë do të kuptonte skota mashkullore se deri ku ka arrit
 padrejtësia që i bahet asaj.
 
 Po të kisha qenë djalë, do t'u mshojsha me grusht turijve gjithë atyne

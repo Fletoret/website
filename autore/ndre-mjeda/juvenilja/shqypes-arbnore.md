@@ -40,7 +40,7 @@ Oh, zbrit ndër ne, mbretnore
 Shqype, edhe 'j herë, si zbrite
 Kur përmbi ball' madhnore,
 T'madhit Kastriot i shndrite,
-E u trand gjith' bota unji.
+E u trand gjith' bota unji
 Prej vringllit t'shpatës s'tij.
 
 Krrut nën mizuer t'Stambollit

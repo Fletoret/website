@@ -15,7 +15,7 @@ e kisha bërë unë edhe ja kisha dedikuar Bajos.
 Me gjithë që ishim kaqë të pakët zemrat tona ishin shumë të gëzuara e
 plot shpresa, dyke pandehur që gjithë këjo botë ishte krijuar vetëm
 edhe vetëm për neve! Kur zuri që të ngryset na thotë Ahmeti që do të
-kemi furtunë o djema, e këjsisoj do të mos mundim të dalëm në stere,
+kemi furtunë o djema, e kësisoj do të mos mundim të dalëm në stere,
 siç e pandehnim.
 
 Ahmeti ynë sikur ishte nonjë Flamaryon i dytë, nuku shkojti shumë kohë
@@ -44,7 +44,7 @@ trajstat, në të cilat kishim nga 500 fishekë, si cilido, edhe të
 ngrënat pastaj, si muarmë armët, muarmë të përpjetën e malevet.
 
 Për mua ishte e para herë që ngjitesha në male, pa edhe çfarë male?!
-Të lartë, të dëndur edhe me shkëmbinj të mdhëdhenj dukeshin pa funt.
+Të lartë, të dëndur edhe me shkëmbinj të mëdhenj dukeshin pa funt.
 Shokët ishin të mësuar edhe ngjiteshin pa mundim, po unë me Idriz
 Jakovën ecnim gadale edhe më tepër me duar edhe këmbë, se kishim frikë
 mos rukulliseshim, në përenjtë pa funt, edhe bëheshim copë copë!
@@ -82,7 +82,7 @@ nxirte për në Vlorë.
 Rëzohemi edhe limerjasmë atë ditë në ca lisa ku ishte një burim i
 ftohtë. Me të perënduar djelli muarm rugën të një fshati, që ishte
 pranë, kur fati na nxori një çoban nga Myzeqeja, i qojtur Ilo, i cili
-ishte sherbëtor në atë fshat edhe kthenëshe me mushkat në shtëpi.
+ishte sherbëtor në atë fshat edhe ktheneshe me mushkat në shtëpi.
 Kuvënduam e na thotë që ishte i pa kënaqur nga i zoti, andaj në
 pyetjet tona në dëshëronte të bashkoneshe me neve e priti me gëzim të
 math, kështu që si shpuri mushkat u kthye edhe shkuam, erretë, midis
@@ -147,7 +147,7 @@ shokët flinin unë me Ilo Çobanin po fshinim pushkat edhe mësoheshim
 qysh t'i përdornim, po, mjerisht, ky mësim u bë mbi kuris të Ilos se
 gabimisht pushka time zbrazet edhe godit Ilon në vithrat! Shokët
 xgjohen edhe rëmbejnë armët dyke pandehur ushtërinë, po u tregonj i
-helmuar edh' i tmeruar, fajin që kisha bëië. Me vrap xbulojmë Ilon
+helmuar edh' i tmeruar, fajin që kisha bërë. Me vrap xbulojmë Ilon
 edhe si e pamë që plaga ishte pa nonjë dëm ja lithmë. Sa për ilaç
 ishte shura t'onë, se barat që kishim marrë na i mbajtnë në kufi të
 Austrisë.
@@ -183,7 +183,7 @@ kishin shpuar edhe bërë gropë, barinjtë, për të u mbledhur ujët kur
 bintë shi. Vrapuam edhe si pimë ujë muarm vehten, se ishim fare të
 drobitur, pastaj zumë udhëtimin. Me të gdhirë arrimë në një stan, ku i
 zoti me gruan e tij na shtruan të hamë. Me një shijë të pa treguar
-hëngrëm atë mënjgjes pastaj, si n çëlothmë mirë, shkuam dyke
+hëngrëm atë mënjgjes pastaj, si u çëlothmë mirë, shkuam dyke
 falënderuar të zotërit e stanit për mírë pritjen.
 
 Q' atje shkuam në malet e Golemit po, dyke parë që vinte në atë rugë
@@ -289,7 +289,7 @@ hasmë! Sa gëzim të math nuku ndjemë në zemrat tona kur u hasmë se
 s'paska më e keqe se asaj që të aratisesh nga shokët në mest të
 pyllit. Gjithë kohën e shkuam me të ngrënë lule-shtrydhje pastaj, me
 të afruar perëndimi shkuam në mal të Radomit, në stan të Tasi Çobanit.
-Atje ardhi nga Kurtesi i ndyeri Sako me të nipin e tij Kasëmin adhe na
+Atje ardhi nga Kurtesi i ndyeri Sako me të nipin e tij Kasëmin edhe na
 muar në fshat, në shtëpi të tyre.
 
 Të nesërmet ardhi Ibrahim Efendiu, i cili sot është Baba i Teqesë
@@ -349,9 +349,9 @@ mballosi opingat se i kishim copë copë.
 Në Lubonjë hoqmë në shtëpi të Dilaverit edh' atje mësuam për vrasjen
 të Riza Velçishtit edhe për Apostolin, Hasan edhe Malon që kishin
 pësuar shumë. Hasanë e kishin zënë edhe dënuar me 15 vjet në burg të
-Gjinokastrës, Apostoli me Malon dimëruan me Bullgarët po. në një
+Gjinokastrës, Apostoli me Malon dimëruan me Bullgarët po, në një
 goditje me ushtërinë, Maloja u vra, pa si lëftojti burrërisht edhe
-vravi tri ushiarë. Apostolë e xunë edh' e dënuan, në Manastir, për
+vravi tri ushtarë. Apostolë e xunë edh' e dënuan, në Manastir, për
 jetë po u lirua me çpalljen të lirisë. Malo Çami ishte shoku i Rizajit
 po, me qënë që në një goditje me ushtërinë u plagos, Rizaj e vuri në
 një vënt të mirë për shërim edhe pa si u be mirë u bashkua me Bajon
@@ -374,7 +374,7 @@ mellodhí, kaqe të ëmbël sa të perëndon në qell! Kozeli është ngritur
 për mbi një bregore duke admiruar këto pamje natyrale.
 
 Ne Qafë të Kazanit ishin ngritur stanet të Pitulit i bashkuar me Sali
-Butkën edhe vëllezërinë të Kozelit edhe na kanë gostitur siç naku
+Butkën edhe vëllezërinë të Kozelit edhe na kanë gostitur siç nuku
 rëfenet. Qafa e Kazanit është një vënt strategjik edhe shumë i fortë
 po, veç kësaj, është edhe tepër i bukur. Q'atje do të shëkosh
 Kolonjën, me gjithë fshatrat edhe fushën e saj, më tjatër anë do të
@@ -393,10 +393,10 @@ ditur. Shërbimet të këtij atdhetari nuku kanë shëmbëll edhe çpagim.
 Cilka meriton faqe shumë prej të historisë kombëtare, me qënë që ka
 qënë, është edhe do të vdesë patriot!
 
-Nga Korça shkuam, pa si na veshi mi ë komiteti i Korçës për në Plasë
+Nga Korça shkuam, pa si na veshi mirë komiteti i Korçës për në Plasë
 edhe q'andej të hidheshim në Prespë, me qënë që komitat Bullgarë
 dëshëronin të haseshin me neve. Në Plasë tri nga shokët e Tahirit
-deshnin të shonin per në vënt të tyre, kështu që u shtrëngua edhe
+deshnin të shkonin per në vënt të tyre, kështu që u shtrëngua edhe
 Tahiri me Saminë t'i përcjellin gjer tej, në për ca miq të njojtur,
 edhe do të ktheheshin dyke lënë për fjalë Teqenë të Melçanit që të
 bashkoheshim.
@@ -411,7 +411,7 @@ për një lëvizje kryengritëse se ora po afron.
 Kur ndodheshim në Shulin, në çiflig të Orhan be Pojanit, na
 lajmërojnë, prej Korçe, vrasjen e Mitës Heqimit si edhe për Qani be
 Ypin që do t'e shkonin lidhur për në Manastir. Këto lajme na hidhëruan
-fort tepër edhe vendosmë që të zëmë rug në, Korçë-Manastir, për të
+fort tepër edhe vendosmë që të zëmë rugën, Korçë-Manastir, për të
 shpëtuar Qani benë. Programi ynë ishte që të mbanim gjithë udhëtarët
 pastaj, si të shkonin Qani benë t'i lironim ose të vrisnim, nonjë nga
 ata që të kishin gjisht, në vrasjen të Mitës Heqimit.
@@ -419,7 +419,7 @@ ata që të kishin gjisht, në vrasjen të Mitës Heqimit.
 Më 7 Gusht 1907 zemë sosenë ku duheshe po, mjerisht, pa shkuar shumë
 kohë, shkojti Posta e cila vinte që nga Manastiri për në Korçë edhe në
 bërtimin tonë që të lidhën një bej i qojtur, siç mësuam pastaj, Qerim
-be Kostreci, veshur ushtërisht, nuku dëgjoiti e dyke dashur të
+be Kostreci, veshur ushtërisht, nuku dëgjojti e dyke dashur të
 shpëtonjë u vra. Pastaj Postën e doqmë edhe si u muerm armët
 suvarinjvet edhe një mushkë u hothmë në Nivicë, edhe q'atje në
 Gjerman.
@@ -437,14 +437,14 @@ edhe porositmë Myftar'e fshatit që të na dërgonte ngrënie, për nesër,
 në limer ku do të limerjosnim. Të nesërmet brëma si muarmë bukë, me
 vehte, shkuam në malet e Koreshtit, ku patmë lumtërinë të hasemi me
 kryekomitat të Kosturit edhe të bëjmë të njojturë. Nuku munt të
-mohojmë kurrë. që, dyke bashkëndenjur me komitat Bullgarë, shkuam
+mohojmë kurrë që, dyke bashkëndenjur me komitat Bullgarë, shkuam
 vëllezërisht edhe përfituam mjaft nga organizacia e tyre. Ishin mirë
 organizuar, nga çdo pikëpamje, edhe kishin një disiplinë fort të
 pëlqyerë si kundër edhe fort të reptë. Me këtë program ishin forcuar
 edhe kishin mundur që të lidhen, midis tyre, kështu që në çdo rezik,
 që t'i vinte një çete, vraponin ndihmës ata që ishin pranë. Si
 vizituam fshatrat të Koreshtit muarm lamtumirë edhe shkuam të bashkuar
-me voevoden Petro Buzo për në Nestram Me hidhërim do të tregojmë që
+me voevoden Petro Buzo për në Nestram. Me hidhërim do të tregojmë që
 Thanas Nastoja, prej Plase, u tregua i dobët edh'i pabesë, se u nda
 prej neve edhe mbeti me Vançon nga Ohria, sa për armët tona, q'i
 kishim dhënë e donim t'ja mernim, na u zotuan Bullgarët të na i
@@ -465,7 +465,7 @@ Pa perënduar djelli u rëzuam në Qytezë. Ishte e shtunë mbrëma edhe
 fshatarët ktheheshin nga punërat, në fshat. Çerçizi u thëret ca
 fshatarëve, në gjuhën greqishte, që të qendrojnë edh' ata qendruan. Si
 u përshëndoshmë i pyet Çerçizi, ç'kemi nonjë të re edhe qysh shkojnë
-me fqinjët e tyre Muhamedanë. Një nga pleqtë përgjigjet që s ka nonjë
+me fqinjët e tyre Muhamedanë. Një nga pleqtë përgjigjet që s'ka nonjë
 të re edhe, pas shenjavet e humbnë çdo shpresë të lirisë të cilën na e
 kanë kënduar andarët, sa për Muhamedanët, thotë plaku, janë gjith' ata
 Tyrq që kanë qënë kurdoherë.
@@ -473,14 +473,14 @@ Tyrq që kanë qënë kurdoherë.
 Kini të drejtë, ju thomi, që të qani nga këta, po mos harojmë që faji
 m'i math i ngarkohet qeverisë Tyrke, të Stambollit, e cila dëshëron që
 të mos ketë kurrë qetësi edhe vëllazëri, në vëndin tënë, midis të
-Krishterëvet edhe Muhamedanëvet. Këto pra na shtrnguan të marim armët
+Krishterëvet edhe Muhamedanëvet. Këto pra na shtrënguan të marim armët
 edhe malet që të sjellëm lirinë të shenjtë, e cila nuku do të vonoujë.
 
 Pa që të gjithë për këtë liri na kuvendoni po për fat të keq, thonë,
 liria, kaqë e dëshëruarë, nuku duket as gjëkundi. Pastaj na pyësen që
 të kujt Kapitani jini se tjatër herë nuku e kemi parë. U thomi që ramë
 në një goditje të madhe me ushtërinë, tej Kosturit, edhe me mundime
-arrimë gjer k tu më parë, se shuca e shokëvet mbeti prapa dyke lënë
+arrimë gjer këtu më parë, se shu[mi]ca e shokëvet mbeti prapa dyke lënë
 Kalanë të Abidinit vendin për të u bashkuar. Pastaj, dyke u treguar
 Çerçizin u thom unë që Kapitani ynë është Kapitan Xhorxhi.
 
@@ -491,7 +491,7 @@ edhe pa na lajmëruar përpara.
 S'ka gjesendi; thotë Çerçizi, po nuku na thoni a ka në fshat nga
 shokët t'anë?
 
-Njënatëzaj ishin katër shpirt, përgjigjen, po sonte unuk dimë në ka
+Njënatëzaj ishin katër shpirt, përgjigjen, po sonte nuku dimë në ka
 ose jo.
 
 Atëhere, thotë Çerçizi, le të vraponjë një përpara për të lajmëruar
@@ -517,7 +517,7 @@ munt të vinim e tek ata, në shtëpi, po djethinaj brema kishim nga
 andarët që nuku dinë shqip.
 
 Me të parë që do të mbeteshim përjashta i thomi çunit të na shpjerë në
-shtëpi të tyre, ku gjetmë t'ëmënë, një grua e ve, me jë bijën ktheur
+shtëpi të tyre, ku gjetmë t'ëmënë, një grua e ve, me një bijën ktheur
 prapa me dy foshnja, me qënë që burri i sajë i ishte martuar në Greqi.
 Na urdhruan brënda të gjorat edhe, pas zakonit, na përshëndoshnë dyke
 mbeturë të kënaqura se mereshim vesh në gjuhën tonë. Pritmë që të
@@ -537,7 +537,7 @@ na kishin ngjarë episodet e ditës. Pas mezit natës xgjojta Çerçizin
 edhe shokët edhe u thom të pregatiten për të shkuar, se e ndenjurá
 tonë në këtë fshat ishte e rezikçme.
 
-Si u ngritnë shokët edhe u bënë gati xgjuam të zon ën e shtëpisë, e
+Si u ngritnë shokët edhe u bënë gati xgjuam të zonjën e shtëpisë, e
 cila flinte lart, edhe muarm lamtumirë. Çerçizi më të shkuar e
 doroviti me tri mexhitka për fëmijën, kështu që tepër e kënaqur na
 përcolli gjer në porta, dyke na uruar udhë të mbarë edhe Zoti të na
@@ -550,7 +550,7 @@ limerjasim. Po si u hap dita mirë shohim të vinë çunat nga fshati, për
 të kallotur bagëtinë. Nga këta mësuam që ndodheshim në pyll të
 Çipanit, kështu që u familismë me çunat, të cilët i përkëdhelmë edhe i
 dorovitmë pasandaj dy, më të mëdhenjtë, i dërguam në fshat që të na
-blinin ca bukë edhe ca djathë,
+blinin ca bukë edhe ca djathë.
 
 Si kurdoherë që na kish përkrahur, Zoti i math, kështu edhe këtë herë
 na dërgonte dy përkrahës. Këta ishin Istref Verleni edhe Ali Çaushi,
@@ -559,27 +559,27 @@ gjithë anëtë e vetëm tani fati e solli që të haseshim, me anën të
 çunavet. Vërtet kishim dëgjuar për këta atdhetarë që kishin ndjenja
 kombëtare të nxehta, po uniforma, prej xhandarmerie, e Ali Çaushit na
 klliste në dyshim, prandaj karaulla i ndalojti që të vinin në limer pa
-na lajmërnar neve.
+na lajmëruar neve.
 
 Me gëzim të math pritmë lejen tonë edhe si u puthmë e u përshëndoshmë
 rymë në bisedimet e ditës, për mbi çështjet tona kombëtare. Kur zuri
 të ngryset u-rëzuam në Verlen, fshat i tyre, në shtepi të Istrefit, i
 cili na mbajti tri dit e tre net, me pahir, se nuku ngopeshin dot nga
 bisedimet. Këtu u-çelothmë edhe u-gostitmë si jo më mirë po ishin
-tepër të hidhëruar se në Devoll nuku ishin përhapur ndjen at
+tepër të hidhëruar se në Devoll nuku ishin përhapur ndjenjat
 kombëtare, nga shkaku i fanatizmës po tani adhuronin Amerikën e cila
-përmblodhi shumë djem të rinj, sa me këtë mënyrë po shtr ngonen të
+përmblodhi shumë djem të rinj, sa me këtë mënyrë po shtrëngonen të
 mësojnë shqipen për të lëcitur letrat q'u vinin s'andë mi.
 
 Bashkë me neve ardhë, edhe Istrefi me Ali Çaushin, gjer në Mengulas
 edhe hoqmë në shtëpi të Jotit Major Emin Mengulasi, dyke patur dijë
 për ndjenjat kombëtare. Z. e tij mungonte se ndodheshe me shërbimin
-ushtëriak në Janinë, po ishte një burr i urtë, shpirt mirë edhe si o i
+ushtëriak në Janinë, po ishte një burr i urtë, shpirt mirë edhe si[d]o i
 pa mësuarë kishte ndjenja kombëtare, siç nuku pandeheshe. Në këtë
 shtëpi gjetmë një dollap me libra shqip, dyke thënë Aliu që i ka
 sjellë, nga Janina, Majori për çunat.
 
-Pa si ndejmë dy dit n Mengulas, ku kuvenduam me shumë miq, shkuam në
+Pa si ndejmë dy dit në Mengulas, ku kuvenduam me shumë miq, shkuam në
 Bozhigrad dyke na bashkuar Alin Mengulasi, Istrefi edhe Ali Çaushi. Në
 Bozhîgrat hoqmë në shtëpi të Nure Agajit, miku vetiak i tyre, i cili
 na priti fort mirë. Pa u gdhirë u ngritmë edhe shkuam, si u puthmë
@@ -639,7 +639,7 @@ edhe biseduam gjër e gjatë, pastaj si u treguam programin e qëllimín i
 betuam. Në Qytezë gjetmë edhe ca djema atdhetarë të cilët lëçitnin
 fort bukur shqip, prandaj u dhamë mjaft libra për të lëçitur.
 
-Si hëngrëmë darkë na përcuall, me dashuri, edhe na dhanë e pojakuu për
+Si hëngrëmë darkë na përcuall, me dashuri, edhe na dhanë e pojakun për
 udhëtregonjës gjer në Sinicë. Këtu i mblothmë së bashku, Muhamedanët
 me të Krishterët, edhe si u treguam programin i vumë të betohen. Tek
 po bisedonim na lajmërojnë që një ushtëri, prej 200 shpirt, ka
@@ -700,10 +700,10 @@ sa u ngrys pastaj, si hëngrëmë bukë, muarm lamtumirë edhe shkuam.
 
 Që nga Gjyrezi muarm malet edhe dyke shkuar nga Gur' i Capit arrimë në
 Dishnicë edhe hoqmë në shtëpi të Jaup Beut, i cili na priti fort mirë.
-Atë ditë bëheshe, në Korçë, dasma e Sami be Pojanit edhe me gjith k
-të, me të mësuar për neve, vrapuan me araba edhe më kembë shumë
+Atë ditë bëheshe, në Korçë, dasma e Sami be Pojanit edhe me gjithë
+këtë, me të mësuar për neve, vrapuan me araba edhe më kembë shumë
 atdhetarë. Dishnica mban gjysmë ore prej Korçe prandaj nuku qendruam
-përveç se atë ditë edhe ngrysur shku m për n Teqe të Melçanit.
+përveç se atë ditë edhe ngrysur shkuam për në Teqe të Melçanit.
 
 Midis atdhetarëve që ardhë për të u hasur, në Dishnicë, ishte edhe një
 djalë i ri, i qojtur Ferit be Frashëri, i cili me të na shëkuar neve
@@ -711,7 +711,7 @@ nuku donte që të ndaheshe as një pëllëmbë. Shkuam pra së bashku po
 baltrat e mëdha, hendeket si edhe errësira na pengonin shumë prandaj,
 dashur pa dashur, u-shtrënguam të kthehemi në Orman Çiflig, 20
 sekundra prej Korçe, në shtëpi të Vangjos, i cili kishte atë ditë edhe
-dasmë se martonte të bijën. Me gjithë këtë nde më në kullë ku dëfryem
+dasmë se martonte të bijën. Me gjithë këtë ndejmë në kullë ku dëfryem
 edhe me dajiren dyke lojtur, Çerçizi me shokët edhe me Ferit benë,
 edhe valle.
 
@@ -721,11 +721,10 @@ Tij, Baba Hyseni, na priti, gostiti, ndihmojti edhe na bekojti.
 Shërbimet të Shënjtërisë Tij nuku tregohen dot, se Baba Hyseni është
 një nga patriotët e mëdhenj edhe një shtyllë për lëvizjen kombëtare,
 prandaj historia kombëtare i detyron faqe të arta Shenjtërisë Tij. Në
-Melçan ardhë plot atdh tarë, prej Korçe edhe prej qarkut, që të
+Melçan ardhë plot atdhetarë, prej Korçe edhe prej qarkut, që të
 haseshin me neve. Midis tyreve nemëronj Cilkën,
-
-Lizo Progrin, Fuat be Dishnicën, Vangjel Gjikën, Jaup be Dishnicën,
-Aleks Koçin, Simi be Pojanin, Viske Gorguzi, Lutfi edhe Memdu be
+Lazo Progrin, Fuat be Dishnicën, Vangjel Gjikën, Jaup be Dishnicën,
+Aleks Koçin, Sami be Pojanin, Viske Gorguzi, Lutfi edhe Memdu be
 Zavalani, Tasi Gramenua, Hasan Selfo be Polena, Thomi Fali, Kristaq
 Aristidhi, Gaqi Thanas Viso, Bejlerët e Goçës edhe shumë të tjerë.
 
@@ -746,7 +745,7 @@ Ishte një natë e errëtë, me erë edhe me shi, kur u rëzuam nga Polena
 në Korçë edhe, të lagur qull hoqmë në shtëpi të Cilkës. Këtu ardhë
 përveç atdhetarevet edhe të çkëlqyerat, atdhetare, zonjëzat Sevasti
 edhe Parashqevi Qirjas si edhe zonjëza Fanka, mësonjëset të shkollës
-së çupavet. E palodhura atdhetare Ekaterina Cilka, zonja e Cilkas, na
+së çupavet. E palodhura atdhetare Ekaterina Cilka, zonja e Cilkës, na
 jepte edhe këshilla për rojtjen tonë komitare, pa si kish ndenjur 6
 muaj me komitat Bullgarë, kur e muar penk bashkë me Amerikanen Miss
 Stone.
@@ -761,10 +760,10 @@ ushtërisë.
 Që nga Cilka vamë në shtëpi time, për mest qytetit, dyke patur përpara
 Ferit benë, Kristaq Aristidhin edhe Gaqi Thanas Vison, ku na prisnin
 prindërit edhe vëllezërit e mij. Pa fjalë që u-gëzuan shumë po edhe
-u-helmuan kur më panë komit, me mjekrën e e me leshrat e ghata. Në
+u-helmuan kur më panë komit, me mjekrën e me leshrat e gjata. Në
 shtëpinë tonë nuku mbeti as nonjë atdhetar pa ardhur që të haset si
 kundër qe bëmë edhe kaqë herë mbledhje me rëndësi. Ishte pra një çudi
-e madhe që shpëtuam pa ngjarë gjësendi. Po mbi k të i detyrohet fort
+e madhe që shpëtuam pa ngjarë gjësendi. Po mbi këtë i detyrohet fort
 shumë edhe atdhetarit Beqir Progrit, i cili ishte Kryekomiser i Korçës
 asi kohe edhe, domosdo, mbyllte sytë edhe veshët.
 
@@ -790,10 +789,10 @@ vënt me patur haremet brenda.
 
 Ushtëria mori rugën e Korçës edhe neve, me qënë të sëmurë Çerçizi me
 Abazin vamë në Floq, në shtëpi të Ibrahimit edhe Ahmitit, me të cilët
-isha mik i afërmë që nga Misi i ku kishim bërë bashkë. Me qënë mik në
+isha mik i afërmë që nga Misiri ku kishim bërë bashkë. Me qënë mik në
 Misir na priti i vëllaj i tyre i vogëli, Shahua, i cili na priti edhe
 gostiti mirë. Nga Floqi shkuam për në Elmas, me gjithë që binte shi,
-edhe hoqmë në shtëpi e Rapo Beut. Rapo beu në krye nnku desh të na
+edhe hoqmë në shtëpi e Rapo Beut. Rapo beu në krye nuku desh të na
 priste brënda, me qënë që kish ca mjeshtër që punonin, po si pa
 Çerçizin edhe Abazin të sëmurë na priti dhe gostiti si tjatër herë.
 
@@ -817,7 +816,7 @@ altarin të atdheut, se kurdoherë këjo shtëpi ishte e hapurë për
 komitat kombëtarë. Po, përveç këtyreve shërbime, deshnin që edhe me
 jetën t'e mbushin detyrën prandaj një nga djemtë, i dyti, i qojtur
 Asllan desh që të shoqëroheshë me neve. E ëma u bint edhe i dha lejë
-pastaj, dy e i dhënë urimet i tha: or bir më mirë të të dëgjonj të
+pastaj, dyke i dhënë urimet i tha: or bir më mirë të të dëgjonj të
 vdekurë se sa të më turpërosh! Rëmbeu armët, Asllani, edhe q'atëhere u
 bë shoku ynë i pandarë. Djalë i ri, 20 vjet, ishte prikosurë me
 virtuta të mira, trim, i papërtuarë, i urtë edhe një atdhetar i

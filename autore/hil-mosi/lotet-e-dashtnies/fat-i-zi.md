@@ -11,7 +11,7 @@ Ah, ç'kam hjekun un i ngrati
 Tash në koh të djelmëniës!
 Zêmra e ême t'gjitha hoqi....
 Vashen s'di se ça m'a shkoqi
-N'mâ të bukuen koh t'dashtniës! —
+N'mâ të bukren koh t'dashtniës! —
 T'bukrat ândrra, plot shpresime
 Shpesh më shkojn nepër kujtime,
 Kah do t'shkoj e kudo t'rri;

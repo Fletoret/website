@@ -20,7 +20,7 @@ Kështu për dashurinë humbi vetëhenë.
 
 Kështu e shënjta miqësi ësht bërë:
 Megjithse larg, po puqen me sevda
-Dy zëmra që prej-fatit, qenë ndarë.
+Dy zëmra që prej fatit qenë ndarë.
 
 Harresa e keqe kurrë s'mund t'i zërë,
 Dhe po i preu vdekja me gërshërë ata,

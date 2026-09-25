@@ -23,7 +23,12 @@
     <EpubDownload bookFolder={book.folder} authorName={author?.name ?? ''} />
   {/if}
   <div class="book-details">
-    <div class="intro">{book?.abstract} Botuar në {book?.datePublished}.</div>
+    <div class="intro">
+      {book?.abstract} Botuar në {book?.datePublished}.
+      {#if book?.compilerName}
+        Mbledhur dhe kodifikuar nga <a href="/{book.compiledBy}/">{book.compilerName}</a>.
+      {/if}
+    </div>
     <div class="author-wrapper">
       <BreadcrumbItem
         item={{

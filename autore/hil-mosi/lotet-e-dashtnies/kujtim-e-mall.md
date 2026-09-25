@@ -6,9 +6,10 @@ parent: Lotët e dashtniës
 grandparent: null
 order: 49
 ---
-> Behüt' dich Gott! es wär' so schön gewesen! Behüt' dich Gott! es hat nicht sollen sein!
-> 
-> Scheffel
+> Behüt' dich Gott! es wär' so schön gewesen!
+> Behüt' dich Gott! es hat nicht sollen sein!
+>
+> — Scheffel
 
 Larg, i vetëm pa ngushllime,
 Ku t'a gjêj at qetësië?
@@ -25,7 +26,7 @@ Ajo koh plot âmbëlsië,
 Q'i dishron kjo zêmra ime,
 Kjo djelmnië
 
-Ah, mjerisht kan ra n'harrime!—
+Ah, mjerisht kan ra n'harrime! —
 S'di, a kthehen mâ per s'ri —
 Do t'prêndojn me gjith kujtime
-Me djelmnië.
+Me djelmnië —

@@ -16,7 +16,7 @@ unë anë, pas fuqisë t'ime.
 Me anën të këtij shtimi dëshëronj që t'u lehtësonj udhën e duhur
 historishkronjësvet, të cilët kanë për të plotesuar, pa dyshim,
 historinë të re të Shqipërisë, kështu që nga shënimet t'ime, do të
-gjejnë burimet edhe lehtësirat, per të mbushar veprat e tyre të
+gjejnë burimet edhe lehtësirat, per të mbushur veprat e tyre të
 mbaruar.
 
 Jo më pak që edhe nxënësit e këndonjësit do të përfitojnë shumë, se me
@@ -91,7 +91,7 @@ Përveç këtyreve shërbime, q'i solli Kongresi atdheut, i solli edhe një
 tjatër shërbim më të math, çeshtjes tonë kombëtare. Qarket
 dipllomatike, të Europës, u enteresuan tepër për këtë Kongres edhe
 shtypi të meret gjër e gjatë me lëvizjen Shqipëtare, e te botonjë
-artikulla me rëudësi, prej njerës njojtës mbi historinë të Shqipërisë.
+artikulla me rëndësi, prej njerës njojtës mbi historinë të Shqipërisë.
 
 Tyrqit dyke parë përparimin të Shqipëtarëvet zunë me vrap nga
 dhelpërit' e zakonëshme, për të ndaluar e përçarë nga ky qëllim e
@@ -125,7 +125,7 @@ jatrës mbylleshin e ksefestroheshin, gazetarët dënoheshin edhe
 burgoseshin. Nga këta ndiqeshin më tepër unë, Dervish Hima, Jashar
 Erebara edhe Muço Qulli.
 
-Në të këtillë gjend,e të tmeruarë gjendeshe kombi Shqipëtar, edhe që
+Në të këtillë gjendje të tmeruarë gjendeshe kombi Shqipëtar, edhe që
 të gjithë e kupëtonin rezikun e math, po nisiativën as nonjë nuku e
 mirte, për organizimin e fillimin të një lëvizje kryengritëse. Vërtet
 shumë patriotë botonin thirje kryengritëse, në emër të komitetëve, po
@@ -170,7 +170,7 @@ nga burgimi, kështu që u ktheva në Korçë ku mbusha dënimin në burg
 edhe pagova gjobën, për të cilën më ndihmuan nga kombëtarët e vjetër
 të Korçës, edhe të Amerikës. Ky denim ishte i dyti ose i treti, andaj
 të burgosurit më prisnin me gëzim që t'u mësonja shqipen e t'i
-ngusëllonja që për së shpejti do të lirohen.
+ngushëllonja që për së shpejti do të lirohen.
 
 Me përpjekjet të Hasan Pashës Mesarese m'u dha lejë për botimin të
 «Kohës», teligrafisht nga Stambolli, po shumë atdhetarë pandehnin se e
@@ -196,7 +196,7 @@ në Bandë të Lirisë edhe në shtëpi të të ndyerit patriot Vangjel Gjika.
 Si i veshmë me roba prej redifi (rezervë në ushtëri) i përcuallm në
 Korfus e q'andej në Napoli edhe Misir ku dimëruan.
 
-Ishim unë, Themistokliu, Feriti edhe Vaugjeli që i kemi shkuar për
+Ishim unë, Themistokliu, Feriti edhe Vangjeli që i kemi shkuar për
 mest qytetit edhe tregut gjer arrimë në han të Radenecit, dyke ja
 dorëzuar Laskës qiraxhiut, me siguri që t'i hithte në Korfus. Ishte
 mez'i natës edhe po rinim reth mangallit me zjar, gjer të
@@ -213,42 +213,42 @@ ngjiste nonjë gjësëndi, gjer u kthyen Themistokliu me Feritin të cilët
 i kishin përcjellë jashtë qytetit, pastaj u kthyen në Bandë ku i gjori
 profesor Paskali u ngrit nga gjumi i tmeruar se mos ishin nga qeveria,
 po më të na njojtur hapi portën e ndejmë brenda gjer në mëngjes, kur u
-përudamë.
+përndamë.
 
 Në të këtillë gjendje ndodheshim prandaj më 1911 unë shkova në
 Stamboll i thirur me një letrë si prej Çerçizit po jo, ishte prej
-Zemanit. Dyke udenjur nat' edhe ditë me Çerçizin vështronj që as nonjë
+Zemanit. Dyke ndenjur nat' edhe ditë me Çerçizin vështronj që as nonjë
 shenjë nuku tregonte për një lëvizje kryengritëse, me qënë tepër i
 dëshpëruar. I tregonjë gjendjen e tmershme, të Shqipërisë, edhe bindet
 po më thotë gjej të holla se vetëm kështu munt të vendosim. Edhe mbi
 këtë pikë kish arësye të plotë se fort të rallë ishin ata që të
 ndihmonin.
 
-Në këtë kohë kishin ardhur, në Stamboll, edhe Bektash Oakrani me të
+Në këtë kohë kishin ardhur, në Stamboll, edhe Bektash Cakrani me të
 ndyerin, patriot e dëshmor Baki Gjinokastra gjithë për këtë qëllim, që
 të mireshin vesh me politikanët Shqipëtarë, të Stambollit. Për dita
 bashkoheshin në zyrë të «Shqipëtarit», drejtuar prej Dervish Himës, ku
 mblidheshin e bisedonin shumë atdhetarë, po bisedime të kotta.
 
-Një ditë mbetur vetëm neve, unë, Dervish Hima, Bektash Oakrani, Baki
+Një ditë mbetur vetëm neve, unë, Dervish Hima, Bektash Cakrani, Baki
 Gjinokastra edhe Hil Mosi vendosim të mblidhemi në Hotel Imperial, ku
 ndodheshe fshehur nga ndjekja e qëvërisë, Bedri Peja e të bisedojmë
 xgjeshur. Dhamë fjalën e nderit që as nonjë tjater do të mos e dijë,
 kështu që të nesërmet u mblothmë edhe e gjetmë të arësyshme të ftojmë
-uga deputenjtë Shqiptarë Nexhip be Dragën edhe Hasan be Prishtinën.
+nga deputenjtë Shqiptarë Nexhip be Dragën edhe Hasan be Prishtinën.
 
-Këtë barrë e muar Dervish Hima me Bektash Oakranin që t'i lajmërojnë
+Këtë barrë e muar Dervish Hima me Bektash Cakranin që t'i lajmërojnë
 edhe kësisoj të nesermet, në orën e caktuar, u mblothmë në Hotel
 Imperial. Bisedime të gjata nuku duheshin me qënë që ishim në një
 menjtim të plotë. I ndyeri Nexhip be Draga me Hasan be Prishtinën
 thonë që për në Kosovë kanë shpresën më të madhe për një kryengritje
 të përgjithëshme, pa e ditur qëllimin përveç ca të pakë nga krerët me
-dijë, po sa për uë Toskëri nuku besojnë, arrin vetëm që të dalin çeta
+dijë, po sa për në Toskëri nuku besojnë, arrin vetëm që të dalin çeta
 e të bëhen lëvizje vendiake, ku aty ku atje, për te i dhënë ngjyrën të
 bashkimit, Gegë e Toskë të kësaj kryengritje.
 
 Ky menjtim u pëlqye prej të gjithëvet edhe e pranuam që në Kosovë do
-të' vepëronin Nexhip be Draga edhe Hasan be Prishtina, në malësi të
+të vepëronin Nexhip be Draga edhe Hasan be Prishtina, në malësi të
 Shkodrës Hil Mosi edhe në Toskëri unë, Bakiu edhe Bektashi. Dervish
 Hima mbeti për në Stamboll edhe të hidhet në Çamëri me të parë që i
 aftohet reziku. Bedri Pejën vendosmë të hidhet në Romani e në

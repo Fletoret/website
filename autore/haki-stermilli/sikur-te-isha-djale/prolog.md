@@ -35,7 +35,7 @@ me e hapë dhe me pa më se ç'ishte shkrue n'at defter që ajo më
 dorëzoi. Ma në fund më mundi kërshëria dhe e çela pakon. Mbrenda
 kishte nji defter, nji shami të bardhë dhe nji letër të drejtueme
 Zotni Shpend Rrëfes në Tiranë. Gati tri të katërtat e fletorit ishin
-të shkrueme. Menjiherë e njofta shkrimin e imët të Dijës. Në faqen e
+të shkrueme. Menjiherë e njofta shkrimin e imët të Dijes. Në faqen e
 parë ishte shkrue, me ngjyrë të kuqe, ky titull: _Jeta e eme_. Vendosa
 të këndoj disa pjesë sa për t'a kënaqë kërshërin. Hudha nji sy në
 faqen e parë dhe lexova:
@@ -47,19 +47,19 @@ vlen asnji dysh, por për mue ka randësi, se asht e emja, se mund të
 përshkohet nëpër faza të ndryshme interesante dhe dikur, tue i këndue
 në këto fletë gëzimet ose hidhnimet e mija, do të kënaqem ose do të
 pezmatohem. Sikurse pëson ndryshime trupi i njeriut tue u lakue nëpër
-rrathët e moshës, pa dyshim, asht u edhe me jetën.”
+rrathët e moshës, pa dyshim, ashtu [ndodh] edhe me jetën.”
 
 Mbasandaj kapërceva disa faqe e këndova:
 
 “Mbasandaj kush mund të pretendojë se nuk ka në mes të meshkujve djelm
 e burra të bukur? Mos kujton ndokush se nuk ka bukuri mashkullore?
-Sikur të mundesh me folë femna me atë liri gjuhe që kanë mashkujt,
+Sikur të mundesh me folë femna, me atë liri gjuhe që kanë mashkujt,
 kush e di se sa poezi do të vargëzonte për me e përshkrue bukurin e
-shokut të vet jo gjini. Kush mundet me më siguru e se nuk ka me mija
+shokut të vet jo gjini. Kush mundet me më sigurue se nuk ka me mija
 femna që, tue kundrue mbas kafazit të dritares ose nëpërmjet të peçes
 së hollë, nuk shprazin nga goja mija e mija tubza vjershash për ata që
 u kalojnë pranë pa dijtë se kanë plagosë randë disa zemra të strukuna
-mbrenda do krijesave të dënueme me burgim të përgjitshëm?
+mbrenda do krijesave të dënueme me burgim të përjetshëm?
 
 Oh sa e sa sy vashash, nga plasat e dyerve ose nga birat e kafazeve,
 ndjekin e përcjellin kalimtarë të rij me rrafje të forta të zemrave që
@@ -80,12 +80,12 @@ shmang çdo mosmarrëveshtje, për të pasë harmoni të vazhdueshme dhe për
 të bamun nji familje të lumtun, ata që do të martohen - përpara se t'a
 bashkojnë fatin e jetën - lypset të jenë njoftë, t'i kenë pajtue
 karakteret dhe t'a kenë dashunue njeni tjetrin. Përndryshe s'bajnë
-tjetër veçse krijojnë nji Ferr për me e turturue vetëhen dhe për t'i
+tjetër veçse krijojnë nji Ferr për me e torturue vetëhen dhe për t'i
 përcëllue në flakët e tija edhe fëmijt që do t'u lejnë.”
 
 Në faqen 33 të fletorit pashë:
 
-“U bubu si pësova! E humba fare. Më duket se më hyni fitili, më gjanë
+“Ububu si pësova! E humba fare. Më duket se më hyni fitili, më gjanë
 se më kapi grepi i dashunis. Mbramë vonë më muer gjumi, pse mendojsha,
 pa dashas, për at djaloshin e... bukur që pashë dje ke Irena. Edhe
 n'andërr më shfaqesh me buzë në gaz, dhe, tue m'i ngulë syt e vet si
@@ -148,7 +148,7 @@ duhet të jemi të qeshuna e gastore për t'i kënaqë kapricjet e burrave,
 lypset të jemi pa zemër e pa shpirt për t'i ngopë dëshirat e atyne që
 na kanë monopolizue. Por edhe në paçim zemër e shpirt, këta lypset të
 fonksjonojnë vetëm simbas andjes s'atyne që na kanë robnue e jo për
-ata që na mund të dashunoj më. Oh fatkeqësi! Sa e sa breza femnash, që
+ata që na mund të dashunojmë. Oh fatkeqësi! Sa e sa breza femnash, që
 erdhën para nesh, u banë viktimet e këtij zakoni t'egër dhe flia e
 asajë mendësije që kish për të vetmin qëllim të kënaqi kapricjet e nji
 turme injorante, sunduese mbi fatin dhe jetën e atyne femnave të

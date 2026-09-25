@@ -8,7 +8,7 @@ grandparent: null
 order: 30
 ---
 M'thuj ç'âsht kshtu, o zemra e ime?
-T'gjith ky ndrrim tash kshtu ça kjofi?
+T'gjith ky ndrrim tash kshtu ça kjoft?
 Ah, se ç'jet me plot ndryshime!
 Tash as un nuk di me t'njoft.
 

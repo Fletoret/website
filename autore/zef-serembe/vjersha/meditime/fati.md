@@ -9,7 +9,7 @@ order: 25
 ---
 
 Shkova të parat vjet me shumë hare,
-Posi pasqyrë jeta më që dukur,
+Posi pasqyrë jeta më qe dukur,
 Për mua i qeshur qe qielli dhe ky dhe,
 Para meje çdo gjë dukej e bukur.
 

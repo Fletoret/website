@@ -4,7 +4,7 @@ author: Sami Frashëri
 respectLineBreaks: false
 parent: Ç'është Shqipëria
 grandparent: Shqipëria
-order: 3
+order: 13
 ---
 
 Brënda në kufit, që treguam siprë, Shqipëria ka
@@ -15,7 +15,7 @@ të jenë Grekër, rrotull Janinës, e shqeh në fushën e
 Manastirit e nga anët e Kosovës. Po edhe këta munt të
 jenë Shqipëtarë, që kanë haruarë gjuhën' e tyre e kanë
 nxënë greqishten' a shqahishtenë në shkollë e në kishë.
-Edhe shumë nga këta s' kan' as dhe as shtëpi të tyre, po
+Edhe shumë nga këta s'kan' as dhe as shtëpi të tyre, po
 janë bujqër në dhe të të tjerëve, të cilëtë i kanë sjellë së
 largu për të punuarë dhen' e tyre në kohëra që
 Shqipëtarëtë s'muntninë të lininë pushkënë për të marrë
@@ -34,17 +34,17 @@ Shqipëtarëtë ndahenë më myslimanë, që janë dy të treta,
 e më të krishtenë, që janë një e treta. Të krishtenëtë
 ndahenë afro për gjymësë më katolikë a llatinë, si i themi,
 edhe më orthodhoksë. Në Gegëri të krishtentë janë
-katolikë, në Tosqëri orthodhoksë. Edhe myslimanëbë janë
+katolikë, në Tosqëri orthodhoksë. Edhe myslimanëtë janë
 të ndarë më Synninj e Bektashinj.
 
 Po këto ndarje të besës nukë sjellënë nonjë çqim a
-çarje në mes të Shqiptarëvet. Grindat' e besësë, të cilatë,
+çarje në mes të Shqipëtarëvet. Grindat' e besësë, të cilatë,
 jo vetëm në vëndet të Lindjes po edhe n'Evropë e në vënde
-të drituara me qytetëri, shumë herë kanë nxjerrë vrasje të
+të ndrituara me qytetëri, shumë herë kanë nxjerrë vrasje të
 mbëdha e të tëmeruara, në Shqipëri këto grinda nukë
 dihenë edhe kurrë në këtë vënt s'ka ngjarë gjë në mest të
-myslimanëvet e të të krishitenëvet, në mest të katolikëvet
-e t'orthodhokësvet a në mest të synninjet e të
+myslimanëvet e të të krishtenëvet, në mest të katolikëvet
+e t'orthodhoksëvet a në mest të synninjet e të
 bektashinjet. Shqipëtari është shqipëtar përpara se të jetë
 mysliman a i krishtenë. Ç'ka qënë kur kish besën' e ti,
 besën' e Pelasgëvet, ay qe edhe si u bë i krishtenë, ay është
@@ -52,7 +52,7 @@ edhe si mori besën' e Muhamedit. Besa s'e ka ndruarë fare
 edhe kurrë, se vë gjithënjë kombërinë përpara besësë.
 
 Me fuqit të kësaj lidhjeje e të kësaj dëshire, që kanë
-mbajturë gjithëmonë bres pas brezi më kombërit të tyre,
+mbajturë gjithëmonë brez pas brezi më kombërit të tyre,
 Shqipëtarëtë kanë mundurë të ruajnë kombërin' e gjuhën'
 e tyre nëpër mest të kaqë rrezikeve, q'i kanë mbyturë kohë
 më kohë. Me gjithë ndryshimet' e besësë, me gjithë
@@ -60,7 +60,7 @@ ndryshimet' e kohëravet, Shqipëtarëtë janë edhe sot
 ç'ishin këtu e kaqë mijë vjet më parë; janë Pelasgët' e
 kohëravet të përallave, Ilyrinjt' e Maqedonasit' e
 kohëravet të vjetëra, Epirotët' e kohës së Skënderbeut.
-Janë një komp shumë' i vjetërë, që ka mbeturë gjer më sot
+Janë një komp shum' i vjetërë, që ka mbeturë gjer më sot
 si ka qënë që në kryet.
 
 Shqipëtarët kanë gjithë ç'i duhetë një kombi: Janë
@@ -81,7 +81,7 @@ ti?
 Shqipëtari s'është vetëm i fortë e trim, po edhe i
 xgjuarë më tepërë se çdo komp. Në çdo shkollë, në çdo
 mësim që të hynjë Shqipëtari, çquan nga të tjerëtë edhe
-del siprë të gjithëve. Në punërat e në mjeshitërit
+del siprë të gjithëve. Në punërat e në mjeshtërit
 Shqipëtari s'është më pak i zoti se në luftët e në diturit:
 punon dhenë pa lodhje, hap vija të thella, munt të bënjë
 punëra të mbëdha e të vyera. Është hekurpunonjës i
@@ -95,8 +95,8 @@ gjalpëtë, vaji, vera e të tjera gjërëra, që bëhenë prej
 bulmetit të bagëtivet a prej pemëvet të dheut, janë nga më
 të përdoruratë punëra, me të cilat merrenë Shqipëtarëtë.
 
-Shqipëtarkat, aqë të hjeshime sa edhe të mderçime,
-më teprë se burrat' e tyre edhe, po thua, aqë trirne sa edhe
+Shqipëtarkat, aqë të hjeshime sa edhe të nderçime,
+më teprë se burrat' e tyre edhe, po thua, aqë trime sa edhe
 ata, vështojnë vetëm për vetëm punët' e shtëpisë, pa
 përzjerë burratë. Me gjithë këtë edhe avlëmëndin' e
 gjergjefnë s'e çkrehinë; bëjnë pëlhura të holla e

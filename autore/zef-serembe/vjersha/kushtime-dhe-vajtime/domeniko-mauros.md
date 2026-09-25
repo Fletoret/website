@@ -22,6 +22,6 @@ U plake sot? Mendimin tënd të thellë
 Në dituri gjithnjë e më shumë e zhyt
 "Pse-në" e njeriut që të gjesh në dhe.
 
-E s'lodhesh kurrë dukë vënë re,
+E s'lodhesh kurrë duke vënë re,
 Në urtësi më thellë të ngulësh sytë
 Se do të dish si Bota qënka pjellë.

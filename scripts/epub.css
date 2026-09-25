@@ -131,6 +131,20 @@ div.epigraph {
   margin: 1em 0;
 }
 
+/* Law codes (the Kanuni): `{.section-heading}` and `{.maxims}`. */
+p.section-heading {
+  margin-top: 1.5em;
+  text-align: center;
+  text-indent: 0;
+}
+
+p.maxims {
+  font-size: 0.9em;
+  margin: 0.5em 0 1em;
+  text-align: center;
+  text-indent: 0;
+}
+
 span.caps {
   font-size: 0.85em;
 }
@@ -166,6 +180,16 @@ section[epub|type~="endnotes"] p {
   text-indent: 0;
 }
 
+/* Editor's notes (shenimet.md) keep the print's "(14)" in the running text. */
+a.editor-note[epub|type~="noteref"] {
+  font-size: inherit;
+  vertical-align: baseline;
+}
+
+.editor-note-number {
+  font-weight: bold;
+}
+
 a[epub|type~="backlink"] {
   text-decoration: none;
 }
@@ -190,6 +214,12 @@ section[epub|type~="titlepage"] p.author {
   font-size: 1.25em;
   font-variant: small-caps;
   margin-top: 3em;
+  text-indent: 0;
+}
+
+section[epub|type~="titlepage"] p.compiler {
+  font-style: italic;
+  margin-top: 1em;
   text-indent: 0;
 }
 

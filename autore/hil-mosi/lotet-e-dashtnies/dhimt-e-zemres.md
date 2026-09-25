@@ -19,5 +19,5 @@ Tuj i pas gjithkund ner sy.
 
 Dhimat s'kishin me t'u hjekun,
 S'kishin kurr me t'u largu;
-Der n'gjuim kishin ty me t'ndjekun.
+Der n'gjum kishin ty me t'ndjekun.
 Mallin t'êm me t'a kujtu!

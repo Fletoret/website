@@ -1,18 +1,18 @@
 ---
-title: Shqipëtarët jashtë Shqipërisë.
+title: Shqipëtarët jashtë Shqipërisë
 author: Sami Frashëri
 respectLineBreaks: false
 parent: Ç'është Shqipëria
 grandparent: Shqipëria
-order: 4
+order: 14
 ---
 
 Përveç afro dy milionë Shqipëtarësh, që janë në
-Shqipëri, kemi edhe më teprë' se gjymës milioni
+Shqipëri, kemi edhe më teprë se gjymës milioni
 Shqipëtarë jashtë Shqipërisë, n'Itali, në Greqi, në ca anë
 të Tyrqisë, në Mal të Zi etj. Nga këta, Shqipëtarët' e
 Greqis' e t'Italisë janë të shumë. Ata që janë në Greqi, kan'
-ikurë nga Shqipëria përpara Tyrqet, në kohët te
+ikurë nga Shqipëria përpara Tyrqet, në kohët të
 Byzantinjet; iknë nga Hynërit e nga të tjerë kombe t'egërë,
 q'u sulë nga anët' e veriut e mbuluanë edhe Shqipërinë
 bashkë me vëndet' e tjerë. Mijëra Shqipëtarësh atëhere
@@ -21,7 +21,7 @@ nisitë të Greqisë, në More, n'Attikë e në të tjerë vënde të
 Grekërisë. Shumë nga këta vënde i gjetnë të xbrazurë e
 pa njerës, po edhe tek kish njerës, me të qënë që këta vanë
 e ndenjtnë tok, muntnë të ruanin gjuhën' e tyre, shqipenë,
-të cilënë flasënë edhe gjer më sot. Idhra, Speca, Porua,
+të cilënë flasinë edhe gjer më sot. Idhra, Speca, Porua,
 Kulluri (Sallamina), Egjina e të tjera nisi janë edhe sot të
 ndënjura fjeshtë prej Shqipëtarësh edhe ndër to s'flitetë
 përveç shqipesë. Më të shumët' e vëndëset t'Attikësë janë
@@ -30,10 +30,10 @@ qytetth fjeshtë shqipëtar e s'dëgjohesh në të tjatrë gjuhë
 përveç shqipesë. Thonë që sot për sot një e tret' e vëndëset
 të Greqisë (veç Thesalisë) janë Shqipëtarë; po në mos janë
 një e tretë, për një të katrëtë s'ka dyshim. N'ato kohëra
-edhe shumë Shqipëtarë u përhapnë nëpër të itjera anë; e
+edhe shumë Shqipëtarë u përhapnë nëpër të tjera anë; e
 kështu nisija Marmara afrë Konstantinopojësë edhe disa
 pshatëra ng' an' e Adrinupojës' e të Filipopojës, që
-thuhenë Amaut-Qoj, janë itë ndënjturë fjeshtë prej
+thuhenë Arnaut-Qoj, janë të ndënjturë fjeshtë prej
 Shqipëtarësh.
 
 Shqipëtarët' e Italisë ndodhenë në Kalabrë e në

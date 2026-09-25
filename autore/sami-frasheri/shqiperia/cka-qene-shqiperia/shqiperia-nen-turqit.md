@@ -1,5 +1,6 @@
 ---
-title: Shqipëria nënë Turqitë
+title: Shqipëria nënë Tyrqitë
+slug: shqiperia-nene-turqite
 author: Sami Frashëri
 respectLineBreaks: false
 parent: Ç'ka qenë Shqipëria
@@ -12,7 +13,7 @@ order: 6
 Pas Skënderbeut e pas kohës së këti burri, e cila,
 sado që shkoi e tërë me luftëra e me gjak, është m'e bukur'
 e m'e bekuar' e gjithë kohëravet për vëndinë tënë, se
-vetëm atehere u mbloth i tërë kombi më një qeveri të dlirë
+vetëm atëhere u mbloth i tërë kombi më një qeveri të dlirë
 e iu dëgjua emëni në gjithë botët me nder të math nga të
 qëndruarit kundrejt Tyrqet, të cilëvet atëhere mbretëri të
 mbëdha s'u qëndronin dot; pas kohës së këti burri të
@@ -26,7 +27,7 @@ nëpër gjith' anët t'Evropësë me armë në dorë e bëninë të
 fitonj' ay q'i merninë anënë. Pas këti zakoni të vjetërë të
 tyre ishinë hedhurë edhe Asi e kishin hyrë në shërbim të
 Tyrqet duke ndihurë këtyre me armë e me trimëri.
-Bajazid Pasha, burë trim e me besë të fortë, që nxori
+Bajazid Pasha, burrë trim e me besë të fortë, që nxori
 Çelepi Sulltan Mehmednë nga mez' i ushtërisë së
 Tamerlanit (Timur-Lengjit) e e shpëtoi nga mijëra rezike
 duke vënë vetëhen' e ti në rezik të math e duke marr' atë
@@ -42,7 +43,7 @@ Kështu Shqipëtarëtë kishinë zënë të marrënë
 besën' e Tyrqet e të bëhenë myslimanë që pa rënë
 Shqipëria në duart të Tyrqet. Po si u bënë këta zotërinjt'
 e Shqipërisë, këthyerj' e besës u shtua shumë më tepër
-edhe më itë gjith' anët të Shqipërisë zunë të marrënë
+edhe më të gjith' anët të Shqipërisë zunë të marrënë
 besën' e mundëset, duke thënë tek është kordha, është
 besa! Shqipëtarët kanë këtë vetië që rëndonenë çpejt nga
 një besë e duanë gjithnjë ta ndërojnë; si pan' edhe që
@@ -56,7 +57,7 @@ myslimanë kuntrë armikëvet të Tyrqisë.
 Puna, që donte mbretëri' e Tyrqisë u erth mbarë
 pas vetiës së tyre. Luftëratë paprera, lodëra e vrape me
 kuaj, rrëmbime, vrasje, presje e të tjera të këtilla gjërëra,
-që doninë Turqitë, këto ishinë punërat' e dashura edhe të
+që doninë Tyrqitë, këto ishinë punërat' e dashura edhe të
 Shqipëtarëvet. Tyrqitë gjetnë më Shqipëtarëtë një shok të
 luftësë të fortë e të besësë, edhe Shqipëtarëtë gjetnë në
 Tyrqit një zot, q'u hapte përpara një shesh të gjër' e të
@@ -66,7 +67,7 @@ Shqipëria në kohët e Tyrqet u bë m'e pasurë e m'e
 begatë se kurdo; se Shqipëtarëtë sulëshinë bashkë me
 Tyrqitë nëpër gjith' anët të botës edhe këthehëshinë
 ngarkuarë me ar e me ergjënt, me armë të vjejtura e me
-kuaj të bukurë t'Arabisë, t'Egjyptësë, të Qyrdistamit,
+kuaj të bukurë t'Arabisë, t'Egjyptësë, të Qyrdistanit,
 t'Ungrisë etj. Me të qënë më trima e më të zottë se Tyrqitë,
 shkoninë edhe nëpër më të mëdhenjt e më të nderçimit
 vënde e kishinë më teprë nder se ata vetë Tyrqitë. Vetëm
@@ -83,9 +84,9 @@ s'paguante gjë përveç gjaknë, që derthte në luftë edhe i cili
 i paguhësh e çpërblehësh fort shtrenjt.
 
 Kjo është ngaja që kanë lidhurë Shqipëtarëtë me
-Tyrqit. Shqipëtarëtë gjeninë ne Tyrqit atë që doninë: gjë,
+Tyrqit. Shqipëtarëtë gjeninë në Tyrqit atë që doninë: gjë,
 nder, armë, kuaj, rrëmbime sa të donin edhe dliri sa u
-duhësh; edhe Tyrqitë gjenin ne Shqiptarët atë që doninë:
+duhësh; edhe Tyrqitë gjenin në Shqipëtarët atë që doninë:
 trimëri, besë e gjak të derdhurë pa kurcim.
 
 Kështu qenë punëratë gjer në kohët të tenzimatit;

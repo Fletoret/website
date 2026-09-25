@@ -4,7 +4,7 @@ author: Sami Frashëri
 respectLineBreaks: false
 parent: Ç'është Shqipëria
 grandparent: Shqipëria
-order: 8
+order: 18
 ---
 
 Sadoqë Shqipëtarëtë janë rrethuarë me armikë
@@ -14,7 +14,7 @@ e të bashkuarë me Shqipëtarëtë, këta të dy kombe të
 kombinë Shqipëtar, me gjithë këtë s'munt edhe s'duhetë
 të themi që gjithë bota jan' armikët' e Shqipëtarëvet. Jo,
 kemi edhe miq, jan' edhe shumë që na duanë edhe munt
-të na mdihinë, po të duamë vetë. Gjithë kombet' e
+të na ndihinë, po të duamë vetë. Gjithë kombet' e
 Evropës, Francezëtë, Italjanëtë, Alemanëtë, Ingjilizëtë e
 të tjerë, gjithë e duanë e e nderojnë kombinë tënë; gjithë
 çuditenë me trimërit të Shqipëtarëvet, me besët të tyre e
@@ -29,7 +29,7 @@ katolikët' e për Mirëditasitë. Italia ka treqint mijë
 Shqipëtarë në vëndit të saj, të cilëtë janë përpjekurë më
 shumë se Itali janë të vetë për bashkimt t'Italisë, edhe për
 të bërë zëmrënë këtyre, do të mirën' e Shqipërisë, të cilën'
-e ka edhe fqinjë e s'do ta shohë që ta coptojnë Greqt' e
+e ka edhe fqinjë e s'do ta shohë që ta copëtojnë Greqt' e
 Shqehtë. Austria nukë munt të dojë që Shqeht' e Sërbis' e
 të Bulgarisë të futenë gjer në mest të Shqipërisë e të
 hapen' e të ritenë aqë teprë; një komp trim si Shqipëtarëtë
@@ -64,7 +64,7 @@ shkollat e me kishët të tyre. Vllehtë gjer tani ishinë
 gënjyer' edhe ata si Shqipëtarëtë orthodhoksë e doninë të
 quhenë Greq e të harojnë gjuhën' e tyre duke mësuarë
 greqisht; po më në funt e muarrë vesh edhe këta se sa e
-vjejturë është gjuha e kombëria për çdo njerr edhe zunë të
+vjejturë është gjuha e kombëria për çdo njeri edhe zunë të
 mësojnë gjuhën' e tyre e të hapinë shkolla më vetëhe.
 
 Në këtë punë Vllehtë s'munt të kenë tjatrë ndihmës
@@ -75,7 +75,7 @@ të bashkohenë me Shqipëtarëtë, me ata që janë
 Shqipëtarë të vërtetë e duan gjuhën' e kombërin' e tyre.
 Edhe Rumania, q'është mëm' e këtyre Vllehe e der' e t'et
 të tyre, ta themi për shëmbëllë, e di mirë që Vlleht' e
-Shqipëris' e e të Maqedhonisë s'mundinë të rojnë e të
+Shqipëris' e të Maqedhonisë s'mundinë të rojnë e të
 ruajnë gjuhën' e kombërin' e tyre kuntrë djallëzivet të
 Grekëret përveç duke psheturë në miqësit të
 Shqipëtarëvet e duke bashkuarë me ta. P'andaj Rumania
@@ -95,13 +95,13 @@ edhe kanë nevojë për miqësit tënë, me gjithë këtë, duanë
 të jenë më të lartë e më të ndjerë se na, duk me qënë aqë
 më të pakë edhe t'ardhur' e të huaj në Shqipëri. Janë ca
 Vlleh që duan të tregojnë në Evropë që Vllehtë janë
-mëndja e Shqipëitarëtë trupi, që Shqipëtarëtë duhetë të
+mëndja e Shqipëtarëtë trupi, që Shqipëtarëtë duhetë të
 lëftojn' e të vritenë e Vllehtë të qeverisinë e të gjykojnë.
 Këta nukë ndruhenë të thonë që Shqipëtarëtë s'kanë
 nevojë për shkronja e për shkolla, se kanë shkronjat' edhe
 shkollat e Vllehet. Këtë dorëhapuri na i bëjn' edhe
 Grekëret' e Tyrqitë, të gjithë na duanë aqë sa të n'apënë
-gjuhën' e shkronjait' e tyre, edhe të gjithë na presinë në
+gjuhën' e shkronjat' e tyre, edhe të gjithë na presinë në
 shkollat të tyre me krahë hapurë!
 
 P'andaj edhe Vllehet nukë duhetë t'u besojmë aqë

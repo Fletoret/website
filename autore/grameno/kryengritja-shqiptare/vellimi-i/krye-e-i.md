@@ -40,7 +40,7 @@ Si kur të mos ishte qëllimi i shenjtëruar, për të dashurën Shqipëri,
 thotë Ahmeti, do të mos u prisnja se duhet të besoni se Qeveria e
 këtushme zuri të dyshonjë e frikë kam mos pësojmë gjësendi. Tani edhe
 një ditë mbeti në mest, thotë i pari, e me emërin të Zotit as gjësendi
-do të mos pësojmë se .kemi Perëndinë me vehte.
+do të mos pësojmë se kemi Perëndinë me vehte.
 
 Ashtu qoftë, thotë Ahmeti, po nesër brëma në këtë orë të jini gati,
 pastaj i ipi barkës edhe shkojti.
@@ -56,12 +56,12 @@ Burrat t'anë, që tregojmë më sipër, nuku ishin të tjerë përveç se të
 parët kryengritës (komita) Shqipëtarë, të cilët ishin mbledhur në
 Brindis që të hidheshin në Shqipëri edhe të përpiqeshin për lirinë.
 Këta burra ishin Bajua edhe Çerçis Topulli, Veli be Klysyra, Zeman
-Mashkullori, Idris Jakova. Thanas Nasto, Naum Trebicka, Hasan Toleri
+Mashkullori, Idris Jakova, Thanas Nasto, Naum Trebicka, Hasan Toleri
 edhe Mihal Gramenua.
 
 Të nesërmet brëma, gjithë në atë orë, vjen Ahmeti edhe thotë që është
 gati së gjithash e me pëlhura të hapura, prandaj të vrapojmë të
-shkuarët. Veli beu i cili kishte vajtur në Bari për armë, nu u u kthye
+shkuarët. Veli beu i cili kishte vajtur në Bari për armë, nuku u kthye
 po teligrafisi që në mëngjes do të jetë atje sigurisht, po Ahmeti me
 mos duruar vendosmë që të vinim neve në anie, q'atë brëma, e të
 prisnim atje gjer nesër Veli benë.
@@ -78,8 +78,8 @@ na lajmëruar që Veli beu me shokët u pendua, kështu që neve u nismë
 për në Shqipëri.
 
 Bajua pas marëveshjes që kishim bërë, edhe veçanërisht në lutjet e
-mija, qendrojti për çdo ngjarje edhe shkojti në Amerikë pë të mbledhur
+mija, qendrojti për çdo ngjarje edhe shkojti në Amerikë për të mbledhur
 ndihma.
 
-Po më përpara se të nisemi, për në Shqipëri. besojmë të nevojshme që
+Po më përpara se të nisemi, për në Shqipëri, besojmë të nevojshme që
 të tregojmë fillimin edhe organizimin të komitetit.

@@ -82,7 +82,8 @@
         "datePublished": "1938",
         "thumbnail": "/images/covers/ese-faik-konica.avif",
         "abstract": "Përmbledhje esesh nga Faik Konica. Një pjesë e tyre u publikuan në revistën Albania.",
-        "publishedFletoret": true
+        "publishedFletoret": true,
+        "epub": true
       }
     ]
   },
@@ -147,7 +148,9 @@
         "datePublished": "1933",
         "thumbnail": "/images/covers/kanuni.avif",
         "abstract": "Kodi i etikës i një strukture shoqërore pa shtet – besa, nderi, gjaku, hakmarrja (gjakmarrja), buka dhe miku. Ligjësitë zakonore të Shqipërisë Veriore.",
-        "publishedFletoret": true
+        "publishedFletoret": true,
+        "epub": true,
+        "compiledBy": "gjecovi"
       }
     ]
   },
@@ -183,7 +186,8 @@
         "datePublished": "1899",
         "thumbnail": "/images/covers/shqiperia-sami-frasheri-cover.avif",
         "abstract": "Mendime për shpëtimt të mëmëdheut nga reziket që e kanë rethuarë.",
-        "publishedFletoret": true
+        "publishedFletoret": true,
+        "epub": true
       },
       {
         "@context": "https://schema.org",
@@ -194,7 +198,9 @@
         "datePublished": "1878",
         "thumbnail": "/images/covers/sami-frasheri-proverba.avif",
         "abstract": "Fjalë të urta, thënje filozofike. Si fillim u botua me emrin Emsâl në 4 vëllime.",
-        "publishedFletoret": true
+        "publishedFletoret": true,
+        "subtitle": "Fjalë të urta, thënje filozofike",
+        "epub": true
       }
     ]
   },
@@ -230,7 +236,8 @@
         "datePublished": "1886",
         "thumbnail": "/images/covers/bageti-e-bujqesi.avif",
         "abstract": "Poemë baritore lirike, në te cilën Naim Frashëri përshkruan fshatin ku ishte lindur e rritur. Një përshkrim idilik, ku asgjë nuk e cënon euforinë mistike dhe të gjitha konfliktet gjejnë pajtim.",
-        "publishedFletoret": true
+        "publishedFletoret": true,
+        "epub": true
       }
     ]
   },
@@ -309,7 +316,8 @@
         "datePublished": "1636",
         "thumbnail": "/images/covers/frang-bardhi-skenderbeu.avif",
         "abstract": "Autori e shkroi veprën në 15 ditë, në zemërim, për të hedhur poshtë shkrimet e një peshkopi boshnjak që pretendonte se Skënderbeu nuk ishte nga Shqipëria.",
-        "publishedFletoret": true
+        "publishedFletoret": true,
+        "epub": true
       }
     ]
   },
@@ -345,7 +353,8 @@
         "datePublished": "1917",
         "thumbnail": "/images/covers/juvenilja-ndre-mjeda.avif",
         "abstract": "Poezi të zgjedhura nga Ndre Mjeda.",
-        "publishedFletoret": true
+        "publishedFletoret": true,
+        "epub": true
       },
       {
         "@context": "https://schema.org",
@@ -356,7 +365,8 @@
         "datePublished": "1901-1911",
         "thumbnail": "/images/covers/lirija-ndre-mjeda.avif",
         "abstract": "Poezi Ndre Mjeda.",
-        "publishedFletoret": true
+        "publishedFletoret": true,
+        "epub": true
       }
     ]
   },
@@ -394,7 +404,8 @@
         "datePublished": "1936",
         "thumbnail": "/images/covers/sikur-te-isha-djale.avif",
         "abstract": "Botuar për herë të parë më 1936, romani rrëfen në formë ditari jetën e Dijes, një të reje që kërkon të gjejë vetveten brenda kufizimeve të shoqërisë patriarkale shqiptare. Konsiderohet një nga veprat më të njohura e më të ribotuara të letërsisë shqipe të shekullit 20.",
-        "publishedFletoret": true
+        "publishedFletoret": true,
+        "epub": true
       }
     ]
   },
@@ -430,7 +441,9 @@
         "datePublished": "1926",
         "thumbnail": "/images/covers/vjersha.avif",
         "abstract": "Tridhjetë e pesë vjersha shqip, mbledhur e botuar në Milano nga i nipi, një çerek shekulli pas vdekjes së poetit. Vargje malli e humbjeje — për një dashuri që iku përtej detit, për Arbërinë matanë ujërave, për një rini të shuar.",
-        "publishedFletoret": true
+        "publishedFletoret": true,
+        "subtitle": "Poezi Arbëreshe",
+        "epub": true
       }
     ]
   },
@@ -451,7 +464,8 @@
         "datePublished": "1925",
         "thumbnail": "/images/covers/kryengritja-e-shqiptareve.avif",
         "abstract": "Kujtimet e Gramenos nga vitet e çetërisë kundër ushtrive turke e greke, krah më krah me Çerçiz Topullin. Rrëfim historik i kryengritjeve shqiptare të fillimit të shekullit XX, i shkruar si dëshmi për trimërinë e luftëtarëve dhe shembull për brezat që vijnë.",
-        "publishedFletoret": true
+        "publishedFletoret": true,
+        "epub": true
       }
     ]
   },
@@ -487,7 +501,9 @@
         "datePublished": "1916",
         "thumbnail": "/images/covers/lotet-e-dashtnies.avif",
         "abstract": "Dyzet e shtatë vjersha dashtnore në gegnishten shkodrane, botuar me shpenzimet e vetë autorit në Shkodër. Vargje malli, xhelozie e humbjeje — dashuri të mbetuna përgjysmë, netë pa gjumë, rini që ikën — ndër to edhe gjashtëmbëdhjetë përkthime e përshtatje nga Gëte, Shileri, Hajne, Lesingu, Petëfi e Katuli. Në parathanie Mosi pyet veten nëse i kishte ardhur koha Shqipërisë për një libër të tillë.",
-        "publishedFletoret": true
+        "publishedFletoret": true,
+        "subtitle": "Vjersha dashtnore",
+        "epub": true
       }
     ]
   },
@@ -523,7 +539,8 @@
         "datePublished": "1910",
         "thumbnail": "/images/covers/agimi-i-gjytetniis.avif",
         "abstract": "Libër edukate qytetare për rininë shqiptare, i shkruem në gegnishten e veriut dhe i ndamë në paragrafë me pyetje e përgjigje, citate nga Aristoteli e Ciceroni. Gjeçovi flet për shoqninë e detyrat e njeriut ndaj shokëve, për vllaznimin, besimin e atdheun, atdhedashtninë, dhe për gjuhën shqipe si detyrë që i ka çdo shqiptar ndaj të parëve.",
-        "publishedFletoret": true
+        "publishedFletoret": true,
+        "epub": true
       }
     ]
   }

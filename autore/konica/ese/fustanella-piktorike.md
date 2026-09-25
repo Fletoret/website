@@ -63,7 +63,7 @@ Juglindore dhe në Turqi. Disa miq më kishin këshilluar
 që unë të veja me veshjen e plotë shqiptare dhe unë ashtu
 bëra. Ndërkaq, njëri nga miqtë, ambasadori grek në
 Londër, një burrë simpatik, stërnip i fshatarëve të
-ndërshem nga Bavaria që kishte emigruar në Greqi, tha
+ndershëm nga Bavaria që kishte emigruar në Greqi, tha
 se unë kisha veshur një kostum "grek". Megjithatë një
 anglez e kundërshtoi me mirësjellje, por prerazi dhe i
 përmendi faktin e mirënjohur se grekët e kanë huazuar
@@ -84,7 +84,7 @@ për disa arsye, që i kanë paraqitur disa autorë.
 "Veshja shqiptare", shënon koloneli Leake në ditarin e
 udhëtimeve të tij nëpër More, më datën 28 mars 1805,
 "*po bëhet përditë e më e zakonshme, si në More edhe në
-Pjesën tjetër të Greqisë. Në këtë të fundit, për shkak të
+pjesën tjetër të Greqisë. Në këtë të fundit, për shkak të
 rritjes së madhe të fuqisë shqiptare; në More ndoshta si
 pasojë e lulëzimit të Hidrës, që është një koloni shqiptare,
 dhe të ngulimeve të fshatarëve shqiptarë, që janë vendosur
@@ -108,7 +108,7 @@ Admirali *Jurien de la Gravière* shkruan:
 
 Historiani anglez Finlej e thotë edhe më shkoqur:
 
-> Madje edhe turqit, që gjithmonë kanë ndikuar për shijet
+> "Madje edhe turqit, që gjithmonë kanë ndikuar për shijet
 > dhe zakonet ushtarake, u bënë imitues të shqiptarëve. Në
 > fillim të këtij shekulli grekët nga dita në ditë nisën të kenë
 > më pak frikë prej turqve e më shumë prej shqiptarëve.
@@ -178,7 +178,7 @@ cohave të lashtësisë. "Të gjithë këta njerëz, - shkruan Liku
 duke përshkruar një skenë, - janë të veshur sipas modës
 shqiptare, me një xhaketë ose pallto të mbuluar me gajtane
 ari dhe me një këmishë që lëshohet teposhtë me pala mbi
-tirqit, duke i shembëllyer cohës së shtatoreve romake. [^5]
+tirqit, duke i shembëllyer cohës së shtatoreve romake." [^5]
 
 Tirqit për të cilat flet Liku, mbulojnë pjesën e poshtme
 të kofshëve; ata janë të ngushtë e puthiten si çorapet, bëhen
@@ -210,7 +210,7 @@ e tyre te Finlej:
 > ndritur e të pasur, që ka tërhequr vëmendjen e Çajld
 > Haroldit në galeritë e pallatit të Tepelenës, por fustanella
 > prej basmeje u varet rreth këmbëve grekëve si fund grash
-> Prej letre, ndërsa fustanella e bardhë e toskëve, e përbërë
+> prej letre, ndërsa fustanella e bardhë e toskëve, e përbërë
 > nga cohë e fortë e endur në vegjën vendëse, bie me pala të
 > hijshme si cohët e lashtësisë." [^6]
 
@@ -295,11 +295,11 @@ dhe se ilirët ose e kanë huazuar fustanellën nga keltët,
 ose ua kanë dhënë hua.
 
 
-[^1]: Franz Baron Nopcza, Albanien: Bauten, Trachten and Gerate, etc. Berlin, 1925, f. 217, me nje bibliografi të pasur për kete teme.
+[^1]: Franz Baron Nopcza, Albanien: Bauten, Trachten und Geräte, etc. Berlin, 1925, f. 217, me një bibliografi të pasur për këtë temë.
 [^2]: W. M. Leake, Travels in the Morea, Londër, 1830, vëll. I, f. 209
-[^3]: Jurico de la Gravière, La siation du Levant, Paris, 1876, vëll. 1, f. 71.
+[^3]: Jurien de la Gravière, La station du Levant, Paris, 1876, vëll. 1, f. 71.
 [^4]: G. Finlay, A History of Greece, bot. H.F. Tozer, Oksford, 1877, vëll. VI, f. 39.
 [^5]:  W. M. Leake, Travels etc. vëll. I, f. 39.
 [^6]: Finlay, vep.e cituar, vëll. VI, f. 39-40.
-[^7]: T. S. Hughes, Travels in Greece and Albania, bot. 2, Londer, 1830, vëll. Il, f. 107.
+[^7]: T. S. Hughes, Travels in Greece and Albania, bot. 2, Londër, 1830, vëll. II, f. 107.
 [^8]: Nopcza, vep.e cituar, f. 181.

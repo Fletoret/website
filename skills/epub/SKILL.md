@@ -22,8 +22,9 @@ needed about 310 text fixes before it was right.
 
 - Find the book's entry in `autore/index.json`. Note whether it already has
   `"epub": true`, whether its cover PNG exists next to the `thumbnail`, and
-  whether it has a `shenimet.md`. Editor's notes aren't supported yet; see
-  `epub.md` → open work.
+  whether it has a `shenimet.md` (editor's notes). The builder links every
+  `(N)` in the text to note N, so check that each note is referenced and each
+  note block starts with `N.`.
 - Check the known-state table in `epub.md`.
 - Look for scans. They change how you proofread:
   - `data-pipeline/work/<slug>/images/` holds page scans. They're gitignored, so
@@ -42,8 +43,8 @@ then continue.
 
 Fix what the built-in check reports **in the markdown sources**, not in the
 builder. Typical fixes: `<br>` → `<br/>`, and `<center>` → markdown or a
-`{.class}`. When a book needs builder support instead (images, editor's notes),
-say so and ask before extending `scripts/epub.mjs`. Keep any builder change
+`{.class}`. When a book needs builder support the builder lacks, say so and ask
+before extending `scripts/epub.mjs`. Keep any builder change
 general and document it in `epub.md`.
 
 ## 3. Proofread the whole text

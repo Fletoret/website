@@ -73,6 +73,11 @@ export function getAuthorsIndex(excludeEmpty = false): Map<string, Author> {
         if (book.thumbnail) {
           book.thumbnailWebp = book.thumbnail.replace('.avif', '.webp');
         }
+        const compiler = book.compiledBy ? idx[book.compiledBy] : undefined;
+        if (compiler) {
+          book.compilerName = compiler.name;
+          book.editor = compiler.author;
+        }
       }
     }
 
@@ -223,6 +228,23 @@ export const getEntries = (
     }
 
     if (book.publishedFletoret) {
+      _books.push([book, sortedChapters(groupBy(bookEntries, 'parent'))]);
+    }
+  }
+
+  // Books this author compiled but didn't write are listed here too, read from
+  // their own author's folder (see `ExtendedBookType.compiledBy`).
+  for (const owner of getAuthorsIndex().values()) {
+    for (const book of owner.books ?? []) {
+      if (book.compiledBy !== author || !book.publishedFletoret) continue;
+      const [ownerFolder, bookFolder] = book.folder.split('/');
+      const bookEntries = sortedPosts(getBookEntries(ownerFolder, bookFolder));
+      if (dropUnusedAttributes) {
+        for (const e of bookEntries) {
+          e.html = '';
+          e.body = '';
+        }
+      }
       _books.push([book, sortedChapters(groupBy(bookEntries, 'parent'))]);
     }
   }

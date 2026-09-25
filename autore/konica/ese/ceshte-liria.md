@@ -17,6 +17,7 @@ Janë nj'a 50 shqipëtarë që kuptojnë ç'është liria: ata nukë më shkrojt
 Qibarët le të mbyllin veshët: kam niet të vete të shes mut, në vend që të mbanj të përkohëshmen; më mirë të shesë mut njeriu, se të shkrojë për shqipëtarët. Gomarëve pra le të përpiqem akoma njëherë t'u mbush kokën me këtë: Ç'është liria?
 
 Liria është të mundet njeriu: 1) të besojë ç'i do zëmbëra; 2) të thotë ç'i do zëmbëra; 3) të shkrojë ç'i do zëmbëra; 4) të bëjë ç'i do zëmbëra, veç ato që janë kundrë lirisë tjatëri njeriu.
+
 Shqipëtarët më të shumtë janë shpirtrobër.
 
 Unë thom: "Ata janë të lirë të kenë fe, janë të lirë të thonë që kanë fe, janë të lirë të shkrojnë që feja ësht' e mirë, janë të lirë të bëjnë ç'urdhëron feja”. Dhe kur më dërgojnë artikëlla për të lëvduar ferat, i shtyp (i botoj) se s'kam të drejtë t'u pres lirinë e fjalës.

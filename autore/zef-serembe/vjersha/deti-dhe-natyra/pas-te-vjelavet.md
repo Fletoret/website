@@ -31,7 +31,6 @@ Asnjeri s'më thotë te veshi:
 
 Çiften marr për gjah përhera,
 Çdo mëngjes unë jashtë dal,
-
 Shkoj ndër pyje e ndër humnera,
 Ndër përrenjtë atje në mal
 Hyj në shpellat sa më fshehtë
@@ -84,7 +83,7 @@ Tash që kam aq drithërimë
 Dhe më këngë qetësomë
 Përpëlitje dhe rënkime.
 Me sy mbyllur, në shtrat shtrirë
-N'ëndërr shoh un'çdo dëshirë.
+N'ëndërr shoh un' çdo dëshirë.
 
 Më dëgjo aty ku rri:
 "Te një shpellë e shkretë dje
@@ -96,7 +95,7 @@ Nusen q'ja vrau një shtrëngatë".
 E mora e ta lë në dorë:
 Mua të ziu më përngjan,
 Si unë është pa fuqi, i gjorë
-Dhe un'qaj si ai zog që fshan
+Dhe un' qaj si ai zog që fshan
 Se pa mall rri në kafaz
 Dhe e çon jetën me maraz.
 
@@ -107,9 +106,9 @@ Ma trego faqen si molla
 Buzën në gaz vëre tani
 Thuaj një fjalëz dhe... teshtij.
 
-Ndaj riqet  e korkoletë,
+Ndaj riqet e korkoletë,
 Vij ku bën kërthija ti:
-Pas të vij un'qetë e lehtë
+Pas të vij un' qetë e lehtë
 Faqet t'shoh me dashuri.
 Të të puth një herë, jo më
 Se një këngë do të zë.

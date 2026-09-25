@@ -12,7 +12,7 @@ Moj bukuroshe ty s't'kam mâ?
 Edhe tjngllon nër vesh të msumun
 Sejcila fjal, sejcili zâ.
 
-Sikur udhtari sa n'mjes t'ngrihet—,
+Sikur udhtari sa n'mjes t'ngrihet —,
 Mî pêm aj kot m'e pa kerkon
 Nër deg bylbylin qi nuk shihet,
 Q'ati mî kry me mall i kndon:

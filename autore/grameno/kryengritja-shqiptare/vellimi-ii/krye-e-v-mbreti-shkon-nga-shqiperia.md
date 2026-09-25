@@ -92,7 +92,8 @@ kohë të Sundimit Sërb. Ishte mjaft ky urdhër që të përhapet zjari në
 të gjithë këtë dyke plaçkitur e rëmbyer gjën e gjallë. Lufta u ndez
 kundrejt Karbunarës me rebelet ku vriten e plagosen mjaft, midis
 cilëvet Seit Qemali edhe si për çudi shpëtojti Nuredin be Vlora dyke
-ju vrarë kali. Dr. Vasil P. Zografi porente si në fushë të luftes si
+ju vrarë kali. Dr. Vasil P. Zografi po
+rente si në fushë të luftes si
 në Spital të Fjerit për të u dhënë ndihmën e tij të plagosurvet.
 
 Lufta plasi edhe gjetkë pa nojë komandë e pa nonjë regull edhe shumica
@@ -102,7 +103,7 @@ Lushnja dyke kërkuar pushimin e luftës edhe zotoheshin ata të sillnin
 qetësinë edhe së bashku t'i vinin qeverisë ndihmë në Durrës. Mirpo
 komandantët nuku e pranuan edhe kësisoj rebelet u forcuan ca më shumë
 me gjithë popullin të Myzeqesë, të cilëvet nuku u mbeti tjatër përveç
-vdekjes, pa si shtëpitë na diqnin edhe gjënë na rëmbeninı!
+vdekjes, pa si shtëpitë na diqnin edhe gjënë na rëmbenin!
 
 Ato të këqia që më panë sytë në Myzeqe varrit ja kam për të treguar!
 Të mërzitur, nga këto ngjarje, edhe dyke parë që e thyera ishte e
@@ -161,7 +162,7 @@ dërgon në Shjak edhe q'atje të shkonim me udhën të Elbasanit.
 
 Aman e derman nuku dëgjonte kumandanti me gjithë që e perënduam në
 qell me të e qojtur Pasha edhe Bej, kështu që rymë në plloçat e kishës
-të dështpëruar po më tepër Vani Çani edhe Kristaq Bratkua se ishte i
+të dëshpëruar po më tepër Vani Çani edhe Kristaq Bratkua se ishte i
 sëmurë. Trimëresha shqipëtarkë Thina e Vangjel Gjikës u jepte kurajo
 dyke thënë që më në fund ç'do të bëjnë përveç se të na vrasin? Ditët
 shkonin se rebelet lëftonin që të zapëtonin Beratin e vetëm ca nga
@@ -243,7 +244,7 @@ me Ministrit.
 Me 14 Gusht pëlcet lufta Europeane kështu që vendosnë më 19 Gusht të
 përcjellin Princin trashëgimtar Skënderbej edhe Princesën Eleonora, në
 Gjermani, edhe Mbreti me Mbretëreshën shkuan nga Shqipëria me 3 të
-Shtatorit, domethënë pas n ë të mbretëruari prej 5 muaj edhe 26 dit
+Shtatorit, domethënë pas n[j]ë të mbretëruari prej 5 muaj edhe 26 dit
 plot trubullime. Mbretëresha qante si nonjë foshnjë, gjer hyri në
 vaporin të luftës Italian « Mizurata », me gjithë ngushëllimet të
 Turhan Pashës e Sami be Vrionit, Shambellani i Pallatit edhe besnikn

@@ -16,7 +16,7 @@ Njatë qi per mue ish' diell n'agim.
 Emnin e kandshem m'i a ndie kot prita
 Njasajë qi n'kobe do t'm'ishte drita:
 Kuej nuk i dhimem, askush s'm'kujton,
-Sado qi zemra vec gjak m'pikon.
+Sado qi zemra veç gjak m'pikon.
 
 Kur, un i mjeri, rrijshe tu shpija,
 Me nanë, me moter, ah! sa dashtnija
@@ -36,7 +36,7 @@ Un nafakpremi, ç'se i vorfen jam!
 Kur, n'agim t'ditve, m'ra me shtegtue,
 Si dola shpijet, tuj u largue,
 E kqyra s'mramit e aq m'permalloi,
-Sa dysh mue zemren, dysh m'a coptoi.
+Sa dysh mue zemren, dysh m'a çoptoi.
 
 E kush kalote at ditë bri meje,
 At ditë qi dhima m'kish xjerrë mendt kreje,

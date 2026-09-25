@@ -9,7 +9,7 @@ order: 1
 ---
 
 
-## I
+### I
 
 O shqype, o zogjt' e maleve, kallzoni:
 A shndrit rreze lirie n'ato maja;
@@ -21,7 +21,7 @@ ndër shkrepa, me ushtue kangën e saj?
 A keni ndie nji kangë të patravajë?
 O shqype, o zogjt' e maleve, kallzoni!
 
-"Lirim, lirim!" -- bërtet gjithkah malsia.
+"Lirim, lirim!" – bërtet gjithkah malsia.
 A ka lirim ky dhé që na shkel kamba,
 a veç t'mjerin e mblon ânë mb'ânë robnia?
 
@@ -30,7 +30,7 @@ sielliu maleve përreth që ka Shqipnia,
 e vështroje ku i del lirimit ama.
 
 
-## II
+### II
 
 Nëpër Fusha ku rrjedh Misisipija
 Ushtoj rrokull nji za si bubullima;
@@ -39,7 +39,7 @@ kur qiell e tokë turbullon duhija.
 
 Çon'ju shërbtorët e tokës, leni te shpija
 Shjetnit e vangat; e për gjysë, o trima,
-Leni parmendat; rrokni pushkët; vettima
+Leni parmendat; rrokni pushkët; vetima
 Ju duk për së lergu, e qe po vjen lirija;
 
 Washingtoni na thrret. E djelmve pika
@@ -51,7 +51,7 @@ Mbas asi zani qi e pat thirrë, e Inglizit
 Ja boi luani i Amerikës kulshedrën.
 
 
-## III
+### III
 
 U t'huej Inglizi: s'ka me dalë ushtori
 Me i grahë bulkut si kaut me sjeçe të bregut;
@@ -72,7 +72,7 @@ Lirimi, tuj britun në Filadelfie:
 “Amerikën e zhgon Amerikani”.
 
 
-## IV
+### IV
 
 Ty të kjosha falë, o dritë, ama e mbrodhsimit,
 Ti dave terrin e egërsis', e tinë,
@@ -93,9 +93,9 @@ Shndriti deti njat herë; prei katundorit
 Ndër fush' e male mungulloi Lirija.
 
 
-## V
+### V
 
-Lirinë e keni ju; na hekra kemi.
+“Lirinë e keni ju; na hekra kemi.
 Na terr e mjegull deri në ditt ma të vona;
 Na pa emën kërkund, pa atdhe; na jemi
 Shërbtorët e t'huajvet nëpër vende tona.
@@ -104,16 +104,16 @@ Porsi berre qi bleu mishtari vemi
 Mbas shkopit, të kalamenduna, ku s'dona.
 Ahte t'ankueshme nëpër buzë polemi,
 Vaj e mjerime qet kjo tokë e jona.
-	
+
 E kot duhija e trimnis malcore
 Ndër fusha të molisuna plandosi
-Si kokërr rr'feje prej nji reje lëshue.
+Si kokërr rrfeje prej nji reje lëshue.
 
 Çuditë prej peshes së nji pushtedës mizore,
 Kot Dukagjini e Skandërbeg fatosi
 Shpupurishin ndër vorre eshtna të harrue.”
 
-## VI
+### VI
 
 Por nuk u shuejt edhe, jo, shqiptaria:
 Lodhun prej hekrash që mizori e njiti,
@@ -129,6 +129,6 @@ E Skanderbegut. Që ndër djepa rritin
 nanat e Hotit djelmënin' ushtore
 e idhnim n'armikun nëpër gji iu qitin.
 
-E nalt, ndër maja, bukuri mbretnore.
+E nalt, ndër maja, bukuri mbretnore,
 Hapi flatrat e mnershme qi përshndrisin,
 Me thoj t'harkuem Shqypeja arbnore.

@@ -250,7 +250,7 @@ Nën autorin përkatës, shto një zë te `books`:
 }
 ```
 
-`publishedFletoret: false` e mban veprën jashtë faqes derisa të jetë gati. Nëse autori është i ri, shto edhe zërin e tij me `folder`, `name`, `description`, `thumbnail`, `progressState` (`complete` | `partial` | `missing`) dhe `author` (të dhënat schema.org).
+`publishedFletoret: false` e mban veprën jashtë faqes derisa të jetë gati. Kur vepra ka një përmbledhës që nuk është autori (Kanuni: ligji i Lekë Dukagjinit, i mbledhur nga Gjeçovi), `"compiledBy": "gjecovi"` e shfaq veprën edhe te faqja e përmbledhësit, me shënimin «Mbledhur dhe kodifikuar nga…», pa e kopjuar tekstin. Nëse autori është i ri, shto edhe zërin e tij me `folder`, `name`, `description`, `thumbnail`, `progressState` (`complete` | `partial` | `missing`) dhe `author` (të dhënat schema.org).
 
 </details>
 
@@ -318,7 +318,7 @@ npm run epub                                # të gjitha veprat me "epub": true
 npm run epub -- konica/doktor-gjilpera      # vetëm një vepër, për ta provuar
 ```
 
-Ndërtimi ndalet me gabim nëse EPUB-i do të dilte i pavlefshëm — HTML i papërshtatshëm për XHTML (`<br>` pa mbyllje, `<center>`), imazhe jashtë librit, lidhje të këputura — dhe tregon skedarin `.md` që duhet ndrequr. Veprat me `shenimet.md` nuk mbështeten ende.
+Ndërtimi ndalet me gabim nëse EPUB-i do të dilte i pavlefshëm — HTML i papërshtatshëm për XHTML (`<br>` pa mbyllje, `<center>`), lidhje të këputura — dhe tregon skedarin `.md` që duhet ndrequr. Imazhet nga `static/images/` futen brenda librit, dhe çdo `(14)` që hap një shënim të `shenimet.md` bëhet lidhje drejt shënimit.
 
 </details>
 

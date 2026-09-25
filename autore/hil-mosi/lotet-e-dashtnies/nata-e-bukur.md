@@ -10,7 +10,7 @@ order: 81
 Prej ksaj shpië un po largohem,
 Ku e dashtna mbrênd rri mbyll,
 E me hap të shpejt thellohem
-Nepër t'shkreten [^1], t'shpeshten pyll;
+Nepër t'shkreten[^1], t'shpeshten pyll;
 
 Nepër pyll ndritson dhe hâna,
 Fryn nji fllad plot âmbëlsim,

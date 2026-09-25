@@ -1,5 +1,5 @@
 ---
-title: Krye e IV. Të dimëruarit në malet.
+title: Krye e IV. Të dimëruarit në malet
 author: Mihal Grameno
 respectLineBreaks: false
 parent: Vëllimi I
@@ -26,7 +26,7 @@ pritmjes që të mbushnjë ketë detyrë.
 
 Më 1879 në këtë Teqe u-mbloth parësia e Toskërisë, nënë kryesi të
 shpirt ndriturit Baba Alushit për të biseduar edhe vendosur çfarë masa
-të mernin kundra të krasiturit të Shqipërisë, prej Konferencës të
+të mernin kundra të krastiturit të Shqipërisë, prej Konferencës të
 Berlinit. Këjo Konferencë, q' u bë për Luftën Ruso-Tyrke, u dhuronte
 Greqisë, Sërbisë edhe Malit Zi shumë pjesa nga të Shqipërisë. U vendos
 pra që të protestojnë, në Europ, edhe xgjodhë Abdyl be Frashërin e
@@ -63,10 +63,10 @@ Shqipërisë!
 Kur u ngjitmë në mal të Kolonjës, për mbi Frashër, i kam dedikuar këtë
 vjershë:
 
-*Si ty o Vithlehem e Mek' e Arabisë*
-*Ku janë lindur Muhamet e Krisht i Krishtërisë*
-*Për muaësht Frashëri vënt i Perëndisë*
-*Tek është lindur Naim beu zemr' e Shqipërisë! etj.*
+> *Si ty o Vithlehem e Mek' e Arabisë*\
+> *Ku janë lindur Muhamet e Krisht i Krishtërisë*\
+> *Për mua ësht Frashëri vënt i Perëndisë*\
+> *Tek është lindur Naim beu zemr' e Shqipërisë! etj.*
 
 Pa si u largova pak nga thema, prapë për të kujtuar të rinjtë që
 kurdoherë të enteresonen për rjedhjet historike të Shqipërisë, po
@@ -87,7 +87,7 @@ mëdha janë të bindur e vetëm fjalën të Baba Abidinit dëgjojnë.
 Le të mos mohojmë edhe këtë që sikundër është Sh. e Tij, Baba Abidini,
 kështu janë edhe të 15-16 Dervishlerët q'e rethojnë. Të urtë, të ditur
 edhe patriotë të flaktë. Shërbime të paçmuara i sjellën çeshtjes
-kombëtare me përpjekjet e tyre, se si dërgimtarë venë katunt në kntunt
+kombëtare me përpjekjet e tyre, se si dërgimtarë venë katunt në katunt
 dyke përhapur, ndjenjat kombëtare. Helmohem fort tepër që nuku munda
 të shënonj gjithë emrat, të Dervishevet, prandaj u kërkonj ndjesë, me
 gjithë këtë sjell nër mënt emrat të këtyreve Dervishe: Meçua,
@@ -106,7 +106,7 @@ Frashëri më 1 të Dhjetorit dyke vatur në Odriçan. Odriçani është një
 fshat i bukur edhe pjellor, rethuar me pyje, me të cilat i jep një
 bukuri të pëlqyerë. Hoqmë në shtëpi të Gjorgjit Tuxharit i cili na
 priti edhe gostiti mirë. Këtu gjetmë edhe mjaft fshatarë me ndjenja
-komkëtare.
+kombëtare.
 
 Që këtej u hothmë në Pangri, në shtëpi të Hysen Agajit. Pangria është
 një fshat i vogël po tepër i bukur sa më ka mbeturë rënjosurë në
@@ -131,7 +131,7 @@ zugrafisurë me gjelbësira, kaqë të bukura, që vetëm në për pikturat
 edhe panoramat mundt t'i vështrosh edhe shijosh. Këto ujëra minerale
 që rjedhin e mburojnë janë shumë të mira, se venë shumë njerës, me
 lloji sëmundje, edhe gjejnë shërim, po sikur të analizohen mirë edhe
-të ndërtonen siç duhet, pa f,alë, që bëhen nga Banjat më të mira.
+të ndërtonen siç duhet, pa fjalë, që bëhen nga Banjat më të mira.
 
 Kapërxyem urën të Kadiut edhe vemë në Pestë dyke hequr në mulli, ku na
 kishin thënë që këtu kishin vrarë Riza Velçishtin. Shtrëngime të repta
@@ -147,7 +147,6 @@ Vretua, i cili është një nga themelonjësit të shoqërisë, të Stambollit
 Jon Vretua ishte i ditur shumë edhe ka lënë vepra, nga të cilat muar
 lëndë e mësime shkrimtarët e rinj. Librat Mirëvetja, Numëretorja,
 (Arithmetika) edhe përmbledhja e Ervehesë janë veprat të Jon
-
 Vretos, si edhe shumë shkrime të tjera në « Drita » edhe « Dituria »
 të përkohëshme që botoheshin në Stamboll 1880.
 
@@ -191,7 +190,7 @@ Stathaqit, një nga atdhetarët e flaktë, i zgjuar edhe shumë trim i
 cili na mbajti dy dit në shtëpi të tij. Goditi të vinjë ushtëria, atë
 natë që vamë neve, po At Stathi me vrap dolli edhe i shpuri në konak
 të fshatit me qënë se ay ka vlimin të çupës, kështu që u dërgojti raki
-e verë sa ranë të flenë edhe neve muarni lamtumirë edhe shkuam për në
+e verë sa ranë të flenë edhe neve muarm lamtumirë edhe shkuam për në
 Lushnjë, në shtëpi të Sulos edhe në të tjerë. Për fat goditi në një
 ditë festimi i motit ri me Bajramin kështu që i festuam bashkërisht
 dyke dëfryer fort mirë.
@@ -199,7 +198,7 @@ dyke dëfryer fort mirë.
 Në këtë fshat kam bërë një përshtypje të madhe me një trashëgim që
 kish mbetur nga pleqtë. Në majë të malit ishte një kishë, Shën Koli,
 edhe e kishin me radhë fshati që të ngjiteshin, nat për nat, për të
-ndezur kandilen. Po përshtypja e madhe më ardhi së Lushnja është një
+ndezur kandilen. Po përshtypja e madhe më ardhi se Lushnja është një
 fshat Mysliman.
 
 Që nga Lushnja u hothmë në Badillonjë, dyke kapërxyer Viosën e një orë
@@ -256,21 +255,21 @@ Pa si u kthye i biri vamë në stan ku na priti me nderime zyrtare,
 gjoja si njerës të qeverisë. Si përshëndoshemi urdhron djemtë të na
 pjekin një qëngj të zgjedhur edhe djemtë tanë vunë sarkadhen në hell,
 kur se neve po bisedonim na ngjajti një episod komik. Çarçani na pyet
-nga vimë edhe për se kemi dalë në një kohë kaqë të ligë ?
+nga vimë edhe për se kemi dalë në një kohë kaqë të ligë?
 
 Mos pyet, i thom unë, se jemi për të qarë halle, se si këtë herë,
 kurrë nuku na është vënë kaqë shtrëngim, nga Baba Dovleti, për të
 mbledhur gjithë bekaetë, si edhe xhelepin të këtij viti. Pa le, thotë
 Çerçizi, për ilamxhinjtë është qiameti se kemi urdhër që të përdorim
-çdo mënyrë sa edhe t'u djegëm shtëpitë !
+çdo mënyrë sa edhe t'u djegëm shtëpitë!
 
 Dorën e ka të gjatë Baba Dovleti, thotë Çarçani, edhe vetëm Rahmet' i
-tij na mban për mbi dhe !
+tij na mban për mbi dhe!
 
 Kur djemtë pregatitnin tryezën, për të ngrënë, mysafiri dolli jashtë
 kasolles po nuku kish të kthehet, kështu që duall djemtë dyke e
 bërtitur Lamen tonë, siç e quanin, po ku, Lameja ishte bërë i padukur
-edhe nga qëllimi që kish la brucën që të mos i rëndonte ! Rini të hamë
+edhe nga qëllimi që kish la brucën që të mos i rëndonte! Rini të hamë
 bukë, thotë një nga djemt' e Çarçanit, se Lameja e ka zënë bicen kur
 dëgjojti që kini dalë për ilamxhinjtë (të dënuarit për burg) se edhe
 Lameja është ilamxhi.
@@ -280,7 +279,7 @@ Me të ngrënë bukë, me gjithë lutjet të Çarçanit që të rinim e të
 nesërmet, u pregatitmë edhe shkuam. Çarçani pati mirësinë që të
 dërgonjë e një nga djemt' e tij me kalin, për të kapërxyer lumin se
 ishte mjaft i thellë edhe të mos lageshim. Njëherë me të u edhur
-përtej lumit muarn udhën për në Gjinokastrë. Unë isha i lodhur shumë
+përtej lumit muarm udhën për në Gjinokastrë. Unë isha i lodhur shumë
 prandaj djemtë, shokët, më muar në kuris gjer në shtëpi të Çerçizit, e
 cila është në një breg të lartë. Në Gjinokastrë rymë pas mezit natës
 më 6 Janar 1908.

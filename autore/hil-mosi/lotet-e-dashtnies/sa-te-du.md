@@ -18,7 +18,7 @@ Se s'jan të lidh' na njeti.
 
 Në do t'a dish, a thu t'dishroj,
 Shikjo nji her ket zêmren t'ime,
-E ke m'e pa se sa rrênkoj,
+E ke m'e pa se sa rrënkoj,
 Për kto të mdha dyshime!
 
 Në do t'a dish për pa dyshim,

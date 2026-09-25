@@ -7,16 +7,10 @@ grandparent: Kryengritja shqiptare
 order: 15
 ---
 
-në shumë raste historike, kështu edhe ahëre u ndodhë zemër liq të
-cilët, për të mbushur inatet edhe qëllimet vetiake, kallë grindje
-midis Ismail Qemalit edhe Esat Pashës edhe muntnë të bindin Esat
-Pashën që të formonjë tjatër qeveri në Durrës me Shqipërin e mesme
-nënë sundim!
-
 As shuplaka e madhe që ju dha Shqipërisë, me padrejtësinë që vepërojti
 Konferenca e paqes, nuku u ndjeh kaqe shumë sa goditja e paanëshme e
 Durrësit! Vërtejt Konferenca e Londrës 1913 krijojti një Shqipëri të
-krastiturë. siç është sot, po përçarja e Durrësit tregojti që nuku
+krastiturë, siç është sot, po përçarja e Durrësit tregojti që nuku
 meritonim as për kaqe.
 
 Armiqësitë zunë midis të dy qeverive, për të treguar zotimin e fuqinë
@@ -204,7 +198,6 @@ Korçarët e Misirit e që gjetkë me gëzim të math u bashkuan, në këtë
 lëvizje kaqe të shenjtë, edhe me vrap zunë të fillojnë shoqëria e të
 përhapin ndjenjat kombëtare. Le të përmëndim që në Misir jetonte i
 pavdekuri patriot Efthim Mitkua nga Korça, autori i
-
 «Mbletës Shqipe» i cili kish që më 1875 që mereshe me gjuhen Shqipe.
 
 I pavdekuri mirëbërës Korçar, Nastas Lakçeja, përveç dhuretisë q'i
@@ -270,7 +263,7 @@ qetësinë të qytetit do të kqyrte për natë qytetin për të u siguruar në
 mbusheshe plotërisht detyreja q'u kish besuar policisteve edhe
 vetëdashësvet. Kësisoj fati shpuri një natë në një udhë tek shkonin
 nja 10 shpirt të veshur me roba andarçe, të cilët me armët në dorë
-ecnin me gadale nënë strehë të shtëpivç. Pa u dhënë zë i gjyrmon gjer
+ecnin me gadale nënë strehë të shtëpive. Pa u dhënë zë i gjyrmon gjer
 sa rynë në një shtëpi të xbrazëtë.
 
 Me vrap Themistokliu mbleth shokë edhe rethon shtëpinë për të u dhënë,
@@ -280,7 +273,7 @@ xbrazen armë gjithë natënë. Në mëngjes një shumicë e madhe e
 armatosurë mblidhet në Mitropoli për të prokllamuar bashkimin me
 Greqinë. Abdyl Ypi, zëvëndës Prefekti, bashkë me Themistoklinë i
 këshillojnë me urtësi po më kot se lufta vazhdonte pa kumandë midis
-kryengritesvet, nga shtëpitë. edhe xhandarmarisë e cila u forcua
+kryengritesvet, nga shtëpitë, edhe xhandarmarisë e cila u forcua
 përveç kombëtarëvet të Korçës edhe me vetëdashësit që vrapuan nga
 fshatrat. Lufta mbajti tri dit e tre net dyke u vrarë mjaft njerës,
 midis cilëvet Vasil Trebicka me Riza be Biblishtin kur mbushnin

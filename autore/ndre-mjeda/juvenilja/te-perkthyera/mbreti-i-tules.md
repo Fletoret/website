@@ -9,31 +9,31 @@ order: 29
 ---
 
 Deri n'dekë besnik ke s'thohet
-Ishte n'Tule 'j padisha,
-Diq e dashta mbas do kohet
-E 'j got' arit shej i la.
+Ishte n'Tule 'j padishá:
+Diq e dashtna mbas do kohet
+E'j got' arit shêj i la.
 
-Sa at gotë arit gja nuk dote
-E gjithmonë me tene piu;
-Por ka 'j lot për faqe i shkote
-Gjithsaherë pite fatziu.
+Sá at gotë arit gja nuk dote,
+E gjithmonë me têne piu;
+Por ka 'j lot per faqe i shkote
+Gjith sá herë pite fatziu.
 
-Kur pau vedin tuj mbarue
-Njeh qytetet, e gjithçka
-Trashgimtarit ia la shkrue,
-Por putirin nuk ia la.
+Kúr pau védin tui mbarue
+Njehë gjytetet e gjithshka
+Trashigimtarit ja la shkrue,
+Por putirin nuk ja la.
 
-N'deje t'i'parve, n'buzë të dedit
-Gjith', parsinë n'nji gost' i thrret;
-Ulet n'gost e ka rreth vedit
-Mbledhun bashkë parsin' e vet.
+N'ndêje t'parve, n'buzë të détit,
+Gjith parsín n'nji gost' i thrret;
+Ulet n'gost' e ká rreth védit
+Mbledhun bashkë parsín e vet,
 
-E t'ksaj t'kandshmes jetë dëshirin
-Piu ma t'mbramin e lumnoi
-Pijsi plak, mandej putirin
-Ndër valë t'detit e flakroi.
+E t'ksáj t'kandshmes jetë dishirin
+Piu mâ t'mbramin e lumnoj
+Písi plak, mandej putirin
+Nder vál' t'détit e flakroj.
 
-Tuj e zhyt' e pau n'fund t'zallit
-Tuj këcye, nalt tuj hupë me turr;
-E n'at' ças i ranë prej ballit
-Fikun syt' e s'piu ma kurr.
+Tui u zhyt' e pau n'fund t'zállit,
+Tui këcye nêlt, tui hupë me turr;
+E n'at ças i ránë prei bállit
+Fikun sŷt e s'piu mâ kurr.

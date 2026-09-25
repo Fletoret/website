@@ -11,8 +11,8 @@ order: 37
 > Tief in süssen Schlummer;
 > Nur der Liebe Sehnsucht wacht
 > Un der Liebe Kummer.
-> 
-> Th. Körner.
+>
+> — Th. Körner.
 
 
 Prêj dritares hîn vetima,

@@ -12,7 +12,7 @@ Ti gzim i ksaj natyr!
 Me t'kândshmet lulet t'uja,
 Mir s'ardhsh, m'at t'qeshun ftyr!
 
-Ah!—prap ti ne na dole,
+Ah! — prap ti ne na dole,
 E bukur plot dashtnië!....
 E ne qi ty të pritme
 Na mbushe plot knaqsië.
@@ -23,7 +23,7 @@ Atje vasha më deshti,
 E sot edhe me don!
 
 Per vashen t'ême lule
-T'u luta ty nji her—
+T'u luta ty nji her —
 E sot prap ty po t'lutem
 M'ep rishtas, o prêndver!
 

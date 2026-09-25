@@ -1,5 +1,5 @@
 ---
-title: Shqipëtarëtë gjithënjë për botën e kurr për vetëhe.
+title: Shqipëtarëtë gjithënjë për botën e kurr për vetëhe
 author: Sami Frashëri
 respectLineBreaks: false
 parent: Ç'ka qenë Shqipëria
@@ -10,17 +10,17 @@ order: 8
 ---
 
 Sikundër thamë më siprë, Shqipëtarëtë gjithmonë
-janë vrar' e përpjekurë e kanë cpërkaturë të tërë faqen' e
+janë vrar' e përpjekurë e kanë çpërkaturë të tërë faqen' e
 dheut me gjak të tyre; po nga gjaku i Shqipëtarëvet të
 tjerë kanë fituarë, Shqipëria s'ka parë nonjë të mirë.
 Shumë Shqipëtarë janë çquarë e kanë treguarë vetëhenë
 në dituri e në të tjera gjërëra: po me këta të tjerë mburenë
 e jo Shqipëtarët' e Shqipëria.
 
-Me Pyrron' e me Aleksandrdnë mburenë Grekëritë
+Me Pyrron' e me Aleksandrinë mburenë Grekëritë
 e i quajnë Grekër. Maqedonasitë, që me trimërit të tyre
 muarrë gjithë botënë në pakë kohë, nuk' i suallë nonjë të
-mirë Shqipënisë, po Grekëritë, q'ishinë armikët' e tyre, u
+mirë Shqipërisë, po Grekëritë, q'ishinë armikët' e tyre, u
 ranë pas e i rrethuanë, edhe këta fituanë nga gjaku, që
 derdhë ata. Se Maqedonasitë përndanë nëpër gjithë
 vëndet, që muarrë, gjuhën' e qytetërin' e Greket e jo të
@@ -29,10 +29,10 @@ Maqedonasitë i zënë për Grekër. Vërtet, të mos ishinë
 Maqedonasitë gjuha e Greqet e qytetëri' e tyre do të mos
 kish marrë dot kurrë këtë bujë, që ka sot, edhe mbase do
 të kish humbur' e t'ish haruar fare; se shkoll' e
-Aleksandrisë edhe të dituritë, q'arrinë n' Egjyptë në kohët
+Aleksandrisë edhe të dituritë, q'arrinë n'Egjyptë në kohët
 të Ptolemenjet, e bënë gjuhën' e qytetërin' e Greqet të
-përndahetë e të dëgjohetë më gjitha' anët të dheut.
-Ptolomenjitë, q'ishin fjeshtë Shqipëtarë nga Çamëria, e
+përndahetë e të dëgjohetë më gjith' anët të dheut.
+Ptolemenjtë, q'ishin fjeshtë Shqipëtarë nga Çamëria, e
 gjithë Maqedonasitë lanë gjuhën' e tyre, shqipenë, më
 nj'anë të haruarë e të paditurë e vunë përpara
 greqishtenë, gjuhën' e Dhimosthenit, që ka folurë aqë
@@ -49,11 +49,11 @@ Pas Romanëvet u erth radha Tyrqet. Shqipëtarëtë,
 duke përzjerë me Tyrqitë, kanë marrë anë në gjithë
 luftërat, që bëninë e që fitoninë këta kuntrë gjithë botësë;
 edhe më të madhe në trimëri e më të miratë punëra i
-bëmimë Shqiptarëtë, po emënimë e kishinë Tyrqitë, edhe
+bëninë Shqipëtarëtë, po emëninë e kishinë Tyrqitë, edhe
 gjithë bota i dinte Tyrq e njeri s'i njihte si Shqipëtarë. Më
-të mbëdhemjt' e më të mirët' e Vezirëvet të Tyrqisë ishin
+të mbëdhenjt' e më të mirët' e Vezirëvet të Tyrqisë ishin
 Shqipëtarë, si Sinan-Pasha që ka marrë Jemenë e ka
-shpënë fjamurin' e Tyrqisë gjer në detet t'Indisë, si
+shpënë flamurin' e Tyrqisë gjer në detet t'Indisë, si
 Qyprilinjtë q'e kanë shpëtuarë mbretërin' e Tyrqisë nga
 një rrezik të math e e forcuanë aqë këtë mbretëri, sa van'
 e rrethuanë Vjenënë. Edhe shumë të tjerë njerës të
@@ -112,7 +112,7 @@ të zottë edhe me kordhë edhe me pëndë, edhe me trimëri
 edhe me mënt e me dituri, e Shqipëria ka nxjerrë shumë
 njerës të çquar' e me nam të math, po nonjë nga ta s'ka
 punuarë për Shqipërit, e cila ka mbeturë gjithënjë e
-varfërë e e padëgjuarë, e me djerrit' e saj mburenë të tjerë
+varfërë e e padëgjuarë, e me djemt' e saj mburenë të tjerë
 vënde e të tjerë kombe.
 
 Është ndodhurë një shqipëtar i zoti të ngjallnjë

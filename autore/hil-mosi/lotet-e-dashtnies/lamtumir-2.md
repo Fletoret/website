@@ -25,4 +25,4 @@ Qi për tê tuj qesh të shkojm të vdesim.
 Lamtumir! E n'kjoft për t'fundshmen hera:
 Lamtumir! U kput për mu dishiri!
 Kshtu nuk dahen kurr dy zêmra tjera
-Ndryshe duhet t'ishte lamtumiri!
+Ndryshe duhet t'ishte lamtumiri! —

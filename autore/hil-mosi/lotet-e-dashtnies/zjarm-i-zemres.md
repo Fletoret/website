@@ -1,7 +1,6 @@
 ---
 title: Zjarm i zemrës
 author: Hil Mosi
-subtitle: (Prej Goethes)
 respectLineBreaks: true
 parent: Lotët e dashtniës
 grandparent: null
@@ -12,8 +11,8 @@ order: 9
 > Was bedraenget dich so sehr?
 > Welch ein fremdes, neues Leben!
 > Ich erkenne dich nicht mehr.
-> 
-> --- Goethe
+>
+> — Goethe
 
 Ç'ke moj zêmer qi po gzohesh?
 Ç'ke qi kshtu ti je përzi,

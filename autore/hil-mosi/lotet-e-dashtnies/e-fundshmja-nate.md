@@ -12,7 +12,7 @@ Të gjith pushote n'nji gjum t'let,
 Un, çu n'mallim po rrishe.
 
 Me hyj ish mbushun qielli plot;
-N'liqê u pasqyroshin ...
+N'liqê u pasqyroshin.....
 Por syt e mi t'gjith mbush me lot,
 At t'dashtun nat vajtoshin!
 
@@ -29,4 +29,4 @@ Se aj at nat vajtote —
 Ah, ç'nat plot përmallim!
 Ajo kurr s'ka me kthymun!
 Do t'm'rrin gjithmon n'kujtim,
-Me tê un m'u dëfrymun.
+Me tê un m'u dëfrymun —

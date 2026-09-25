@@ -4,7 +4,7 @@ author: Sami Frashëri
 respectLineBreaks: false
 parent: Ç'është Shqipëria
 grandparent: Shqipëria
-order: 1
+order: 11
 ---
 
 Pamë më siprë se sa i gjerë ka qënë një herë që
@@ -20,7 +20,7 @@ Ilyrin' e Sipërme.
 
 Që m'atëher' e tëhu Shqipëria është vogëluarë
 shumë; nga gjith' ata vënde, që kishinë prindërit tanë,
-Pelasgëttë, vetëm Ilyri' e Poshitërme a e Jugësë, Epiri
+Pelasgëtë, vetëm Ilyri' e Poshtërme a e Jugësë, Epiri
 edhe Maqedoni' e Sipërme a e Veriut e e Perëndimit kanë
 mbeturë Shqipëri. Por sot emënatë Ilyri, Epir, Maqedoni
 etj. janë të lën' e të haruarë, janë emëna të dheshkronjës
@@ -29,7 +29,7 @@ Shqipëri në gjuhët tënë edhe Albania në gjuhërat të huaja.
 
 Shqipëria është një copë e Sinisisë së Ballkanit në
 juglindje të Evropës. Ka zënë mesin e anës së perëndimit
-të asaj sinisie, duke u zgjatur mb'anë dëtit Adriatik e detit
+të asaj sinisie, duke u zgjatur mb'anë detit Adriatik e detit
 Jon që nga shkalla 42° gjer në Mëngën e Artës më poshtë
 shkallës 39°. Kufijtë e veriut të Shqipërisë, me të ndarë
 nga ana e detit, ngjiten drejt veriut duke u mbështetur në
@@ -39,7 +39,7 @@ veriut me lumin e Artës e me kufijtë e Greqisë gjer në
 Zhigo. Sa për kufijtë e lindjes, një vijë e hequr që nga
 kufijtë e Serbisë afër Vranjës gjer në kufijtë e Greqisë te
 mali Zhigo, vijë e cila do të hiqet nëpër krehërat e maleve,
-tek ndahen ujëra't e nëpër lumenjtë, duke vështruar sa
+tek ndahen ujërat e nëpër lumenjtë, duke vështruar sa
 mundet kombësinë e njerëzve, domethënë duke marrë
 brenda vendet e ndenjtura prej kombeve të tjera, një vijë
 e këtillë do të ndajë Shqipërinë nga të tjerat vende të
@@ -49,7 +49,7 @@ të 43° të shkallës së veriut edhe gjerazi në mes të 17° e të
 e gjatë e 200 kilometra e gjerë; edhe përcipja e saj është
 afro 80 000 kilometra të katërcipta.
 
-Shqipëria mga veriu ka kufi e fqinjë Malin e Zi,
+Shqipëria nga veriu ka kufi e fqinjë Malin e Zi,
 Novi-Bazarin a Bosnjën, q'e urdhëron Austria, edhe
 Serbinë; nga lindja ka Maqedoninë, nga juglindja Greqinë,
 nga jugperëndimi e nga perëndimi ka detin, i cili e ndan

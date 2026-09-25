@@ -4,7 +4,7 @@ author: Sami Frashëri
 respectLineBreaks: false
 parent: Ç'do të bëhetë Shqipëria?
 grandparent: Shqipëria
-order: 2
+order: 22
 ---
 
 Dy gjërëra duhenë në këtë jetë: e drejta edhe
@@ -14,22 +14,22 @@ të rallë bën punë fuqija pa të drejtë; edhe e drejta pa fuqi
 fort rallë dëgjohetë. Peshku i math e ha gjithënjë të
 vogëlinë.
 
-Tani Shqipëtarëtë q'e kanë të drejtëne me vetëhe,
+Tani Shqipëtarëtë q'e kanë të drejtënë me vetëhe,
 aty s'ka dyshim. Qysh të mos ketë Shqipëtari të drejtë të
-shkruanj' e të këndonjë gjuhën' e ti, kur gjithë kombetë',
+shkruanj' e të këndonjë gjuhën' e ti, kur gjithë kombetë,
 edhe më të liqt' e më të dobëtitë, e kanë këtë të drejtë edhe
 njeri s'i ndalon? Përse Shqipëtarëtë të jenë të mërguarë
 nga një e drejtë, q'e kanë gjithë kombet' e dheut? Të mos
-mundinë të shkruajn' e të mësojnë gjuhën, e tyre po të
+mundinë të shkruajn' e të mësojnë gjuhën' e tyre, po të
 tjerë kombe të huaj të vin' e t'u hapinë shkolla në gjuhërat
-të tyre e t'u kthejnë kombërin' e gjuhën tyre? Janë kaqë të
-dobëte Shqipëtarëtë? - Jo! Njëmijë herë jo.
+të tyre e t'u kthejnë kombërin' e gjuhën' [e] tyre? Janë kaqë të
+dobëtë Shqipëtarëtë? — Jo! Njëmijë herë jo.
 
 Shqipëtarëtë janë më të fort se gjithë kombet' e
 sinisisë së Ballkanit. Pas shumicës së tyre mbase janë më
 të fortë e më të shëndoshë se gjithë kombet' e dheut. Sot
 në këtë ditë e kështu si është Shqipëria munt të nxjerë një
-ushtëri prej 500.000 njerssh! Pa 200,000 e 300.000 dalinë
+ushtëri prej 500.000 njerëssh! Pa 200,000 e 300.000 dalinë
 me një herë. Ata q'e njohinë Shqipërinë, s'çuditenë me
 këto nëmura, se kaq' ushtëri Shqipëria ka nxjerr' edhe
 nxjer për herë. Edhe kjo është pun' e diturë që një ushtëri
@@ -42,8 +42,8 @@ Shqipëtarëtë edhe qysh u kanë xbardhurë faqenë të huajt,
 q'i kanë pasurë zotërinj a shokë. Këta që kanë treguarë
 kaqë trimëri për të huajt, të cilëtë edhe s'para ua kanë
 diturë, s'qënkanë të zottë sot të mbajn' e të ruajnë
-vëndinë, gjuhënë e kombërin' e tyre? Qysh te mos jenë të
-zottë për këtë të drejtë, kur kanë edhe vendinë të fortë, q'u
+vëndinë, gjuhënë e kombërin' e tyre? Qysh të mos jenë të
+zottë për këtë të drejtë, kur kanë edhe vëndinë të fortë, q'u
 ndih? Gjer më sot kanë lëftuarë gjithënjë vetëm me fuqi,
 po jo kurrë me të drejtë; sot është dita të lëftojnë me të
 drejtë e për të drejtë. Nukë ka më të shënjtëruarë të drejtë
@@ -73,12 +73,12 @@ se të tundet' e të lëkundetë pakë të luanjë një herë dorën'
 e këmbënë edhe gjithë ata çakaj e ato dhelpëra do të
 përhapenë e do të mos kuxojnë as të kthejnë syt' e ta
 vështojnë një herë. Më parë Tyrqisë t'i tregonjë një herë
-dhembëtë e t'a thotë: hiqu ti e mos u përzje' se po të shoh
+dhembëtë e t'i thotë: hiqu ti e mos u përzje' se po të shoh
 bukurë se qysh po m'i çpërblen të miratë, që të kam bërë;
 unë kam pesëqint vjet që po të ruanj e ti po më mban
 duartë lidhurë që të më çanjë të tjerë; e do të më heqç edhe
 mua në funt të trapit, tek ke dëshirë të biesh vetë. Ç'janë
-Tyrqitë? — Një komp i egërë t'ardhurë nga shkretëtarat'
+Tyrqitë? — Një komp i egërë t'ardhurë nga shkretëtirat'
 e Asisë së Veriut me nga një hosten në dorë. Këta me
 egërsi të tyre zunë më të bukurit' e vëndevet të botësë e
 më të qytetuarëtë; edhe si i ropnë, i gremizë e doqnë, po i
@@ -108,7 +108,7 @@ më teprë se çdo komp.
 Këtë të drejtë të shënjtuarë Shqipëtarëtë janë të
 zottë ta ruajnë e ta kërkojnë edhe me armë në dorë. Kur
 përzjehetë e drejta me fuqit, merr një forcë, të cilësë gjë s'i
-rri dot kuntreq. Shqipëtarëtë janë pra të zottë itë mbajn'
+rri dot kuntreq. Shqipëtarëtë janë pra të zottë të mbajn'
 e të ruajnë të drejtën' e tyre, domethënë kombërinë,
 gjuhënë e mëmëdhen' e tyre kuntrë çdo armiku; arrin
 vetëm të duanë.

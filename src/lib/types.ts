@@ -61,6 +61,14 @@ export type ExtendedBookType = WithContext<Book> & {
   subtitle?: string;
   /** Build an EPUB of this book and offer it on the profile (scripts/epub.mjs). */
   epub?: boolean;
+  /**
+   * Folder of the author who compiled the book without being its author (the
+   * Kanuni: Lekë Dukagjini's law, compiled by Gjeçovi). The book is then also
+   * listed on that author's page.
+   */
+  compiledBy?: string;
+  /** Set by db.ts from `compiledBy`: the compiler's name, for display. */
+  compilerName?: string;
 };
 
 export type Author = {

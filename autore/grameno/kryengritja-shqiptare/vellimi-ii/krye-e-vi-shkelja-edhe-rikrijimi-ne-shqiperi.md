@@ -8,7 +8,7 @@ order: 17
 ---
 
 Mjerimet edhe gjithë të këqijat në vënt të pushonin, pas ikjes të
-Mbretit, më tepër po sntoheshin ne e ngrata Shqipëri. Gjakderdhja,
+Mbretit, më tepër po shtoheshin ne e ngrata Shqipëri. Gjakderdhja,
 midis vëllazërisë, vazhdonte edhe anarqia e rëmuja mbretëronin më të
 katër anëtë! Të tretën ditë, pas ikjes të Mbretit, rebellet Osmanllinj
 rynë në Durrës edhe ngritnë flamurin të Tyrqisë!
@@ -154,7 +154,7 @@ organizuar Ministritë e të bënjë emënimet e duhura në Administratë.
 Gëzimi ishte i patreguarë në gjithë anët e Shqipërisë, për themelimin
 të shtetit tonë mbi një program fjesht kombëtar, edhe qarket
 dipllomatike të botës u pritnë me simpathi të madhe aqe më tepër të
-Parisit, ku bëri një përshtypje të pëlqverë midis Konferenciarëvet të
+Parisit, ku bëri një përshtypje të pëlqyerë midis Konferenciarëvet të
 Paqes. Shenjën të parë e dëftehu Franca e cila dyke hequr ushtërinë,
 prej Shkodre, ja dorëzojti sundimin qeverisë të Tiranës më 11 Mars
 1920.
@@ -248,11 +248,11 @@ shenjtë për atdhenë!!! Më ora 2 pas mezit natës ngjiten në dhomë të
 Kryeministrit Hasan Prishtina, Mustafa Kruja edhe Ramis Daci, të cilët
 i tregojnë gjendjen kritike edhe bëjnë thirje në patriotizmë të tij
 për të mos ngjarë nonjë gjakderdhje. Pandeli Evangjeli, si biseduan
-gjër e gjatë, u thotë që ajy ja ka dhënë doreheqjen Qazim Koculit për
+gjër e gjatë, u thotë që ajy ja ka dhënë dorëheqjen Qazim Koculit për
 të ja dorëzuar Këshillës Naltë.
 
 I falnderojnë Pandeli Evengjelit për shëmbëllën patriotike edhe si
-bashkohen me Qazim Koculin, shkojnë për të dorëzuar doreheqjen të
+bashkohen me Qazim Koculin, shkojnë për të dorëzuar dorëheqjen të
 Kabinetit në dorë të Këshillës Naltë. Këshilla ja ngarkon barrën Hasan
 Prishtinës i cili formojti Kabinetin. Pa mbushur as 6 dit u shtërngua
 edhe Hasan Prishtina të japë dorëheqjen më 11 Dhjetor nga shkaku se
@@ -317,7 +317,7 @@ Parllamenti, me këto ngjarje të vështira edhe të dëmshme, për atdheun,
 rëzojti nga Këshilla e Naltë Akif Pashën edhe Imzot Bumçin si mprojtës
 të kundrështarëvet edhe trubullonjësvet. Dr. Turtuli me Abdi Toptanin
 për të protestuar kundra vendimit të Parllamentit, mbi shokët e tyre,
-dhanë edhe këta doroheqjen.
+dhanë edhe këta dorëheqjen.
 
 Q' atëhere zuri të mbretëronjë qetësia edhe qeveria të mbushnjë
 detyrën e saj që t' u bënjë ballë dëmeve të mëdha, qe i ardhë shtetit
@@ -369,7 +369,7 @@ Shqipëria.
 
 Për mbi hallet e brendëshme kishim edhe halle të përjashtme me vrasjen
 të Amerikanëvet, që kishin ardhur në Shqipëri për të vizituar
-Shqiqërinë e të mernin konçesionë. Qeveria Amerikane u vërtetua
+Shqipërinë e të mernin konçesionë. Qeveria Amerikane u vërtetua
 plotërisht që qeveria tonë ishte e pafajshme edhe përdori gjithë
 fuqinë gjer sa vravi ca nga vrasësit, që nuku jepeshin, edhe të tjerët
 i dënojti me varje. Më 27 Gusht, tek ktheheshin nga Janina, vritet, në
@@ -423,3 +423,19 @@ Enthusiazmi edhe gëzimi ishin të patreguara në zemrat të gjith
 Shqipëtarëvet, të Krishterë e Muhamedanë, me veprën të shënjtë edhe
 patriotike që vepërojti Sh. e Tij Pishkopi Theofan Noli, Dhespot i
 Durrësit.
+
+Kishin arësye që të gëzohen, se me këtë veprë Kisha Orthodhokse
+Autoqefale shqipe do të forcoheshe me themeltarin, kështu që
+bashkërisht të tri Pishkopët do të përpiqeshin t'e naltësonin Kishën
+Orthodhokse në themele të forta për lavdi të atdheut.
+
+Me këtë veprë rodhë urimet nga Këshilla e Naltë, Qeveria edhe nga
+gjithë anëtë të Shqipërisë e mergimit. Që të gjithë shprehnin se,
+paskëtaj, Pishkopi Noli do të hidheshe në fushën fetare, për të cilën
+është prikosurë, edhe politikën militante do t'ua linte politikanëvet
+që janë të hedhur në këtë luftë.
+
+Për fat të keq Korça e zgjodhi përfaqësonjës në Asamblenë, kështu që
+rekeja politike e hoqi me vete, për të humbur gjithë simpathinë që
+kish fituar, edhe, më tjatër anë, për të i sjellë dëme të mëdha edhe
+çkatërime, siç do të shohim, atdheut!

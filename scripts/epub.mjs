@@ -144,6 +144,49 @@ function elisionRule(state) {
   }
 }
 
+/**
+ * Editor's notes (a sibling `shenimet.md`, see src/lib/markdown-editor-notes.ts):
+ * the site turns a bare `(14)` into a button when 14 is a note id. Here it
+ * becomes a noteref into the notes chapter, where each note carries the id
+ * `shenim-14` (see editorNotesBody). `env.editorNotes` is `{ ids, file }`.
+ */
+function editorNoteRule(state) {
+  const notes = state.env.editorNotes;
+  if (!notes?.ids.size) return;
+  for (const block of state.tokens) {
+    if (block.type !== 'inline' || !block.children) continue;
+    block.children = block.children.flatMap((token) => {
+      if (token.type !== 'text' || !/\(\d+\)/.test(token.content)) return [token];
+      return token.content.split(/\((\d+)\)/g).flatMap((part, i) => {
+        if (i % 2 === 0) return part ? [textToken(state, part)] : [];
+        if (!notes.ids.has(part)) return [textToken(state, `(${part})`)];
+        const link = new state.Token('html_inline', '', 0);
+        link.content = `<a href="${notes.file}#shenim-${part}" class="editor-note" epub:type="noteref">(${part})</a>`;
+        return [link];
+      });
+    });
+  }
+}
+
+/**
+ * The notes chapter itself: each `14. — *Term*. — …` block becomes a paragraph
+ * with the id the notereferences point at, and not an ordered list, so a gap
+ * in the numbering can't shift the numbers.
+ */
+const editorNotesBody = (body) =>
+  body.replace(/(^|\n\n)(\d+)\.[ \t]+/g, '$1<span class="editor-note-number">$2.</span> ');
+
+/** Move each note's id onto its paragraph, so a popup shows the whole note. */
+const editorNotesHtml = (html) =>
+  html.replace(
+    /<p><span class="editor-note-number">(\d+)\.<\/span>/g,
+    '<p id="shenim-$1" epub:type="endnote"><span class="editor-note-number">$1.</span>',
+  );
+
+/** Ids of the notes in a shenimet.md body, as the site parses them. */
+const editorNoteIds = (body) =>
+  new Set([...body.matchAll(/(?:^|\n\n)\s*(\d+)\./g)].map(([, id]) => id));
+
 function textToken(state, content) {
   const token = new state.Token('text', '', 0);
   token.content = content;
@@ -191,6 +234,7 @@ function makeParser(breaks) {
 
   md.use(mdFootnote).use(mdAttrs);
   md.core.ruler.before('smartquotes', 'epub_elision', elisionRule);
+  md.core.ruler.push('epub_editor_notes', editorNoteRule);
   md.core.ruler.push('epub_typography', typographyRule);
   endnoteRules(md);
   return md;
@@ -219,9 +263,9 @@ const siteHtmlToXhtml = (body) =>
   SITE_HTML.reduce((text, [pattern, replacement]) => text.replace(pattern, replacement), body);
 
 /** Render one chapter body; returns its XHTML and the endnotes it defines. */
-function renderChapter(body, verse, file, noteBase) {
+function renderChapter(body, verse, file, noteBase, editorNotes) {
   const md = verse ? parsers.verse : parsers.prose;
-  const env = { file, noteBase };
+  const env = { file, noteBase, editorNotes };
   const tokens = md.parse(siteHtmlToXhtml(body), env);
   const split = tokens.findIndex((t) => t.type === 'footnote_block_open');
   const bodyTokens = split < 0 ? tokens : tokens.slice(0, split);
@@ -229,7 +273,18 @@ function renderChapter(body, verse, file, noteBase) {
   const html = md.renderer
     .render(bodyTokens, md.options, env)
     // A note marker sits against the word it annotates.
-    .replace(/[  ]+(<a href="endnotes\.xhtml)/g, '$1');
+    .replace(/[  ]+(<a href="endnotes\.xhtml)/g, '$1')
+    // An image alone in its paragraph is a figure, captioned with its alt text
+    // as on the site (markdown-it-implicit-figures).
+    .replace(
+      /<p><img src="([^"]*)" alt="([^"]*)"([^>]*)\/><\/p>/g,
+      (_, src, alt, rest) => {
+        // A `<br>` in the alt text is a line break in the caption.
+        const lines = alt.split(/\s*&lt;br\/?&gt;\s*/);
+        const caption = alt ? `<figcaption>${lines.join('<br/>')}</figcaption>` : '';
+        return `<figure><img src="${src}" alt="${lines.join(' ')}"${rest}/>${caption}</figure>`;
+      },
+    );
   const notes = split < 0 ? '' : md.renderer.render(tokens.slice(split), md.options, env);
 
   return { html, notes, noteCount: env.footnotes?.list?.length ?? 0 };
@@ -261,12 +316,6 @@ function loadBook(folder, index = loadIndex()) {
   const book = author?.books?.find((b) => b.folder === folder);
   if (!book) throw new Error(`${folder}: no such book in ${INDEX_PATH}`);
 
-  // Editor's notes render as interactive buttons on the site; they need their
-  // own endnote mapping before a book that has them can be built.
-  if (existsSync(`autore/${folder}/shenimet.md`)) {
-    throw new Error(`${folder}: editor's notes (shenimet.md) are not supported in EPUBs yet`);
-  }
-
   const entries = globSync(`autore/${folder}/**/*.md`)
     .sort()
     .map((file) => {
@@ -277,6 +326,7 @@ function loadBook(folder, index = loadIndex()) {
         subtitle: typesetTitle(attributes.subtitle),
         file,
         body,
+        editorNotes: posix.basename(file) === 'shenimet.md',
       };
     });
   if (entries.length === 0) throw new Error(`${folder}: no chapters found`);
@@ -295,7 +345,10 @@ function loadBook(folder, index = loadIndex()) {
     }))
     .sort((a, b) => firstOrder(a.chapters) - firstOrder(b.chapters));
 
-  return { folder, author, book, parts, modified: lastModified(folder) };
+  // A compiler who isn't the author (the Kanuni's Gjeçovi) is credited too.
+  const compiler = book.compiledBy ? index[book.compiledBy]?.name : undefined;
+
+  return { folder, author, book, compiler, parts, modified: lastModified(folder) };
 }
 
 /**
@@ -354,7 +407,7 @@ function heading(level, title, subtitle) {
  * `{ docs: [{ file, title, xhtml, toc, landmark? }], notes }`, where `toc` is
  * the nesting depth in the table of contents (0 = not listed).
  */
-function composeBook({ folder, author, book, parts, modified }) {
+function composeBook({ folder, author, book, compiler, parts, modified }) {
   const title = book.name;
   const subtitle = book.subtitle;
   const url = `${BASE_URL}/${folder}/`;
@@ -370,7 +423,7 @@ function composeBook({ folder, author, book, parts, modified }) {
       `<section id="titlepage" epub:type="titlepage">
 ${subtitle ? `<hgroup>\n<h1 epub:type="title">${escapeXml(title)}</h1>\n<p epub:type="subtitle">${escapeXml(subtitle)}</p>\n</hgroup>` : `<h1 epub:type="title">${escapeXml(title)}</h1>`}
 <p class="author">${escapeXml(author.name)}</p>
-</section>`,
+${compiler ? `<p class="compiler">Mbledhur dhe kodifikuar nga ${escapeXml(compiler)}</p>\n` : ''}</section>`,
     ),
   });
 
@@ -396,6 +449,18 @@ ${subtitle ? `<hgroup>\n<h1 epub:type="title">${escapeXml(title)}</h1>\n<p epub:
   let noteBase = 0;
   let firstBody = true;
 
+  // Chapter ids are positional, so work out where the editor's notes land.
+  let editorNotes = null;
+  parts.forEach((part, p) =>
+    part.chapters.forEach((chapter, c) => {
+      if (!chapter.editorNotes) return;
+      editorNotes = {
+        ids: editorNoteIds(chapter.body),
+        file: `${flat ? `chapter-${c + 1}` : `chapter-${p + 1}-${c + 1}`}.xhtml`,
+      };
+    }),
+  );
+
   parts.forEach((part, p) => {
     if (!flat) {
       docs.push({
@@ -416,7 +481,14 @@ ${subtitle ? `<hgroup>\n<h1 epub:type="title">${escapeXml(title)}</h1>\n<p epub:
       const id = flat ? `chapter-${c + 1}` : `chapter-${p + 1}-${c + 1}`;
       const file = `${id}.xhtml`;
       const verse = chapter.respectLineBreaks !== false;
-      const rendered = renderChapter(chapter.body, verse, file, noteBase);
+      const rendered = renderChapter(
+        chapter.editorNotes ? editorNotesBody(chapter.body) : chapter.body,
+        verse,
+        file,
+        noteBase,
+        editorNotes,
+      );
+      if (chapter.editorNotes) rendered.html = editorNotesHtml(rendered.html);
       noteBase += rendered.noteCount;
       if (rendered.notes) notes.push(rendered.notes);
 
@@ -462,7 +534,7 @@ ${rendered.html.trim()}
       'Kolofoni',
       'backmatter',
       `<section id="colophon" epub:type="colophon" aria-label="Kolofoni">
-<p><i>${escapeXml(title)}</i><br/>u shkrua nga ${escapeXml(author.name)}${published}.</p>
+<p><i>${escapeXml(title)}</i><br/>${compiler ? `u mblodh dhe u kodifikua nga ${escapeXml(compiler)}` : `u shkrua nga ${escapeXml(author.name)}`}${published}.</p>
 <hr/>
 <p>Ky botim elektronik u përgatit nga vullnetarët e <a href="${BASE_URL}/">Fletoreve</a> dhe u përditësua më ${format(modified, 'd MMMM yyyy', { locale: sq }).toLowerCase()}.</p>
 <p>Versioni më i ri gjendet gjithmonë te <a href="${url}">fletoret.com/${escapeXml(folder)}</a>.</p>
@@ -470,8 +542,26 @@ ${rendered.html.trim()}
     ),
   });
 
-  return { docs };
+  // Images the site serves from static/images/ travel inside the book.
+  const images = new Map(); // site path -> package path
+  for (const doc of docs) {
+    doc.xhtml = doc.xhtml.replace(/(<img\b[^>]*\bsrc=")(\/images\/[^"]+)"/g, (_, before, src) => {
+      if (!images.has(src)) images.set(src, `images/${posix.basename(src)}`);
+      return `${before}../${images.get(src)}"`;
+    });
+  }
+
+  return { docs, images };
 }
+
+const IMAGE_TYPES = {
+  '.jpg': 'image/jpeg',
+  '.jpeg': 'image/jpeg',
+  '.png': 'image/png',
+  '.gif': 'image/gif',
+  '.svg': 'image/svg+xml',
+  '.webp': 'image/webp',
+};
 
 function navDocument(title, docs) {
   const items = [];
@@ -546,7 +636,7 @@ ${points.join('\n')}
 `;
 }
 
-function opfDocument({ folder, author, book, modified }, docs) {
+function opfDocument({ folder, author, book, compiler, modified }, docs, images) {
   const uid = `${BASE_URL}/${folder}/`;
   const iso = modified.toISOString().replace(/\.\d{3}Z$/, 'Z');
   const id = (file) => file.replace(/\.xhtml$/, '').replace(/[^\w-]/g, '-');
@@ -559,6 +649,10 @@ function opfDocument({ folder, author, book, modified }, docs) {
     ...docs.map(
       (d) => `<item href="text/${d.file}" id="${id(d.file)}" media-type="application/xhtml+xml"/>`,
     ),
+    ...[...images.values()].map(
+      (href) =>
+        `<item href="${href}" id="${posix.basename(href).replace(/[^\w.-]/g, '-')}" media-type="${IMAGE_TYPES[posix.extname(href).toLowerCase()]}"/>`,
+    ),
   ];
   const spine = docs.map((d) => `<itemref idref="${id(d.file)}"/>`);
 
@@ -570,7 +664,7 @@ function opfDocument({ folder, author, book, modified }, docs) {
 ${book.subtitle ? `<dc:title id="subtitle">${escapeXml(book.subtitle)}</dc:title>\n<meta property="title-type" refines="#subtitle">subtitle</meta>\n<meta property="title-type" refines="#title">main</meta>\n` : ''}<dc:creator id="author">${escapeXml(author.name)}</dc:creator>
 <meta property="file-as" refines="#author">${escapeXml(fileAs(author.name))}</meta>
 <meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-<dc:language>sq</dc:language>
+${compiler ? `<dc:contributor id="compiler">${escapeXml(compiler)}</dc:contributor>\n<meta property="file-as" refines="#compiler">${escapeXml(fileAs(compiler))}</meta>\n<meta property="role" refines="#compiler" scheme="marc:relators">com</meta>\n` : ''}<dc:language>sq</dc:language>
 <dc:publisher>Fletoret</dc:publisher>
 <dc:date>${iso}</dc:date>
 <meta property="dcterms:modified">${iso}</meta>
@@ -842,17 +936,28 @@ function checkPackage(files) {
 /** Build one book's EPUB; returns the path written. */
 export async function buildEpub(folder, index = loadIndex()) {
   const model = loadBook(folder, index);
-  const { docs } = composeBook(model);
+  const { docs, images } = composeBook(model);
+  for (const [src, href] of images) {
+    if (!existsSync(`static${src}`)) throw new Error(`${folder}: image ${src} not found under static/`);
+    if (!IMAGE_TYPES[posix.extname(href).toLowerCase()]) {
+      throw new Error(`${folder}: image ${src} has a type EPUB readers don't all support`);
+    }
+  }
   const uid = `${BASE_URL}/${folder}/`;
 
   const files = [
     { name: 'mimetype', data: Buffer.from('application/epub+zip'), store: true },
     { name: 'META-INF/container.xml', data: Buffer.from(CONTAINER_XML) },
-    { name: 'epub/content.opf', data: Buffer.from(opfDocument(model, docs)) },
+    { name: 'epub/content.opf', data: Buffer.from(opfDocument(model, docs, images)) },
     { name: 'epub/toc.xhtml', data: Buffer.from(navDocument(model.book.name, docs)) },
     { name: 'epub/toc.ncx', data: Buffer.from(ncxDocument(uid, model.book.name, docs)) },
     { name: 'epub/css/core.css', data: readFileSync(CSS_PATH) },
     { name: 'epub/images/cover.jpg', data: await coverJpeg(model.book), store: true },
+    ...[...images].map(([src, href]) => ({
+      name: `epub/${href}`,
+      data: readFileSync(`static${src}`),
+      store: true,
+    })),
     ...docs.map((d) => ({ name: `epub/text/${d.file}`, data: Buffer.from(d.xhtml) })),
   ];
 

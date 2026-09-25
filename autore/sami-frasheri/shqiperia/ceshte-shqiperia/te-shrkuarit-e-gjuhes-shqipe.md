@@ -4,7 +4,7 @@ author: Sami Frashëri
 respectLineBreaks: false
 parent: Ç'është Shqipëria
 grandparent: Shqipëria
-order: 9
+order: 19
 ---
 
 Thamë edhe më siprë që m'e par' e shënjavet të një
@@ -37,7 +37,7 @@ fqinjëtë u xgjuanë e po venë mbarë edhe përpiqenë të na
 rofitinë. E para pun' e këtyre është të na bëjnë të harojmë
 gjuhënë tënë, të mësojmë të tyrenë. Jo vetëm Shqipëtarët'
 e Greqis' e t'Italisë po edhe shumë nga të Shqipërisë zunë
-të mos flasinë e të mos dinë shqip, tek prindërit' e altyre
+të mos flasinë e të mos dinë shqip, tek prindërit' e atyre
 s'dininë tjatërë gjuhë. Po të lihesh kështu e pashkruarë
 shqipja, q'është ruajturë që kaqë mijë vjet e tëhu, do të
 humbiste e të harohësh në pakë kohë.
@@ -55,8 +55,8 @@ i zunë shkronjatë me të dy duartë; edhe shoqërirëra u
 ngrehnë në Rumani e n'Egjyptë pas asaj së
 Konstantinopojësë, e cila s'mundi të qëndronte shumë
 kohë nënë xgjedhët të Tyrqet. Një shkollë u hap në Korçë
-e për së pari here zuri të mësohësh gjuha jonë. Shkollatë
-nuk' u shtuanë e të vininë mbarë si duheshe, po
+e për së pari herë zuri të mësohësh gjuha jonë. Shkollatë
+nuk' u shtuanë e të vininë mbarë si duhesh, po
 shkronjatë shqip u përhapnë nëpër gjith' anët të
 Shqipërisë, edhe burra e gra, djem e vasha, gjithë
 mësuanë në pak kohë të shkruajn' e të këndojnë gjuhënë
@@ -71,7 +71,7 @@ punë s'bëhetë, shqipja s'është një gjuhë që të muntnje të
 shkruhetë, është një gjuh' e lig' e e prishurë, s'munt të
 ketë shkronjëtore, nonjë dituri s'munt të shkruhet' e të
 mësohetë në këtë gjuhë e kaqë të tjera fjalë të kota, për të
-bërë na ta presimë shpresëhë e të mos prëpiqemi për të
+bërë na ta presimë shpresënë e të mos përpiqemi për të
 shkruarë gjuhënë tënë. Po kur panë që shqipja u shkruaka
 fort mirë, u kënduaka shumë bukurë, u bëka shkronjëtor'
 e saj, edhe qënka m'e mirë e m'e mbaruarë se gjithë gjuhët'
@@ -88,16 +88,16 @@ Kur panë këto të mira në gjuhët shqip e
 mbrodhësin' e madhe të shkronjavet tona, e kupëtuanë që
 Shqipëria do t'u dalë nga thonjtë, edhe u bashkuanë gjithë
 për të ndaluarë të shkruarët' e gjuhës shqipe. Tyrq,
-Grëkër, Shqeh e të tjerë, sado që janë armikë në mes të
+Grekër, Shqeh e të tjerë, sado që janë armikë në mes të
 tyre, dhanë dorënë njëri jatërit kuntrë neve. Port' e Lartë
 e plas' e Yllit, patrikëri' e Fenerit, qeveri' e Athinësë etj. u
 bashkuanë në këtë punë; Tyrku ndaloi të hapuritë shkolla
-shqip, zuri livraitë në tellonë, nukë la të shkelësh as një
+shqip, zuri livratë në tellonë, nukë la të shkelësh as një
 copë kartë në gjuhët tënë edhe i vështoi me sy armiku
 duke quajtur kormtë, pas zakonit të ti, gjith' ata që doninë
 të shkruajn' e të këndojnë në këtë gjuhë; Greku thiri e çori
 lëveretë që nga Athina kuntrë të shkruarit të gjuhësë
-sanë, ngrehu njëmij' tatrikëra kuntrë Shqiptarëve, që
+sanë, ngrehu njëmij' tatrikëra kuntrë Shqipëtarëve, që
 duanë gjuhën' e tyre, i vrau të shumëtë me dorët të
 Tyrkut; patriku e dhespotëtë hodhë aforismatë si Hyji
 rrufenë qëmoti.
@@ -105,15 +105,15 @@ rrufenë qëmoti.
 Gjithë këta ndalime bënë të mos shtohen' e të mos
 përhapenë shkollatë shqip në Shqipëri e të mos dalënë
 livra e ditare etj. në gjuhët tënë; po nukë ndaluanë dot
-Shqipëtarëtë nga të mësuarëtë shkronjatë sbqip.
-Shqipëtari është mësuarë të nxërë shkronja edhe pa
+Shqipëtarëtë nga të mësuarëtë shkronjatë shqip.
+Shqipëtari është mësuarë të nxënë shkronja edhe pa
 shkollë, në shesht' edhe pa livra e të shkruara me dorë.
 
 Shqipja sot nuk' ësht një gjuhë e pashkruarë si qe
 njëzet vjet më parë; sot është një gjuhë, që shkruhet' e
 këndohetë, edhe nga më të bukuratë. Nonjë gjuhë
 s'këndohetë aqë lehtë e aqë mirë sa shqipja. Kjo i hidhëroi
-e i helmoi fare armikëtë tanë, së, duk me parë që ka
+e i helmoi fare armikëtë tanë, se, duk me parë që ka
 lëshuarë aqë rënjë të gjata e të forta të shkruarit' e
 gjuhësë Shqipe, nuk mundinë më sot të thonë që Shqipja
 nuk mund të shkruhetë; se ja tek u shkrua.

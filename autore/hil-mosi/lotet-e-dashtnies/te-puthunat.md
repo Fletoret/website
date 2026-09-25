@@ -19,11 +19,11 @@ Veç vetëm dhânun si adet.
 
 Nji t'puthun, kur êm âm m'a lshon,
 Asht krejt si t'ishte nji bekim,
-Kur djalin don edhe lëvdon—
+Kur djalin don edhe lëvdon —
 Aj t'puthun âsht si nji nderim.
 
 Kur motra m'puth me plot dashtnië,
-S'âsht t'puthun qi me t'përmallu!—
+S'âsht t'puthun qi me t'përmallu! —
 Dhe n'kjoft se m'duket plot zjarmië,
 Asht se kujtoj atê qi du.
 

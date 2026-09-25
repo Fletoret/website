@@ -1,7 +1,6 @@
 ---
 title: Së dashtunes
 author: Hil Mosi
-subtitle:  T. Körner
 respectLineBreaks: true
 parent: Lotët e dashtniës
 grandparent: null
@@ -12,8 +11,8 @@ order: 108
 > Floss von dem süssen Blick auf mich;
 > Ganz war mein Herz an deiner Seite
 > Und jeder Atemzug für dich.
-> 
-> T. Körner.
+>
+> — T. Körner.
 
 Kur ty të pash për t'paren hera,
 M'u duke Div plot bukurië,
@@ -56,4 +55,4 @@ M'e qit dashtniën qi mbahet ndry,
 Nbasi në t'amblen gjuh dashtnore
 M'a pae në zêmer, n'buz e n'sy.
 Ça mshehet n'gjuh të vjershësiës,
-Tregohet n'lotët e dashtniës.
+Tregohet n'lotët e dashtniës —

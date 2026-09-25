@@ -13,7 +13,7 @@ Tuj e bâ si rregull n'jet.
 
 Mbas ksaj fjalet bota krejt
 Shkon sot tuj u regullu;
-As nji pun s'e kryn me t'shpejt,—
+As nji pun s'e kryn me t'shpejt, —
 Pa u pvet e pa u kshillu.
 
 Fjala e moçme âsht e mir

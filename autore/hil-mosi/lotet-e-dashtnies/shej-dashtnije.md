@@ -14,17 +14,17 @@ Me shum knaqësië;
 
 Syt të permallshëm
 Në mu kur i lshon,
-M'bâhet se Dushi (*)
+M'bâhet se Dushi[^1]
 Në zêmer m'zhgjeton.
-
-(*) Don me thânë Amor.
 
 Shpesh un i mjeri
 Jam tuj të mendu,
 Kshtu ti moj dashtnore
-Do t'kesh nër mênd mu -
+Do t'kesh nër mênd mu —
 
 N'zêmer po digjem,
 Kerkuj s'i diftoj;
 Vetëm me t'kqyr' na
 Dashtniën t'a tregoj!
+
+[^1]: Don me thânë Amor.

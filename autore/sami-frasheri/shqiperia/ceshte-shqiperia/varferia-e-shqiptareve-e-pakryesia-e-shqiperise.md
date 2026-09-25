@@ -4,7 +4,7 @@ author: Sami Frashëri
 respectLineBreaks: false
 parent: Ç'është Shqipëria
 grandparent: Shqipëria
-order: 10
+order: 20
 ---
 
 Shqipëria gjer ca kohë më parë ka qënë mjaft e
@@ -14,13 +14,13 @@ mjeshtëri, që kishinë. Mvishnin' e mbathninë robën' e
 plaçkën e tyre, që bëhesh në vënt. Pagesat' e qeverisë
 ishinë fort të paka e të lehta. Nga të hollatë, që sillninë së
 jashtësmi në Shqipëri, fort të paka delninë jashtë, të
-shumatë mbeteshinë ne vëndit. Kjo sillte një begati të
+shumatë mbeteshinë në vëndit. Kjo sillte një begati të
 përgjithçme.
 
 Sot s'është puna kështu; Shqipëtarëtë më nukë
 venë ushtarë me rogë po futenë nënë një xgjedhë
 ushtërije; nukë kthehenë nga lufta të mveshurë n'ar e të
-farkuarë me armë të lara, po lakuriq, të smurë e të
+farkuarë me armë të lara, po lakuriq, të sëmurë e të
 këputurë. Nonjë gjë s'bëhetë dot në vëndit, se punëtorëtë
 vëndës s'ia dalinë dot kuntrë fabrikavet t'Evropësë. Edhe
 ato dy pare, q'u bjenë në dorë Shqipëtarëvet, rjedhinë nga
@@ -28,7 +28,7 @@ duart' e tyre e rungullisenë n'Evropë. Pagesat' e qeverisë
 janë të shumta e të rënda, sa me-zi i paguajnë. Fitimet' e
 vjetërë u ngrinë, të tjerë të rinj s'erdhë në vëndit t'atyre.
 Për udhëra paguajnë veçan, udhë s'ka; lumënjtë mbytinë
-fushatë; ethetë, që çpikenë nga këto baltëra, bëjnë boitënë
+fushatë; ethetë, që çpikenë nga këto baltëra, bëjnë botënë
 të jenë gjithënjë të sëmur' e të dobëtë, të mos punojnë dot
 e të vdesinë nga sëmundja e nga urija. Kështu një varfëri
 e madhe e e keqe e ka mbuluarë gjithë Shqipërinë.
@@ -42,9 +42,9 @@ s'nxjer dot as gjymësën' e këtyre pareve në mot! Kjo është
 pun' e qeverindarit tyrk; po qeveri s'ka; pa dalë mirë
 zaptijeja nga kolumb' e pshatarit, të cilit i mori djalin' a
 gjënë, i hyn kusari ta vjedhë a armiku ta vrasë, edhe ay
-qeverindar, që qe i zoti te rjepë, s'ësht' i zoti ta ruanjë nga
+qeverindar, që qe i zoti të rjepë, s'ësht' i zoti ta ruanjë nga
 kusari a ta mburonjë nga armiku! I gjori Shqipëtar ësht' i
-shtranguarë të rrijë dit' e natë me armë në dorë që të
+shtrënguarë të rrijë dit' e natë me armë në dorë që të
 munjë të ruanjë gjën' e shpirtin' e ti; po në i lënçin' edhe
 armë, se shumë herë armëtë ia mer, e le duarlidhurë
 përpara hajdutëvet e armikëvet, nga të cilëtë nuk ësht' i

@@ -4,7 +4,7 @@ author: Sami Frashëri
 respectLineBreaks: false
 parent: Ç'është Shqipëria
 grandparent: Shqipëria
-order: 5
+order: 15
 ---
 
 Thamë më siprë që Shqipëtarëtë, duke rënë në
@@ -33,13 +33,13 @@ armë lark shtëpis’ e lark mëmëdheut të ti, edhe qysh?
 lakuriq, t’urëtë, të sëmurë, të varfërë! Në luftë e vë të
 vritetë kot; urdhëronjës’ i ti, q’është Tyrk, i paditur’ e i
 frikçimë, e fut në një trap nga s’deletë. I gjori Shqipëtar,
-me gjithë këto, lëfton lakuriq e i urtë e me armë të meta,
+me gjithë këto, lëfton lakuriq e i urëtë e me armë të meta,
 lëfton si dragua, e tregon trimërin’ e ti e nderon Tyrqit’ e
 Tyrqinë! Po a i dihetë, a çpërblehetë për gjakt, që derth?
 Jo, kurrë! Ushtari shqipëtar, në mos vdektë në luftë, vdes
 nga sëmundjeja, nga të pangrënët e nga të pamveshurit.
 Nga ata që vënë n’ushtëri, fort të pakë kthehenë në shtëpit
-të tyre. E urdhëronjes kush bëhetë? gjithënjë Tyrqitë;
+të tyre. E urdhëronjës kush bëhetë? gjithënjë Tyrqitë;
 gjymës’ e ushtëris së Tyrqisë janë Shqipëtarë, po as një i
 njëqinttë i urdhëronjëset në Tyrqi s’është Shqipëtar.
 
@@ -47,7 +47,7 @@ Shqipëtarëtë, q’ishinë mësuarë të mos paguajnë
 gjë, tani janë futurë nën’ aqë të rënda pagesa, sa
 s’mundinë të ngrenë krye. Tyrqitë, që janë zotërinjt’ e tyre
 që pesëqint vjet e tëhu, s'u kanë mësuarë Shqipëtarëvet
-as punë, as mjeshtëri as dituri, po i banë mësuarë të
+as punë, as mjeshtëri as dituri, po i kanë mësuarë të
 lëftojn’ e të rrëmbejnë; tani për-një-herë duanë t’u
 marrënë armëtë e u thonë: paguani! E ku të gjejnë të
 gjorëtë që të paguajnë? s’kanë të hanë vetë. Ata
@@ -62,7 +62,7 @@ dru për ta paguarë!! o ç’turp i math! o ç’e madhe e keqe!
 mos e durofsh, o Perëndi!
 
 Kështu është sot gjithë Toskëria edhe shumë vënde
-të Gegërisë. Ca vende të Gegërisë, që kanë mbajturë
+të Gegërisë. Ca vënde të Gegërisë, që kanë mbajturë
 armëtë e kanë qëndruarë në malet të tyre të rreptë, nukë
 janë shkelurë kaqë; nuk’ apënë ushtarë e s’paguajnë
 pagesa; po edhe këta rojnë si t’egërë pa nonjë qeveri, duke
@@ -75,7 +75,7 @@ nxjerrënë edhe lëkurënë!
 
 Shqipëria sot urdhërohet’ e qeverisetë prej Tyrqish
 të huaj e prej njerës të poshtër’ e të panderçim, të cilëtë i
-blenë vëndetë në Konstantdnopojë me të holla e vinë të
+blenë vëndetë në Konstantinopojë me të holla e vinë të
 rjepinë Shqipërin’ e Shqipëtarëtë, për të nxjerë ato të
 holla, që kanë dhënë edhe aqë të tjera që do të vjedhinë
 për vetëhe të tyre!

@@ -7,8 +7,8 @@ grandparent: null
 order: 5
 ---
 
-Por le të kalojmë tani tek ato, që Tomku ka përhapur për Skëderbeun
-apo Gjer Kastriotin. Këto ne i kemi lënë mënjanë gjer tani me qëllim
+Por le të kalojmë tani tek ato, që Tomku ka përhapur për Skënderbeun
+apo Gjergj Kastriotin. Këto ne i kemi lënë mënjanë gjer tani me qëllim
 që këtë çështje ta shqyrtojmë me kujdesin dhe vëmëndjen më të madhe,
 pa u shpërndarë në shumë drejtime, duke patur, sigurisht, më tepër
 parasysh të vërtetën se sa atdheun (149).
@@ -98,7 +98,7 @@ merituar dhe i ndritur para Nesh, dhe nga prindi [^26] ynë Jan, në
 kohën kur me ndihmën e princit tonë dhe të mbretit të ndritur që zumë
 në gojë, mbretëria e Rashës iu kthye nga Murati, sulltan i Turqvet,
 princit të ndritur, kryezotit Gjergj Dhespotit. — Sepse me insistimin
-e kontit Gjerg Margnaviçit, sternip i Goikut, vojvodë [^27] dikur i
+e kontit Gjergj Margnaviçit, sternip i Goikut, vojvodë [^27] dikur i
 madh i Rashës dhe vëlla i mbretit të ndritur Vukashin të lartpërmëndur
 dhe i kryezotit Uglesh, u bë atëhere një deklaratë nga biri Marko
 (156) dhe nipi Goiko, babë i kontit të lartpërmëndur Gjergj, se qyteti
@@ -106,7 +106,7 @@ i Nisës, trashëgim i vjetër atëror i familjes mbretërore të
 Margnaviçëvet, bashkë me gjithë kështjellat, qytetet, kampet,
 fshatrat, bashtinat, vëndet e tjera, me gjithë territorin e distriktin
 e saj e me gjithçka u takon e u përket këtyre e kudo që mund të
-ndodhet, duhet, në të vërtetë, të rregjistrohet e të vuloset. (sikurse
+ndodhet, duhet, në të vërtetë, të rregjistrohet e të vuloset (sikurse
 edhe është regjistruar qyteti në fjalë bashkë me gjithçka i përkasin),
 për kontin e lartpërmëndur Gjergj dhe për nipin e tij prej vëllau
 Tomko. Dhe kjo është bërë me pëlqimin e vetë princit të ndritur Gjergj
@@ -143,7 +143,7 @@ Nisës dhe sundimi absolut i tij, kështjellat, kampet, fshatrat,
 bashtinat dhe çfarëdo vendi e gjithë territori e distrikti i saj me të
 gjitha përfitimet dhe të ardhur dhe me gjithëçka i takon e i përket,
 është dhe gjithmonë ka qënë trashëgim atëror i familjes mbretërore të
-Marganaviçëvet nga vetë perandorët e Stambollit që në kohrat e vjetra,
+Margnaviçëvet nga vetë perandorët e Stambollit që në kohrat e vjetra,
 siç duket në mënyrë më të plotë në letrat origjinale, që Na janë dhënë
 Ne në favor të princit të shkëlqyer dhe të pathyeshëm që përmëndëm më
 lart; mbassi në këto letra përcaktohet që, duke përjashtuar seksin
@@ -159,13 +159,13 @@ Prandaj, mbassi i kemi shqyrtuar të gjitha këto me kohë dhe duke e
 përfunduar mosmarrëveshjen në fjalë, deklarojmë dhe shpallim:
 
 Se deklarata e të lartpërmëndurvet, mbretit të ndritur para Nesh
-Vladislav dhe prindit tonë Joan, si dhe të rendit tjetër hierarqit të
+Vladislav dhe prindit tonë Joan, si dhe të rendit tjetër hierarqik të
 mbretërisë, nuk ka qënë aspak dhe as që është në kundërshtim me të
 drejtat shumë të vjetra të familjes së lartpërmëndur të Margnaviçëvet.
 
 Se, në bazë të këtyre të drejtave, që u përmëndën, dhe të deklaratës
 së dashur, qyteti i lartpërmëndur i Nisës dhe sundimi absolut i saj
-bashkë me gjithë kështjellat, kampet, qytetet, fshatrat, bashtinet,
+bashkë me gjithë kështjellat, kampet, qytetet, fshatrat, bashtinat,
 vënde të tjera, posedimet, përfitimet, të ardhurat, minierat e çdo
 lloj metali dhe tokat e lërueshme, të punuara e të papunuara, malet,
 luginat dhe kodrinat, fushat, livadhet, kullotat, pyjet, barërat,
@@ -218,16 +218,16 @@ kundrejt qytetit të Nisës dhe kundrejt virtuteve dhe meritave të
 familjes shumë të vjetër të Margnaviçëvet. E në radhë të parë këto u
 kanë qënë akorduar nga perandorët e mi famëmbëdhenj të Stambollit
 princërve të ndryshëm të familjes në fjalë, d.m.th.: nga Niqifori dhe
-Manueli i Stanishës arkond i Nises; nga Ballduini, perandor i
+Manueli i Stanishës arkond i Nisës; nga Ballduini, perandor i
 Stambollit, princit Kostandin, të quajtur Strasimir, bir i senatorit
-të Stambollit dhe i arkondit të Nisës [^29]; nga Mihail paleologu
+të Stambollit dhe i arkondit të Nisës [^29]; nga Mihail Paleologu
 princit Reposh, Jupan i Madh; pastaj nga mbretrit e Bullgarisë
 stërgjyshëvet tanë dhe sidomos nga Samueli Tvartkos, princit të po
 kësaj familjeje që ishte edhe kenez veliki; më në fund nga Stefan
 Nemania, mbret i Rashës, Lourinit, i cili ka qënë babë i princit
 Marnavë dhe starost i Rashës. —
 
-Se, sikurse të gjitha këto ndere, grada, tituj, perogativa e
+Se, sikurse të gjitha këto ndere, grada, tituj, prerogativa e
 privilegje ia njohim si të veçanta e shumë të vjetra familjes në
 fjalë, po ashtu shpallim botërisht se këto duhet të jenë përgjithëmonë
 në të ardhmen të përbashkëta për të dy palët e trashëgimtarëve
@@ -264,7 +264,7 @@ kjo shpallje, ka qënë në mënyrë plotësisht të qartë dhe duhet të jetë
 përgjithmonë e njëjtë me mendimin, vullnetin, vendimin dhe deklaratën
 e mbretit të ndritur të dikurshëm para Nesh Vladislav, si dhe të
 prindit tonë Jan. Se kjo nuk vjen në asnjë pjesë të saj në mospajtim e
-në kundërshtim me letrat deklarative që përmëndëm më lart, të Miail
+në kundërshtim me letrat deklarative që përmëndëm më lart, të Mihail
 Zilagit, dajës tonë madhështor, kryezot e guvernator i krahinavet të
 Mbretërisë Sonë në Hungari etj., dhe të baronëvet të tjerë të shquar
 të Mbretërisë. Kështu askush nuk mund të dyshojë për këtë çështje të
@@ -273,7 +273,7 @@ parashtrojë për t'u gjykuar e aqë më tepër për t'u vënë në dyshim
 pranë çdo gjykatoreje.
 
 Këto të gjitha Ne i vendosim dhe i shpallim me anën e këtij dekreti e
-vendimi si te vlefshme për gjithmonë.
+vendimi si të vlefshme për gjithmonë.
 
 Që kjo ngjarje të mbesë për gjithmonë në kujtesën e njerëzvet dhe të
 fitojë qëndrueshmërinë e përhershme, kemi urdhëruar të bëhen dy
@@ -284,18 +284,18 @@ Lëshuar në Budë në festën e gjithë Shenjtorëvet (163), në vitin një
 mijë e katërqind e pesëdhjetë e nëntë». —
 
 Që në fillim mund të shihet nëse kjo diplomë është pjellë e së
-vërtetës apo trillim fantazie. Na u ujka këtu Skënderbeu Gjergj
+vërtetës apo trillim fantazie. Na u [quajka] këtu Skënderbeu Gjergj
 Juanoviç, me qëllim, sigurisht, që të besohet kështu më lehtë se ai ka
 lindur në Juanis, bir i Vukashin Margnaviçit. Por kjo është një gjë
 absurde, sepse është në kundërshtim të urryer me traditat e
 përgjithëshme jo vetëm të Epirotëvet dhe të Ilirikëvet [^30], por edhe
 të të gjithë Orientit (164), si edhe me kujtimet e çdo shkrimtari (me
-përjashtim vetëm të diplomave tomkiane.(. Sepse ç'gjë tjetër përveç se
+përjashtim vetëm të diplomave tomkiane). Sepse ç'gjë tjetër përveç se
 trillime mund t'i quash ato që serviren këtu, për të ripërtëritur
 shkëlqimin e Margnaviçëvet tashmë të shuar? — Por le të vazhdojmë më
 tutje.
 
-Gjergj Kastrioti quhet këtu zot i Ohrit dhe i Kos u i vënde, të cilat
+Gjergj Kastrioti quhet këtu zot i Ohrit dhe i Kosturit, vënde, të cilat
 thuhet se i kishte ripushtuar, duke ua hequr nga duart Turqvet. Po
 këtë gjë pohon vetë Tomku në një vënd tjetër, në faqen 23, kur thotë:
 «Janë quajtur Kastrioti nga qyteti i Kosturit, që e kanë pasur nën
@@ -341,7 +341,7 @@ edhe nga vetë Tomku, kur pohon, në faqen 18, se Pladika ka patur
 kundër vëllëzërvet Margnaviçë mërira e mosmarrëveshje dhe, bile, se
 edhe ka luftuar kundër tyre. Ja fjalët e Leunklavit në librin e pestë:
 «Vulku, i biri i Pladikës, princ i Ohrit, i Kosturit, i Prilepit dhe i
-të tjera vëndeve të Maqedhonisë, dhëndërr i Lozarit etj.». — Këtë gjë
+të tjera vëndeve të Maqedhonisë, dhëndërr i Lazarit etj.». — Këtë gjë
 e pohon për bukuri edhe Laonik Kalkokondili, të cilin e citojnë vetë
 Leunklavi dhe vetë Tomku në faqen e shënuar më lart. «Lazari», thotë
 Kalkokondili, «me qënë se kishte vajza, njërën ia dha për grua
@@ -351,10 +351,10 @@ cili [^33] sundonte Kosturin dhe Ohrin, krahinë të Maqedhonisë». — Nga
 këto del qartë se Kastriotët nuk e kanë marrë emrin e tyre nga
 Kosturi, si qytet, gjoja, i të parëvet të tyre.
 
-Tani, se ç'përgjigje mund t'u japë Tomku këtyre, unë nuk e sh.
+Tani, se ç'përgjigje mund t'u japë Tomku këtyre, unë nuk e [shoh].
 Përkundrazi, dikush mund të thotë: «Në qoftë se dhëndërri i Lazarit
 Vulko apo Bulko, ka ushtruar pushtetin dhe sundimin e tij mbi Ohër e
-Kostur sikurse është provuar nga Kalkokondili. Leunklavi dhe vetë
+Kostur sikurse është provuar nga Kalkokondili, Leunklavi dhe vetë
 Tomku, atëhere del se Juanisi, i biri i Vukashinit, s'ka qënë
 ndonjëherë zot i këtyre vëndeve. Diploma, pra, e parashtruar nga
 Tomku, është e rreme». — Unë, edhe në këtë rast të vështirë për
@@ -373,7 +373,7 @@ dhe pikërisht i Krujës, i Lisos, i Sfjetigradit, i Kështjellës së Re
 dhe i Kosturit. Gjithashtu ne nuk mund të themi se prindi i
 Skënderbeut, apo Gjergj Kastrioti, e ka patur ndonjëherë nën zotërimin
 e tij Lison. Sepse, sado që Tomku t'i bjerë daullës, duke thënë se
-këtë qytet e mbante nën zotërimin e tij Jaunis Margnaviçi, ai
+këtë qytet e mbante nën zotërimin e tij Juanis Margnaviçi, ai
 përfshihej atëhere nën sundimin e Republikës së ndritur Veneciane.
 Këtë e di çdo njeri, sado pak që mund të jetë marrë me histori.
 
@@ -388,7 +388,7 @@ ushtronin drejtësinë, pushtetin dhe fuqinë e tyre në qytetin e Nisës
 dhe në territorin dhe distriktin e saj; se Tomku në fjalë mendonte se
 e bënte këtë në bazë të një deklarate të lëshuar nga Vladislavi, mbret
 i Hungarisë, dhe nga Jan Huniadi, me ndihmën e të cilëvet mbretëria e
-Rashës i qe kthyer princit Gjergj Dhespotit nga Murati, Sullltan i
+Rashës i qe kthyer princit Gjergj Dhespotit nga Murati, Sulltan i
 Turqvet. Por këtu nuk mungojnë edhe ata që pohojnë se mbretëria e
 Rashës iu kthye Gjergj Dhespotit me ndihmën e një farë Pashe (167), që
 i kishte hyrë fort në zëmër Sulltanit dhe të cilin Gjergji e kishte
@@ -474,7 +474,7 @@ Zaharisë, bashkë me qytetin e Dajnos (175), të ndërtuar e të lënë
 këtij nga vetë paraardhësit e tij. [^40] Nga ana tjetër pjesët e
 Dalmacisë etj., ishin atëhere nën sundimin e pamposhtur Venecian.
 
-Tani, mbas gjithë këtyre, unë u a lë më të pjekurvet se unë që të
+Tani, mbas gjithë këtyre, unë ua lë më të pjekurvet se unë që të
 gjykojnë se sa e madhe mund të jetë vlera e kësaj diplome dhe se sa
 besim mund t'i jepet asaj, kur e gjithë përmbajtja, siç duket nga sa u
 thanë, si edhe nga vetë dëshmia e Tomkut, i del në kundërshtim të
@@ -486,8 +486,6 @@ se kjo diplomë është çpikur prej ndokujt, ose, të paktën, është
 deformuar pjesërisht, për t'i shërbyer kështu më mirë qëllimit të tij.
 [^41]
 
-# FOOTNOTES
-
 [^25]: D.m.th. përveç Nisës, qytete më të vegjël. — Sh. p.
 [^26]: Në origjinal ka: paraprind, gjysh, që duket jo e drejtë (Shiko
        shën. nr. 23).
@@ -497,7 +495,7 @@ deformuar pjesërisht, për t'i shërbyer kështu më mirë qëllimit të tij.
 [^30]: Të Shqiptarëvet dhe të Sllavëvet. (Shiko shën. Nr. 1).
 [^31]: D.m.th. se Juanisi ka qënë zot i Ohrit dhe i Kosturit. Sh. p.
 [^32]: D.m.th. se prindi i Skënderbeut s'ka sunduar Kosturin dhe
-       Ohrin. — Sh .p.
+       Ohrin. — Sh. p.
 [^33]: D.m.th. Pladika — Sh. p.
 [^34]: Shtim i përkthenjësit. — Sh. p.
 [^35]: D.m.th. vdekjes. Vërë re figurën e bukur, madhështore dhe të

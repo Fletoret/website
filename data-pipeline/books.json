@@ -14,6 +14,30 @@
       "author_name": "Shtjefën Gjeçovi"
     },
     {
+      "slug": "juvenilia",
+      "title": "Juvenilia",
+      "manifest": "libra1!HASH01f0.dir",
+      "author": "Mjeda, Ndre",
+      "year": "1928",
+      "pages": 108,
+      "source": "https://bibliotekadigjitale.bksh.al/?view=ThumbnailsView&manifest=https%3A%2F%2Fbibliotekadigjitale.bksh.al%2Fiiif%2FManifester%2FIIIF%2Flibra1%21HASH01f0.dir&canvas=https%3A%2F%2Fbibliotekadigjitale.bksh.al%2Fiiif%2FManifester%2FIIIF%2Flibra1%21HASH01f0.dir%2Fcanvas%2Fp1",
+      "author_folder": "ndre-mjeda",
+      "book_folder": "juvenilja",
+      "author_name": "Ndre Mjeda"
+    },
+    {
+      "slug": "kanuni",
+      "title": "Kanuni i Lekë Dukagjinit",
+      "manifest": "libra1!HASH0ea3.dir",
+      "author": "Gjeçovi, Shtjefën",
+      "year": "1933",
+      "pages": 179,
+      "source": "https://bibliotekadigjitale.bksh.al/?view=ThumbnailsView&manifest=https%3A%2F%2Fbibliotekadigjitale.bksh.al%2Fiiif%2FManifester%2FIIIF%2Flibra1%21HASH0ea3.dir&canvas=https%3A%2F%2Fbibliotekadigjitale.bksh.al%2Fiiif%2FManifester%2FIIIF%2Flibra1%21HASH0ea3.dir%2Fcanvas%2Fp1",
+      "author_folder": "leke-dukagjini",
+      "book_folder": "kanuni",
+      "author_name": "Lekë Dukagjini"
+    },
+    {
       "slug": "kryengritja-e-shqiptareve",
       "title": "Kryengritja shqiptare",
       "manifest": "libra1!HASH8b45!94a869fc.dir",

@@ -18,7 +18,7 @@ Qi kaq mall po ka me t'pa!
 
 Hapi syt me mujt me t'dukun,
 M'nji veshtrim n'kllapië qi qes;
-Ah, mjerisht ti mu m'je shdukun!—
+Ah, mjerisht ti mu m'je shdukun! —
 Prap mi pushk un kryt e pshtes.
 
 Bi me kto vegime t'shkreta,

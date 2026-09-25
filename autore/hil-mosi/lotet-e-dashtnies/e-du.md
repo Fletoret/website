@@ -24,4 +24,4 @@ Por me gjith shpirt jam kah e du.
 Nër vesh po m'gjan s'edhe un zânin
 E saj aq t'âmbël p'e ndigjoj....
 Mjerisht për s'largut tuj e dashtun,
-Nuk jam aspak un kah gëzoj.
+Nuk jam aspak un kah gëzoj —

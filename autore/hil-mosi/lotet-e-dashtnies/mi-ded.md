@@ -24,4 +24,4 @@ Ktu nuk ka asnji ngushllim!
 Dhe voztari tui vozit
 Gzimin tui këndu difton;
 Veç për ty, or nafakngrit:
-Asht nji vaj, qi kurr s'mbaron.
+Asht nji vaj, qi kurr s'mbaron —

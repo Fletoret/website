@@ -1,5 +1,6 @@
 ---
-title: Ai vend i çuditshëm - Shqipëria
+title: Ai vend i çuditshëm – Shqipëria
+slug: ai-vend-i-cuditshem-shqiperia
 author: Faik Konica
 respectLineBreaks: false
 parent: Ese
@@ -187,5 +188,5 @@ vjetër grek, Hekateut të Miletit, tekstin e të cilit e kam
 cituar në faqen e titullit: "I shkruaj këto gjëra ashtu si më
 duken mua se janë të vërteta."
 
-[^1]: Acta et Diplomata res Albaniae mediae actatis illustrantia,
+[^1]: Acta et Diplomata res Albaniae mediae aetatis illustrantia,
 Vell.I, Vjenë 1913.

@@ -1,5 +1,6 @@
 ---
-title: Shqiptarët - Çelësat për të kuptuar jetën dhe natyrën e tyre
+title: Shqiptarët – Çelësat për të kuptuar jetën dhe natyrën e tyre
+slug: shqiptaret-celesat-per-te-kuptuar-jeten-dhe-natyren-e-tyre
 author: Faik Konica
 respectLineBreaks: false
 parent: Ese
@@ -68,6 +69,7 @@ bandës u tha grave të qëndronin nëpër vende dhe disa
 herë u kërkoi të falur për shqetësimin që u shkaktuan.
 Nga urdhrat që ai u jepte shokëve të vet në gjuhën shqipe,
 u bë e njohur kombësia e banditëve.
+
 Kur flasin me vetëdije për veten e tyre, shqiptarët
 krenohen se kanë shumë veti e virtyte. Kjo është një dobësi
 e gjithë popujve dhe mendime të tilla nuk kanë ndonjë
@@ -86,23 +88,23 @@ se shqiptarët janë kokëshkretë. *"Ka një damar shqiptari"*
 Redhauz (James Redhouse), i cili e ka përfshirë këtë
 thënie në Fjalorin e tij monumental turqisht-anglisht,
 jep këtë përkufizim në botimin e ri, të vitit 1921:
-"*Arnautligi tuttu*" i kërceu damari shqiptarit, ka folur
+*"Arnautligi tuttu"*: "i kërceu damari shqiptarit, ka folur
 ose ka vepruar siç bën zakonisht një shqiptar, me dhunë
 impulsive". Sipas mendimit të komandantëve të vjetër
 turqit e ushtrisë, shqiptari është një luftëtar shumë trim
 dhe i shkëlqyer për të sulmuar armikun ose për të marrë
 një vend me sulm, por është indiferent kur vjen puna që
 rrethanat kërkojnë një taktikë mbrojtëse. Sipas vlerësimit
-të turqve, shqiptari është i zgjuar. Megjithatë, një histo-
-rian turk i shekullit të shtatëmbëdhjetë, Ibrahim Peçevi,
+të turqve, shqiptari është i zgjuar. Megjithatë, një historian
+turk i shekullit të shtatëmbëdhjetë, Ibrahim Peçevi,
 nuk është i këtij mendimi. Duke folur për vezirin e
 madh, Peçevi thotë se "Ajaz Pasha i përkiste kombësisë
-shqiptare, e megjithatë ishte jashtëzakonisht i zgjuar [^2]
+shqiptare, e megjithatë ishte jashtëzakonisht i zgjuar". [^2]
 
 Sipas turqve, një tipar tjetër karakteristik i shqiptarëve
 është dashuria për paratë; ata janë gjithnjë të gatshëm
 t'u hyjnë aventurave më të rrezikshme, po të jetë se e
-shohin që del fitim. Në kohët e Perëndorisë Turke të
+shohin që del fitim. Në kohët e Perandorisë Turke të
 vjetër, ata tregonin një histori: "E pyetën shqiptarin: a
 do të shkosh në ferr?" Ai u përgjigj: "Sa të paguajnë atje?".
 
@@ -190,8 +192,8 @@ kohën që më dilte para syve, dhe dukej sikur bënin një garë
 se kush do ta arrinte më parë. Gjithë pyetjeve për topografinë
 ata u përgjigjen me përpikëri dhe me zgjuarsi të madhe,
 ndërsa shpërblimi më i mirë për ta është leja që u jap të shohin
-me goniometrin tim. Nuk ka gjëra më të ndryshme nga njëra-
-tjetra sesa sjellja e shqiptarëve dhe sjellja e osmanëve, që janë
+me goniometrin tim. Nuk ka gjëra më të ndryshme nga njëra-tjetra
+ sesa sjellja e shqiptarëve dhe sjellja e osmanëve, që janë
 qeniet njerëzore më dembele e flegmatike, me përjashtim të
 rastit kur i lëviz nga vendi ndonjë nxitje e jashtëzakonshme" [^4]
 
@@ -200,7 +202,7 @@ Hobhauzit, mikut të Bajronit e që u quajt më pas
 lord Brauton, i kishte bërë shumë përshtypje ndjenja
 kombëtare si një tipar i shqiptarëve.
 
-> "Këtu ka, thotë ai, - një shpirt pavarësie dhe dashuri për
+> "Këtu ka, - thotë ai, - një shpirt pavarësie dhe dashuri për
 atdheun nga gjithë populli e kjo në një masë të madhe e
 mënjanon dallimin e thellë që vihet re në pjesët e tjera të
 Turqisë ndërmjet pasuesve të dy feve. Kështu, kur banorët
@@ -344,7 +346,7 @@ Dhe pikërisht kjo është çështja, sepse sa herë ka
 ndodhur që shqiptarëve t'u ketë munguar instinkti i
 kalorësisë, për të mos e prishur atë që është më i dobët,
 gjithmonë ka dalë se një shqyrtim i imët ka treguar që
-ata kanë qenë shqiptarë të përzier me slavë.
+ata kanë qenë shqiptarë të përzier me sllavë.
 
 ## II
 
@@ -507,7 +509,7 @@ komente sarkastike nga shkrimtarët shqiptarë me një
 ndjenjë humori. Disa vjet më vonë më rastisi që të takoja
 një funksionar të rëndësishëm dhe i sugjerova që të dy
 klasikët e mëdhenj të sjelljeve të mira, pra *"Letrat"* e Erlit
-të Çesterfildit dhe *"Oborrtaro"* i kontit *Baldassare Castiglione*
+të Çesterfildit dhe *"Oborrtari"* i kontit *Baldassare Castiglione*
 duhej të përktheheshin për përdorim në lëndën e etiketës
 në burg. Me sa duket, ai nuk e vuri re që unë po bëja
 shaka; më bëri disa pyetje për botimet më të mira të këtyre
@@ -593,6 +595,7 @@ rreckosur me një mirësjellje të zgjedhur i ftoi të rrinin:
 "Ne jemi të varfër, - u tha ai. - Bukë, kripë e zemër, kjo
 është gjithçka që mund t'ju ofrojmë, por ju jeni të
 mirëpritur dhe mund të qëndroni sa të doni." [^15]
+
 Një tipar tjetër i karakterit të shqiptarëve, që është
 vënë në dukje shpesh nga vëzhguesit, është _ndërshmëria
 e tyre e rreptë_. Standarti etik i shqiptarëve është _besa_, pra,
@@ -601,12 +604,14 @@ jep fjalën, ajo nuk mund të shkelet dhe nuk ka nevojë
 për asnjë lloj marrëveshjeje të shkruar. Si pasojë, kuptimi
 i fjalës _"i pabesë"_ është shkelja e fjalës së dhënë dhe pabesia,
 për të cilën tashmë kemi folur.
+
 Në një varg hartash tregtare shoqëruar me tekst, të
 botuara më 1886 nga ministria franceze e Tregtisë,
 fashikulli kushtuar Shqipërisë i njofton eksportuesit se
 nuk ka nevojë për marrëveshje të shkruara për shqiptarët,
 sepse fjala e tyre e thënë ka mjaft peshë dhe nuk njihet
 asnjë rast që ta kenë shkelur. [^16]
+
 Henri N. Breilsford, në librin e tij të njohur për
 Maqedoninë, ka këtë anekdotë:
 "Gjëja më kuptimplotë nga të gjitha ishte pyetja
@@ -708,7 +713,7 @@ t'u hidhnin sytë kalimtarëve si ju, e megjithatë gjithçka e
 tyre flet për mjerimin më të madh. Gjithashtu edhe mënyra
 me të cilën e mban zakonisht një shqiptar pushkën hedhur
 mbi zverk, me të dy krahët shtrirë në dy cepat e saj, i shton
-një ngjyrë shkujdesie pamjes së tij. [^18]
+një ngjyrë shkujdesie pamjes së tij." [^18]
 
 Ajo që ishte një gjëzë për Tozerin, është fare e qartë
 për çdo shqiptar. Krenaria ishte një gjendje e mendjes
@@ -755,37 +760,33 @@ për një pjesë të popullit amerikan. Tozeri shkruan:
 
 > "Që shqiptarët janë të zgjuar e me imagjinatë të zhvilluar,
 e tregojnë vjershat e përrallat e tyre e sidomos gjëzat e tyre,
-nga të cilat *Hahn-i* na ka lënë një përmbledhje të gjerë.
-
-Më poshtë po sjellim disa shembuj të përshtatshëm;
-përgjithësisht ato paraqiten në trajtën e gjërave të
-ngjashme dhe pasohen nga pyetja: "Ç'është?"
-
-Ara e bardhë, fara e zezë, e mbjell me dorë, e korr me
-gojë? - Letra e shkruar. (Është shumë interesante që kjo
-fjali e fundit ilustron mënyrën se si njerëzit gjysmë të
-arsimuar e përfytyrojnë një dorëshkrim!)
-
-> I ati me roba jeshile, i biri me rroba të kuqe? - Karafili
-i çelur. <br>
-> Lopa e bardhë milet e majmuni hidhet? - Boshti me
-furkën. <br>
-> Ka s'është, brirë ka; gomar s'është, samar ka; ngado shkon,
-lëshon gjurmë? - Kërmilli. <br>
-> Lesh përbrenda; mish përjashta? - Qiri prej dhjami". [^19] <br>
+> nga të cilat *Hahn-i* na ka lënë një përmbledhje të gjerë.
+>
+> Më poshtë po sjellim disa shembuj të përshtatshëm;
+> përgjithësisht ato paraqiten në trajtën e gjërave të
+> ngjashme dhe pasohen nga pyetja: "Ç'është?"
+>
+> Ara e bardhë, fara e zezë, e mbjell me dorë, e korr me
+> gojë? - Letra e shkruar. (Është shumë interesante që kjo
+> fjali e fundit ilustron mënyrën se si njerëzit gjysmë të
+> arsimuar e përfytyrojnë një dorëshkrim!)
+>
+> I ati me rroba jeshile, i biri me rroba të kuqe? - Karafili i çelur.<br/>
+> Lopa e bardhë milet e majmuni hidhet? - Boshti me furkën.<br/>
+> Ka s'është, brirë ka; gomar s'është, samar ka; ngado shkon, lëshon gjurmë? - Kërmilli.<br/>
+> Lesh përbrenda; mish përjashta? - Qiri prej dhjami." [^19]
 
 _"Bleta Shqiptare"_ e Mitkos ka gjithashtu një
 përmbledhje gjëzash, nga të cilat po japim disa që mund
 t'i pëlqejnë lexuesit:
 
 
-> "Dy vëllezër mbajnë zjarr në dorë e s'digjen. - Masha. <br>
-> Helli prej mishi, mishi prej hekuri. - Unaza. <br>
-> Gjithë ç'flitet përmbi dhe, në një vrimë futet. - Veshi. <br>
-> I ati pa zjarr, i biri mori sefere. - Tymi dhe zjarri. <br>
-> Dy vëllezër janë pranë e një brez i ndan në mes. - Sytë
-dhe hunda. <br>
-> Në ç'të ecësh, gjithë të shkon, heq shtëpinë me vete. - Breshka". <br>
+> "Dy vëllezër mbajnë zjarr në dorë e s'digjen. - Masha.<br/>
+> Helli prej mishi, mishi prej hekuri. - Unaza.<br/>
+> Gjithë ç'flitet përmbi dhe, në një vrimë futet. - Veshi.<br/>
+> I ati pa zjarr, i biri mori sefere. - Tymi dhe zjarri.<br/>
+> Dy vëllezër janë pranë e një brez i ndan në mes. - Sytë dhe hunda.<br/>
+> Në ç'të ecësh, gjithë të shkon, heq shtëpinë me vete. - Breshka."
 
 
 Dy mjete të tjera popullore të shprehjes midis
@@ -837,13 +838,13 @@ Lëvizjet dhe figurat e këtij ushtrimi shërbenin për të
 paraqitur gjallërinë e habitshme dhe forcën muskulore të
 këtyre malësorëve të ashpër, të cilët, të kapur fort dorë për
 dore, lëvizën për njëfarë kohe ngadalë para e prapa, pastaj
-vrapuam rrotull me një lëvizje të shpejtë rrethore në
+vrapuan rrotull me një lëvizje të shpejtë rrethore në
 përputhje me nxitjet e muzikës dhe të zërave të tyre deri
 në kupë të qiellit; ndërkaq udhëheqësi ose korifeu, që
 ndërrohej shpesh, bënte kërcime të habitshme, duke u
 përkulur përpara, aq sa balli gati i prekte tokën dhe pastaj
-hidhej në ajër me hovin e telit të një barku, ndërsa flokët
-e tij të gjatë i valëviteshin në një peshtjellim të egër
+hidhej në ajër me hovin e telit të një harku, ndërsa flokët
+e tij të gjatë i valëviteshin në një pështjellim të egër
 përmbi supe." [^21]
 
 Hjuzi nuk e ka vënë re që një pjesë e valles luhej mbi
@@ -1014,11 +1015,11 @@ rritën si mysliman dhe për arsye të talentit u ngjit në postin
 më të lartë. Ndërkaq, në kontrast me të, tre vëllezërit e
 tij që mbetën në Vlorë me nënën, që të tre u bënë murgër
 dhe kaluan një jetë të ashpër si të krishterë, duke mbajtur
-kreshmë e duke u lutur." [^23]
+kreshmë e duke u lutur. [^23]
 
 Në përmbledhjen e paçmueshme të folklorit _"Bleta shqiptare"_
 vështirë të gjesh ndonjë gjurmë sensualizmi.
-Shohim një nuse të re që gan te kroi duke larë fustanellën
+Shohim një nuse të re që lan te kroi duke larë fustanellën
 e të shoqit, i cili së shpejti do të niset për një rrugë të gjatë
 ose një burrë që do të niset për luftë e i thërret nuses së vet:
 
@@ -1031,10 +1032,10 @@ vargun e fundit të këngës së mëposhtme, që anglisht e
 kam dhënë të përkthyer me metrin origjinal, duke
 ndryshuar vetëm një fjalë për shkak të rimës:
 
-> Dale, të të puth një herë, <br>
-> pa merr një gur e më bjerë. <br>
-> Të të puth e të të dua, <br>
-> të të shtrydh porsi limua. <br>
+> Dale, të të puth një herë,\
+> pa merr një gur e më bjerë.\
+> Të të puth e të të dua,\
+> të të shtrydh porsi limua.
 
 
 Në disa vise të Shqipërisë ka një paragjykim të shënuar
@@ -1083,11 +1084,11 @@ Shqiptarëve u pëlqen më shumë mishi i qengjit sesa i
 lopës ose ndonjë tjetër. Vendi është shumë malor dhe e
 gjithë toka arë përdoret për të rritur drithë, që e hanë
 njerëzit, prandaj rritja e bagëtisë së trashë është mjaft e
-kufizuar. Dhentë e dhitë që janë me shumicë në Shqipën,
+kufizuar. Dhentë e dhitë që janë me shumicë në Shqipëri,
 kullosin në viset malore me toka jopjellore, ku drithi
 nuk rritet nga vetë natyra e truallit. Shqiptarët përdorin
 në sasi të kufizuar mish kafshësh të egra, si derri, lepuri,
-dhie të egër ose pellumbi, mëllënje dhe gjeli të egër.
+dhie të egër ose pëllumbi, mëllënje dhe gjeli të egër.
 Praktikisht çdo shtëpi mban disa pula për vezë e për
 mish. Përdorin mjaft peshk, sidomos të krishterët. Nga
 më të pëlqyerit janë troftat, ngjalat, putargat, belushkat
@@ -1155,26 +1156,26 @@ bukës ose pas gjellëve.
 
 
 
-[^1]: Nikephoros Gregoras, Bonn. Vëll. I, f. 116. Gregorasi i pérmend shgiptarêt perpara gjithe tê tjerève, nje gjë ge eshtê mjaft e pazakonshme për nje autor bizantin. Në librat bizantine pergithesisht shgiptarët permenden tê fundit né sfarêdo liste. Prandaj nuk eshte e paarsyeshme te hamendësojme qe Gregorasi kishte nder mend té fliste vetém per shgiptarët dhe vetèm i erdhi si njé mendim i mépastajmé i pasinqerté qe te shtonte edhe emra te tjeré ose emrat e tjeré i ka shtuar ndonjé shkrues, kur ka kopjuar doreshkrimin e Gregorasit.
-[^2]: Ibrahim Petchevi, History, la Stambol, 1283 i Hixhres, vilt.I,
-[^3]: W. M, Leake, Travels in Northern Greece, Londër, 1835, vëll. I, f. 43. Pjesa e cituar i perket vitit 1804.
-[^4]: Leake, vep, e cituar, vëll. II, f. 522.
-[^5]: J. C. Hobhouse, A Jorney through Albania, Londër, 1813, f. 147-148.
+[^1]: Nikephoros Gregoras, Bonn. Vëll. I, f. 116. Gregorasi i përmend shqiptarët përpara gjithë të tjerëve, një gjë që është mjaft e pazakonshme për një autor bizantin. Në librat bizantinë përgjithësisht shqiptarët përmenden të fundit në çfarëdo liste. Prandaj nuk është e paarsyeshme të hamendësojmë që Gregorasi kishte ndër mend të fliste vetëm për shqiptarët dhe vetëm i erdhi si një mendim i mëpastajmë i pasinqertë që të shtonte edhe emra të tjerë ose emrat e tjerë i ka shtuar ndonjë shkrues, kur ka kopjuar dorëshkrimin e Gregorasit.
+[^2]: Ibrahim Petchevi, History, Stambol, 1283 i Hixhrës, vëll. I, […]
+[^3]: W. M. Leake, Travels in Northern Greece, Londër, 1835, vëll. I, f. 43. Pjesa e cituar i përket vitit 1804.
+[^4]: Leake, vep. e cituar, vëll. II, f. 522.
+[^5]: J. C. Hobhouse, A Journey through Albania, Londër, 1813, f. 147-148.
 [^6]: Jurien de la Gravière, La station du Levant, Paris, 1876, vëll. II, f. 89.
 [^7]: Hobhouse, vep. e cituar, f. 144.
 [^8]: Hobhouse, vep. e cituar, f. 143.
-[^9]: Lord Byron: Shenime për Childe Harold, Oxford University Press, Londër, 1935, f. 860,
-[^10]: T.S. Hughes, Travels in Greece and Albania, bot. 2, Londer, 1830, vëll.II, f. 108.
-[^11]: George Finlay, History of Greece, H. F. Tozer bot., Oksford, 1877, vell, VI, f.31.
-[^12]: Edwin Pears, Turkey and its People, bot, 2, Londër, 1912, f. 167.
+[^9]: Lord Byron: Shënime për Childe Harold, Oxford University Press, Londër, 1935, f. 860.
+[^10]: T.S. Hughes, Travels in Greece and Albania, bot. 2, Londër, 1830, vëll. II, f. 108.
+[^11]: George Finlay, History of Greece, H. F. Tozer bot., Oksford, 1877, vëll. VI, f. 31.
+[^12]: Edwin Pears, Turkey and its People, bot. 2, Londër, 1912, f. 167.
 [^13]: Herbert Louis, Albanien, Shtutgart, 1927, f.36.
 [^14]: H. F. Tozer, Researches in the Highlands of Turkey, Londër, 1869, vëll. I, f. 368.
 [^15]: M. Edith Durham, High Albania, Londër, 1909, f. 56.
 [^16]: F. Bianconi, Carte Commerciale des Provinces d'Albanie et d'Epire, Paris, 1886.
 [^17]: H. N. Brailsford, Macedonia, Londër, 1906, f. 226.
-[^18]: Tozer, vep, e cituar, vëll. I, f. 207.
+[^18]: Tozer, vep. e cituar, vëll. I, f. 207.
 [^19]: Tozer, vep.e cituar, f. 211.
-[^20]: Lady Mary, Wortley Montagu, Letters and Works, bot. Lord Warn-cliffe, Londër, 1861, vëll. I, f. 291.
-[^21]: T, S. Hughes, vep.e cituar, vëll. II, f. 29.
+[^20]: Lady Mary Wortley Montagu, Letters and Works, bot. Lord Wharncliffe, Londër, 1861, vëll. I, f. 291.
+[^21]: T. S. Hughes, vep.e cituar, vëll. II, f. 29.
 [^22]:  M. E. Durham, Some Tribal Origins, Laws and Customs of the Balkans, Londër, 1928, f.196.
-[^23]: Joseph von Hammer, Geschichte des Osmanischen Reiches, vell, III, Pest, 1828, f. 211.
+[^23]: Joseph von Hammer, Geschichte des Osmanischen Reiches, vëll. III, Pest, 1828, f. 211.

@@ -7,8 +7,8 @@ grandparent: null
 order: 55
 ---
 > Nessun maggior dolore, che ricordasi del tempo felice nella miserìa
-> 
-> Dante
+>
+> — Dante
 
 Ah, ku jan ato defrime,
 Q'i kam ndi m'aq knaqësië?
@@ -28,4 +28,4 @@ M'a largote çdo idhnim?
 Sot, ku jan të buk'rat ândra
 Qi më ndezshin plot dashtnië?
 Sot u kthyne t'gjitha n'shgjândra,
-Mu n'dyshime tuj më shtî.
+Mu n'dyshime tuj më shtî —

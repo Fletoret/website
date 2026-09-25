@@ -58,7 +58,7 @@ Pas aq përmbytjesh që më bën' të shkretë,
 Po sa të pashë ty paqa m'u pre
 Dhe si n'ethe të forta gjaku u nxeh.
 Ti rri e qetë, o vashë, un' në mjerime,
-Ti rri në gaz dhe un’ psherëtime,
+Ti rri në gaz dhe un’ [në] psherëtime,
 E po qé se vërtet mirë më do,
 O moj e bardha flutur, mos harro.
 

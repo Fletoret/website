@@ -4,11 +4,11 @@ author: Sami Frashëri
 respectLineBreaks: false
 parent: Ç'do të bëhetë Shqipëria?
 grandparent: Shqipëria
-order: 1
+order: 21
 ---
 
 Shqipëria është një cop' e Tyrqisë s'Evropësë.
-Qëndrimi' i saj si është sot është lidhurë me rojtjet të
+Qëndrim' i saj si është sot është lidhurë me rojtjet të
 Tyrqisë n'Evropë; Tyrqia a do të ronjë edhe shumë kohë
 n'Evropë? Kësaj pyetjeje njeri s'i përgjigjetë dot a përgjegj'
 e kësaj është jo. Tyrqia rojti shumë n'Evropë; pas kuvëndit
@@ -17,9 +17,9 @@ do-me-thënë rojti shumë. Kjo mbretëri s'ka bërë dhe s'bën
 gjë fare që të xgjatnjë rojtjen' e saj. Si një i sëmurë, që
 s'bën ç'i thonë shëronjësitë e i vë krusmënë trupit të ti,
 ashtu edhe kjo mbretëri po bën gjithë ç'duhetë për të
-shkurtuarë ditët' e saj. Nuk' e dimë edhe sa kohë munit të
+shkurtuarë ditët' e saj. Nuk' e dimë edhe sa kohë munt të
 ronjë n'Asi edhe është jashtë qëllimit tënë të flasimë për
-atë; po n'Europë jetën' e ka fort të shkurtërë. Shqipëria
+atë; po n'Evropë jetën' e ka fort të shkurtërë. Shqipëria
 s'ka bërë themel as ka lëshuarë rënjë më vetëhe; ron mi
 themelt të gremizurë të Tyrqisë e me rënjët të kalbura
 t'asaj. Me të rënët të kësaj stihije së madhe, do të bjer'
@@ -33,7 +33,7 @@ Tyrqisë. Këta kombe ngjajnë m'ato barëra, q'ushqehenë e
 shëndoshenë nënë dëborët të dimërit edhe, kur hiqetë kjo
 barr' e ftoht' e e rëndë nga faq' e dheut, ato zën' e lulëzojnë
 e xbukurohenë në çast. Po Shqipëtarëtë, që kaqë qint vjet
-etëhu janë varurë më Tyrqit, sado q'e shohënë që kjo stihi
+e tëhu janë varurë më Tyrqit, sado q'e shohënë që kjo stihi
 e madhe, q'e thonë Tyrqi, ësht' e shëmburë e ditë me ditë
 po i bjenë strehëtë, prapë s'heqinë dorë nga të psheturit
 nënë të. Kjo dëbor' e kaqë qintsh vjet, që ka ushqyerë nënë
@@ -69,7 +69,7 @@ dett edhe s'dinë not; po këta të mallëkuarë nukë len' atë
 që di not, t'i zërë nga duhetë e t'i nxjerë jashtë ujit, po i
 zën' ati të dy këmbëtë a një këmb' e një dor' edhe s'e lenë
 të bënjë not. Kështu edhe vet komb' i tyre po mbytetë edhe
-kombinë shqipëtar po e heq me vetëhe mu në funt itë detit
+kombinë shqipëtar po e heq me vetëhe mu në funt të detit
 e po e mbyt. Shqipëtari, që po e sheh këtë rezik me sy, pse
 e le vetëhenë në duart të këti të ligu e të pamëndi, që
 s'munt të shpëtonjë vetëhenë edhe as le ta shpëtojnë, po
@@ -92,12 +92,12 @@ kundërmon botënë.
 P'andaj themi prapë që Shqipëria, si ka rojturë gjer
 më sot, paskëtaj s'ron as pakë. Le që Tyrqia ësht' e
 vdekurë edhe s'munt të ronjë me të; po edhe sikur të
-ngjallësh kjo mbretëri e të ronte edhe ca koha, Shqipëria
+ngjallësh kjo mbretëri e të ronte edhe ca kohë, Shqipëria
 prapë do të mos muntte të ronte, se ngjallj' e Tyrqisë është
 vdekj' e Shqipërisë. Pamë më siprë qysh Tyrqitë u lidhinë
 duart' e këmbëtë Shqipëtarëvet edhe i mbajnë t'i hanë e t'i
 përçajnë të tjerëtë (grekët, shqehtë etj). Shqipëria gjer më
-sot e ka mbajture kombërin' e gjuhën' e saj, po paskëtaj s'e
+sot e ka mbajturë kombërin' e gjuhën' e saj, po paskëtaj s'e
 mban dot, po s'bëri edhe ajo shkolla e të vejë mbarë në
 diturit; po qeveri' e Tyrkut Shqipëtarë s'e le të hapnjë
 shkolla e të shpjerë përpara gjuhën' e ti, kur të tjerëtë,

@@ -43,7 +43,7 @@ Dhe lotët lumë më rrjedhin nëpër faqe.
 
 Gjuhën me miqtë e kam si një kumborë
 Rrallë jam idhnak, më shumë kam butësi
-Megjithëse deshëroj beteja shumë.
+Megjithëse dëshiroj beteja shumë.
 
 Të gjithë i fal. Të lëshuar kam dorë
 Sidoqë s'kam e s'jam në varfëri.

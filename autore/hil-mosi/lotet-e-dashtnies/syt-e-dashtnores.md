@@ -12,10 +12,10 @@ O inxhi t'dashtniës s'perjetshme!
 Sy, o sy aq fort t'nderushem,
 Ju, o hyj t'dashnores s'ême,
 M'lêni q'un me kângt e mia
-Bukuriën un ju t'j'a u - kndoj!
+Bukuriën un ju t'j'a u-kndoj!
 
 T'gjith ça jet të ket n'ket shekull
-E mban shêjin e gjallimit—
+E mban shêjin e gjallimit —
 Syt e bukur plot diftime,
 Jo veç njeri edhe toka,
 Por edhe dita edhe nâta
@@ -23,7 +23,7 @@ Me prêndveren syt i kan.
 
 Thell në tok tek rrin të mshehun
 Xhevahiret aq t'kushtushem
-Si do sy me t'madhe vjeftje—
+Si do sy me t'madhe vjeftje —
 Drandofilet ka prêndvera
 Sikur sŷ, kshtu dita diellin....
 N'vênt qi nâta sy ka hyjt.

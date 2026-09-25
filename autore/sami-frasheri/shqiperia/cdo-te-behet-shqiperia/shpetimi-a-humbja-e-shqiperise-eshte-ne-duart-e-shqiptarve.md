@@ -4,7 +4,7 @@ author: Sami Frashëri
 respectLineBreaks: false
 parent: Ç'do të bëhetë Shqipëria?
 grandparent: Shqipëria
-order: 3
+order: 23
 ---
 
 Shqipëria sot ndodhetë në majët të një rripe fort të
@@ -31,7 +31,7 @@ farë diturije; janë trima e ushtarë të çquarë.
 Mëmëdheu yn' i dashuri nukë ron dot edhe shumë
 kohë kështu si është sot; a do të humbasë për jetë e nukë
 do të mbesë as Shqipëtar as Shqipëri, a do të shpëtonjë e
-të ndërtohetëi me një mëndyrë që të mos ketë shëmbëllë
+të ndërtohetë me një mëndyrë që të mos ketë shëmbëllë
 në jetët e t'i kenë zili gjithë kombet' e dheut. Të shpëtuarët
 a të humburit' e Shqipërisë është në dorët të
 Shqipëtarëvet; në daçinë, do të shpëtojnë, në daçinë do të
@@ -40,13 +40,13 @@ humbasinë.
 Shqipëtarëtë s'kanë nevojë të zirenë nga armëtë, të
 hiqenë nëpër maletë e nëpër shpellat, e të vriten' e të
 prishenë si bëjnë kombet' e tjerë për të fituarë dlirin' e
-tyre. Shqipëtarëtë s'jan' aqë të shkelur' e të posh'tuarë, sa
-të shtrëngohenë në itë këtillë mundime. S'kanë nevojë' të
-bëjnë gjë përveç se të lidhinë fjalë ne mest të tyre, të
+tyre. Shqipëtarëtë s'jan' aqë të shkelur' e të poshtuarë, sa
+të shtrëngohenë në të këtillë mundime. S'kanë nevojë të
+bëjnë gjë përveç se të lidhinë fjalë në mest të tyre, të
 bashkohenë gjithë sa janë, t'apën e të marrënë besë
 burrërisht, të qëndrojnë në fjalët: të patundurë edhe të
 kërkojnë të drejtën' e tyre nga Tyrqia e nga Evropa. Tyrqia
 do t'i dëgjonjë e do t'u apë ato që kërkojnë me hir a me
 pahir edhe Evropa do t'u ndihnjë, si u ka ndihurë edhe
-kombevet të tjerë; edhe do ta shtrëngonjë Tyrqinë t'u ap
+kombevet të tjerë; edhe do ta shtrëngonjë Tyrqinë t'u apë
 edhe këtyre të drejtën e tyre.

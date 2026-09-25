@@ -44,12 +44,41 @@ often says "none" (`leçit-`, `vath-`, `plandos-`).
   (dramatis personae) is printed before its title page, so a page split can
   hang it on the end of the previous piece.
 
+- **When the markdown was built from `pages/*.json`, diff the two first.** In
+  *Lotët e dashtniës* the diff showed every post-processing fault at once:
+  dropped closing dashes, shortened ellipses, invented subtitles, a lost preface.
+- **Check each chapter's first page against the scan.** The pipeline splits
+  chapters at the page, not at the printed heading, so when a heading falls
+  mid-page the end of one chapter is filed at the start of the next (twice in
+  Grameno's *Kryengritja*).
+- **Diff the chapters against each other.** A whole poem can be filed twice
+  under two titles (Mjeda's *Juvenilja*: `liria.md` was `dimri.md`).
+- **Watch for a change of subject mid-sentence.** It can be a silent gap where
+  one chapter runs into another's text (Sami's *Shqipëria*, *Besa e lidhja*).
+- **Match every footnote definition to its file.** `grep -n '^\[\^' ` across the
+  book: definitions can drift to the end of the last file, far from their
+  markers, and the build still passes.
+- **Editor's notes (`shenimet.md`):** list the note numbers the text never
+  references. Some references had been turned into `[^n]` footnotes repeating
+  the note text; others were damaged (`(208.)`). The notes' own
+  cross-references ("shiko shën. Nr. 3") settle their order.
+- **Headings inside a chapter sit below its title**: `####` and lower in a book
+  with parts, since the chapter title is an h3.
 - Check the dump is in the right file. Running headers (odd pages carry the piece's
   title) and the book's `order` field tell you. Fix filing before text.
 - Check whether the file is half-clean already. Quality alternates page by page.
 - Check `respectLineBreaks` against the text. Prose saved one paragraph per line
   with `respectLineBreaks: true` gets the EPUB's verse styling. Put a blank line
   between the paragraphs and set it to `false`. Two of Migjeni's sketches needed this.
+- **Read the whole book before applying fixes.** A form that looks wrong on first
+  sight (`anëmik`, `shqahisht`) often recurs in later files, which makes it the
+  print's.
+- **A witness transcription helps.** Wikisource holds independent transcriptions
+  of some chapters (the *Kanuni*'s Books 1 and 7). Test a "systematic" swap
+  against it before sweeping: that print really spells `giobë`, `zgiedhë`.
+- A corpus hapax list (words found once in the book and nowhere else in
+  `autore/`) catches typos a read-through misses. Outside Gheg it mostly
+  lists vocabulary, so use it as a pointer, not evidence.
 - Once you find a systematic misread in one file, sweep the whole book for it.
   In Migjeni's *Novelat* that was `g` for `gj`/`q`/`ç` (`githe`, `shogja`, `gendron`)
   and a dropped `p` in `shpirt` (`shirti`). When several readers split a book,
@@ -64,6 +93,10 @@ often says "none" (`leçit-`, `vath-`, `plandos-`).
 | Nasal `â` misreads | `à ä á` → `â` **only if** the word takes it (`dà` → `dá`, `qà` → `qá`) |
 | `ç` misreads | `? 9 g Q ( £ s` → `ç` (`9'do` → `ç'do`, `gudi` → `çudi`, `sàshtjen` → `çâshtjen`) |
 | `ŷ î û` misreads | `$ ^ £ ÿ` → `ŷ`/`î`; `0 O ü ù` → `û`. Use `ŷ`, never `ÿ`. |
+| `yy` read as `yp`/`ŷ` | where the typeface gives `y` a descender (Gjeçovi 1910): `shtŷn`/`shtypn` → `shtyyn`, `sypt` → `syyt`. Whitelist real `lyp-`, `Shqyp-`, `hyp-`, `shtyp-`. |
+| `w` read as `ë` | in foreign names in web-sourced texts: `Neës` → `News`, `Ëien` → `Wien` |
+| Modern-text OCR | `ta`/`taa`/`tae` for `b` (`taërë` → `bërë`), `P` for `F` (`Pjala`), in a standard-Albanian translation (Sami's *Proverba*) |
+| Print damage kept by scan transcription | turned `n`/`u` (`nukn`, `uga`), a gap for missing type (`k tu` → `këtu`), worn comma read as a full stop before a lowercase word, spaced proclitics (`t' onë` → `t'onë`), blank lines at page turns |
 | Letter swaps | `I 1` → `l`; `rn tn in` → `m`; `AA` → `M`; `11` → `u`/`na`; `f` → `t`; `h` read as `f` (`befi` → `behi`) |
 | `qe`/`që` swapped | Both directions: "Që një çupë" → *Qe* (was); "Ajo qe e quajmë" → *që* (that) |
 | Split/merged words | across spaces as well as within words (`g otérak í` → `gotë rakí`; `lanë shtëpi` → `la në shtëpi`) |
@@ -86,6 +119,17 @@ often says "none" (`leçit-`, `vath-`, `plandos-`).
   `Protagoras - Dhalla` → `Protagoras Dhalla`).
 - **A word hyphenated at a line end** (`Abd-\nel-Katl`) renders with a space. Join
   the lines and keep the hyphen if it belongs to the word.
+- **Numbered points (`1. — …`, `1) …`) become an indented ordered list.** Where
+  the print sets them as paragraphs, escape the marker: `1\. — …`.
+- **Follow the print's layout, not just its words.** A law code's centred § titles
+  and the maxims under them take `{.section-heading}` and `{.maxims}` (styled on
+  the site and in the EPUB); see the *Kanuni*.
+- **Look for the book elsewhere before marking a gap.** Every digital copy of the
+  *Kanuni* lacked §§88–98; the BKSH scan of the 1933 print had them. Ask the
+  maintainer for a BKSH link.
+- **Joined verse lines.** A double space inside an overlong verse line usually
+  marks two lines run together; split at the rhyme. Count the rhyme scheme
+  before trusting stanza breaks.
 - **Speakers merged into one paragraph** because a blank line is missing. Separate
   them.
 - **Unbalanced quotes are often correct.** Old dialogue resumes after

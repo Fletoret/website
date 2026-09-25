@@ -7,8 +7,8 @@ grandparent: null
 order: 66
 ---
 > Malheureux est celui qui vainement espère amour pour l'amour, plus malheureux celui dont le coeur est vide de tout sentiment; mais celui-la, je le sens, est le plus malheureux des hommes, qui n'aime plus et ne peut oublier son amour.........
-> 
-> Mickiewiez.
+>
+> — Mickiewiez.
 
 Nuk ka asgjâ mâ t'vshtir n'ket dhe,
 Se kur ty humbun t'ka dashtnia!
@@ -27,5 +27,5 @@ Kur n'mênt e ke, e mâ s'e dó.
 
 Nuk ka n'ket dhe mâ t'madhe zi,
 Se kur ç'do shpres prej zêmret t'treti,
-Kujtim'i saj i gjall të mbeti...
-Dishron t'a dush, e s'ke dashtnië.
+Kujtim'i saj i gjall të mbeti....
+Dishron t'a dush, e s'ke dashtnië —

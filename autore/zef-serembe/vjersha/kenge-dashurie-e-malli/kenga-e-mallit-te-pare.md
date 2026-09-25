@@ -21,11 +21,11 @@ kisha helm, jo lumturi:
 E një vashëzë kërkonja
 po hirplote, siç e donja.
 
-* * *
+***
 
 Mesha e madhe, ja po bije
 e nga kisha mënt i shtije;
-Dola: vashëzat po vinin.
+Dola: vashëzat po vinin,
 qetë e lehtë në kishë hynin.
 
 Asnjë vash’ s’m’u duk e mirë
@@ -43,8 +43,7 @@ që nuk shihnin as njeri,
 Si një fluturëz e lehtë
 vej në kishë e zhdukej vetë.
 
-* * *
-
+***
 
 Kur e vrejta, kur e pashë,
 “Sa e bukur!” sakaq thashë.
@@ -66,7 +65,7 @@ zemrën një shigjet’ ma shpon.
 E kur vjershën ajo shtije
 duket se më vjen të bije!
 
-* * *
+***
 
 E kur gjumi pra më zë
 unë në paqe s’mund të flë:
@@ -90,7 +89,7 @@ mallin tim a e kuptove?
 
 Kushedi tek ti a foli
 malli e zemrën a ta ndolli?
-Me gjith’ zemrër un’ të dua,
+Me gjith’ zemër un’ të dua,
 se fort më pëlqeve mua.
 
 Ti me mua, vashëz, eja,

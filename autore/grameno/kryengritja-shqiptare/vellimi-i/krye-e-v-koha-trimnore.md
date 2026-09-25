@@ -44,7 +44,7 @@ hasur me neve vepëronte reth Gjinokastrës edhe Delvinës.
 
 Si ndejmë 6 dit, në Gjinokastrë, shkuam në Mashkullor, në shtëpi të
 Zemanit edhe të tjerëve, ku na pritnë fort mirë, pastaj dyke shkuar
-nga Monastir' i Cepos, vamë në Kardhiq. Kardhiqot t, të cilët kishin
+nga Monastir' i Cepos, vamë në Kardhiq. Kardhiqotët, të cilët kishin
 ndjenja kombëtare, na pritnë me gëzim të math edhe na gostitnë fort
 mirë. Në Kardhiq na u shoqëruan edhe dy djem të rinj, 20-21 vjeç,
 Suloja nga Kardhiqi edhe Pirua nga Zhulati, i cili ishte millona
@@ -65,7 +65,7 @@ të Refik Budos.
 Stanet ishin në për fushë kësisoj që na prisnin që të gjithë me
 dashuri të madhe. Alim Karagjozi, një nga të pasurit e Gjinokastrës
 edhe prej një fisi me Topullenjtë, na priti me gëzim të math, në stan
-të tij, edhe dha urdhër barinjvet që stani çshtë yni kurdoherë!
+të tij, edhe dha urdhër barinjvet që stani është yni kurdoherë!
 Mjerisht, në këto kohëra, shirat ishin të pareshtura edhe dëme të
 mëdha u-bënin barinjvet, me qënë që për dita u ngorthnin shqerat e
 vogëla.
@@ -100,7 +100,7 @@ ngrëna, të mëngjezit, me qënë që ishim tepër të urtuar pas një
 udhëtimi të gjithë natës.
 
 Pas pakë kohe çfaqet edhe Igumeni, i cili nuku mungonte po ishte
-fshehur, nga trika, se mos ishim njerës të liq, po me të mësuar, nga
+fshehur, nga frika, se mos ishim njerës të liq, po me të mësuar, nga
 kallugreja, që ishim njerës të mirë ardhi në dhomë edhe na urojti
 mirardhje. Ndënji në krye, siç e nderonim, edhe nga bisedimet që bëmë
 kupëtojti qëllimin dhe programin tonë prandaj tepër i kënaqur me vrap
@@ -242,7 +242,7 @@ edhe 2,000 ushtarë nuku kishin se çbënin, arrinte vetëm të kishim
 fishekë edhe të ngrënë! Këtu u sëmura unë fort rëndë po, lavdi Zotit,
 Asllani me Zemanin u përkujdesnë si nëna për fëmijën e saj. I gjori
 Abdyl Mersini, në mest të rezikut, u rëzua në Kardhiq që të më sjellë
-mua fasule të thata se në ishte shtënë, edhe për çudi të madhe, me të
+mua fasule të thata se më ishte shtënë, edhe për çudi të madhe, me të
 ngrënit të fasulevet u shërova!
 
 Këtu ndejmë 3 dit ku shiu binte i parreshturë, po duheshe të shkonim
@@ -251,7 +251,7 @@ në për miqtë gjithë së bashku, edhe më tjatër anë pandehnim për më
 mirë. Lithmë fjalen midis tonë që me të çelur gjethi edhe me të
 u-ngjitur stanet, në për malet, të bashkoheshim në Çajyp edhe të
 vendosnim për të vepëruar ndryshe. Pa si u lajmëruam që ushtëria, e
-cila kishte dalë kundra nesh, pas shumë kërki eve u kthye ne
+cila kishte dalë kundra nesh, pas shumë kërkimeve u kthye ne
 Gjinokastrë u puthmë edhe tepër të mallëngjyer muarm lamtumirë njëri
 nga tjatri. Çerçizi mbeti vet'i shtatë edhe Abdyli vet' i katërtë,
 shtrënguam pra edhe nga një herë duart edhe u përndamë dyke lutur

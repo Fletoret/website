@@ -19,6 +19,7 @@
       <h3 class="title">{book.name}</h3>
       <div class="desc">
         {book.abstract} Botuar në {book.datePublished}.
+        {#if book.compilerName}Mbledhur dhe kodifikuar nga {book.compilerName}.{/if}
       </div>
     </div>
     <div class="thumbnail">

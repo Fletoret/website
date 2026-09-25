@@ -7,13 +7,13 @@ grandparent: null
 order: 3
 ---
 
-# Trina
+#### Trina
 
-## I
+##### I
 
 Molla t'kputuna nji deget,
 Dý qershija lidhë n'nji rrfanë,
-Kû fillojnë kufit e Geget
+Kû fillojnë kufît e Geget,
 Rrijnë dý çika me nji nanë.
 
 Krekcë e bré perzie me lisa
@@ -21,20 +21,20 @@ Rriten rrotull me çetinë,
 Plepa t'but' e qeparisa
 Mbëlojnë e veshin at ledinë.
 
-S'ushton mali prej baktijet,
+S'ushton mali prei baktijet,
 S'fryn murrlani me duhí;
 Paq i kthílltë prei Perendijet,
 Paq prei nierit e qetí.
 
 Gurra e lugut veç ushtote
 Si lahutë me kângë kreshnike;
-E ndër pêmë bylbyli këndote
+E nder pêmë bylbyli këndote
 Valle darsmet e fisnike.
 
 Ngreh, bylbyl, n'at hije valle,
 Ushtò, gurrë trimneshë, n'shkâmbije;
 Búlk i nates, kungallë, qi talle
-Nëpër gêmba e për lamije,
+Neper gêmba e per lamije,
 
 Këndoni këndoni! Veç prei stanit,
 T'ardhmen Trina mbrámje n'shpí,
@@ -46,7 +46,7 @@ Me njat zâ qi s'ndrron kurr-herë,
 Ká m'u gjegjë se â tui ndërrue moti,
 Se â tui çue nji tjetrë érë.
 
-## II
+##### II
 
 U ndie nji zâ te shtegu:
 Cicé! del se erdh murgjina,
@@ -74,7 +74,7 @@ Sá çote tamblin anë
 Zoga me xé do pak.
 
 Muer edhè krânde e cokla,
-E Trinken muer për brí:
+E Trinken muer per brí:
 Ish lodh: i dhimte nd' ijë,
 E kishte mollzat gjak.
 
@@ -84,11 +84,11 @@ Thej pshesh me tambel valë,
 E mbushi kupet plot.
 
 Pshesha me kollomoqe,
-T'mirë edhè për zotni,
-Kúr don për rob e shpi
+T'mirë edhè per zotní,
+Kúr don per rob e shpí
 Me i fal' i madhi Zot.
 
-E hangri Zoga shieshëm,
+E hangri Zoga shieshem,
 Por Trina s'hangri gjâ,
 As lokja, qi ishte vrâ
 Mbas çikës, nuk hangri dot.
@@ -104,11 +104,11 @@ U çue, e t'dy, si kîja,
 Mbî t'shtruemen i vêndoj.
 
 E tírte prep te votra;
-Pêj tírte për xhubleta;
+Pêj tírte per xhubleta;
 E i dukej se tu këneta,
-Se n'shpella me drangoj,
+Se n'shpélla me drangoj,
 
-Tírshin dhè shtojzovallet
+Tírshin dhè shtojzavallet
 Tui luejtë pá-mêjun gishtat;
 Siellshin me pleq ferishtat,
 Ndoshta edhè fëmijn'e vet?
@@ -119,14 +119,14 @@ Ngrykas, si dy qellorë
 Me krahë pá pupla, i gjet.
 
 
-## III
+##### III
 
 Cicé, shkâ ka sot Trinka
 Qi po priton m'u çue?
 Zgjoje me dalë me mue,
 Me lëshue baktín e vet.
 
--- Bij', mos e prek, se njomja
+— Bij', mos e prek, se njomja
 Tash â tui folë me Zojen;
 Lên zân e mos çil gojen
 Se e lumja Zojë t'bertet.
@@ -134,19 +134,19 @@ Se e lumja Zojë t'bertet.
 Qe prifti, nanë, qe dajat
 Mbas tij me qíri n'dorë;
 Katundca me malcorë
-Sá shpíja nuk i xê.
+Sá shpija nuk i xê.
 
--- Rri, bij' se sunte Trinka
+— Rri, bij' se sunte Trinka
 Po shkon me bûjtë te Zoja;
 Merri këto lule e çoja
-Së lumes dhuntí për tê.
+Së lumes dhuntí per tê.
 
 
-# Zoga
+#### Zoga
 
-## I
+##### I
 
-Npër ograjë po kënojnë bylbylat
+Nper ograjë po këndojnë bylbylat
 Si tu' u prrallë me shoqi shojnë;
 Drandofilleve zymylat
 T'kandshmen erë dhuntí ju çojnë,
@@ -159,10 +159,10 @@ N'valle shoqeve m'u prî.
 Lodhë prei végësh, prei rranjesh shpijet,
 Si u bâ natë, ndêj Zoga n'votrë;
 Ndêj m'u xé me drû dullijet
-Qi kish bâ npër mal, pá motrë!
+Qi kish bâ nper mal, pá motrë!
 
 E kuvêndte me nanë locen,
-Si përgjûmshem, ndonji fjalë,
+Si pergjûmshem, ndonji fjalë,
 Déri sá brî votrës gocen
 E muer gjûmi dal ka dalë.
 
@@ -176,25 +176,27 @@ Si m'u falë herë doren çote;
 Herë permállshem n'védi strukej
 E n'fëtyrë gjaku t'tân'i vëlote.
 
-(Ngrîmun n'ár, mbi'j pullalí,
+(Ngrîmun n'ár, mbî'j pullalí,
 Nen balkue nji beg kish dalë;
 Holl'e i giatë porsi silví
 N'rrugë nen gardh ish dukë nji djalë.)
 
 E nan-bardha tui shikjue
-“Flej me êgjuj, thotë, o bí,
+“Flêj me êgjuj, thotë, o bí,
 Pushò shtatin me i ndimue
-Lokes s'ate nëpër shpí”.
+Lokes s'ate neper shpí”.
 
-Prei nen nji tjegllet kish dalë si j trá
+##### II
+
+Prei nen nji tjegllet kish dalë si 'j trá
 Kû nji mij' tésha vëloshin pá dá;
 Permbî shpí ndîhej tui rrahun troka
 E ushtote toka
 
-Prei kámbësh t'bagtíve. Ká dalë Harapi
-Heret, e shpatit delet ja hapi,
+Prei kâmbësh t'baktíve. Ká dalë Harapi
+Heret, e shpatit delet ja hapi;
 Ká dalun Mica me lopë te mëdhaja
-Nëpër ograja.
+Neper ograja.
 
 Kúr u zgjue Zoga vojt te balkoni,
 E pau se bleta vëlote te zgjoni;
@@ -208,60 +210,60 @@ Rrezet e veta.
 
 Rreze, flak'arit. Por rrotull fëtyra
 E fushës kish ndrrue; kish ndrruemun zyra
-E bímës e e pêmve; permbi balkue
+E bímës e e pêmve; permbî balkue
 Déri kish ndrrue
 
-Érë filcigêni; po i vîte j tjetrë
+Érë filcigêni; po i vîte 'j tjetrë
 Erë: makthit; e rruga e vjetrë
-Nën shpí, mbas gardhit, por si nji dritë
+Nen shpí, mbas gardhit, por si nji dritë
 Shkote tui qitë.
 
-Nuk e kish vrûmun kurr ndër dit t'veta
+Nuk e kish vrûmun kurr nder dit t'veta
 At rrugë n'balkue. Ktheshin me çeta
 Asajt katundsit tui dalë pá prâ,
 E ajò s'kish pá.
 
 U nis te puna merziçem. Nisi
-Ndër pêj sovajken, e shpata krisi,
+Nder pêj sovajken, e shpata krisi,
 Cirlikue rrotllat posht'e perpjetë
 Nen kâmbë te shpjetë.
 
 
 E vojt n'dritore prap. Ndoshta begu
-Ká mbrrîe te rruga e pret te shtegu
-Veshun me t'arta, mbî j pullalí,
-Për bukurí.
+Ká mbërrîe te rruga e pret te shtegu
+Veshun me t'arta, mbî 'j pullalí,
+Per bukurí.
 
 Nuk ishte begu: nen dielli t'valtë
 Veç dý dallëndysha bájshin do baltë;
-Balt'e kashtare për çérdhe t'vet,
+Balt'e kashtare per çérdhe t'vet,
 Se shën Ejëlli â nget.
 
 Ndoshta po avitet nji djal' i rí,
-I holl' e i giatë porsi' j silví,
+I holl' e i giatë porsi 'j silví,
 Me rryp rreth brêzit, me nji gjashtore,
-E' j kacatore.
+E 'j kacatore.
 
 Nuk erdhi djali: veç dy bylbyla,
-Nji n'drandofille, nji ndër zymyla,
-Permállshem thrrasin, e shoqi shojnë
+Nji n'drandofille, nji nder zymyla,
+Permállshem thrrasin, e shoqi shojnë.
 Me kângë gazmojnë.
 
-	
-## III
 
-Vijnë dallëndyshat porsi éra
+##### III
+
+Vîjnë dallëndyshat porsi éra
 Pertè dét te çérdhja e vet;
 Vîjnë bylbylat kû prêndvéra
-N'pýje t'veshura po i thrret.
+N'pýje t'veshuna po i thrret.
 
 Se qe pêmët kan êndun lulet,
 E u vesh fusha me blerim;
 Létas prroni malit ulet
 Dá prei bórës qi i nep ushqim.
 
-E, i dishruem, bje për fushore
-Me rritë bîmen për gjithvênd,
+E, i dishruem, bje per fushore
+Me rritë bîmen per gjithvênd,
 Kû 'j érë akullit mizore
 Kishte hupë lulzim e shênd.
 
@@ -287,7 +289,7 @@ Mos m'u dámun kurr prei si.
 
 T'lypë nji bes' e ta nep t'ndérshme
 Dora e unâza qi t'vên n'gisht:
-E ndërmjet pr' at besë t'gjíthhershme
+E ndermjet pr' at besë t'gjíthhershme
 Â dorxan'i Lumi Krisht.
 
 Sogjetarë, porsi furija
@@ -301,25 +303,25 @@ Kur shef morden se kositi
 An'e mb' anë krajlnín e vet.
 
 
-## IV
+##### IV
 
 E kândshme âsht hâna
 Kúr del me zâna,
 E n'tokë me dritë perndaret.
 Hyjzit qi shndrisin
 E qi shetisin
-Npër qiell, janë t'bukur faret.
+Nper qiell, janë t'bukur faret.
 
 Kúr del agimi,
 E rruzullimi
 Me 'j dritë kuqloshe mbëlohet,
 E permbi kashta
 Shndritë pika lashta,
-Zêmra për máll gazmohet.
+Zêmra per máll gazmohet.
 
 Âsht i madh shêndi
-Kúr ndíhet shpêndi,
-Ndër pýje tui pingrue;
+Kúr ndîhet shpêndi,
+Nder pýje tui pingrue;
 E knaqshme â 'j lule
 Kúr ju perkule,
 O fllad i lét, me e lmue.
@@ -332,14 +334,14 @@ Foshnjes qi i qeshet
 Nanës, kúr mbî 'te perkulet.
 
 
-# Lokja
+#### Lokja
 
-## I
+##### I
 
 E n'balkue mbaruene lulet:
 Shurdh' â vêndi e shpija tytë;
 Jo, me loken nji e dytë
-Nëpër shpí mâ nuk u gjet.
+Neper shpí mâ nuk u gjet.
 
 Vetun zbardh' e vetun erret
 Me krye n'hî e shumja plakë;
@@ -349,7 +351,7 @@ Permbî votrë kush s'ja qet.
 E disprohet me vetvédi
 Qi nuk bâni kurrnji djalë:
 Sot e réja i kishte dalë
-Bashkë me dritë për drû në shpat.
+Bashkë me dritë per drû në shpat.
 
 Kish mbájtë zjermin ndezë mbî votrë,
 Ja kish njomë njat buk e mjera;
@@ -363,11 +365,11 @@ Tash e tash ferishta n'djep.
 
 E disprohet ke i ve mêndja
 Ór' e ças te Trina e shkreta!
-Ja lypë mórdës n'ankime t'veta
+Ja lypë mórdës n'ankime t'veta,
 Por mizorja nuk ja nep.
 
 
-## II
+##### II
 
 U shty vjeshta e krisantemi
 Vetun vorreve lulzon;
@@ -376,12 +378,12 @@ Tui fry veri po i cungon.
 
 Ndrron prei dimnit landa veshen,
 E lëshon gjetht qi para pat;
-E, për mëshier, duhít qi ndeshen,
+E, per mëshier, duhít qi ndeshen,
 Ja çojnë t'vorfnit me i bâ shtrat.
 
 Bite bór' e fryte véri
-Tui çue akull për gjith vis;
-Nêlt orteku ushton për mnéri
+Tui çue akull per gjith vis;
+Nêlt orteku ushton per mnéri
 Tui fundue çetin'e lis.
 
 Me dý cokla n'votrë plaka

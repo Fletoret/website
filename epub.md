@@ -14,8 +14,9 @@ In Claude Code, copy it to `.claude/skills/` (see `skills/README.md`), then run
 reference the skill leans on.
 
 First book shipped: Konica, *Doktor Gjilpëra* (September 2026). Then Fishta's
-three books: *Lahuta e Malcis*, *Mrizi i Zânavet* and *Gomari i Babatasit*. Then Migjeni's two: *Vargjet e lira* and *Novelat e qytetit të veriut*. All
-pass EPUBCheck 5.4 with no errors, warnings or infos.
+three books: *Lahuta e Malcis*, *Mrizi i Zânavet* and *Gomari i Babatasit*. Then Migjeni's two: *Vargjet e lira* and *Novelat e qytetit të veriut*. Then
+every remaining book on the site, in one parallel pass (one agent per book).
+All pass EPUBCheck 5.4 with no errors, warnings or infos.
 
 ## How it works
 
@@ -26,7 +27,7 @@ pass EPUBCheck 5.4 with no errors, warnings or infos.
 | `src/lib/epub.ts` | URL, `static/` path and download filename. Shared by the builder and the site. |
 | `src/lib/components/EpubDownload.svelte` | Download button: `full` on the book profile, `compact` on the author page's book cards. |
 | `vite.config.ts` → `EpubPlugin` | Builds every flagged book when `dev` or `build` starts. |
-| `autore/index.json` | `"epub": true` opts a book in; optional `"subtitle"` goes on the title page. |
+| `autore/index.json` | `"epub": true` opts a book in; optional `"subtitle"` goes on the title page; `"compiledBy"` (an author folder) credits a compiler on the title page, colophon and as `dc:contributor` (MARC `com`). |
 
 - Output goes to `static/epub/<author>/<book>.epub`, which is **gitignored**. It is
   rebuilt from the markdown on every `dev` or `build`, so a download never lags
@@ -45,6 +46,18 @@ pass EPUBCheck 5.4 with no errors, warnings or infos.
   the ✱ `divider` becomes a `* * *` section break. Keep these in the sources;
   they're what the site styles. Inside `<center>`, leave a blank line after the
   opening tag, or markdown inside it isn't parsed.
+- **Images** the markdown takes from the site (`![caption](/images/…)`) are
+  copied from `static/` into `epub/images/` and listed in the manifest. An image
+  alone in its paragraph becomes a `<figure>` captioned with its alt text, as
+  the site does (a `<br>` in the alt text is a line break in the caption). JPEG,
+  PNG, GIF, SVG and WebP only.
+- **Editor's notes** (`shenimet.md`, see `src/lib/markdown-editor-notes.ts`): the
+  notes file stays a chapter where the site puts it, with each `N.` block made
+  a paragraph `id="shenim-N"`, `epub:type="endnote"` (not an ordered list, so a
+  gap in the numbering can't shift the numbers). Every bare `(N)` in the text
+  whose N is a note becomes `<a class="editor-note" epub:type="noteref">(N)</a>`
+  into that chapter, set at text size so it doesn't read as a footnote number.
+  A block that doesn't start `N.` (e.g. `7 —`) is not a note, on the site either.
 
 ## Taking a book through
 
@@ -106,20 +119,23 @@ A stress test on 2026-09-25 built each of these without flagging it.
 | `fishta/gomari-i-babatasit` | **Shipped** | No scans available; proofread from consistency, corpus and rhyme only, so conservative. A scan pass would still help (akti-3 l.698–772 has lost rhyme). |
 | `migjeni/vargjet-e-lira` | **Shipped** | No scans; proofread from the text (~65 fixes). Sections tied at `order` 1 and came out alphabetically; now numbered through the book (Ringjallja, Rinia, Kangë në vete, Mjerimi, Përndimi, Fundi). |
 | `migjeni/novelat-e-qytetit-te-veriut` | **Shipped** | No scans; proofread from the text (~250 fixes, mostly `g` for `gj`/`q`/`ç` and damaged `shpirt` (`shirti`, `spirtin`)). Two sketches were one-line-per-paragraph with `respectLineBreaks: true` and are now prose. |
-| `grameno/kryengritja-shqiptare` | Fails | `<center>`, bare `<br>`, and images linked from the site's `/images/kryengritja-e-shqiptareve/`, which the EPUB does not package. |
-| `leke-dukagjini/kanuni` | Fails | `<center>` throughout, bare `<br>`, unclosed `<em>`/`<p>` (6 fatal errors, 117 errors). |
-| `frang-bardhi/skenderbeu` | Refused | Has editor's notes (`shenimet.md`); not supported yet. |
-| All others | Not yet tried | — |
+| `konica/ese` | **Shipped** | No scans (~145 fixes: `w` read as `ë` in foreign names, Greek restored, footnotes rewritten). |
+| `leke-dukagjini/kanuni` | **Shipped** | Re-transcribed in full from the 1933 first edition's scans (BKSH `libra1!HASH0ea3.dir`, pipeline slug `kanuni`): the print's spelling and accents, every § (the web edition had lost §§88–98, §75, §281…), ~95 footnotes. Front matter added (title page, Bardhi's biography with Gjeçovi's portrait, Fishta's Parathânë, Konica's recollection) and the appendix *Shtojcë* (`shtojce.md`). Listed under Gjeçovi too via `"compiledBy"`. Layout follows the print: `{.section-heading}` for § titles, `{.maxims}` for the maxims under them, `1\.` for numbered points. |
+| `sami-frasheri/shqiperia` | **Shipped** | No scans (~236 fixes). All three parts started at `order` 1 and came out reversed; now numbered through. **Gap:** the end of *Besa e lidhja* and chapters V–XIII (*Qëllim' i Shqipëtarëvet* … *Diturija*) are missing from every edition found (the Albaniana 2015 text lacks the same pages); the start of *Punërat' e përgjithçime* was restored from the pashtriku.org anthology. Needs the 1899 print. |
+| `sami-frasheri/proverba` | **Shipped** | No scans; a modern-standard translation (~224 fixes, `ta`→`b`, `P`→`F`). Chapter titles now `Vëllimi N` (old slugs kept). |
+| `naim-frasheri/bageti-e-bujqesi` | **Shipped** | No scans (58 fixes); a few lines lack a rhyme partner and may be lost. |
+| `frang-bardhi/skenderbeu` | **Shipped** | First book with editor's notes. No scans (~300 fixes; `hyrje.md` rewritten). 224 of 228 notes referenced; notes 2, 5, 6 belong to the original title page, which isn't in the text. |
+| `ndre-mjeda/juvenilja` | **Shipped** | Checked against the 1928 second edition's scans (BKSH `libra1!HASH01f0.dir`, slug `juvenilia`); the print's spelling restored, the translations re-set. The duplicate `liria.md` was removed. Ten poems come from the Librashqip 2023 edition, not the print (Lissus, Scodra, Vjollcës, Ëndërro dashuno…). |
+| `ndre-mjeda/lirija` | **Shipped** | 5 fixes. |
+| `haki-stermilli/sikur-te-isha-djale` | **Shipped** | No scans (~336 fixes); the Prolog's quotations of the diary cross-check the later text. |
+| `zef-serembe/vjersha` | **Shipped** | No scans (~45 fixes; merged verse lines split at the rhyme). |
+| `grameno/kryengritja-shqiptare` | **Shipped** | Proofread against all 214 scans (~195 fixes). Two chapter openings filed in the wrong chapter, moved back. First book with images. Four Vol. II photo plates aren't in the text. |
+| `gjecovi/agimi-i-gjytetniis` | **Shipped** | Proofread against the scans (~1,000 fixes: `yy` read as `yp`/`ŷ`, spaced proclitics, quotes). The index of cited authors (pp. 143–148) the `(n.)` citations point to isn't in the edition. |
+| `hil-mosi/lotet-e-dashtnies` | **Shipped** | Proofread against the scans for pp. 5–92; pp. 93–122 (files `order` 106–141) only against the page transcriptions, with 43 `uncertain` items left, so a scan pass there is still due. The markdown's post-processor had dropped the closing dashes, cut ellipses, invented subtitles and lost the preface (now `parathanje.md`). |
+| `fan-noli/*` | Not on the site | No entry in `autore/index.json`. |
 
-**Open work that unblocks books:**
-- **Raw HTML in markdown.** Either fix the sources (for example `<br>` → `<br/>`, and
-  `<center>` → a class or markdown) or have the builder normalise raw HTML to
-  XHTML. Fixing sources also improves the site.
-- **Images.** Copy referenced `/images/…` files into `epub/images/`, rewrite the
-  `src`, and add them to the manifest.
-- **Editor's notes.** `src/lib/markdown-editor-notes.ts` turns `(14)` into site
-  buttons. The EPUB needs them mapped onto its endnotes, as it already does for
-  footnotes.
+**Raw HTML in markdown** that isn't valid XHTML is fixed in the sources (for
+example `<br>` → `<br/>`, balanced tags), which also improves the site.
 
 ## Text cleanup before building
 

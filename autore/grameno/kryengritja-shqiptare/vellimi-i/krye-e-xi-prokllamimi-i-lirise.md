@@ -77,12 +77,12 @@ na kishin pregatitur drekën.
 Në këtë drekë zyrtare ishin gjithë Oficerët me Remzi benë, në krye,
 nga ana e Katundarisë edhe ca të pakë zyrtarë të tjerë. Pa fjalë që në
 këtë festim duheshe dëftyer dyke ngritur gotat për shëntet të
-përpjekësvet të kësaj lirie. Këndu:m për mëmëdhen, për mëmëdhenë e të
+përpjekësvet të kësaj lirie. Këndum për mëmëdhen, për mëmëdhenë e të
 tjera këngë trimnore, kur Çerçizi ngrihet edhe na mbleth të gjithë në
 valle dyke kënduar këtë këngë:
 
-*Shqipëri moj Shqipëri; Shqipëri pes Vilajete*
-*Pse s'u përpoqe për vete po për shumë ti milete! etj.*
+> *Shqipëri moj Shqipëri; Shqipëri pes Vilajete*\
+> *Pse s'u përpoqe për vete po për shumë ti milete! etj.*
 
 U mallëngjyesh kaqe tepër nga këjo këngë, e cila më pikëllojti në
 zemër, sa nuku durova dot, po u hoqa më nj'anë edhe pa dashur zura të
@@ -133,7 +133,7 @@ Gjaku m'u prish edhe ngrihem dyke u çfaqur hidhërimin tonë kur sot në
 këtë festim, të cilën ja detyrojnë kombit Shqipëtar, Shqipëtarët e
 Manastirit të mos kenë një flamur kur kanë nxjerë edhe Evgjitrit!
 
-Q'atë orë bëra një thirje dyke treguar ditën e festimit, për të cilëu
+Q'atë orë bëra një thirje dyke treguar ditën e festimit, për të cilën
 Shqipëtarët janë bërë therorë për lirinë të sotme edhe theroritë, të
 kombit Shqipëtar, që ka bërë për Mbretërinë Ottomane. Thirja, të cilën
 e botojti edhe gazeta « Liria » e Selanikut, u përndah nër
@@ -156,7 +156,7 @@ muntnë shpirtet tona të ndjenjë gëzim kombëtarë, edhe të gjejnë një
 populli me fëmijën kishin dalë jashtë qytetit edhe ishin sërënditur më
 të dy anëtë të udhës. Për këtë festim ishin veshur që të gjithë me
 robat e Shqipërisë, me fustanellat e bardha edhe me flamurët në dorë,
-të shkrojtura të gjitha shqip Me të u afruar pushkut buçasën nga të dy
+të shkrojtura të gjitha shqip. Me të u afruar pushkut buçasën nga të dy
 anëtë, edhe sazet na presen dyke kenduar: per memedhene, per memdhene!
 gjer hymë në qytet, ku na kishin pregatitur një tryezë siç duhet.
 
@@ -173,7 +173,7 @@ kottë.
 
 Bajua kish 10 dit që ndodheshe në Bari për të u hedhur në Shqipëri.
 Bashkë me Bajon ishin Luji Gurakuqi, nga Shkodra, Thoma Avrami edhe
-Stefan Kondillari, nga Korça,] Aleks Paskali, nga Përmeti, Kiço
+Stefan Kondillari, nga Korça, Aleks Paskali, nga Përmeti, Kiço
 Himarioti, nga Brekdeti, edhe Kole Reka me ca Dibranë, që na mungojnë
 emrat, nga Dibra.
 
@@ -185,8 +185,8 @@ shtrëngojti Tyrqinë në këtë ndryshim të papritur. Gjithë nga gazetat
 kishin mësuar për hyrjen tonë në Manastir, me Niazi benë, edhe na
 teligrafosnë.
 
-U hidhëruan e pikëlluan tepër, po nukn kishin se ç'të bënin kështu që
-vendosnë të përnaheu. Thoma Avrami u hoth në Misir, Aleks Paskali në
+U hidhëruan e pikëlluan tepër, po nuku kishin se ç'të bënin kështu që
+vendosnë të përndahen. Thoma Avrami u hoth në Misir, Aleks Paskali në
 Amerikë, Kole Reka me shokët edhe Kiço Himariotin në Bullgari, Bajua
 me Stefan Kondillarë në Gjinokastrë edhe Luji Gurakuqi në Shkodrë.
 
@@ -204,7 +204,7 @@ dëshmorëvet.
 
 Çerçizi dyke folur pak fjalë urdhrojti shokët që t'i japën edhe
 nderimet trimnore, kështu që porositë zjar, edhe pushkat i xbasmë për
-mbi var të dëshmorit Haredin Tremishtës! Të pikëlluar u rëznam në
+mbi var të dëshmorit Haredin Tremishtës! Të pikëlluar u rëzuam në
 qytet po këjo ditë na u duk sterë e zezë.
 
 Një nga kujtimet e paharuara, edhe ecila është një detyrë që, përveç
@@ -212,7 +212,7 @@ falënderjevet, t'e tregojmë në histori shërbimet e medha q'i ka sjellë
 lëvizjes kombëtare familia e Topullit. Mëma e Bajos edhe Çerçizit me
 nuset e djemve, me bijat edhe mbesat jo vetëm që do të shërbenin, sa
 herë vinim, po edhe do të na ruanin Shumë herë gratë delnin përpara që
-qëronin udhëu, me pushkat në dorë, kur shkonim neve nga shtëpia. Në
+qëronin udhën, me pushkat në dorë, kur shkonim neve nga shtëpia. Në
 shumë gjendje kritike, kur nuku munt të vepëronin burat, e mbushnin
 këto këtë barrë të rëndë burrërisht e plotërish. Me një fjalë ishin
 pjesëtarët të lëvizjes tonë.
@@ -290,7 +290,7 @@ Nga ana e Shqipëtarëvet foli Bajua, në gjuhën Tyrqishte, dyke treguar
 që duhen hedhur prapa krahëvet e paskëtaj të përpiqemi, si nje trup,
 me gjithë fuqi që të xvillojmë mbretërinë tonë. Zunë pastaj me radhë
 nga Grekrit, Bullgarët, Serbet edhe Rumanët, por mbeta i habitur kur
-folë që të gjithë me gjuheu e tyre, prandaj nuku durova dot edhe i
+folë që të gjithë me gjuhën e tyre, prandaj nuku durova dot edhe i
 thom Çerçizit, që ishim ngjitur, që do të flas edhe unë, kështu që
 fola shqip dyke thënë që, prej 500 vjet e tëhu, çdo faqe e historisë
 Tyrke është zbukuruar me emrat e Shqipëtarëvet, të cilët janë bërë

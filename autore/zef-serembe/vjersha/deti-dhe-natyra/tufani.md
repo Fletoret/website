@@ -10,7 +10,7 @@ order: 18
 
 U vrënjt nga deti e mali u mbush me re,
 Dhe dita u err' sa pikëllim na vjen,
-Gjeli këndoi edhe ne strehë u fsheh,
+Gjeli këndoi edhe në strehë u fsheh,
 E gjethe e kashtë era i rrëmben.
 
 Ja një bareshë mu në prak ndalon,

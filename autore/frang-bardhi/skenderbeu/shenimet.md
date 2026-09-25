@@ -19,9 +19,9 @@ order: 7
 
 5. — *Administrator i popullsive të tjera*. — Bardhit i është ngarkuar kujdesi dhe administratimi i Pultit dhe i dy gjymtyrëvet (rrethevet) të tjera, që përfshiheshin në kishën e Sapes, d.m.th. në Episkopatin e Zadrimës. Shprehja «popullsi» do të thotë këtu «Banorë rrethi ose katundesh», siç e shpjegon vetë Bardhi në relacionin e tij, që përmendëm (Shiko shën. 3).
 
-6. — *Lejë e privilegjuar*. — Në Venetik ishte vendosur «Censura e shtypit» që prej vitit 1527, e dekretuar nga këshilli i lartë i Senatit. Bardhi e ka siguruar aprovimin e Senatit për botimin e librit të tij. Thuhet se shkaku i vendosjes së censurës ka qënë botimi nga vëllezërit Bernardino dhe Mattheo di Vitali, tipografë të shquar në Venetik dhe, sipas Sabelicus, shqiptarë, i jë vepre me titullin: «Origjina e proverbavet vullgare», viti 1526.
+6. — *Lejë e privilegjuar*. — Në Venetik ishte vendosur «Censura e shtypit» që prej vitit 1527, e dekretuar nga këshilli i lartë i Senatit. Bardhi e ka siguruar aprovimin e Senatit për botimin e librit të tij. Thuhet se shkaku i vendosjes së censurës ka qënë botimi nga vëllezërit Bernardino dhe Mattheo di Vitali, tipografë të shquar në Venetik dhe, sipas Sabelicus, shqiptarë, i një vepre me titullin: «Origjina e proverbavet vullgare», viti 1526.
 
-7 — *Ndihma e Venecianëvet Skënderbeut*. — Duket qartë se Bardhi flet këtu sipas Barletit, i cili, në gjithë veprën e tij, s'ka dashur kurrë të nxjerrë nga goja «ndonjë fjalë të keqe për mbretëreshën e deteve», siç thotë F. Noli. E vërteta historike është se Skënderbeu s'ka pasur nga Venetia një ndihmë të tillë; përkundrazi, gjatë gjithë jetës së Skënderbeut, Venetia ka qenë një armike e hapur ose e fshehur dhe rrallë një mike e ftohtë, (nga fundi i jetës së Skënderbeut).
+7. — *Ndihma e Venecianëvet Skënderbeut*. — Duket qartë se Bardhi flet këtu sipas Barletit, i cili, në gjithë veprën e tij, s'ka dashur kurrë të nxjerrë nga goja «ndonjë fjalë të keqe për mbretëreshën e deteve», siç thotë F. Noli. E vërteta historike është se Skënderbeu s'ka pasur nga Venetia një ndihmë të tillë; përkundrazi, gjatë gjithë jetës së Skënderbeut, Venetia ka qenë një armike e hapur ose e fshehur dhe rrallë një mike e ftohtë, (nga fundi i jetës së Skënderbeut).
 
 8. — *Dëshira e fundit e Skënderbeut*. — Bardhi edhe këtu flet me gojën e Barletit. E vërteta është krejt ndryshe. Nga historia dihet pa asnjë farë dyshimi se Skënderbeu nuk i la Venetisë as mbretërinë as fëmijët, asgjë. (Shiko hollësira për këtë: «Historia e Skënderbeut». F. Noli, botim 1921, faqe 12-13 etj.).
 
@@ -35,13 +35,13 @@ order: 7
 
 13. — *Koha e shkurtër*. — Bardhi ka vetëm 15 ditë në dispozicion për të hartuar veprën. Preokupimet, tronditjet dhe ngatërresat e tjera, për të cilat flet Bardhi këtu, janë kryesisht telashet e nisjes nga Roma për në Zadrimë, si epishkop i saj. (shiko shën. Nr. 16).
 
-14. — *Familja e Margnavíçëve*. — Tomku përpiqet ta nxjerrë këtë si një familje bujare arkondësh, që lidhet me Kostandinin e Madh. Por Bardhi e provon se kjo familje rrjeth nga Marko Margnava, bujar sllav i shekullit XIV. (shiko shën.: Marko Margnava Nr. 33).
+14. — *Familja e Margnaviçëve*. — Tomku përpiqet ta nxjerrë këtë si një familje bujare arkondësh, që lidhet me Kostandinin e Madh. Por Bardhi e provon se kjo familje rrjeth nga Marko Margnava, bujar sllav i shekullit XIV. (shiko shën.: Marko Margnava Nr. 33).
 
-15. — *Jan Tomku*. — Një sllav bashkëkohës i Bardhit, njeri i ditur, siç e thotë vetë Bardhi. Ky kërkon ta nxjerrë Skënderbeun me origjinë sllave dhe vehten e tij pasardhës të familjes së Margnavíçëvet. Bardhi ja heth poshtë pretendimet e tij.
+15. — *Jan Tomku*. — Një sllav bashkëkohës i Bardhit, njeri i ditur, siç e thotë vetë Bardhi. Ky kërkon ta nxjerrë Skënderbeun me origjinë sllave dhe vehten e tij pasardhës të familjes së Margnaviçëvet. Bardhi ja heth poshtë pretendimet e tij.
 
-16. *Nisja nga Roma*. — Bardhi ka ardhur në Zadrimë me detyrën e epishkopit në vitin 1636, në muajin Janar ose Shkurt. Kjo del nga letrat, që Bardhi i dërgon Kongregacionit të Shënjtë, një vit pas marrjes në dorë të epishkopatit të Zadrimës, më datë 8 shkurt 1637. Bardhi, para se të niset, qëndron 15 ditë në Romë, për të hartuar veprën në fjalë, në mes të telashevet dhe preokupacionevet të nisjes. Fakti që Bardhit i jepen 15 ditë lejë për këtë qëllim, tregon se vepra hartohet me pëlqimin e superiorëvet të tij (= të Kongregacionit të Shënjtë).
+16. — *Nisja nga Roma*. — Bardhi ka ardhur në Zadrimë me detyrën e epishkopit në vitin 1636, në muajin Janar ose Shkurt. Kjo del nga letrat, që Bardhi i dërgon Kongregacionit të Shënjtë, një vit pas marrjes në dorë të epishkopatit të Zadrimës, më datë 8 shkurt 1637. Bardhi, para se të niset, qëndron 15 ditë në Romë, për të hartuar veprën në fjalë, në mes të telashevet dhe preokupacionevet të nisjes. Fakti që Bardhit i jepen 15 ditë lejë për këtë qëllim, tregon se vepra hartohet me pëlqimin e superiorëvet të tij (= të Kongregacionit të Shënjtë).
 
-17. — *Shumë pak ka të bëjë me Shqiptarët*: — Bardhi nuk e quan të nevojëshme me doemos që të shqyrtojë punën e familjes së Margnavíçëvet, për të vërtetuar shqiptarësinë e Skënderbeut; ai e bën këtë për hir të dëshirës së miqvet të tij. Por, me gjithë këtë, duke hedhur poshtë pretendimet absurde dhe shpifarake të Tomkut, Bardhi konsolidon konkluzionet e tij. Bardhi shqyrton veçanërisht punën e Skënderbeut në pjesën e dytë të veprës së tij. (Shiko hyrjen).
+17. — *Shumë pak ka të bëjë me Shqiptarët*: — Bardhi nuk e quan të nevojëshme me doemos që të shqyrtojë punën e familjes së Margnaviçëvet, për të vërtetuar shqiptarësinë e Skënderbeut; ai e bën këtë për hir të dëshirës së miqvet të tij. Por, me gjithë këtë, duke hedhur poshtë pretendimet absurde dhe shpifarake të Tomkut, Bardhi konsolidon konkluzionet e tij. Bardhi shqyrton veçanërisht punën e Skënderbeut në pjesën e dytë të veprës së tij. (Shiko hyrjen).
 
 18. — *Nisa*. — Është Nishi i sotëm, qytet i Jugosllavisë. Qyteti është shumë i vjetër, kryeqytet i Ilirëve Dardanë, vendlindja e Konstandinit të Madh. Në shekullin X pushtohet nga Bullgarët, por Emanuel Komneni (1143-1180) e ripushtoi. Pas këtij qyteti bie në duart e Serbëvet. Këtu Stefan Nemania, Jupan i madh i Serbëvet, priti më 1189 Frederikun I, të quajtur Barbarosa (Aenobarbus), në krye të kryqëzatës së III-të.
 
@@ -117,7 +117,7 @@ order: 7
 
 54. — *Enobarb* (lat. Aenobarbus=mjekërkuq). Është Friderik, (ose Federiku) i njohur me mbiemrin Barbarosa, që do të thotë mjekërkuqi.
 
-55. — *Lufta e shënjtë*. — Është fjala për kryqëzatën e III-të (1187-1190), në të cilën merrnin pjesë, përveç perandorit të Gjermanisë Friderik Barbarosës, edhe mbreti i Francës Filip i II-të, si dhe mbreti i Anglisë Rikardi i II-të, zëmërluani. Këjo Kryqëzatë i nxori telashe të mbëdha Bizantit, dhe me gjithë marrëveshjen e Barbarosës me Isak Angjelin më 1188, (shiko shën. Nr. 51), ai hyri me ushtërinë e tij në Stamboll (më 1189, pas largimit nga Nisa), ku kaloi dimrin. Në pranverë u hodh në Azinë e vogël kundër Selxhukëvet, të cilët i mundi. Por ndërsa kalonte një lumë, u mbyt dhe ushtëria e tij u shpërnda. Kjo është «ekspedita aziatike» e tij.
+55. — *Lufta e shënjtë*. — Është fjala për kryqëzatën e III-të (1187-1190), në të cilën merrnin pjesë, përveç perandorit të Gjermanisë Friderik Barbarosës, edhe mbreti i Francës Filip i II-të, si dhe mbreti i Anglisë Rikardi i II-të, zëmërluani. Kjo Kryqëzatë i nxori telashe të mbëdha Bizantit, dhe me gjithë marrëveshjen e Barbarosës me Isak Angjelin më 1188, (shiko shën. Nr. 51), ai hyri me ushtërinë e tij në Stamboll (më 1189, pas largimit nga Nisa), ku kaloi dimrin. Në pranverë u hodh në Azinë e vogël kundër Selxhukëvet, të cilët i mundi. Por ndërsa kalonte një lumë, u mbyt dhe ushtëria e tij u shpërnda. Kjo është «ekspedita aziatike» e tij.
 
 56. — *Grekërvet*, d.m.th. Bizantinëvet.
 
@@ -167,7 +167,7 @@ order: 7
 
 79. — *Tartarësh*. — Më drejt: «Tatarësh». — Tatarët janë një popullsi, që përfshihet në grupin turkotatar të homofilisë mongole. Fjala Tatar në gjuhën Marxhurjane d.m.th. shigjetar dhe nomad. Kanë qënë të famshëm për egërsinë e tyre. Hordhitë e Xhengis Hanit, që sulmuan Evropën në shekullin IX, u quajtën Tatarë. Trajta: «Tartar» ka ardhur nga konfondimi me fjalën e vjetër: «Tartaros=sketerrë».
 
-80. — *Fushatë kundër Turqvet*. — Është lufta kundër Turqvet në Çernomjan më 26 shtator 1371, ku serbët e bregun e djathtë të lumit Marica (Hebros), ku serbët pësuan katastrofë të plotë. Kjo luftë shënon fillimin e rënies së mbretërisë unike të Serbisë, rënie që plotësohet me luftën e Kosovës më 1389, ku u vra mbreti i fundit i Serbisë, Lazar Hrebljanoviç, pasardhës i Vukashinit (Shiko shën. Nr. 71).
+80. — *Fushatë kundër Turqvet*. — Është lufta kundër Turqvet në Çernomjan më 26 shtator 1371, në bregun e djathtë të lumit Marica (Hebros), ku serbët pësuan katastrofë të plotë. Kjo luftë shënon fillimin e rënies së mbretërisë unike të Serbisë, rënie që plotësohet me luftën e Kosovës më 1389, ku u vra mbreti i fundit i Serbisë, Lazar Hrebljanoviç, pasardhës i Vukashinit (Shiko shën. Nr. 71).
 
 81. — *Laoniku (1430-1490)*. — Është Laonik Kalkokondili, kronikan i shquar bizantin, nga Athina. Ka shkruar histori për ngjarjet e shekullit XIV dhe të shek. XV (në 10 libra). Emri i tij lidhet me historinë e Skënderbeut.
 
@@ -241,9 +241,9 @@ order: 7
 
 116. — *Traditat e urta etj*. — Nuk duhet menduar, ndoshta, për paganizmë, por për rezistencë kundër katolicizmit në Serbi.
 
-117. — *Grua Muratit*. — Gjergj Brankoviçi u detyrua t'ja japë për grua të bijën Muratit pas 1433, kur u mund në luftën rreth qytetit Galamboc. Sulltani nuk donte ta pranonte, por u bind nga vezirë, i tij, që Gjergji e pat blerë me ryshfet. Sulltani, me gjithë që u bind, nuk e priti mirë të bijën e Gjergjit, por e futi në haremin e tij bashkë me gratë e tjera të shumta, si shënjë përbuzje. Këtë ngjarje ka parasysh Bardhi, kur thotë se Gjergji «provoi të dhëndërrin përmes së bijës».
+117. — *Atëhere*. — D.m.th. në kohën e pregatitjes së luftës së Varnës, më 1444.
 
-118. — *Atëhere*. — D.m.th. në kohën e pregatitjes së luftës së Varnës, më 1444.
+118. — *Grua Muratit*. — Gjergj Brankoviçi u detyrua t'ja japë për grua të bijën Muratit pas 1433, kur u mund në luftën rreth qytetit Galamboc. Sulltani nuk donte ta pranonte, por u bind nga vezirë, i tij, që Gjergji e pat blerë me ryshfet. Sulltani, me gjithë që u bind, nuk e priti mirë të bijën e Gjergjit, por e futi në haremin e tij bashkë me gratë e tjera të shumta, si shënjë përbuzje. Këtë ngjarje ka parasysh Bardhi, kur thotë se Gjergji «provoi të dhëndërrin përmes së bijës».
 
 119. — *Jan Transilvani*. — Jan Huniadi (shiko Shën. Nr. 102).
 
@@ -273,7 +273,7 @@ order: 7
 
 132. — *Qytet të fortifikuar*. — Semendria (ose Smiderovia), ku mbahej Huniadi. (Shiko shën. Nr. 106). Një version tjetër thotë se Huniadi u kap jo nga Gjergj Brankoviçi, por nga princi i Molldavisë Vlladi i III (Drakul).
 
-133. — *Nikolla Doglioni*. — Shkrimtar italian i shek. të XV. Shkruan në shembullin e Pausanisë, si periegjet (= οι[η]γητ[ή]πες).
+133. — *Nikolla Doglioni*. — Shkrimtar italian i shek. të XV. Shkruan në shembullin e Pausanisë, si periegjet (= περιηγητής).
 
 134. — *Kraljeviç*. — D.m.th. bir mbreti (shiko shën. 86).
 
@@ -289,7 +289,7 @@ order: 7
 
 140. — *Becihemi (1468-1526)*. Marin Becihemi ka lindur në Shkodër dhe u largua nga atdheu i tij më 1477, kur qyteti u rrethua nga Turqit. Ka qënë njeri me kulturë të gjerë për kohën e tij dhe ka shkruar vepra të ndryshme.
 
-141. — *Ptolemeu (Klaudi)*. — Ptolemeu është shkrimtari i famshëm Aleksandrin (astronom, fizikant, gjeograf etj.), që ka jetuar në shek. II (100-178). Sistemi gjeocentrik i tij në astronomi sundoi për 13 shekuj dhe vetëm Koperniku (1474-1543) e zëvendësoi me sistemin heliocentrik. Vepratë e tij janë të shumta, ndër të cilat edhe «tregime gjeografike», në 8 libra (Γεωγραφικήφη ὑγησις).
+141. — *Ptolemeu (Klaudi)*. — Ptolemeu është shkrimtari i famshëm Aleksandrin (astronom, fizikant, gjeograf etj.), që ka jetuar në shek. II (100-178). Sistemi gjeocentrik i tij në astronomi sundoi për 13 shekuj dhe vetëm Koperniku (1474-1543) e zëvendësoi me sistemin heliocentrik. Vepratë e tij janë të shumta, ndër të cilat edhe «tregime gjeografike», në 8 libra (Γεωγραφικὴ ὑφήγησις).
 
 142. — *Rozaci (Josif) (1530-1620)* Mjek dhe gjeograf italjan. Është i njohur për veprat gjeografike të tij, si p.sh. «Bota dhe pjesët e saj» (D.m.th. Europa, Asia, Afrika, Amerika). — U kujdesua për botimin e gjeografisë së Ptolemeut.
 
@@ -369,7 +369,7 @@ order: 7
 
 180. — *Jakov Gordoni*. (1541-1620). Skoces, bënte pjesë në shoqërinë e Jezuitëvet. Ka shkruar mjaft vepra, të cilat kanë më tepër interes theologjik.
 
-181. — *Cezar Kampana (1540-1606)*. Italian, historian. Është i njohur sidomos për dy vepra historike universale të tij, (e para në 4 libra dhe e dyta në 26 libra). Në kohën e tij këto vepra qumeshin si vepra model dhe i jepnin Kampanës nder e famë të madhe.
+181. — *Cezar Kampana (1540-1606)*. Italian, historian. Është i njohur sidomos për dy vepra historike universale të tij, (e para në 4 libra dhe e dyta në 26 libra). Në kohën e tij këto vepra quheshin si vepra model dhe i jepnin Kampanës nder e famë të madhe.
 
 182. — *Ematia*. Është emri i vjetër i krahinës së Maqedhonisë, që përfshinte krahinat e sotme të qytetevet: Edesë, Veria, Njausha, bërthama e shtetit të mëvonshëm të Maqedhonisë. Pastaj Ematia u quajt në tërësi Maqedhonia. Tek Barleti Ematia (lat. Aematia) është Mati, jo Maqedhonia, (shiko F. Noli, «Historia e Skënderbeut», f. 50-51, v. 1921).
 
@@ -377,7 +377,7 @@ order: 7
 
 184. — *Këtyre ua zunë vëndin etj*. Ferdinandi këtu flet për Skënderbeun me qëllim që të ngrehë lart e më lart personalitetin e tij, duke patur parasysh, ndoshta, krushqinë e Epirotasvet me shtëpinë mbretërore të Maqedhonisë (Olimbiadën, gruan e Filipit etj.). Por Skënderbeu dhe paraardhësit e tij s'kanë të bëjnë me Maqedhoninë.
 
-185. Vetë perëndité. Nuk është puna, siç dihet, për paganizmin politeist. Me këto fjalë, që Barleti ja vë në gojë Skënderbeut, dëgjohet influenca e neopaganizmit të rilindjes mbi të (= Barletin).
+185. — *Vetë perënditë*. — Nuk është puna, siç dihet, për paganizmin politeist. Me këto fjalë, që Barleti ja vë në gojë Skënderbeut, dëgjohet influenca e neopaganizmit të rilindjes mbi të (= Barletin).
 
 186. — *Papa Pius i II-të*. — (Lindur më 1405 dhe papë prej 1458-1464). I njohur për ne lidhur me historinë e Skënderbeut, vdekja e papriturit të cilit dëmtoi përpjekjet e Skënderbeut. Ka qënë humanist i nxehtë dhe adhuronjës i antikitetit. Ka shkruar shumë vepra me karakter të ndryshëm (poezi, komedi, mbi edukimin e fëmijëvet etj.). Vepra më e mirë e tij është: «Commentarii», d.m.th. Kujtimet, në 12 libra, një lloi autobiografie lidhur me ngjarjet e kohës së tij.
 
@@ -389,7 +389,7 @@ order: 7
 
 190. — *Francisk Sansovini (1521-1583)*. Lindur në Romë, por jetoi në Veneti, i rrethuar me nderime të mbëdha nga senati. Ka botuar shumë vepra. Nga vepratë historike dy ja kushtoi historisë së veprimevet turke në Europë.
 
-191. *Lazar Soranxi* (shek. XVI-XVII) Një nga burrat e shquar të familjes venecjane Soranxo (Surantius, Superantius), poet, jurist dhe historjan për perandorinë turke (otomane). «Otomanida», që citon Bardhi, është vepër e tij historike për Turqinë.
+191. — *Lazar Soranxi* (shek. XVI-XVII) Një nga burrat e shquar të familjes venecjane Soranxo (Surantius, Superantius), poet, jurist dhe historjan për perandorinë turke (otomane). «Otomanida», që citon Bardhi, është vepër e tij historike për Turqinë.
 
 192. — *Princët Atestinë*. — Janë princët e familjes Atestine, nga qyteti Atestë, pranë Padovës. Kjo familje është e famëshme për degëzimet e saj (p.sh. Guelfët e Gjermanisë, Hannover e Anglisë etj). Pigna, pra, shkruan edhe historinë e kësaj familjeje shumë të vjetër (prej 996) që, ishin përhapur në qytete të ndryshme të Italisë.
 
@@ -407,7 +407,7 @@ order: 7
 
 199. — *Petro Bembi* (lindur në Veneti 1470). Filolog humanist, i dëgjuar në kohën e tij. Ka shkruar vepra letrare dhe një histori të Republikës Venecjane, në lib. XII.
 
-200. — *Tuberoni*, dalmatas. Historjan i shek. XVI. Ka shkruar «Commentarii» etj., për historinë e periudhës 1490 gjer më 1522, në XI (11) libra.
+200. — *Tuberoni*, dalmatas. Historjan i shek. XVI. Ka shkruar «Commentarii» etj., për historinë e periudhës 1490 gjer më 1522, në 11 (XI) libra.
 
 201. — *Jan Baptista Marini (1569-1625)*. Poeti italjan, me vepra letrare të shumta të kohës, si vepra enkomiastike në vjersha, rima, vepra në prozë etj. Është nga përfaqësuesit kryesorë të «marinizmit», d.m.th. të artit barok (ana e konceptualizmit) në letërsi, të artit për art, të pasur në figura, hiperbola etj. por të varfër në përmbajtje, të «artit bosh».
 
@@ -431,7 +431,7 @@ order: 7
 
 211. — *Se sa flitet për to*. Ndoshta Skënderbeu bën alluzion për pjesëmarrjen e Frëngjvet në luftrat kryqësore, që bëheshin, gjoja, për të mbrojtur «Vëndet e Shënjta» (Jeruzalemin) nga islamizmi. (shik. sh. Nr. 55).
 
-212. — *Armik i Galëvet etj*. Anzhuinët, gjatë historisë së tyre, kanë qënë në marrëdhënie herë miqësore dhe herë armiqësore me shtëpinë mbretërore të Francës, herë vasalë të kësaj, herë më vehte, sipas rastit. Kështu p.sh., Anzhuinët i ngjiten shtëpisë mbretërore të Francës në sh. XIII, marrin pjesë në pushtimin e Siqelisë nga Francezët nën Karlin e I (1266) etj., kurse Jani III, më 1356, i ngreh në dukatë më vehte etj. Nga fundi i shek. XV Anzhuinët i aneksohen për gjithëmonë mbretërisë së Francës. Skënderbeu tallet me shijë me anzhuinin Jan, që kërkon të zërë vëndin e Alfonsit, por që s'ka këllqe. (shik. shën. Nr. 187):
+212. — *Armik i Galëvet etj*. Anzhuinët, gjatë historisë së tyre, kanë qënë në marrëdhënie herë miqësore dhe herë armiqësore me shtëpinë mbretërore të Francës, herë vasalë të kësaj, herë më vehte, sipas rastit. Kështu p.sh., Anzhuinët i ngjiten shtëpisë mbretërore të Francës në sh. XIII, marrin pjesë në pushtimin e Siqelisë nga Francezët nën Karlin e I (1266) etj., kurse Jani III, më 1356, i ngreh në dukatë më vehte etj. Nga fundi i shek. XV Anzhuinët i aneksohen për gjithëmonë mbretërisë së Francës. Skënderbeu tallet me shijë me anzhuinin Jan, që kërkon të zërë vëndin e Alfonsit, por që s'ka këllqe. (shik. shën. Nr. 187).
 
 213. — *Nga Zoti etj*. Në aleancë e përkrahje të Ferdinandit është edhe Papa (Pius i II) e kjo mund të krijonte përshtypjen se e drejta është me Ferdinandin në këtë luftë. E vërteta është se si Ferdinandi, si Jan Antoni luftojnë për interesa të tyre, si sundimtarë në një vënd të huaj. Por lufta e Ferdinandit dhe ekspedita e Skënderbeut në ndihmë të tij është plotësisht e drejtë — vetëm, po të merret si një luftë kundër një dobësonjësi të frontit të rezistencës kundër ekspansionit turk, gjersa Skënderbeu kishte ndihmë nga mbretërit e Napolit. Ne mendojmë se Skënderbeu në esencë këtë mendon në këtë rast.
 
@@ -459,18 +459,11 @@ order: 7
 
 225. — *Antonomasi*. Figura është shumë e bukur, tregon fuqinë dhe vigjilencën e Skënderbeut për ruajtjen e Atdheut dhe tmerin e armiqvet prej tij.
 
-226. Mbi të gjithë etj. Është shprehja më e theksuar e Bardhit për besimin që ka në fuqitë mendore dhe shpirtërore të popullit të tij.
+226. — *Mbi të gjithë etj*. — Është shprehja më e theksuar e Bardhit për besimin që ka në fuqitë mendore dhe shpirtërore të popullit të tij.
 
 227. — *Dalmacia, mbretëria më fisnike etj*. Dihet nga historia se Dalmacia, nga gjithë mbretëritë sllave të Jugut, ka qënë më e shquara. Bardhi thotë një të vërtetë historike.
 
 228. — *Birucat e Boshnjakëvet*. Në krahasim me Dalmacinë, historia e Boshnjës është tepër inferiore nga çdo anë, ekonomike, politike, kulturale etj. Këtë ka parasysh Bardhi dhe me këtë e mbyll polemikën e tij të paëshirshme dhe ironizimin gjithmonë të qëlluar të kundërshtarit të tij mëndjemadh e pretencios.
-
-*Shënim*. — Në faq 34, rrjeshti 7 duhet korigjuar kështu:
-
-«Kështu me gëzim të madh e me flamuj në dorë po hynte [^1] në kufitë e Misisë (109), në kohën kur, daç thuaj fati i paméshirëshëm, daç fataliteti i paevituëshëm, daç më mirë, sigurisht, zëmerimi i perëndisë si ndëshkim krishterësh të fëlliqur, po nxiste pabesinë e një njeriu të vetëm për të sjellë gjithë ato ngatërresa e turbullira dhe njëkohësisht për t'u shkaktuar vuajtje të vazhduara dhe krishterimit kërdi të madhe».
-
-[^1]: D.m.th. Ushtëria e Skënderbeut.
-
 
 <center>
 

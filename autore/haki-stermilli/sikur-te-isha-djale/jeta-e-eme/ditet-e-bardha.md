@@ -42,19 +42,19 @@ frymën e tij të vokët që m'a lëmon fëtyrën t'eme. Qeh syt e tij plot
 shkëndia gjallnije e flakëruese. Qeh fëtyra e tij e qeshun. E si mund
 të flej me zemër të trazueme që vlon përmbrenda? Natyrisht s'mundem.
 Nuk dij se në cilën lagje e në cilën shtëpi banon. Me gjith këtë u
-krijue në fantizin t'eme nji banesë që tash ka marrë hijen dhe dukjen
+krijue në fantazin t'eme nji banesë që tash ka marrë hijen dhe dukjen
 e bukur të Qabës së dashunis s'eme. Qeh e shof, si nëpër vegim, se ka
 ramë mbi shtrat e po flen amblas tue marrë frymë lehtë si ndonji
 foshnje e padjallzueme dhe e njomë. Syt e zij janë të mbyllun.
 Qepallet e zeza bajnë hije mbi fytyrën e tij të bukur dhe gjajnë si
 ushta të zeza që ruejnë thesarët e grumbulluem n'ato dy kupa të
 ndritëshme. Flokët e zij, palë palë, i kanë ramë mbi ball. Krahët i ka
-nxjerrë, jashtë mbulesës së bardhë, ndoshta, për t'i a shtue asajë
+nxjerrë, jashtë mbulesës së bardhë, ndoshta, për t'ia shtue asajë
 bukurin e bardhënis. Dorën e djathtë e ka livarë; të majtën e ka vu
 mbi zemër, si të donte me i pushue rrafjet e saja të forta. Buzët herë
 mbas here, lëvizin nga pak. Duket sikur flet përgjumshëm, por s'mundet
 me e kuptue çdo njeri. Vetëm veshi i zemrës së puthun prej tyne mundet
-me i ndigjue e me i kuptue. Asht n'andër e kuvendon me dikë. Ndoshta
+me i ndigjue e me i kuptue. Asht n'andërr e kuvendon me dikë. Ndoshta
 me... mue. Ah sikur t'isha un, makar n'andërr, ajo së cilës i flet aq
 ambël. Më dridhet dora dhe s'po mundem me shkrue, pse m'asht shkri
 zemra. Ajo shurgullon përmbrenda nga valët e forta që përplasen në
@@ -71,7 +71,7 @@ krrusë kokën.
 — Dije! - gjegji ajo. - Ç'don? - pyeti.
 
 Pa iu përgjegjë u futa në kthinë. Edhe kur hyna mbrenda s'e pashë. U
-drejtova kah Irena q'isht e ulë kundrejt tij.
+drejtova kah Irena q'ishte ulë kundrejt tij.
 
 — M'ep nji libër, Irenë, se jam mërzitë tepër – i thashë dhe u afrova
 ke bibliotheka. Kapa nji libër dhe e hapa.
@@ -94,13 +94,13 @@ lumnue për jetë. Por kush mund t’i thoshte se?...
 Nji ‘kahkaha’ e fortë e Irenës ushtoi mbrenda kthinës me tingujt e
 hollë të nji kristalit që thyhet. Bana me ikë, por s'munda. Më ndalën
 në vend syt e tij plot shkëndia magnetike. Më mbajtën ata sy që un nuk
-mundem me ua durue shiqimin depertues.
+mundem me ua durue shiqimin depërtues.
 
 — Përse ikni zojushë? Na jemi pamë aq herë sa e ka humbë ma vlerën ai
 kuptim ose qëllim që ju ban me u mshefë prej meje - tha.
 
-Un ende qendrojsha në vend, në kambë. Nji harë e ambël m'a kishte
-pushtu e shpirtin. Librin që kisha në dorë e kisha rrasë mbi zemër,
+Un ende qëndrojsha në vend, në kambë. Nji harë e ambël m'a kishte
+pushtue shpirtin. Librin që kisha në dorë e kisha rrasë mbi zemër,
 pse ajo më rrifte fort. Syt e tij të qeshun, por edhe si lutës, ishin
 ngulë mbi mue si dy projektorë të fuqishëm që t'i terratisin syt.
 Fëtyra e tij dalë-ngadale, më gjajti sikur nisi me u qarkue me do
@@ -169,7 +169,7 @@ përnjimend, kishte nji vullnet të madh, kishte nji veçanti dhe se
 ishte, me të vërtetë, nji kreshnike, nji trashëgimtare e Teutës
 krenare dhe se në dejt e saj vlonte gjaku i nanave Illyriane. Syt e
 saj të butë e t'ambël, herë herë, egërsoheshin, shkrepshin e
-vetëdijshin. Atëhere të dukesh sikur po i shef sqenat e tmershme,
+vetëtijshin. Atëhere të dukesh sikur po i shef sqenat e tmershme,
 sikur lufton me ata që i vranë burrin me dy djelmt e vet dhe mija e
 mija kreshnikë tjerë. Në këtë rasë, nga xixëllimet dhe fikjet e
 paprituna të syvet të saj, zbulohesh lehtas shqetësimi që ia mbushte
@@ -212,7 +212,7 @@ lutem më lejoni t'ju paraqitem si...
 — Epja dorën Dije - briti Irena.
 
 U hutova. E ndiva se u skuqa, pse nji hafsh i nxehtë m'a mbuloi
-shtatin. Me gjithë turpin e math që kisha, dishka më shtynte me iu
+shtatin. Me gjithë turpin e madh që kisha, dishka më shtynte me iu
 bindë dëshirit të tij. Prandaj ia dhashë dorën. Ai u përkul para meje
 dhe m'a shtrëngoi dorën tue më hudhë nji veshtrim t'ambël e të
 thekshëm. I ula syt. Veshtrimi i tij plot shkëndia e përcëlloi zemrën
@@ -225,8 +225,8 @@ kurseni këtë lumni edhe mbas sodi - tha.
 — Ju...Ju…
 
 S'munda me thanë gja, pse nuk isha e zoja t'a urdhënoj vetëhen e të
-gjej nji përgjigje të përshtatshme. Për fat të mirë m'erdhë Irena në
-ndihmë dhe më shpëtoi nga ajo gjend je kritike. Më kapi për krahu dhe
+gjej nji përgjigje të përshtatshme. Për fat të mirë m'erdh Irena në
+ndihmë dhe më shpëtoi nga ajo gjendje kritike. Më kapi për krahu dhe
 m'uli mbi karrike tue më thanë:
 
 — Rri, Dije, e mos fol, se disaherë heshtja asht shprehja ma e fortë
@@ -243,7 +243,7 @@ menjiherë, kam me e mshefë Shpendin në mësandër.
 
 Shpendi bani buzën në gaz. Irena tue e tregue me gisht mësandrën u ul
 buzë dritares që shef kah oborri. Un dridhesha. Dojsha t'i flas
-dishka, por nuk dijsha ç't'i them. Përpiqesha me i gje ë ato fjalë që
+dishka, por nuk dijsha ç't'i them. Përpiqesha me i gjetë ato fjalë që
 netë e ditë me radhë kisha sajue për me ia thanë, por të gjitha i
 kisha harrue. Isha turbullue fare. I kisha ulë syt dhe po rrijsha si
 ndonji pulë e squllosun prej shiut të… djersëve. Ai i dha dum se isha
@@ -253,7 +253,7 @@ pëlqejshin ma fort, a më kandesh muzika dhe të tjera si këto.
 Mu atëhere kur un kisha nisë me u kthjellue, e ndiva zanin e njerkës
 që m'a thirrte emnin. U çova dhe ika mbasi ia shtrëngova dorën. Kur ia
 shtrëngova dorën, si herën e parë ashtu edhe nashti, më gjajti sikur u
-preka nga nji fuqi elektrike që t'a pershkon krejt shtatin me forcë
+preka nga nji fuqi elektrike që t'a përshkon krejt shtatin me forcë
 dhe të ban të dridhesh. Pa dyshim ishte fuqia e dashunis ajo që m'a
 rrëqethi trupin me nji të prekun të dorës. Oh sa fort e dashunoj! Më
 duket se po shkallis prej ngucjeve të parreshtuna që më ban zemra. Oh
@@ -269,9 +269,9 @@ s'kishte me se me luejtë. I kërkoi s'amës nji koron që të blente nji
 tjetër, por ajo s'i dha. E pashë se u pezmatue shum. U ul në nji kand
 të kthinës dhe nisi me shfry tue true me vetëhe. M'u dhims. U afrova
 dhe i hudha nji koron. Kur e pa koronin në prehën, menjëherë, brodhi
-në kambë dhe m'u hudh në qafë. Më puthi e më shtrungoi me dashuni.
+në kambë dhe m'u hudh në qafë. Më puthi e më shtrëngoi me dashuni.
 
-— T'a kthej neser - më tha mandej.
+— T'a kthej nesër - më tha mandej.
 
 — S'e due. T'a kam falë - gjegja.
 
@@ -304,13 +304,13 @@ et.
 
 — Po - gjegji Meti me të shpejtë.
 
-— E çfarë shoqnije mund të baj me ty? - i tha em atë me nji farë për
-buzje.
+— E çfarë shoqnije mund të baj me ty? - i tha em atë me nji farë
+përbuzje.
 
-— Pse? A s't'a mbush syn a?..... - ia bani Meti i prekun në sedre.
+— Pse? A s't'a mbush syn a?... - ia bani Meti i prekun në sedre.
 
-— Jo. S'po them gja, por nuk marr vesh se si don me u bamë shok me mue
-- shpjegoi im atë.
+— Jo. S'po them gja, por nuk marr vesh se si don me u bamë shok me mue -
+shpjegoi im atë.
 
 — Njashtu ma! Si bahen gjith bota - tha Meti.
 
@@ -320,7 +320,7 @@ Të gjithë pritshim me padurim e me veshë të ngrehun se çfarë përgjigje
 do t'epte.
 
 — Qeh se si: Ç'të kem un kam me të dhanë ty e ç'të kesh ti ke me më
-dhanë mue. Kush të të ngasi ty kam me të dalë zot une kush të më ngasi
+dhanë mue. Kush të të ngasi ty kam me të dalë zot un e kush të më ngasi
 mue ke me më mprojtë ti - shpjegoi me serjozitet.
 
 Të gjithëve na shpërtheu gazi. Meti e ktheu kryet kah un dhe m'a
@@ -333,7 +333,7 @@ shkrepi syn.
 — Ndoshta. Por ty, veç kësaj, të rref jot amë, yt vëlla e motrat,
 kurse mue nuk guxon kush me më prekë me dorë.
 
-— E për këto të mira deh du e me u bamë shok me ty - ia priti Meti.
+— E për këto të mira de due me u bamë shok me ty - ia priti Meti.
 
 Gazi shpërtheu përsëri.
 
@@ -341,7 +341,7 @@ Gazi shpërtheu përsëri.
 
 — M'a ep dorën - tha Meti dhe e zgjati të vetën.
 
-— Përse me t'a dha në dorën?
+— Përse me t'a dhanë dorën?
 
 — Të m'a japish besën se nuk do të m'a bajsh me hile dhe se nuk do të
 luejsh prej fjalës.
@@ -394,7 +394,7 @@ dajë Haxhiu. Un s'dojsha me shkue se si më dukesh sikur do të largohem
 për gjithmonë prej Shpendit, por ajo nguli kambë dhe më muer. Ndejta
 tri net. Sot u ktheva. Dajë Haxhiu u gëzue shum kur na pa. E porositi
 të shoqen që të na bante dreka e darka të mira. Mbasandaj u kthye kah
-Fahrija dhe i dha të kuptoje se asaj i takonte me më zbavitë me lojna
+Fahrija dhe i dha të kuptojë se asaj i takonte me më zbavitë me lojna
 e hoka.
 
 — Lueni si në fëmini - tha tue u drejtue kah un. - Besoj se ju
@@ -450,7 +450,7 @@ tija enigmatike. Ma në fund solla besim se atij i vinte keq për
 fatkeqësin t'onë.
 
 — Pse dëshirove të mbetemi të vogla edhe për disa vjet? - e pyeti
-Fahrija kur u kthye në mbrame.
+Fahrija kur u kthye në mbramje.
 
 — Përse? - Sepse sot shumica e mashkujve nuk i shofin punët t'ueja
 edhe me syt e femnës. Ata gjykojnë sikundër u pëlqen pa i përfillë të
@@ -482,7 +482,7 @@ shtatit.
 
 — Asht e dijtun.
 
-— A t'i hjekim, pra, çarçafët? - pyeeti Fahrija.
+— A t'i hjekim, pra, çarçafët? - pyeti Fahrija.
 
 — Jooo.
 
@@ -494,7 +494,7 @@ ata llome që ia kanë ngjitë fes - gjegji.
 — Q'u thue gocave ashtu mor burrë? - i tha e shoqja që kishte ardhë
 pak ma parë dhe i kishte qëndrue mbas shpine.
 
-— Të vërtetën moj grue - përgjigj, mbasi e kthei kryet mbrapa dhe e
+— Të vërtetën moj grue - përgjigj, mbasi e ktheu kryet mbrapa dhe e
 pa.
 
 — Si? Don me i qitë jashtë pa çarçaf?
@@ -570,7 +570,7 @@ s'jam djalë dhe si femën nuk mundem me e nxjerrë zanin.
 
 Sot në mëngjes, mbasi ika nga dajë Haxhiu, bashkë me Fahrijen shkova
 ke ajo, ku qëndrova nja nji orë. Ndërkohë erdh Bedrija, nji e njoftuna
-e Fahrijes. Kjo ishte nji vajzë nja 16 veçare, sy e vetull zezë, shtat
+e Fahrijes. Kjo ishte nji vajzë nja 16 vjeçare, sy e vetull zezë, shtat
 hollë, buzë trashë, dhambë bardhë, hundë drejtë dhe qafë gjatë. Me nji
 fjalë ish mjaft e bukur. Kishte ardhë me marrë do figura lulesh për me
 qëndisë dishka. Mbas përshëndetjes dhe mbasi ia dha figurat e pyeti
@@ -579,7 +579,7 @@ Fahrija:
 — Hej Bedrije! Si i ke punët nashti me at djaloshin që rrin në shtëpi
 t'ande?
 
-— Mirë - gjegji ajo mbasi shiqoi kah un pak si me droje .
+— Mirë - gjegji ajo mbasi shiqoi kah un pak si me droje.
 
 — Kjo asht kushrina e eme - tha Fahrija tue më tregu mue. - Mos druej!
 Fol!
@@ -594,7 +594,7 @@ Nashti ka fillue me më folë ambël e...
 — Po pse i shkrove letër, kurse ti e ke në shtëpi dhe e takon për çdo
 ditë?
 
-— Në letër i kam shkrue edhe dishka tjetër. Mbarsandaj më vinte turp
+— Në letër i kam shkrue edhe dishka tjetër. Mbasandaj më vinte turp
 t'i thom me gojë.
 
 — A! Po a shpreson se ka me t'u përgjigjë?
@@ -604,11 +604,11 @@ t'i thom me gojë.
 — Hej! - bani Fahrija dhe, mbasi u mendue pak, pyeti: A e more vesh se
 nga asht?
 
-— Po. Asht Kosovar. Ka vetëm nji nanë plakë dhe nji motër .
+— Po. Asht Kosovar. Ka vetëm nji nanë plakë dhe nji motër.
 
 — Po emnin a ia mësove?
 
-— Po. Shpend e quejnë, por un e thrres veshshpu em, pse e ka të shpuem
+— Po. Shpend e quejnë, por un e thrres veshshpuem, pse e ka të shpuem
 veshin e majtë.
 
 — A! - bani Fahrija si e topitun dhe e mpime.
@@ -628,7 +628,7 @@ Dëshprimi m'i mveshi syt me nji hije të zezë dhe nga thellësia e
 zemrës ndiva të ngjitet përpjetë nji valë përvëluese për t'u shprazë
 nga syt e mij si nji lang i nxehtë e helmatues. Prandaj i ula syt. Po,
 i ula se nuk dojsha të më diktojë ajo që un tash e urrejsha si shemrën
-t'eme. Megjithëatë nuk qava, dhe tue i ka fshue buzët, e frenova
+t'eme. Megjithëatë nuk qava, dhe tue i kafshue buzët, e frenova
 furin. Kur i ngrita syt pashë se edhe Fahrija ishte zbemë fare.
 
 — Ç'ke - e pyeta pa dashas.
@@ -651,7 +651,7 @@ nuk shkova t'a shof kur u ktheva dje në shtëpi. Ma në fund e shfaqi
 çudin e vet se si kisha ndejtë tri ditë e tri net larg... shtëpis. Më
 duket se ajo e ka hetue se shka asht grumbullue në zemrën t'eme që
 flet kësodore, megjithqë pak mbylltas. Ajo, natyrisht, habitesh se
-qysh kisha ndejt e tri ditë larg Shpendit e jo larg shtëpis, por këtë
+qysh kisha ndejtë tri ditë larg Shpendit e jo larg shtëpis, por këtë
 nuk e tha. Të them të drejtën un s'dojsha me ndejtë, por më mbajtën.
 Dhe u mërzita aq shum sa qeshë tue plasë. Me gjithë këtë, me mend e me
 zemër, jetova këtu, pranë atij që e dashunoj me të gjitha fuqit e mija
@@ -676,7 +676,7 @@ parreshtuna që më drejton për ty - tha ajo mbas pak.
 Ajo nuk i dha dum zanit t'em që duel jo nga gërmazi, por nga thellësit
 e zemrës së plasun.
 
-— Gjithshka: ku asht? Ku ka shkue? Pse ka shkue? Sa do të qindrojë dhe
+— Gjithshka: ku asht? Ku ka shkue? Pse ka shkue? Sa do të qëndrojë dhe
 nji varg të gjatë si këto. Ai gjithnji pyet për ty dhe tash besoj se
 të njef fare mirë - gjegji Irena.
 
@@ -688,7 +688,7 @@ të njef fare mirë - gjegji Irena.
 
 — Sepse më pyet.
 
-— Në të pyet, ti mos iu përgjiq.
+— Në të pyet, ti mos iu përgjigj.
 
 — A mundem se?!
 
@@ -707,13 +707,13 @@ hudh e më rroku për qafe.
 Nji copë herë më shtrëngoi e më puthi me nji dashuni shum ma të madhe
 se atë që ushqen për mue. Mue m'ishin mbushë syt me lot, pse e ndijsha
 dashunin e pastër të saj dhe se pse zemra e eme, e plagosun randë nga
-marrdha njet e Shpendit me Bedrijen, vëlonte prej dëshprimit. Mbas pak
+marrdhanjet e Shpendit me Bedrijen, vlonte prej dëshprimit. Mbas pak
 çastesh u zhgreha në vaj dhe qava mirë e mirë, plotsisht si ato që
 duen të shfrejnë e të shpaguhen në vetëvetëhe për gabimin trashanik që
 kanë bamë tue i dhanë llas zemrës. Irena m'argëtoi dhe u përpoq të më
 qetsojë. Kërkoi t'a marri vesht shkakun e këtyne lotve të derdhun me
 aq furri, por nuk ia thashë. Po, nuk i thashë, se due t'a ndryej
-mbrenda zemës atë tinëzi që deri sot për mue qe ma se e shenjtë dhe
+mbrenda zemrës atë tinëzi që deri sot për mue qe ma se e shenjtë dhe
 mbas sodi ka me qenë si nji plagë vdeksuese e trashëngueme nga nji
 betejë e humbun...
 
@@ -723,7 +723,7 @@ Eh jetë. Qofsh shue! Eh dashuni... Qofsh mallkue!
 
 Qysh atë ditë që u ktheva nga dajë Haxhiu nuk kisha shkelë në shtëpi
 t'Irenës, megjithqë ajo më ishte ankue dhe më kish ftue. Nuk kisha
-shkue, por me e thanë të drejtën ky vendim më kushtoi shum shtrehjt,
+shkue, por me e thanë të drejtën ky vendim më kushtoi shum shtrejt,
 pse e pagova me disa mij hofkëllime dhe me ca litre lot. Me nji anë
 drojsha se mos e ndeshi at... - ah atë - dhe m'anë tjetër dojsha t'a
 shof, të paktën, për së largu. Shpesh më kapshin rrebet dhe e
@@ -733,7 +733,7 @@ foshnje: Kërkojsha t'a mbys por me kusht që t'a ngjall rishtazi!...
 Mamë Gjystina dhe njerka qysh dje kishin vendosë me shkue sot diku në
 vizitë. Njerka përpara se të nisesh më porositi t'a mbylli portën prej
 mbrenda. Me qenë se edhe fëmijt nuk ishin në shtëpi, sa duel ajo, e
-mbylla portën dhe u ula në lulishtë, kur kujtojsha se do t'i qetsoj
+mbylla portën dhe u ula në lulishte, kur kujtojsha se do t'i qetsoj
 nervat tue lexue në nji libër. Pa kalue shum kohë erdh Irena dhe më
 ftoi me shkue në shtëpi të sajë për me më diftue dishka interesante.
 Refuzova dhe nji copë herë nuk iu binda, por ma në fund u përkula nga
@@ -753,7 +753,7 @@ shqetsue.
 
 — Përse? - pyeti i premë.
 
-— Sepse ti je katil.... - thirra me të tanë forcën e urrejtjes që më
+— Sepse ti je katil... - thirra me të tanë forcën e urrejtjes që më
 kishte grumbullue zilia në zemër.
 
 — Ç'thue Dije? - m'a bani Irena tue më shkundë për krahu.
@@ -762,10 +762,10 @@ kishte grumbullue zilia në zemër.
 guximshëm që epte të kuptohet se dojsha të matem me të për t'u
 shpague.
 
-Fëtyra e tij, menjiherë, u zbe. Mbasndaj u mbulue prej nji hijes
+Fëtyra e tij, menjiherë, u zbe. Mbasandaj u mbulue prej nji hijes
 melankolike. Edhe syt e mij ishin errësue prej lakmis së shpagimit
 kundrejt atij që kishte qenë idoli i zemrës s'eme. Prandaj po e
-shifsha turbull, si t'isht e rrokulluem prej reve të zeza.
+shifsha turbull, si t'ishte rrokulluem prej reve të zeza.
 
 — Un qenkam katil!? Cilin vrava? - pyeti i turbulluem.
 
@@ -797,7 +797,7 @@ Shpendit.
 
 — Shif, Dije, se si qan Shpendi për ty - më tha Irena.
 
-— Qan për Bedrijen i . . . poshtmi - gjegja me zemrim, por me za të
+— Qan për Bedrijen i... poshtmi - gjegja me zemrim, por me za të
 këputun.
 
 — Për cilën Bedrije? - pyeti ajo e habitun.
@@ -837,7 +837,7 @@ durimi.
 
 — Poh - thashë dhe i mbylla syt.
 
-— O shpirt! - thirri ai më nji za që gjante sikur dilte nga megjet e
+— O shpirt! - thirri ai me nji za që gjante sikur dilte nga megjet e
 nji zemrës së zhuritun prej flakëve shkrumnuese të dashunis.
 
 Buzët t'ona ishin bashkue dhe lotët ishin përziem me të njeni tjetrit.
@@ -852,12 +852,12 @@ lot, pushtova nji zemër që vlen ma shum se mbretnit e tyne.
 ## 27 Korrik
 
 Tash gati çdo ditë takohem me Shpendin. Ndihma e Irenës, në këtë mes,
-ka luejtë rolin kryesuer. Ajo, sikundër e lehtësoj afrimin dhe e
+ka luejtë rolin kryesuer. Ajo, sikundër e lehtësoi afrimin dhe e
 përgatiti sheshin e bashkimit t'onë, nashti vazhdon të na përkrahi tue
 na dhanë lehtësina të ndryshme për me u takue me njeni tjetrin. Ajo
 asht e kënaqun pse arrini me na pamë të marrun vesh në mes t'onë dhe
 të dehjun nga dashunia. Na rrëfen se si e ka zbulue dashunin t'onë, si
-asht kujdesur që të mos hetohemi prej tjerve dhe, ma në fund, si asht
+asht kujdesue që të mos hetohemi prej tjerve dhe, ma në fund, si asht
 përpjekë që të na bashkojë. Mbasi mbaron kallzimi, nis me na përqeshë
 tue i shkërbye sjelljet e gjeset t'ona. Atëhere na shpërthejmë në gaz
 dhe qeshim me të madhe. Ven në shpoti ma fort dobësin e nervave të
@@ -868,12 +868,12 @@ mirë. Tash atë e due ma fort se përpara, pse asht edhe shoqja e
 tinëzive të mija. Të gjitha ret e dyshimit e të mosbesimeve, që
 rrijshin vjerrë e pezull mbi kokën t'eme, tash janë zhdavaritë.
 Shpendi e ndrroi shtëpin. Iku prej Bedrijes, prej asaj që me rrenat e
-saja që tue më ba me luejtë mendsh. Ai më dashunon me gjith shpirt dhe
+saja qe tue më ba me luejtë mendsh. Ai më dashunon me gjith shpirt dhe
 ndoshta ma fort se sa meritoj. Ai tash më duket ma i ambël, ma i
 shoqnueshëm dhe ma i afër ke zemra e eme. Disa herë orë të tana
 kalojmë tue u fjalosë vetëm e vetëm për t'a matë dashunin e njeni
 tjetrit. Tashma jetojmë bashkë, pse edhe në gjumë andrrojmë për shoqi
-shoqin. Un e ndjek dhe e përcjell, me mend, në te gjitha orët e ditës.
+shoqin. Un e ndjek dhe e përcjell, me mend, në të gjitha orët e ditës.
 Sigurisht edhe ai si un asht. Çdo punë e çdo mendim kërkojmë t'ia
 përshtatim dashunis s'onë. Ajo që nuk pajtohet me natyrën e dashunis
 s'onë, për ne, nuk ka vlerë, nuk ka jetë. Oh se ç'qenka njeriu që
@@ -881,7 +881,7 @@ dashunon. Ai qenka nji pus i pashterrun ndiesish dhe goja e tij nji
 kovë shprehjesh dashunije. Se ku gjinden gjitha ato fjalë! Edhe un
 çuditem se nga burojnë gjitha ata dëshira e lakmi që për ndokend do
 t'ishin foshnjarake, por për ne janë tepër të çmueshme dhe t'arta. Sa
-shpejt ik ora se?! Ajo nuk ndihet fare dhe; kundër dëshirit t'onë,
+shpejt ik ora se?! Ajo nuk ndihet fare dhe, kundër dëshirit t'onë,
 fluturon me krahë të lehta dhe krahas me rrezet e shpejta të diellit.
 
 ## 30 Korrik
@@ -928,7 +928,7 @@ njerkës apo fëtyrën rumbullake të hallës që asht plot rrudha, taman si
 nji... sahan sutlash?... Oh sa fanatike janë këto plakat t'ona.
 
 Kur u mbyll porta tue kërsitë me zhurmë mbas shpinës së tij, krisi
-poterja mbrenda shtëpis. Njerka e rroku Rizanë dhe ia zbuti shpinën,
+poterja mbrenda shtëpis. Njerka e rroku Rizain dhe ia zbuti shpinën,
 pse ai kishte hymë mbrenda me burrin e huej pa lajmue fare. Po!...
 Mbasandaj u kthye kah un dhe nisi me më shamë, pse nuk isha mshefë,
 menjiherë, prej katundarit. Edhe halla u bashkue me të. Nji copë herë
@@ -936,15 +936,15 @@ më shanë dhe më paralajmuen se do të digjesha në flakët e pashueshme
 të Xhehenemit, mbasi më kishte pamë ai katundari. Vall ç'do të thoshte
 nji shoqe e qytetnueme Europjane po t'a shifte këtë skenë dhe po t'i
 ndigjonte këto përbuzje e kërcnime? Kush e din. Ndoshta ajo nuk do t'u
-besonte syvet e veshëvet të vet dhe do të kujtonte se ka par në nji...
+besonte syvet e veshëvet të vet dhe do të kujtonte se ka [pamë] nji...
 andërr të keqe.
 
 ## 2 Gusht
 
-Dje Meti, tue u zanë me Feriden, kisht e thye nji xham. Për kët shkak
+Dje Meti, tue u zanë me Feriden, kishte thye nji xham. Për kët shkak
 njerka e rrafi, ashtu si më rrifte mue dikur, tue i ramë me grushta
 krës dhe tue e përplasë për muri. M'u dhims djali që ulërinte. Prandaj
-shpejtova me e shpëtue, por ajo nuk e leshonte, se donte te shtrejë e
+shpejtova me e shpëtue, por ajo nuk e lëshonte, se donte të shfrejë e
 të ngopet në të. Fjalët e lutjet e mija nuk mundën me e zbutë.
 Vazhdonte t'i sjelli. Ma në fund e kapi djalin për fyti, me të dyja
 duert, dhe nisi me e shtrëngue.
@@ -990,14 +990,14 @@ Më mëshoi me të tanë forcën e vet dhe më përplasi për dheu. Un klitha
 e lemerisun dhe mbeta si gjysmë e vdekun. Ndërkohë arrini mamë
 Gjystina dhe Irena. E larguen njerkën dhe qëndruen ke kryet t'em. Të
 dyja më shiqojshin me dhimbje të thellë. Më ndihmuen me u çue e me e
-lamë fëtyrën që m' ishte ndragë, pse edhe mue më kishte shpërthye
+lamë fëtyrën që m'ishte ndragë, pse edhe mue më kishte shpërthye
 gjaku nga goja e nga hunda. M'i ndrroi robet Irena dhe, bashkë me mamë
 Gjystinën, më çuen në shtëpi të tyne. Em atë as më pyeti se si ndodhi
 ngjarja. Më hudhi disa veshtrime t'egra dhe zu me hofkëllue në shenjë
-zemrimi. Me kaq muer fund ngjarja, por un jam e dobët dhe vazhdoi të
-nxjerr gjak. I thashë t'im et që të më sillte nji mjek, por s'e ça u
+zemrimi. Me kaq muer fund ngjarja, por un jam e dobët dhe vazhdoj të
+nxjerr gjak. I thashë t'im et që të më sillte nji mjek, por s'e çau
 kryet fare. Sonte kam ethe, dhimbje koke dhe jam e raskapitun fare.
-Veç kësaj kam qitë edhe mjaft gjak nga goja. Më duket sikur po me
+Veç kësaj kam qitë edhe mjaft gjak nga goja. Më duket sikur po më
 shkatrrohet krahërori. Shkaktarja e këtij lëngimi asht eme njerkë. Dhe
 përse? Sepse dojsha me e shpëtue të birin nga vdekja e sigurt q'ajo
 vetë donte me i shkaktue. Kësajë grueje, që s'ka dhimë e mëshirë për

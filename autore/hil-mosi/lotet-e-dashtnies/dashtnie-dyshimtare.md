@@ -10,8 +10,8 @@ order: 83
 > Sei offen, flieh nicht meinen Blick!
 > Früh oder spät musst' ich's entdecken,
 > Und hier hast du dein Wort zurück.
-> 
-> Goethe.
+>
+> — Goethe.
 
 Pse mu po m'lên n'dyshime?
 Pse kaq e frigshme je,
@@ -25,5 +25,5 @@ Munt t'm'hjekish t'gjith dyshimet.
 
 Pse mu kështu t'pa qetun
 Për s'shpejtit don me m'lân?
-Ti veç nji fjal me m'thân ...
+Ti veç nji fjal me m'thân.....
 S'do t'm'vin keq q'mu m'lên vetun.

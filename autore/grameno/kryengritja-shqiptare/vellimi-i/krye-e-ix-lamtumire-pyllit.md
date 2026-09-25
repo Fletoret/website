@@ -76,7 +76,7 @@ hapte këtë udhë që të vepëronim lirisht. Se është e drejtë që po të n
 lenë Grekrit të lirë Korfuzin do të mundim të vepërojmë fort mirë në
 Shqipëri.
 
-Dyke biseduar për mbi shumë vepërime, që duheshe të moushim, vendosmë
+Dyke biseduar për mbi shumë vepërime, që duheshe të mbushim, vendosmë
 për një goditje të madhe, kështu që Çerçizi me Asimin shkuan në
 Gjinokastrë, edhe unë me Zemanin edhe me Myftarin në Kardhiq. Myftari
 ishte shëruar krejt nga plaga po një cifle i vërtiteshe nënë lëkurë!
@@ -169,7 +169,7 @@ Ah! ç'ndjeva, un'i gjori, në këtë zemër?! Mishrat m'u drodhë si
 purteka, leshrat m'u ngritnë përpjetë edhe humba çdo gjykim! Abdyl
 Mersini, i cili ndodheshe pranë meje edhe i cili kish djalën e vet
 lenë në shtëpi, me të dëgjuar këtë gjëmë, nga e dëshpëruara nënë, me
-vrap sulet në mest të tymit e të flagëvet, dyke vëuë jetën e tij në
+vrap sulet në mest të tymit e të flagëvet, dyke vënë jetën e tij në
 rezik, ryn brenda, rëmben djalën edhe e shpëton nga vdekja!
 
 Burrëria, kalorësia edhe shpirtmadhësia e Abdylit nuku ka shëmbëll
@@ -184,7 +184,7 @@ as gjësendi në botë!
 
 Si mbaruam me zjaret edhe, pas vendimit e kërkimit të komitetit
 Gjinokastrës, duheshe të vrasëm ose varëm dy shpirt dëgjohen të
-xbrazura prej pushkasb, jashtë fshatit. U shtrënguam të shkojmë se
+xbrazura prej pushkash, jashtë fshatit. U shtrënguam të shkojmë se
 pandyhem që shokët lëftonin me andarët ose me ushtërinë. Muarmë me
 vete priftin e myftarin e duallmë përjashta, kur atje mësojmë që
 shokët kishin xbrazur, për të mos lënë fshatarët që të delnin
@@ -195,7 +195,7 @@ ca male të lartë shumë e të fortë, po, pa arrirë në rëzët, hapet një
 zjar i reptë kundra nesh që do të na grinte të gjithëve. Zjarë e hapnë
 ca xhandërma edhe trimat e fshatit, të cilët manin grykën, me qënë që
 s'andejmi hidheshin andarët në Shqipëri nga Greqia. Lëftuam edhe atje
-nja dy orë gjer arrimë të knptonemi që të mos vritemi me kot, pastaj u
+nja dy orë gjer arrimë të kuptonemi që të mos vritemi me kot, pastaj u
 ngjitmë në malet të Koshovicës.
 
 Të lodhur shumë edhe të dermuar qendram të çëlodhemi pakëzë edhe të
@@ -254,9 +254,9 @@ madhe sa u tmeruam që të gjithë. Unë besonj që ishte nonjë trup
 qellorë, me qënë që në rezim të tij u dëgjua një buçim i math shumë.
 
 Ndejmë gjer më të ngrysur në malet e Sotiros, dyke lënë të mjerët
-ushtarë që të na kërhonin neve, pastaj, si hënrgëmë mirë, u hothmë,
+ushtarë që të na kërhonin neve, pastaj, si hëngrëmë mirë, u hothmë,
 përtej, në malet e Libohovës. Dyke ecur, siç duhet, në një rugë të
-ngushtë arrimë me të lindnr djelli në një krua, në rëzët të nji fshati
+ngushtë arrimë me të lindur djelli në një krua, në rëzët të nji fshati
 të vogël. Këtu u çëlothmë pakëzë edhe, si ndezmë cigaret, muarm të
 përpjetën gjer duallmë në malet, ku ndodheshin stanet.
 

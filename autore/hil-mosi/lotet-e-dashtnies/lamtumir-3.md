@@ -13,7 +13,7 @@ Se erdh koha per m'u damun,
 Erdh ky ças kaq fort i vshtir.
 
 Lamtumir! Ket fjal tuj t'thânun
-Shum kujtime n'mênt me shkojn—
+Shum kujtime n'mênt me shkojn —
 Sa n'ket ças qi jam tuj t'lânun
 Lotët syt jan kah m'i mblojn.
 

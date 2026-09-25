@@ -17,7 +17,6 @@ Ajo t'gjith shênt e ver.
 
 « T'ishe un nji kreatyr,
 Mâ bukra lule ne natyr,
-
 E jo nji vjollc e lânun!..
 E n'dur të dashtna t'saja t'rri,
 E mu t'me mbajn shterngu në gji

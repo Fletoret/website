@@ -24,4 +24,4 @@ Se s'kam me t'a rrëfy!
 Tri vjet un t'a kam mblu
 Dashtniën qi kam për ty,
 Dhe n'kjoft q'un ty të du,
-Dashtniën kam m'e mbajt ndry!
+Dashtniën kam m'e mbajt ndry! —

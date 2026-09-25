@@ -15,11 +15,11 @@ order: 0
 
 <center>
 
-A. Gjergj Fishtës, O. F. M.
-AUKTORIT T'»*LAHUTËS S'MALCIIS*»
-E SAA SHKRIMEVE TJERA
-N'PÊNG T'NNISIIS KOMJARE
-KTO FLETË ATDHEDASHTNIJET
+A. GJERGJ FISHTËS, O. F. M.\
+AUKTORIT T'«*LAHUTËS S'MALCIIS*»\
+E SAA SHKRIMEVE TJERA\
+N'PÊNG T'NNISIIS KOMJARE\
+KTO FLETË ATDHEDASHTNIJET\
 JA TRUËN ME MALLË
 
 Shkruësi
@@ -34,7 +34,7 @@ Shkruësi
 
 </center>
 
-> »..... Sokrati nnoq Platonin, Platoni Arristotelin, Arristoteli Averroen; Cecili muër prejë Sulpicit, Lelij prejë Varronit, Hennij prejë Horacit, Seneka prejë Gjellit, Thesali prejë Galenit, Hermagora prejë Ciceronit, e Ciceroni vet muer prejë Salustit.»
+> «..... Sokrati nnoq Platonin, Platoni Arristotelin, Arristoteli Averroen; Cecili muër prejë Sulpicit, Lelij prejë Varronit, Hennij prejë Horacit, Seneka prejë Gjellit, Thesali prejë Galenit, Hermagora prejë Ciceronit, e Ciceroni vet muer prejë Salustit.»
 >
 > — Emzot P. Bogdani, «Cuneus».
 
@@ -43,7 +43,7 @@ Due me thanë, se gjaa prejë vedit nuk qita n'kto pak rreshta, por veç shka mo
 Sido kjoftë ky liber, pelqeje, o vllaa atdhetaar, e maje si nji dhantii qi bûnnoj prejë loçkes s'zêmres t'atii qi t'ngiatëjeton e t'falet Shqyptarçe!
 
 Gomsiqe - Gojani i poshter - n'Mirëditë,\
-Me 14. t' Kallnnorit, 1910
+Me 14. t'Kallnnorit, 1910
 
 A. Shtjefni Konstantini Gjeçov,\
-*prejë Urdhnit t' Vllazenve t' Vogjel t' Shqypniis*
+*prejë Urdhnit t'Vllazenve t'Vogjel t'Shqypniis*

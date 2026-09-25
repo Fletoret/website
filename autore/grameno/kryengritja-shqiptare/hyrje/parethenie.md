@@ -25,11 +25,11 @@ Kur se kombi ynë fatzi ndodheshe në robëri, ishte edhe i dënuarë që të
 çkombësohet, pa e ndjëre këtë gjëmë kaqe të madhe, të turpçme edhe të
 rezikçme, as pak fatzinjtë Shqipëtarë! Nuku ishte shkaku i ndryshimit
 fetar, midis Shqiptarëvet, as përdorimi i forcës, as i shkallëve të
-nalta që u-jepnin, as dhelpërit, as shtrëngimiti math, që përdornin
+nalta që u-jepnin, as dhelpërit, as shtrëngimi i math, që përdornin
 armiqët, po ishte përdorimi i shkollës!
 
-Me anën të shkollavet përpiqeshin që t'i përçajnë. t'i armiqësojnë,
-midis tyre. edhe më këtë mënyrë t'i çkombesojnë. Jo që t'u humbisnin
+Me anën të shkollavet përpiqeshin që t'i përçajnë, t'i armiqësojnë,
+midis tyre, edhe më këtë mënyrë t'i çkombesojnë. Jo që t'u humbisnin
 gjuhën e tyre të nënës, jo; e dinin fort mirë që gjuha amtare nuku
 humbet lehtë, edhe aqe më tepër në kombi Shkiptar, po ishtë tjatër
 mënyrë. Në ato shkolla do të mësoheshin, pa dyshim, ne gjuhën e tyre
@@ -41,13 +41,13 @@ të Shqipërisë? Që në krye, domethënë të foshnjërisë, të kllisnin dyke
 mësuar nga nonjë emër trimi, të cilit i vinin edhe fytyrën herojike,
 të veshur me lloji lloji petka edhe të armatosurë që në krye gjer në
 këmbë! Çunat e vegjel si edhe vajzat çudideshin me genjeshtrat e
-përallat trimnore. q'u tregonin mësonjësit e mësonjeset, edhe u
-mbeteshe për tëtë rënjosurë në zemrë. Dale gadale, pas të riturit të
+përallat trimnore, q'u tregonin mësonjësit e mësonjeset, edhe u
+mbeteshe për [jetë] rënjosurë në zemrë. Dale gadale, pas të riturit të
 fëmijës, u shtonin këto mësime gjer i kllisnin në për historitë plot
 me të rema edhe më von të vërteta, gjer arrinin çunat t'a kishin për
 turp të quheshin Shqiptarë! Edhe jo kaqe vetën; po riteshin me
 ndjenjat që një ditë të bëheshin edhe ata therorë, si trimat e
-historisë, për atdheun. po, për fat të zi, për një atdhe të huaj edhe
+historisë, për atdheun, po, për fat të zi, për një atdhe të huaj edhe
 armikë!
 
 Sa djem prej kombit Shqiptar nuku janë bërë therorë dyke nderuar e
@@ -72,8 +72,8 @@ mekat edhe kurrë mos zemë të këtilla libra me dorë. Lumtërisht, përveç
 meje, zuri rënjë ndjenja kombëtare edhe në shumë bashkënxënës, nga të
 cilët sjell nër mënt Nuçi Buzon, Kristo Floqin, Foqion Dr. Turtulli,
 Thoma Avramin, Spiro Duçin etj, kështu që pastaje e kishim për turp që
-të mos quheshim Shqiptarë! Në 1885 shkova për në Lomani edh'atje gjeta
-fushën të hapur për të xvilluar e punuar 40 vjet, gjer sot, për rë
+të mos quheshim Shqiptarë! Në 1885 shkova për në Romani edh'atje gjeta
+fushën të hapur për të xvilluar e punuar 40 vjet, gjer sot, për të
 shenjtin qëllîm të atdheut t'im të shtrenjtë.
 
 Këto më shtytnë që të shkruanj e botonj librin « Kryengritja Shqiptare
@@ -83,7 +83,7 @@ kanë hequr vëllezërit edhe atrit e tyre, për të arrirë me therorira të
 mëdha ditën e sotme, ditën e shenjtë që të valonjë flamuri dykrenor
 kombëtar mbi Republikën Shqipëtare!
 
-Siç thamë. në krye, dorëshkrimin e pata shkrojtur më 1908 edhe prisnja
+Siç thamë, në krye, dorëshkrimin e pata shkrojtur më 1908 edhe prisnja
 kohën që t'a shtyp, përjashta, kur se përsëri Tyrqit zunë ndjekjet
 kundra kombit Shqipëtar. Ju pregatit më prapë kryengritjes po, nga
 shkaku i baskenevet të përditëshmë që më bënin, dorëshkrimin ja dhashë
@@ -100,7 +100,7 @@ dyke kërkuar midis plaçkavet gjeti dorëshkrimin. Sa gëzim që ndjeva
 është e pamundurë që t'a tregonj. Desha me vrap që t'a botonj po një
 sëmundje më hodhi në shtrat, ku ndenja 9 muaj pa parë djellin më sy.
 Me gjithë sëmundjen mëndjen e kisha tek libri edhe me ndihmën të
-adhetarit vyer Dr. Satih R. Zavalani që vuri gjithë shkëncesinë për
+atdhetarit vyer Dr. Satih R. Zavalani që vuri gjithë shkëncesinë për
 shërimin t'im kombëtarisht d. m. th. pa pagerë, shkrojta gadale edhe
 vëllimin të 2<sup>të</sup> me qënë e perzjerë në kryengritjet, që
 pasuan edhe mora anë në të gjitha.
@@ -122,10 +122,9 @@ Mbaruar më 17 Maj 1925, në Korçë.
 Bërësi <br>
 **Mihal Grameno**
 
-* * *
+***
 
-![Nga Baballarët e Kombit <br> Naim Frashëri 1846 -
-1900](/images/kryengritja-e-shqiptareve/naim-frasheri.jpg)
+![Nga Baballarët e Kombit <br> Naim Frashëri 1846–1900](/images/kryengritja-e-shqiptareve/naim-frasheri.jpg)
 
 ![Themistokli
 Gërmenji](/images/kryengritja-e-shqiptareve/themistokli-germenji.jpg)

@@ -1,21 +1,21 @@
 ---
-title: Kombëri' e Shqipëtarëvet.
+title: Kombëri' e Shqipëtarëvet
 author: Sami Frashëri
 respectLineBreaks: false
 parent: Ç'është Shqipëria
 grandparent: Shqipëria
-order: 6
+order: 16
 ---
 
 Për njerinë në këtë jetë s'ka gjë m'e vjejtur' e m'e
 dashurë se kombërija. Çdo njeri, sikundrë do t'an' e
 t'ëmënë edhe vëndinë, tek ka lindur' e është riturë, ashtu
-do edhe kombin' e ti. Ay që s'do kombin' e mëmëdhen' e-ti,
+do edhe kombin' e ti. Ay që s'do kombin' e mëmëdhen' e ti,
 është trathëtor e i lik; i tilli s'munt të quhetë njeri.
 Shqipëtarëtë më teprë se çdo komp, e duanë e e nderojnë
-kombin' e mëmëdhen' e tyre. Shqipëtar' i-vërtetë vritetë
+kombin' e mëmëdhen' e tyre. Shqipëtar' i vërtetë vritetë
 për kombërit të ti edhe s'munt kurrë të duronjë e të
-dëgjonjë njeri t'i shanjë shqiptarinë. N'anërat tona të
+dëgjonjë njeri t'i shanjë shqipëtarinë. N'anërat tona të
 lindjes njerëzitë vënë kurdo besënë përpara kombërisë;
 një Grek, për pasqyrë, me të ndruarë besënë, le edhe
 kombërinë, edhe në u bëftë katholik thotë jam Frënk, në
@@ -37,7 +37,7 @@ madhe shënj' e një kombërije. Gjuha me se mbahetë? Me
 shkronja. Një gjuh' e pashkruarë s'munt të qëndronjë
 shumë kohë e paprishurë; duke përzjerë me gjuhëra të
 tjera, prishetë. Do të thoni: Qysh gjuha jonë, pa qën' e
-shkruarë, ka qendruarë kaqë mijë vjet edhe pse të mos
+shkruarë, ka qëndruarë kaqë mijë vjet edhe pse të mos
 duronjë edhe paskëtaj ashtu? Pò, ka qëndruarë kaqë mijë
 vjet, se atëhere Shqipëtarëtë roninë në malet të tyre më
 vetëhe, pa përzjerë me të tjerë kombe, edhe se kombetë,

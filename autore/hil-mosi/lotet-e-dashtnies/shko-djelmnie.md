@@ -6,9 +6,9 @@ parent: Lotët e dashtniës
 grandparent: null
 order: 63
 ---
-Shko djelmnië e bje n'harrime...
+Shko djelmnië e bje n'harrime....
 Mbush me gzime dhe me zi,
-Plot me shpres' edhe dyshime...
+Plot me shpres' edhe dyshime....
 Ik e shko, e m'lên n'qetsië!
 
 Shko, e hiqu larg prej mejet!
@@ -19,4 +19,4 @@ Mundet t'bâjn nji grim pushim.
 Shko djelmnië, e vetëm ktheju,
 Kur ky shpirt të gjêjn qetsië;
 Veç ather për s'ri defreju
-Pa dyshim e zi n'dashtnië!
+Pa dyshim e zi n'dashtnië! —

@@ -32,7 +32,7 @@ Posi drangua që me pëndë e pallë.
 E të bekuan arbreshët me mall,
 Se shpresën ti ua zgjove përsëri,
 Prapë të ktheheshin te i shenjti zall,
-Gjakun t'ja falnin nenës Shqipëri;
+Gjakun t'ja falnin nënës Shqipëri;
 Ti s'pate faj në s'vajti te limani
 Flamuri ku u mblodh vdekur kont Urani.
 
@@ -45,7 +45,7 @@ Po vëllezër të lirë e punëtorë.
 
 E mbete në katund e në shtëpi
 Si një yll që midis reve ndrin lebet,
-një yll që shtie dritën n'errësi
+Një yll që shtie dritën n'errësi
 Edhe drejton atë q'është në det,
 Me atë dritë ti zëmrën na gëzove,
 Edhe epokën e madhe na e afrove.

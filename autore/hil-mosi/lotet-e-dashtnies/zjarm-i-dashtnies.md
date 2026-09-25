@@ -29,4 +29,4 @@ E n'mall të shoqishoqes jan t'pa ngîme.
 Të du!- Oh, shpirt!- Nuk gjêj nji fjal n'vjershsië
 Me t'çfaq ket zjarm, qi vlon në zêmren t'ime,
 E vetem zêmra e yte ndez n'dashtnië.
-M'kupton të gjith se ça un kam n'kujtime.
+M'kupton të gjith se ça un kam n'kujtime —
