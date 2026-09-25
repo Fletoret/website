@@ -14,7 +14,7 @@ In Claude Code, copy it to `.claude/skills/` (see `skills/README.md`), then run
 reference the skill leans on.
 
 First book shipped: Konica, *Doktor Gjilpëra* (September 2026). Then Fishta's
-three books: *Lahuta e Malcis*, *Mrizi i Zânavet* and *Gomari i Babatasit*. All
+three books: *Lahuta e Malcis*, *Mrizi i Zânavet* and *Gomari i Babatasit*. Then Migjeni's two: *Vargjet e lira* and *Novelat e qytetit të veriut*. All
 pass EPUBCheck 5.4 with no errors, warnings or infos.
 
 ## How it works
@@ -104,7 +104,8 @@ A stress test on 2026-09-25 built each of these without flagging it.
 | `fishta/lahuta-e-malcis` | **Shipped** | Proofread against the pipeline's scans; canto 1's last 198 lines were missing and are restored; the print's errata (pp. 510–511) applied. |
 | `fishta/mrizi-i-zanave` | **Shipped** | Proofread against the BKSH scans (IIIF URLs in `ocr/mrizi-i-zanave.json`). |
 | `fishta/gomari-i-babatasit` | **Shipped** | No scans available; proofread from consistency, corpus and rhyme only, so conservative. A scan pass would still help (akti-3 l.698–772 has lost rhyme). |
-| `migjeni/vargjet-e-lira` | Fails | A bare `<br>` in `kanget-e-fundit/kanga-e-fundit.md`. |
+| `migjeni/vargjet-e-lira` | **Shipped** | No scans; proofread from the text (~65 fixes). Sections tied at `order` 1 and came out alphabetically; now numbered through the book (Ringjallja, Rinia, Kangë në vete, Mjerimi, Përndimi, Fundi). |
+| `migjeni/novelat-e-qytetit-te-veriut` | **Shipped** | No scans; proofread from the text (~250 fixes, mostly `g` for `gj`/`q`/`ç` and damaged `shpirt` (`shirti`, `spirtin`)). Two sketches were one-line-per-paragraph with `respectLineBreaks: true` and are now prose. |
 | `grameno/kryengritja-shqiptare` | Fails | `<center>`, bare `<br>`, and images linked from the site's `/images/kryengritja-e-shqiptareve/`, which the EPUB does not package. |
 | `leke-dukagjini/kanuni` | Fails | `<center>` throughout, bare `<br>`, unclosed `<em>`/`<p>` (6 fatal errors, 117 errors). |
 | `frang-bardhi/skenderbeu` | Refused | Has editor's notes (`shenimet.md`); not supported yet. |

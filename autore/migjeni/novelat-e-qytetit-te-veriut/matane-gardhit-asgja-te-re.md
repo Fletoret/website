@@ -27,7 +27,7 @@ dhe ma n'oborr.
 
 E matanë gardhit asgja të re. Vetem qe një rreze dielli, e cila
 kish depërtue retë dhe si shifet tue mos gjetë vend ma të mirë në
-botë, kish ra në pleh. Një gjel, të cilin e kish zanë gumi mbi pleh,
+botë, kish ra në pleh. Një gjel, të cilin e kish zanë gjumi mbi pleh,
 u zgjue dhe ia tha kikirikuuun gjatë e tingëllueshëm.
 
 — Plaç, he dreq, se më trembe! - pëshpriti plaka e cila ish vue

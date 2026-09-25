@@ -4,7 +4,7 @@ author: Migjeni
 respectLineBreaks: true
 parent: Kangët e mjerimit
 grandparent: Vargjet e lira
-order: 4
+order: 22
 ---
 
 Krahët e zez të një nate pa fund
@@ -55,4 +55,4 @@ të hanës i rrejtun, këndon.
 Hesht! or gjel kryengritës,
 i lagjës së varfun. - Këtu
 nuk zbardh për ty drita e dritës.
-i gjikuem je me ngordhë n'u.
+I gjikuem je me ngordhë n'u.

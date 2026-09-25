@@ -4,7 +4,7 @@ author: Migjeni
 respectLineBreaks: true
 parent: Kangët e fundit
 grandparent: Vargjet e lira
-order: 7
+order: 44
 ---
 
 Prapë dielli lindë...

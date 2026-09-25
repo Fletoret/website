@@ -31,7 +31,7 @@ polici. T'i hajë dreqi! Ndoshta dhe lypsi nuk i ka marrë."
 Por lypsi nuk donte ta përgënjeshtrojë at dyshim. Jo për gja tjetër,
 por pse, si njeri i ndershëm, nuk ka qejf të dali para gjyqit.
 Ka të drejtë! A nuk bajn njashtu dhe tregtarët e parë të
-qytetit tonë? - E kush mund ts dyshojë në nderen e tyne?
+qytetit tonë? - E kush mund ta dyshojë në nderen e tyne?
 Me dalë para gjyqit edhe si i pafajshëm - asht turp në sy të
 popullit tonë.
 
@@ -56,7 +56,7 @@ mbrapme të kishës, - gjumi i tij ishte i qetë, si gjumi
 i njerzve pa kujdese jete.
 
 Qetësia e kishës filloi të trazohet... kapela të kuqe e të zeza,
- petka të bardha e të kaltërta, çarapë të mëndafshtë e pambuku,
+petka të bardha e të kaltërta, çarapë të mëndafshtë e pambuku,
 fytyra me mustakë dhe pa mustakë, të qeshuna e të
 ngërdheshuna - besnikët vijnë të ndëgjojnë oratorin e mbasdrekes.
 

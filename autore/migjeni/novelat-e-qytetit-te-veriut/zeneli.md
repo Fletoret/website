@@ -17,7 +17,7 @@ I tham:
 Çohet me syt e tij të gështenjtë të përqëndruem mendueshëm
 ndër syt e mi. Dhambët e bardhë, ftyra e zeshkët, balli i rregullt,
 kryet e zgjatun përmbrapa. Flet. Përgjigjet me besim te madh në
-vetvete. E at besim e fitoi me shum prova, mbasi githmon kur
+vetvete. E at besim e fitoi me shum prova, mbasi gjithmon kur
 s'dijnë tjerët, atij i takon me folë. Dhe flet me ball pak të
 rrudhun në mes të syve.
 
@@ -42,12 +42,12 @@ mjerime, të lanum e të tretun ndër këto bjeshkë.
 Qe, na shiko njëherë, njenit nëpër këmishe të shkyeme i shifet
 supi i verdhë, tjetrit barku si drrasë, atij atje asht gati t'i bijë të
 fiket nga uria, një tjetër prap mezi përmbahet mos t'i bajnë
-dhambët brrr nga ethet... Keshtu më dukej se me qortonte me tallje
+dhambët brrr nga ethet... Keshtu më dukej se më qortonte me tallje
 ftyra inteligente e Zenelit, ndërsa qeshej. Pra, na len pak të
 qeshemi, më dukej se thoshte, të gëzohemi derisa jem në shkollë.
 Rroftë shkolla! Rroftë arsimi! — sa herë kemi këndue, e në shtëpi
 s'ka gaz, s'ka të qeshun... rroftë shkolla! Rroftë arsimi! që na
-mëson këndim e shrim, të cilët me të vërtetë nuk kane me na hymë
+mëson këndim e shkrim, të cilët me të vërtetë nuk kane me na hymë
 shumë në pune në jeten tone, por mjaft që kemi me marrë një hu...
 jo gja tjetër por, për të shkrue në qielle: Rroftë shkolla!
 Rroftë arsimi!
@@ -67,7 +67,7 @@ shikojne femitë, sillem e Zeneli:
 Orë gjeografie. Marr globin në dorë. U flas.
 
 — Po Shqipnia ku asht? - pyesin dy-tre veta e tjerët i ngrehin
-qafat qe të shofin ma mirë.
+qafat që të shofin ma mirë.
 
 Kur ua dëftoj shejin: një pikë e kuqe në mes të ngjyrave tjera,
 ndëgjohen zane të pakënaqun, disi të shqetsuem:
@@ -78,13 +78,13 @@ ndëgjohen zane të pakënaqun, disi të shqetsuem:
 
 — Po si, zotni, kaq e vogël Shqipnia? - çohet njeri tue kundërshtue me dorë.
 
-Të githë flasin njeni me tjetrin të shqetsuem, thue se tashti, në
+Të gjithë flasin njeni me tjetrin të shqetsuem, thue se tashti, në
 kët çast u ba Shqipnia e vogël, ku duhet me u vra për me qëndrue
 mbrenda kufinit. Vetëm Zeneli s'flet gja; më shikon në dritzën
 e synit me syt e tij të mençëm, si me më thanë: zotni, shpëto situatën,
 si tjera herë që e shpëtove kur kemi folë për mjetet teknike të bujqsis
 dhe shkakun pse s'i kemi, kur kemi folë për komoditetet e jetes,
-të cilat s'i kemi, për shtetet e pasun, çka na nuk jemi, githherë
+të cilat s'i kemi, për shtetet e pasun, çka na nuk jemi, gjithherë
 ke shpëtue situatën, shpëtoje dhe tash.
 
 Vërej shpirtet e vegjël te shqetsuem, pse atdheu i tyre kaq i
@@ -95,7 +95,7 @@ nga shqipot e klases.
 
 Për me i ngjallë, me ua çue moralin, u flas:
 
-— Cfarë?! Shqipnia nuk asht e vogël! Asht e madhe! Po t'u pjestonte ndër
+— Çfarë?! Shqipnia nuk asht e vogël! Asht e madhe! Po t'u pjestonte ndër
 njerëz sa jemi, i bjen kaq e kaq secilit sa nuk u bjen njerzve të
 shteteve të tjerë t'Evropës.
 

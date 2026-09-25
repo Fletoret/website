@@ -4,7 +4,7 @@ author: Migjeni
 respectLineBreaks: true
 parent: Kangët e fundit
 grandparent: Vargjet e lira
-order: 9
+order: 46
 ---
 
 Ku janë orat dhe nuset? Shtojzovallet e zanat ku janë? S'po flitet ma

@@ -101,7 +101,7 @@ dhimbë të jashtzakonshme. Malsorja plakë u çue dhe po i
 avitej ngadalë. Mbas pak kohe u perzien britma vuejtje
 lehone dhe vaji i foshnjes; i cili n'at menyrë çpall se
 asht pjestar i shoqnis njerëzore ndër keto vise të humbuna
-të botës. E ne nesre, e urojnë djalin me fjalë:
+të botës. E në nesre, e urojnë djalin me fjalë:
 "I shkoftë lypa mbarë!" (A ju pëlqen zotni, ky urim për fmitë e juej?)
 
 E natyra prendverore qesh dhe kënaqet që po prodhon qershija

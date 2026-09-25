@@ -4,7 +4,7 @@ author: Migjeni
 respectLineBreaks: true
 parent: Kangët e rinis
 grandparent: Vargjet e lira
-order: 1
+order: 7
 ---
 
 … dhe pranvera erdhi…

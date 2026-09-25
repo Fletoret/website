@@ -4,10 +4,10 @@ author: Migjeni
 respectLineBreaks: true
 parent: Kangët e mjerimit
 grandparent: Vargjet e lira
-order: 10
+order: 28
 ---
 
-Jeta i kaloi si nje gote shampanje.
+Jeta i kaloi si një gotë shampanje.
 
 Nett i çoi nër shtretën mbi gji të grave,
 të cilat e deshtën fort e ma fort për pare
@@ -33,4 +33,4 @@ jetën si një gotë shampanjë
 e ku ai me të thyeme dhambë?
 
 
-[^1]: Primo Karnera - kampion botëror boksi në vitet 30'.
+[^1]: Primo Karnera – kampion botëror boksi në vitet ’30.

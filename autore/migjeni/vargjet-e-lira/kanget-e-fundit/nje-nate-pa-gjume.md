@@ -4,7 +4,7 @@ author: Migjeni
 respectLineBreaks: true
 parent: Kangët e fundit
 grandparent: Vargjet e lira
-order: 1
+order: 38
 ---
 
 Pak dritë! Pak dritë! Pak dritë, o shok, o vlla.
@@ -12,7 +12,7 @@ Të lutem, pak dritë në kët natë kur shpirti vuen,
 kur të dhemb e s'di ç'të dhemb, e syni gjum nuk ka,
 urren nuk din ç'urren, don e s'din se ç'don.
 
-Pak dritë! O burrë! O hero! ngado që të jesh!….
+Pak dritë! O burrë! O hero! ngado që të jesh!…
 Burrë që shkatrron edhe që ndërton sërish!
 Pak dritë vetëm, të lutem, mshirë të kesh,
 se do çmendem në kët natë pa gjumë dhe pa pishë.

@@ -4,7 +4,7 @@ author: Migjeni
 respectLineBreaks: true
 parent: Kangët e fundit
 grandparent: Vargjet e lira
-order: 2
+order: 39
 ---
 
 Ka do dit
@@ -41,4 +41,4 @@ nëpër ball dhe në ftyrë rrudhat po më shtohen,
 dhe shpejt do të bahem
 flamur i vjetruem
 i rreckuem
-nder luftat e jetës.
+ndër luftat e jetës.

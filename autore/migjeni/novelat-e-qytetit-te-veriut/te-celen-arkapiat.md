@@ -31,7 +31,7 @@ shtëpi.
 
 Pranvera e kësaj pranvere nuk ra në sy. Nuk u shijue as aroma
 e pemve të lulzueme, as që u admirue bukuria e tyne. Truni dhe
-shirti i një pjese të madhe të qytetit ish zanë me do mendime
+shpirti i një pjese të madhe të qytetit ish zanë me do mendime
 krejt tjera, e pranvera që aq pritej, erdhi dhe po kalon si një
 udhtare pa randsi. Njerzit tonë jane shum shpirtngushtë; kur u
 kërcnohet ndoj rrezik mbi krye, mejtojnë vetëm at rrezik që të
@@ -73,22 +73,22 @@ fytyrë.
 Drita, tue dalë nëpër bire të gardhit n'oborr të vet mendonte
 dhe i erdh keq pse shoqja e saj asht aq e pasinqertë.
 
-E Hajria kur hyni në shtëpi, shkoi para pasqyrës mbsheftas,
+E Hajria kur hyni në shtëpi, shkoi para pasqyrës mbsheftas.
 Shikoi veten, u pendue pse i tha ashtu shoqes dhe po t'ishte tash
 shoqja aty, do ta përqafonte dhe do ta puthte me gjithë zemer.
 
-Nê tane shtëpinë një heshtje, sikur ndodhet ndokush n'agoni
+Në tane shtëpinë një heshtje, sikur ndodhet ndokush n'agoni
 të vdekjes. Po, ka agoni, por jo mjerim. Si në kët shtëpi dhe me
 qinda e qinda shtëpia tjera kanë diçka si agoni vdekje. Po vdes
 një e kalueme shekullore aq e ndjeme dhe aq e jetueme. Po i hiqet
 guri i qoshes kështjellit mijëvjeçar dhe zemrat e njerëzve po
-helmohen nga rroposja e ti. (Disa, përkundra, gëzohen si me u
-pas vramë një shaze përbindshe që rronte dhe helmonte jetën
+helmohen nga rroposja e tij. (Disa, përkundra, gëzohen si me u
+pas vramë një shtazë përbindshe që rronte dhe helmonte jetën
 nëpër shtëpia). Gazeta, reforma, zbulimi i grave ishin stihitë që
 mundojshin trutë e ngathët të njerzve, të cilët nuk ishin mësue të
 mendojnë mbi ato gjana. Krenave, të mundueme vetëm me hallet
 ma të thjeshta të familjes, vetëm të shtëpis, tash përnjehere u bien
-me mendue mbi dicka të përbashket, mbi një problem kolektiv
+me mendue mbi diçka të përbashket, mbi një problem kolektiv
 dhe pronarët e atyne krenave gjinden si peshqit në ranë. Me
 zbulue gratë! - Këtë s'e kanë mendue se do t'u bahet për së
 gjalli.
@@ -119,7 +119,7 @@ gratë, por për ata njësoj, bile ma mire t'u permbyste bota, se
 atëhere gratë nuk do zbuloheshin.
 
 E gratë? Disa shikoheshin ndër pasqyra të vogla, mshehtas,
-për të pa dhe konstatue a janë në të vërtetë të deja qe të dalin të
+për të pa dhe konstatue a janë në të vërtetë të deja që të dalin të
 zbulueta. Plakat rënkojshin, "merrshin hallallet" njena nga tjetra,
 e disa shtyheshin dhe aq sa ia nisshin lotve si të sheqerit. Nuk
 qajshin pse do t'ua hanë burrat fytyrat: një pakice shum e vogël
@@ -134,8 +134,8 @@ mjerimi kish harrue vuetjet, pse dikush diku, larg nga shpirti dhe
 mendsia e këtyne njerzve, kishte vendosë me vdekë sentimentalizma
 e mykun. E kjo sentimentalizëm që asht e lidhun për perçen e
 grave asht një kusht me randsi për jetën e këtyne njerzve në kët
-gjendje që genden. Prandej një pakënaqsi! Prandej një
-kundërshtim - ndoshta jo i sheshit, por - thellte në ndërgjegje.
+gjendje që gjenden. Prandej një pakënaqsi! Prandej një
+kundërshtim - ndoshta jo i sheshit, por - thellë në ndërgjegje.
 Dhe ai kundërshtim nuk pëlcet vetëm e vetëm pse s'ka fuqi.
 Prandej dhe qytetarë të ndershem, shtetarë besnikë. Prandej
 telegrame urimi, përgëzimi, entuziazmi, të buruem nga zemra të
@@ -143,7 +143,7 @@ prekuna thellë - me hipokrizi apo llogari tregtare?...
 
 Dy net para se t'u vente në zbatim ligja e dekretueme për
 zbulimin e grave, mbasdarket, erdhi te Oso Bakalli vllau i tij me
-të githë pjestart e familjes. Erdhën për me u pa gratë për sẽ
+të gjithë pjestarët e familjes. Erdhën për me u pa gratë për së
 mbramit herë, se kushedi kur kanë për t'u pamë ma. Burrat u
 ndanë në një anë të dhomes, gratë në një skaj tjetër, e varzat dhe
 fëmitë një nga një iken në dhomen tjetër, për me gëzue ma tepër
@@ -155,12 +155,12 @@ Isufit-a?
 
 — Po pse i ka dalë në gazetë?
 
-— Demek, i ka thane mbretit se do me dalë e zulueme... -
+— Demek, i ka thane mbretit se do me dalë e zbulueme... -
 pyetshin gratë njena-tjetrën dhe syt i silleshin kah burrat për me
 kërkue shpjegim.
 
-— Po, allahu ma marroftë! Une i çuditem Alis, pse ai githmon
-m'asht dukë burr, e këtu ma len gruen me i dalë ne gazetë, - tha
+— Po, allahu ma marroftë! Une i çuditem Alis, pse ai gjithmon
+m'asht dukë burr, e këtu ma len gruen me i dalë në gazetë, - tha
 Osja me za që ta ndëgjojnë edhe gratë.
 
 — U! punë e madhe... Kishin dalë dhe Rrukia e Brahim agës,
@@ -176,10 +176,10 @@ diçka si kapele në krye, dhe tue ecë "mbas modet". Bukuria e
 trupit të saj vizohej bukur ndër rrobe të shtërngueme dhe pozat e
 saj ishin ngacmuese. Ajo s'e shifte Oson përmbrapa, por
 vazhdonte me imitue gratë "allafranga" dhe përdredhej si "mbas modes".
-Fëmija gesheshin dhe brohoritshin tue u argëtue. Kur
+Fëmija qesheshin dhe brohoritshin tue u argëtue. Kur
 Osja, me një pllamb të plotfuqishëm i ra Hajrijes kresë, kjo, u
 përplas për mur - e fëmitë përnjherë heshtën të tmerruem. Mund
-tu ndëgjoheshin zemrat e tyne si rrifshin. Ma i vogli filloi të
+t'u ndëgjoheshin zemrat e tyne si rrifshin. Ma i vogli filloi të
 qajë. Hajria vetëm që lëshoi një za të pakontrolluem, si një dele
 në të cilën ndesh automobili. Mbas dy çastesh u çue si e hutueme,
 nga hunda dhe balli i pikonte gjaku. Osja, tue murmurue si qen i
@@ -200,7 +200,7 @@ iu suell grave:
 
 — Po keta këtej, - tue shenjue me krye kojshit djathtas, - a kanë arkapi?
 
-— Po, - iu përgjegj e shogja.
+— Po, - iu përgjegj e shoqja.
 
 — Po këta këtej?
 

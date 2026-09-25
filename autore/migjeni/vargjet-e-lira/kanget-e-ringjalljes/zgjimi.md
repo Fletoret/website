@@ -11,7 +11,7 @@ O vullnete të ndrydhuna ndër grushta të çelikta të shekujve të kaluem!
 O vullnete të shtypuna me themra të ngurta të titajve të tërbuem!
 Të cilët n’udhë për në theqafje këtejpari i ranë
 dhe vatrat tona në mjerim i përlanë…
-O vullnete të ndrydhura!
+O vullnete të ndrydhuna!
 O vullnete të shtypuna!
 Shkundni prangat të mbrapshta! E me brimë ngadhnyese,
 me hove viganash, dëshirash flatruese,

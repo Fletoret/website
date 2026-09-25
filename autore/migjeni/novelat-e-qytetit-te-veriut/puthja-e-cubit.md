@@ -13,7 +13,7 @@ e shtrime në bar, ndjeu se ka taman, as më pak as më tepër se 17 vjet.
 
 — Nano! Sa vjet kam? – pyeti nanën në shtëpi.
 
-— Tashti i mbush 17, bijo! – I tha nana me një dorë n'ijë e me tjetrën mbi sy, për m'u mprojtë nga rrezet e diellit.
+— Tashti i mbush 17, bijo! – i tha nana me një dorë n'ijë e me tjetrën mbi sy, për m'u mprojtë nga rrezet e diellit.
 
 Edhe Dila, e shtrime në bar, ndjeu se ka taman 17 vjet. Ashtu e shtrime,
 shikon qiellën e kaltërt dhe ndigjon cingaret, një të dashit të grigjës
@@ -49,7 +49,7 @@ dhe sa ma shum ditë kalojshin aq ma e madhe bahej. Dhe ndiesia u ba
 dëshirë, dëshirë që të len pa gjumë.
 
 Por një ditë, kur dielli sa një pare e madhe sermi u çfaq në qiell,
-Cubi shkoi. E dila mbet vetëm me dashurinë për Cubin.
+Cubi shkoi. E Dila mbet vetëm me dashurinë për Cubin.
 
 * * *
 
@@ -62,7 +62,7 @@ thirrje të nxehta të heshtura drejtue Cubit.
 Ashtu e shtrime dhe n'andrim Dila nuk desht t'i çeli syt' edhe se ndjeu mbi
 trupin e vet një peshë dhe prishi dihatunin e nji mashkulli e mbi buzët e
 veta të përvlueme një njomsi. S'i çeli syt'. Ndoshta kish frigë të mos
-prishi ekstazën në të cilën  kishte ramë… E kur ndjeu lehtësimin e trupit
+prishi ekstazën në të cilën kishte ramë… E kur ndjeu lehtësimin e trupit
 i çeli syt. Por aty s'pa kend. U hodh nga ana e majt. Dila u drodh.
 "Ai asht! tha – Cubi!" dhe u vue në ndjekje të gjurmës majtas.
 Si e dehun, gjithnjë n'ekstazë. La grigjen, as që i binte ndër mend,

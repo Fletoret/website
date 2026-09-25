@@ -32,7 +32,8 @@
         "datePublished": "1936",
         "thumbnail": "/images/covers/vargjet-e-lira.avif",
         "abstract": "Këto janë poezitë e Migjenit, në themelin e të cilave qëndron aspirata për një botë të re, ku njerëzit e thjeshtë e të varfër të jetojnë të lirë, të lumtur, me dinjitet njerëzor dhe pa frikë për të nesërmen.",
-        "publishedFletoret": true
+        "publishedFletoret": true,
+        "epub": true
       },
       {
         "@context": "https://schema.org",
@@ -43,7 +44,8 @@
         "datePublished": "1936",
         "thumbnail": "/images/covers/novelat-e-qytetit-te-veriut.avif",
         "abstract": "Heronjtë e veprave të tij më të mira ishin të papunë që rropateshin gjithë ditën për të nxjerrë kafshatën e gojës, malësorë që qëndronin në zgrip të jetës, të mjerë që nuk u kishte ecur në jetë dhe ishin flakur jashtë shoqërisë.",
-        "publishedFletoret": true
+        "publishedFletoret": true,
+        "epub": true
       }
     ]
   },

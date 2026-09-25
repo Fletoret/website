@@ -20,7 +20,7 @@ prej ndjenjash të shkumbzueme q'i turbullon kanga.
 Rini, thueja kangës dhe qeshu si fëmi!
 Kumbi i zanit të përplaset për qiellë
 dhe të kthejë prap te na, se hyjt ta kanë zili
-
 e na të duem fort si të duem një diell.
+
 Thueja kangës, Rini! Thueja kangës gëzimplote!
 Qeshu, rini! Qeshu! Bota asht e jote.

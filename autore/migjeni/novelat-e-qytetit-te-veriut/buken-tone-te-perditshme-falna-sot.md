@@ -7,19 +7,19 @@ grandparent: null
 order: 27
 ---
 
-Herë vërente t'amën se si lutet para katër - pesë fugureve,
+Herë vërente t'amën se si lutet para katër-pesë fugureve,
 herë shikonte nëpër dritoret në muzgun e mbramjes.
 Errsina bahej gjithnjë ma e shpesht, e Lili vërente se si drutë dhe
 sendet e tjera marrin trajta të frigshme. Vuri re edhe përjashta
 t'amën tue u lutë nën kandilin e Zojës - i dukej nëpër qelqe të
 dritores - dhe argëtohej: qe, tamam si kino, po shof kino, sa
 bukur, aaa! Flaka e kandilit nisi të dridhej dhe Lili nuk shifte ma
-kino në qelqe të dritores. Syt i shuen në fund t'oborrit: që,
+kino në qelqe të dritores. Syt i shuen në fund t'oborrit: qe,
 dikush po ec, i gjatë, me flokë të mdhaja, me shkop në dorë,
 shikon në dritore, hajn! Dhe shpejt Lili i friguem dhe nga ftyra e
 vet në qelqe u largue nga dritorja dhe iu avit s'amës.
 
-— Nanë, dikush asht jasht!. ... Hajnat, - pëshpëriti frigshëm.
+— Nanë, dikush asht jasht!... Hajnat, - pëshpëriti frigshëm.
 
 Nana nuk bëzante.
 
@@ -49,7 +49,7 @@ kish zbrazë në kandil të fugureve.
 
 
 E ama qëndroi në mes t'odës e hutueme, nuk dinte kah t'ia
-mbajë, thyente gishtat e duerve, krismate të cilave aq dhimbsunisht
+mbajë, thyente gishtat e duerve, krismat e të cilave aq dhimbsunisht
 tingllojnë dhe mendoi diçka.
 
 — Rri ti te zjarrmi, - i tha të birit dhe shkoi në dhomë tjetër. Iu
@@ -108,7 +108,7 @@ guxoi. Kish frigë të mos ndëgjojë ate e s'ka dëshirë me e ditë.
 Nse s'ka pasë çka me ngranë Lili, ma mirë mos me e dijtë e me
 genjye veten se ka hangër. Vjedhtas shikonte të shoqen, në dritë
 të bishtukut i dukej shumë e zbetë, me syt e thelluem e të nximë
-përreth. E dinte se ç' domethanë.
+përreth. E dinte se ç'domethanë.
 
 Drita e bishtukut nisi të dridhej, dhe dridheshin të gjitha sendet
 dhe hijet e vorfna bashkë me dy kensa që dridheshin nga friga e
@@ -121,7 +121,7 @@ n'errsinën e dhomës, ratë, nën fuguret ku kandili nuk ishte
 ndezë.
 
 — Çudi, pse zotni Filipi me të hjekë nga puna; ty po, e ata dy
-Jo; pse jo njenin nga ata - n'errsin i fliste të shoqit me guxim.
+jo; pse jo njenin nga ata - n'errsin i fliste të shoqit me guxim.
 
 — Ku e di unë... E dij se ç'mendon ti! Kujton se më ka xanë në
 ndoj punë të keqe, prandaj më ka qitë nga puna.
@@ -144,11 +144,11 @@ Zotit.
 Kola, nga skaji i trotuarit, shikonte ceremonine fetare në
 parakalim. Kujtohet se para pesëmbdhetë vjetë dhe ai, njashtu si
 ato fëmi, barte fugure, qira dhe këndonte kangë kishe. Era e
-kemit (tamjanit) qëi mbrrini te vrimat e hundës i kujtoi ma
+kemit (tamjanit) që i mbrrini te vrimat e hundës i kujtoi ma
 intimisht fëminin shkollore. Si nëpër reliev shkonte me mendim
 nëpër kujtime; ndërlikoheshin ftyra shenjtësh, priftnash,
 mësuesash, shokësh ndër skuta terrta, tue u lutë, dikush me
-përvujtni e dikush tue shamë kujdestarin, që  s'e la me ikun. Eh,
+përvujtni e dikush tue shamë kujdestarin, që s'e la me ikun. Eh,
 sikur të mbetshe në kuvend, të mos dilshe jashtë, - mendonte
 Kola tue e kujtue gjendjen e vet tashmë me hidhnim. Po ai, ai
 atje, ç'ka don me qiri në dorë? - e gati sa s'bërtiti. Tush Prendi,
@@ -165,7 +165,7 @@ zotni tjetër, i del herë para, her për anash, herë sjell kryet nga
 zoti Filipi, por ky si shifet ka bisedë me randsi dhe nuk e shef.
 Kola vjedhtas prigjon bisedën:
 
-— A të bie ndër mend, Filip, para pesëmbdhetë - njëzet vjet
+— A të bie ndër mend, Filip, para pesëmbdhetë-njëzet vjet
 si ishin këta proçesione?
 
 — Eeeh! Atëherë...
@@ -209,7 +209,7 @@ S'duhet mësue bota njashtu. Jo! S'ka bukë!
 — Bukë! Aman! Vdiq Lili!
 
 — Jo, mos kujto se ka me vdekë. S'ka vdekë të na kush për
-bukë. Për pashkë ka me u gjetë dikush, ndoj shirtmadh, me i
+bukë. Për pashkë ka me u gjetë dikush, ndoj shpirtmadh, me i
 dhanë ndoj lek.
 
 Por Kola nuk bërtet. Jo me fjalë, por as me të dukunt të jashtëm nuk don
@@ -258,7 +258,7 @@ Atje, n'at tryezë - i kujtohej Kolës - kishte gjithmon ma shum
 bishta cigaresh dhe gjithmon mbi të ose ishte shkarravitun diçka
 e pakuptueshme, ose vizatuem ndoj ftyrë, ndoj trup grueje me
 tjera. E ai mbasi e shikonte mirë e mirë, e hapte paçavren e lagtë
-dhe me aq fugi e fërkonte, saqë tryeza lonte vendit. Duhej mshi
+dhe me aq fuqi e fërkonte, saqë tryeza lonte vendit. Duhej mshi
 mirë, se qortimi i kërcnueshëm i zoti Filipit nuk mungonte. Pesë
 vjet kësi punë. Dhe mandej në rrugë të madhe. Por as zoti Filipi
 s'ka faj. Punë s'ka. - Po kush ka faj? - Askush. Nana që më lindi, -
@@ -297,7 +297,7 @@ vazhdojë Kola, por s'e la ky.
 tue u ulë në karrige - një herë kështu në proçesion tue kalue,
 një turk u qeshte ose lajkos, ose uratve tona, ose neve të gjithve, e
 unë - eh, atëherë më vlonte gjaku - dola nga rreshti ta kapa për
-fytit at qen bir qenit dhe zoti me dha një fugi të mrekullueshme,
+fytit at qen bir qenit dhe zoti me dha një fuqi të mrekullueshme,
 saqë gati e mbyta aty në vend. Por u përzien tjerët, të dyja anve,
 t'u përleshën, unë shpejt ika ne rresht, vazhdova rrugën në
 proçesion, kur mbrrini policia tue fishkllue dhe t'i rrasi në burg
@@ -338,7 +338,7 @@ mend ndojherë. U banë lufta, u banë revolucione, por krizë nuk
 kishim. Vlonte parja anembanë. Shtrejtsi - po. Por ajo ishte për
 dobi tonë. E sot, tek po kemi qetsi shyqyr, por ç'e do qetsinë,
 more Kolë, kur asht kriza? Apo s'asht kështu? Unë, ti, na duem
-me jetue. Çka na duhet në se po vriten tjerët... A ende s'jane vra -a ?
+me jetue. Çka na duhet në se po vriten tjerët... A ende s'jane vra-a?
 U farojshin. Punë, punë me fitue... Apo s'asht kështu?
 
 Kola pau se zoti Filipi prap po ia nis bisedes dhe bani sikur po do me shkue.
@@ -393,7 +393,7 @@ tokë...
 Kryet i mbshtet ndër gji të saj, ndiente ere nanë.
 
 — Ati yne që rri.., - shqyptonte nga një rokje e ama e Lili
-pësritte. I ndalohej vëmendja ndër fjalë që s'kuptonte, por
+përsritte. I ndalohej vëmendja ndër fjalë që s'kuptonte, por
 makinalisht vazhdonte të përsrisi fjalët nga buza e s'amës.
 
 — Bukën tone të përditshme epna sot, - vazhdonte e ama uratën.
@@ -446,7 +446,7 @@ e të pakuptueshem si errsina. Por, mendimi, si një korb i zi, ka ba
 keqes dhe s'len me fjetë. Diku nga fundi i mides i doli si një të
 dridhun, diçka si afsh i një dashjes, i një dëshirës, i një nevojës
 së domosdoshme. Edhe çudi! Ashtu e lodhun, e undshme dhe me
-shpirt e vujtun, ajo n'at cast dëshronte, si në nett e para të
+shpirt e vujtun, ajo n'at çast dëshronte, si në nett e para të
 martesës, t'i shtrohej dëshirës me të gjith zjarrmin e një trupit që
 vuen. Aty, aty asht harresa, shpëtimi, e vetmja kënaqsi e jetës së
 saj varfanjake. Por edhe njajo punë bahet shpejt e hidhet si
@@ -462,7 +462,7 @@ vinte në shtepi nuk asht ma, - por asht Kola pa punë. Ç'e do
 burrin pa punë? - i tha një shoqe këto dite. Dhe grueja e votrës
 nuk ndien shumë për burrin pa punë. Po burri me çka dallohet
 nga grueja? Jo vetëm me pantallona, por me punën që ban për t'i
-sigurue grues mirëgjendjen. Dhe pikërisht me njatë dallohët. E
+sigurue grues mirëgjendjen. Dhe pikërisht me njatë dallohet. E
 kur burri s'e ka at punë, atëherë ç'e do? Të na lëshojnë vetë ta
 fitojmë jetesën, - por as njatë s'të lanë, të qesin ngatrresa, - i tha
 grues së Kolës një shoqe, e cila gjithashtu e kishte burrin pa punë.
@@ -495,10 +495,10 @@ shikonte fëmin.
 
 U nis, shkoi në kryeqytet. Atje, i thanë, se ka me gjetë punë. E
 këshilloi me gjithë mend dhe zoti Filipi. I dha diçka edhe për
-udhtim, uha. E shogja nuk bëzani fare kur i shoqi ia tha mendimin
+udhtim, uha. E shoqja nuk bëzani fare kur i shoqi ia tha mendimin
 e vet. E Kolën, kur kjo s'bani za, diçka e theri thellë mfshehtas
 në zemër. Por u nis, me vendim të premë që t'u dërgoje fëmis dhe
-grues sa ma parë për jetësë. Me gjith vendim të premë të ti,
+grues sa ma parë për jetësë. Me gjith vendim të premë të tij,
 kaluen disa dit të mira e ai nuk i lajmoi gja shtëpis. E shoqja priti
 dy javë rresht, dit' e natë, ndoj lajm, letër a pare, por kur s'erdh
 gja, e kojet e bukës munguen e vdekja në rini nuk pritet me duer
@@ -520,8 +520,8 @@ e me te kaluemen e tyne zbehesh dhe qante ose pse nana nuk ia
 plotsonte dëshirën, ose pse i pëlqente të qajë. Me qa, kur ke vner
 dhe ethe, asht nje ngushllim ndoshta, kushedi.
 
-— Uf, si ma plase spirtin, - i thoshte e ama kur ky qante. E
-Lili vazhdonte te qajë jo pse ia plaste shirtin s'amës, por pse i
+— Uf, si ma plase shpirtin, - i thoshte e ama kur ky qante. E
+Lili vazhdonte te qajë jo pse ia plaste shpirtin s'amës, por pse i
 pëlqente te ndëgjoje si i oshtin zani i vet ndër veshë dhe i pëlqente
 të qajë nga inati, nga inati. Pse mos të qaj? Po fort! - mendonte Lili me vete.
 
@@ -583,7 +583,7 @@ pëshpritte, - ruejna zot!" Dhe me frigë e shikoi djalin, e mbuloi
 mirë dhe u çue.
 
 Sahati i kishës trokiti një herë, ishte tre e gjysmë mbasdite të
-vjeshtës së dytë. Grueja u sue me vrull, shkoi në dhomë të
+vjeshtës së dytë. Grueja u çue me vrull, shkoi në dhomë të
 zjarrmit dhe në sqoll nisi krizma e enve dhe e ujit. Mbasi u la
 mirë dhe u mshi, iu avit pasqyrës të cilën ia kish dhanë uha Lezja,
 grueja e dhetë lekëve. Mori krem, e fërkoi ftyrën e një erë e
@@ -617,14 +617,14 @@ punë për qejf, e na i bajmë për hall, - i tha Lezja ma me za dhe
 tue çue duert përpjetë nga zemërimi që duhet me i thanë gjithe
 kto fjalë që t'ia mbushi mendjen për një punë aq të thjeshte.
 
-Tash ajo gendron në mes të dhomës, e goditun për me pritë...
+Tash ajo qendron në mes të dhomës, e goditun për me pritë...
 Te githa mendimet mallëngjyese dhe jomallengjyese, fundojnë
 te keshilla e Lezes: buzëqesh! Ajo iu avit pasqyrës, buzëqeshi dhe
 i pëlqeu vetvetja. S'kish dijtë deri tash se ishte një bukuri e
 mshefun.
 
 Tinglloi ora katër. Grueja shikoi nëpër dritore dhe qe: nëper
-oborr po vjen i prituni. Ajo mblodhi fuqin, e nori prej dikah një
+oborr po vjen i prituni. Ajo mblodhi fuqin, e nxori prej dikah një
 buzëqeshje, e vendosi mbi ftyrë të vet dhe i duel para mikut të pritun…
 
 
@@ -637,7 +637,7 @@ tij doli një zotni i huej, i panjoftun. Kolës diçka i ra në krye. Si
 me ia pasë shkrepë dikush për mur. Zotnia i panjoftun kaloi në
 drejtim të kundert të rrugës, ngadale, i qetë. E Kola e ngadaloi
 hapin. Gjithfarë mendimesh si shigjeta ia përshkojshin trutë. Por
-asnjë mendim nuk ishte qetues,as nuk e fashitte ndërgjegjen e tij
+asnjë mendim nuk ishte qetues, as nuk e fashitte ndërgjegjen e tij
 të çueme peshë në dyshim. Me hap të sigurt hyni nëper derë
 t'oborrit. Dyert e shtëpis, dritoret, në vrullin e mendimeve të
 hidhta, i lojshin para syve, iu dukeshin dyfish, shtrembët,
@@ -648,7 +648,7 @@ vogel shprese: ndoshta grueja e tij nuk banon ma kët shtëpi! Do
 të kete dalë vetë, ose do ta ketë qitë jashtë i zoti për mospagim
 qiraje. S'ka gjë... Ma mirë njashtu... se njerzit e huej me ardhë te
 grueja e tij, - mendonte Kola msheftas, tue e mshefë dhe nga
-vetvetja at mendim. Por sa kapërceu prakun pau plackat të cilat i
+vetvetja at mendim. Por sa kapërceu prakun pau plaçkat të cilat i
 ka lanë. U zhduk ajo rreze e vogel shpresë. Si një i plagosun
 randë, u ul në karrige, disi u mblodh e shikimin e mbërtheu
 përtoke. Po ajo grueja në dritore? - mendonte. - Para tij erdh

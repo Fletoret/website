@@ -1,10 +1,10 @@
 ---
-title: Vjeshta ne parakalim
+title: Vjeshta në parakalim
 author: Migjeni
 respectLineBreaks: true
 parent: Kangët e mjerimit
 grandparent: Vargjet e lira
-order: 11
+order: 29
 ---
 
 Vjeshtë në natyrë dhe vjeshtë ndër ftyra tona,
@@ -33,6 +33,6 @@ e vorri inaltohet nën qiella ma t'epra
 me klithëm dëshprimi që në dhimbë të madhe zvarret.
 
 Vjeshtë në natyrë dhe vjeshtë ndër ftyra tona.
-Rënkoni dëshirat fëmitë ejetës së vafun;
+Rënkoni dëshirat fëmitë e jetës së varfun;
 rënkoni në zije, qani mbi kufoma,
 që stolisin vjeshtën nëpër gemba të thamun.

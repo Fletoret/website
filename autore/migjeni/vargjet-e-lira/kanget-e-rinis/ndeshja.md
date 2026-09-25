@@ -4,7 +4,7 @@ author: Migjeni
 respectLineBreaks: true
 parent: Kangët e rinis
 grandparent: Vargjet e lira
-order: 5
+order: 11
 ---
 
 O grue, që te ndesha në dit'n e fatkobit tem,

@@ -4,7 +4,7 @@ author: Migjeni
 respectLineBreaks: true
 parent: Kangët e rinis
 grandparent: Vargjet e lira
-order: 3
+order: 9
 ---
 
 Me kangë në buzë e hove të reja

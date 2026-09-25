@@ -1,10 +1,10 @@
 ---
-title: Trajtat e mbinjeriut 
+title: Trajtat e mbinjeriut
 author: Migjeni
 respectLineBreaks: true
 parent: Kangët e mjerimit
 grandparent: Vargjet e lira
-order: 9
+order: 27
 ---
 
 Një vegim shpirtnuer n'errsin të paskajshme

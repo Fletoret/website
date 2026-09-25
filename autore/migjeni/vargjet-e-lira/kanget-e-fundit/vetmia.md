@@ -4,7 +4,7 @@ author: Migjeni
 respectLineBreaks: true
 parent: Kangët e fundit
 grandparent: Vargjet e lira
-order: 5
+order: 42
 ---
 
 Më plak mërzitja
@@ -33,7 +33,7 @@ në kët vetmi me ndigjue.
 Ose të më tregojnë historinë
 e tyne, autobiografinë:
 ndosht' aty do gjej gjasim
-me jeten teme pa tingllim
+me jetën teme pa tingllim
 që në vetmi po e kaloj -
 dhe s'po dij a rroj a s'rroj.
 Sendet heshtin. - Sa të pamëshirë!

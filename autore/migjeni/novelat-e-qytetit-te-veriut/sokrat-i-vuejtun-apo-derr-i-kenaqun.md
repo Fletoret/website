@@ -1,5 +1,6 @@
 ---
-title: Sokrat i vuejtun - apo derr i kënaqun?
+title: Sokrat i vuejtun – apo derr i kënaqun?
+slug: sokrat-i-vuejtun-apo-derr-i-kenaqun
 author: Migjeni
 respectLineBreaks: false
 parent: Novelat e qytetit të veriut
@@ -14,7 +15,7 @@ mbrapa së dytës ashte derri i kënaqun me trup të rrumbullakët të
 vetin. Te Sokrati nuk ke çka shef: dy sytë të tretun në rrashtë,
 disa shkarravina të palexueshme dhe një trup me do gjymtyrë të
 zhgatrrueme e pa asnjë vijë harmonike; e te derri ke çka shef: 
-at frotë të kombinuese mbas rregullave strikt estetike, – e sidomos 
+at frotë të kombinueme mbas rregullave strikt estetike, – e sidomos 
 që të kënaqë synin – aj trup i majun e i shndoshë e me andje 
 zhigatuni, dhe në fund ai bisht i përculluem në flakën e
 bukurisë hyjnore. Rri njeriu përpara kësaj alternative tue u 
@@ -35,13 +36,13 @@ O vall! Ç'ironi groteske.
 Por a e dini se ku qëndron eureka (e gjeta!) e njeriut?
 
 Ç'bani njeriu me alternativën? – (Ha fort' e qerrata duel njeriu). 
-Sokrati kursesi nuk iu pëlqente, – por as derr nuk munb t'u bate 
+Sokrati kursesi nuk iu pëlqente, – por as derr nuk mund t'u bate 
 që ta merrte ftyrën e tij. Derr! Vërtet se asht i lakmueshëm 
 derri, por, sadokudo, do të ruhet dinjiteti njerzuer përpara
 botës – edhe se mikroskopike në pikëpamje të tolerancës morale. 
 Atëhere, në këtë pezullim të njeriut, u zgjua në të ajo gja 
 që nuk asht prej kësaj bote, ajo gjasend q'i thonë pjesa 
-qiellore, hyjnore, perendore e kuj dij ma … u zgjue – edhe 
+qiellore, hyjnore, perëndore e ku dij ma … u zgjue – edhe 
 njeriu u ba batakçi. Ndroi ftyrat: ftyrën e derrit ja vu 
 Sokratit, e ftyrën e Sokratit ja vu derrit e në këtë të 
 mbramin u mushniue vetë. Muer ftyrën e Sokratit të 

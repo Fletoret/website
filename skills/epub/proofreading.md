@@ -47,6 +47,13 @@ often says "none" (`leçit-`, `vath-`, `plandos-`).
 - Check the dump is in the right file. Running headers (odd pages carry the piece's
   title) and the book's `order` field tell you. Fix filing before text.
 - Check whether the file is half-clean already. Quality alternates page by page.
+- Check `respectLineBreaks` against the text. Prose saved one paragraph per line
+  with `respectLineBreaks: true` gets the EPUB's verse styling. Put a blank line
+  between the paragraphs and set it to `false`. Two of Migjeni's sketches needed this.
+- Once you find a systematic misread in one file, sweep the whole book for it.
+  In Migjeni's *Novelat* that was `g` for `gj`/`q`/`ç` (`githe`, `shogja`, `gendron`)
+  and a dropped `p` in `shpirt` (`shirti`). When several readers split a book,
+  each sees the pattern only in their own files.
 
 ## Common OCR damage
 

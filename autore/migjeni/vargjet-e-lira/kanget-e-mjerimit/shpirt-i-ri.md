@@ -4,7 +4,7 @@ author: Migjeni
 respectLineBreaks: true
 parent: Kangët e mjerimit
 grandparent: Vargjet e lira
-order: 15
+order: 33
 ---
 
 Shqyponjë me krah të thyem! Vall shpirt i plagosun!

@@ -4,7 +4,7 @@ author: Migjeni
 respectLineBreaks: true
 parent: Kangët e fundit
 grandparent: Vargjet e lira
-order: 4
+order: 41
 ---
 
 _Melodisë kombëtare_
@@ -23,5 +23,5 @@ Mallkimi ndaj fatet që ditët t'i helmuen,
 që dëshirat e jetës të gjitha t'i gozhduen?
 
 Oh - jo! Kanga jote asht shprehje e dhimbsun
-e njëjetese që dergjet e dergjet
+e një jetese që dergjet e dergjet
 dhe tu' e dergjë ndoshta do hesht e molisun...

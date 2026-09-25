@@ -4,7 +4,7 @@ author: Migjeni
 respectLineBreaks: true
 parent: Kangët e mjerimit
 grandparent: Vargjet e lira
-order: 6
+order: 24
 ---
 
 Melodi e këputun - lot i kjartë nga syni
@@ -18,7 +18,7 @@ në melodin e këputun.
 Nga vaji i heshtun shkunden supat e zhveshun,
 verbojnë nga zbardhimi…
 e ther, ther hidhnimi
-për çasteet e rrëshqitun,
+për çastet e rrëshqitun,
 për fatin e ikun,
 për gëzimin e humbun
 në melodin e këputun.
