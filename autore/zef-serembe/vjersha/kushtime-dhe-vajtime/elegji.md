@@ -20,7 +20,7 @@ Që retë e zbukuruan;
 Duke ecur shkoj kohën
 Dhe kujtoj ëndërrat e para;
 Bukuritë e fushave, që mallin
-Ma zgjonin dhe zemrën ma mbushin
+Ma zgjonin dhe zemrën ma mbushnin
 Me shpresa të reja, jo më
 I dëshiroj si atëherë
 Kur më rrethonte hareja.
@@ -98,10 +98,10 @@ E diellit katundet e qeshur
 Të Arbërisë sonë me njerëzit
 Fatbardhë nëpër shtëpirat.
 
-* * *
+***
 
 Si fluturon koha!
-Dhe ja Si ikin në këtë natë yjet...
+Dhe ja si ikin në këtë natë yjet...
 Dhe hënëza, e dalë nga retë
 Përkundrejt, si e mallëngjyer,
 Me butësi shkëlqen e vren!
@@ -146,9 +146,9 @@ Gjirin të më lëmojë
 Dhe gjithë shpresat e mia
 Me hare të m'i stolisë!
 
-* * *
+***
 
-Po i vetëm jam … Edhe ecij
+Po i vetëm jam… Edhe ecij
 Rrugë më rrugë pa gjetur
 Pushim, duke kujtuar
 Mallin që shkoj e vate,
@@ -157,7 +157,7 @@ Që gëzoheshin një herë
 Pse kishin më të bukurën
 Lulëze të kopshtit tonë.
 Si oshtinte aherë qielli
-me muzikë e tringëllima
+Me muzikë e tringëllima
 Të shokëve të mi që më
 Nuk janë, të dërmuar nga jeta!
 Gjithçka mori fund dhe koha
@@ -171,7 +171,7 @@ Që në qetësinë e madhe
 Të kësaj nate të thellë
 Më hidhërin më përsërit
 Gjithë lotët që derdha.
-Është vajtim , është harmoni:
+Është vajtim, është harmoni:
 E sjell, e shpie ajri
 E në atmosferë na humbet.
 O vashëzë, me ata sy
@@ -200,7 +200,7 @@ Dhe ata sy si yje në atë ballë
 Të ëmbël posi rrezja
 E qiellit të zbukuruar,
 Ku mbijnë e rriten
-të gjitha shpresat tona!
+Të gjitha shpresat tona!
 S’do kisha gajle aherë
 Po të më dilte përpara qefini
 I vdekjes që më ngrin;

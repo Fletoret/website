@@ -11,27 +11,51 @@ published: true
 ---
 
 <center>
+
+### VEHTJE
+
+ORA E SHQYPNIS
+ZANA E MADHE
+KALJOPE
+TALIJA
+KLIJE
+TERSIKORE
+URANJE
+EUTERPE
+SILJA
+ERATO
+BORA
+BJESHKA
+SHTRIGAT
+FLOÇKAT
+TË LUMET E NATËS
+VALLJA
+
+_Puna ndollë n'Helikonë._
+
+</center>
+
+<center>
+
 Kângë melodramatike
 
-<caps>
-NE RASË TË PÊSDHETVJETORES SË NDERTUEMIT
-TË SHKOLLËS SË STIGMATINEVET NË SHKODER
-</caps>
+<caps>NË RASË TË PÊSDHETVJETORES SË NDERTUEMIT
+TË SHKOLLËS SË STIGMATINEVET NË SHKODER</caps>
 
 Mriz në mal të Helikonës. Kroni Hipokrene.
-Pegazi tue kullotë rudinavet. Stine Prendvere. Ndihet nji gurgullim bylbylit.
+Pegazi tue kullotë rudinavet. Stinë Prendvere. Ndihet nji gurgullim bylbylit.
 
 DUKË I
 
-##### ZANA E MADHE
-
 </center>
+
+##### ZANA E MADHE
 
 Ç'po vallzon njaj zogu i verës
 N'p'r ato hije mbi çurila!
 Se ç'po lot aj flladi i erës
 Me ata lila e karajfila!
-Se edhè mali s' âsht stolisun
+Se edhè mali ç' âsht stolisun
 N'gjeth e n'bár e n'gjithnduer bime:
 Fusha n'lule âsht krejt qendisun,
 Hupë ká bregu nder blerime.
@@ -43,12 +67,12 @@ Neper rrâjë e neper curra,
 Kahë dikohen kjartë si argjâni,
 Gurgullojn prroje edhè gurra,
 Turtlli n'mal ç'po i ndihet zâni.
-Kep mё kep po kecen dhizi,
+Kep më kep po kecen dhizi,
 Hidhen kingjat marrin shtoj'n
 Mblidhen tok barít te mrizi
-Se ç'po kndojn — se ç'po lodrojn,
-Se ç'po i bijn, oh! fyllit-o,
-Se ç'po i bijn zamares-o,
+Se ç'po kndojn — se ç'po lodrojn,
+Se ç'po i bijn, oh! fyllit-o,
+Se ç'po i bijn zamares-o,
 Tue u nzitë — tue u ngallitë'
 Njani tjetrin tue mahitë
 Herë me rromë tue u shpotitë,
@@ -61,22 +85,21 @@ Me u a pasë nji mbret lakmí.
 Nen nji qiellë porsi pasqyra
 Sod galdon, po, t'tanë natyra,
 Edhè njethet n'nji jetë ré
-Gjithshka giallë ngallitë mbi dhé.
+Gjithshka gjallë ngallitë mbi dhé.
 Ani prá, edhè Shtozovallet
-Të lâjn bjeshkët e të lajn zallet
-E të vijn ktû me pri vallet,
-Dora-dora - bardhë si bora,
+Të lâjn bjeshkët e të lâjn zallet
+E të vijn ktû me prî vallet,
+Dora-dora — bardhë si bora,
 Me marrë kângen e me kndue,
 Me këndue — e me lodrue,
 Mali e fusha me jehue.
 Prandej tash un po u piskati,
-Qi ktû t'githa t'njehin gati,
-Per me njitun vallen-o, 
+Qi ktû t'gjitha t'njehin gati,
+Per me njitun vallen-o,
 Per me marrun kângen-o,
-
 Si njaj zogu i veres-o.
 
-_Ktû piskatë tri herë të madhe, mbasandej me zâ të nalte thotë:_
+_Ktû piskatë trí herë të madhe, mbasandej me zâ të naltë thotë:_
 
 Oj Zâna,
 Kû t'jeni
@@ -89,11 +112,11 @@ Ktû eni,
 E 'i valle
 Të ré
 T'a thomi
-N'haré
+N'haré.
 T'këndojm,
-T'vallzoim,
+T'vallzojm,
 Nder hije
-Nper vrrije:
+Nper vrrîje:
 Ditë kcimit
 E gzimit,
 Ditë kndimit
@@ -101,45 +124,37 @@ Ditë kndimit
 
 _I a behin Orët, Zânat, të Lumet e Natës, Floçkat e Shtozovallet tjera._
 
-Jo, po, prá, moj Ore e Zâna,
+Jo, po, prá, moj Orë e Zâna,
 E ju Shtozovallet tjera,
 Un, po, vete tash zâ u bâna
 Me u mbledhë tok n'kto vise t'blera
 Edhè n'valle tue këndue
-Tue këndue - e tue lodrue,
+Tue këndue — e tue lodrue,
 T'i pershndetna stines s' ré,
-Qi e kerthnesët e t'tâne gjallní 
-— Si nder fusha Elizé -
+Qi e kerthnesët e t'tânë gjallní
+— Si nder fusha Elizé —
 Po lulzon per bukurí.
 Eni t'kapna dora-dora,
-Dora-dora - bardhë si bora,
+Dora-dora — bardhë si bora,
 E t'a thona ktû nji valle,
-Qi t'jehojn bjeshkë edhè zalle.
-
-— Si nder fusha Elizé -
-Po lulzon per bukurí.
-Eni t'kapna dora-dora,
-Dora-dora - bardhë si bora,
-E t'a thona ktû nji valle,
-
 Qi t'jehojn bjeshkë edhè zalle.
 
 ##### SHTOZOVALLET
 
-_(tue kndue pale e pale)_
+_(tue kndue palë e palë)_
 
 Buloi molla, lulzoi ftoni,
 Rrijn bylbylat tue këndue:
-Burre i forte Agamemnoni
-T'rrebtë nji ushtri në kâmbë ká çue;
+Burrë i fortë Agamemnoni
+T'rrebtë nji ushtrí në kâmbë ká çue;
 
-Vetë n'Aulide edhè u ká pri,
+Vetë n'Aulidë edhè u ká prî,
 Tue i ngarkue m'njimí galé,
 Per me dalë tej pellgut t'zí,
 Per me shâmë Trojen per dhé.
 
 Akejt Troja pse i koriti
-Edhè zi ftyren u a pat,
+Edhè zî ftyren u a pat,
 Lekë Paridi kúr grabiti
 Menelaut Helenen fat.
 
@@ -148,25 +163,25 @@ Natë as ditë s' pushon duhija:
 Strukë n'lymâ pre' atij sikleti
 Me duer n'i ká ngelë ushtrija.
 
-Vjen Kalkanti, dijs në za,
+Vjen Kalkanti, dijs në zâ,
 E Agamnonit thotë me gojë,
 Se s' do t'shuej erë e murrâ
 Se edhè as Trojen s' do t'pushtojë,
 
 Po kje se aj asaj Zojës Djanë
-T'bijn e vet nuk i a bân flije:
-Njat Ifigenin, si Zânë,
+T'bijn e vet nuk i a bân flîje:
+Njat Ifigenín, si Zânë,
 Të tanë jetë e të tanë hije.
 
-Fort âsht vra Agamemnoni:
-Si gúr vorri rin e s' flet:
+Fort âsht vrâ Agamemnoni:
+Si gúr vorri rrin e s' flet:
 Me sá gurret dahet prroni,
 Prindja s' dahen fmijvet t'vet!
 
 Vojtë ká fjala Ifigenís,
 Se kisht' lypë dijsi Kalkante,
 Qi per fat e nâm t'Greqís
-Flije Dianës ajo t'i u bânte.
+Flîje Dianës ajo t'i u bânte.
 
 Edhè vasha aty âsht çue m' kambë,
 Ká hjekë rubë e kacilitë,
@@ -180,7 +195,7 @@ Para t'et ajo ká dalë
 
 Edhè i thotë plot amelcim:
 «Tatë, o tatë! o i lumi tatë!
-Shka jè zymtë e rin n'mendim?
+Shka jè zymtë e rrin n'mendim?
 Shka rrin punës ti kshtû t'i u matë?
 
 Mue per flí po m' lypin zotat:
@@ -200,21 +215,20 @@ Per Hyi t'onë e per Akej?
 
 Çohna, tatë, pse vonë ká shkue,
 Pá u shkrî Troja n'flakë e n'shkndija,
-Prîmë m' therore! Edhè pa mue
+Prîjmë m' therore! Edhè pa mue
 Kjoftë e rrnoftë per jetë Greqija!»
 
-Kshtû ká fole e bija e nanës
+Kshtû ká folë e bija e nanës
 Edhè nget n'nji rrash të blerë,
-Kû m' therore, kushtue Djanes,
+Kû m' therore, kushtue Djanës,
 Ká shtrî qafen per m' e therë.
 
 E ç'm' atbotë rá paq tallazi,
-U shêm Troja e u bâ kreit djerr,
+U shêm Troja e u bâ krejt djerr,
 Rrezet dija dheut i shprazi:
 Nâmi i Grekut mort mâ s' merr.
 
-Duket së largu Ora e Shqypnís tue ardhë kah
-aj log Zânash, aty-ktû tue mbledhë bimë e lule.
+_Duket së largu Ora e Shqypnís tue ardhë kah aj log Zânash, aty-ktû tue mbledhë bimë e lule._
 
 ##### ZANA URANJE.
 
@@ -222,28 +236,28 @@ Amanèt, moj Zâna e Madhe,
 Shikjo 'i herë ka' ato livadhe
 E, a thue e njef njat Hije të bardhë,
 Qi tektej duket tue ardhë,
-— Sikúr bân hâna me dalë --
-Aty-ktû m'lule tu’ u ndalë?
+— Sikúr bân hâna me dalë —
+Aty-ktû m'lule tu' u ndalë?
 
-Kputet vallja e të gjitha Shtozovallet kqyrin habitshem kah livadhet.
+_Kputet vallja e të gjitha Shtozovallet kqyrin habitshem kah livadhet._
 
 ##### ZANA E MADHE.
 
 Se kush âsht manà s' e dí
-Orë a Zânë a se hyiní.
-Por, me giasë, kishem me thânë,
+Orë a Zânë a se hyjní.
+Por, me gjasë, kishem me thânë,
 Se kjo Orë nuk âsht as Zânë,
 Veç se âsht zoja Qiteré,
 Qi në buzë t'ksaj stine s' ré
-Vien pre' Olympit m' Helikonë;
+Vjen pre' Olympit m' Helikonë;
 
-Perse s'lumes — si po i thonë --
-Po i u kandshin kânge e valle,
+Perse s'lumes — si po i thonë —
+Po i u kandshin kângë e valle,
 Hije, vrrije, bjeshkë e zalle :
 E blerime, gurgullime
 T'cemtë currilash — e bylbylash :
 Vjollcash, lilash — karajfilash :
-E po i kandei me lodrue,
+E po i kandej me lodrue,
 Me hypë shrregull, me këndue
 Shpat e m' shpat e prrue më prrue,
 Hý e nieri me galdue.
@@ -251,7 +265,7 @@ Hý e nieri me galdue.
 ##### ZANA KALJOPE
 
 Jo, po; besa, mirë po thue:
-Zojë Hyineshë m' dán edhè mue.
+Zojë Hyjneshë m' dán edhè mue.
 Shifni 'i here ju, Orë e Zâna,
 Si po shndritë nper lila e thâna
 Porsi dielli e porsi hâna :
@@ -269,7 +283,7 @@ Por qi ndryshe dajtë nuk m' ká,
 Veç si drita tue ague,
 Veç si rrezja tue flakue :
 Si njaj flladi në prendverë,
-Qi fershllon nper gieth të blerë
+Qi fershllon nper gjeth të blerë
 E me ta, thue, dishka flet,
 Kahë i njethë në jetë e shndet.
 E veç m' rrêjn, ndoshta, kta sye,
@@ -279,9 +293,9 @@ Kish' me thânë se âsht ajo vetë.
 
 ##### SHTOZOVALLET
 
-(tue kndue palë e palë)
+_(tue kndue palë e palë)_
 
-Kahe jé nisë? kahë don me shkue?
+Kahë jé nisë? kahë don me shkue?
 Moj t'raftë e mira!
 Në log t'onë a don me urdhnue?
 Moj t'raftë e mira!
@@ -301,14 +315,16 @@ Jetë e shndet e dashtuní,
 Moj t'raftë e mira!
 
 <center>
+
 DUKË II.
+
 </center>
 
 ##### ORA E SHQYPNIS
 
 _(me do sherbelë e rozmarí në dorë.)_
 
-Mirë se u giêje e zêmra u kndoftë!
+Mirë se u gjêjë e zêmra u kndoftë!
 
 ##### ZANA E MADHE
 
@@ -318,8 +334,8 @@ Si per né ashtû per ty
 ##### ORA E SHQYPNIS
 
 Se un kam marrë-ó dhén me sý
-Edhe dalë nder kto zabele
-Per të gjete nji rod sherbele
+Edhè dalë nder kto zabele
+Per të gjetë nji rod sherbele
 Me do shpêndme e rozmarí,
 Qi nji lang me to me zí,
 Per t'priskue do bjeshkë e vrrî
@@ -331,7 +347,7 @@ T'u mbajtë larg çdo kob e t'ligë.
 Amanet, moj rrezja e bardhë,
 Kush jé ti? kahë jé tue ardhë?...
 A jé brymë, moj, a jé borë?
-A por jé Zanë, a se Orë?
+A por jé Zânë, a se Orë?
 
 ##### ORA E SHQYPNIS
 
@@ -341,23 +357,23 @@ Per mjedis qi e dán Shkumini
 Si shogë arit vashet t'ré:
 Qi njânës i Vardari e thuer,
 Per t'gjatë s' tjetres e puthë deti:
-Poshtë Devolli i vjen tërthuer
+Poshtë Devolli i vjen terthuer
 Gjerdan Drini i rrmen perkrejti?
 
 ##### ZANA E MADHE
 
 A mos thue, moj, per Shqypní?
-Per njat vend per bukuri,
+Per njat vend per bukurí,
 Kû mâ gjallë ndritë hâna e dilli,
 Kû mâ kandshim lulzon Prilli,
 E kû male ká e kodrina
 E ká fusha e ká rudina
-Te tanë hije e t'tanë blerime
-Pêmë e lule e githnduer bime,
+Të tanë hije e t'tanë blerime
+Pêmë e lule e gjithnduer bime,
 Fllade t'amla e gurgullime:
 Kû ká lume gurra e shé
 Si kurrkund njeti mbi dhé:
-Thue jane fushat Elizé?
+Thue janë fushat Elizé?
 
 ##### ORA E SHQYPNIS
 
@@ -370,19 +386,19 @@ Thue me dorë se e ká qendisë.
 ##### ZANA E MADHE
 
 Jo, po, e dijm, besa lum Hija,
-Se nji veno porsi Shqypnija
+Se nji vend porsi Shqypnija
 Nuk e ká, jo, rrokullija,
 Kahë do qi bie dielli e hâna
 E prijn valle Orë e Zâna.
-Se Shqypnin na, dikúr motit,
-— N'ato kohët e Gjergi Kastriotit
-Me kta sỹ, po, pá e kemi,
+Se Shqypnín na, dikúr motit,
+— N'ato kohët e Gjergj Kastriotit —
+Me kta sŷ, po, pá e kemi,
 Se edhè lá, maná, atje jemi,
 Neper lume tue turfllue,
 Neper gurra t'u freskue,
 Neper mrize tue këndue,
-Tue kendue - e tue lodrue
-Qi mâ mire s' ké si i a thue.
+Tue këndue — e tue lodrue
+Qi mâ mirë s' ké si i a thue.
 
 ##### ORA E SHQYPNIS
 
@@ -394,19 +410,20 @@ Ke ato bjeshkët e Dukagjinit.
 
 ##### SHTOZOVALLET
 
-_(tue kndue palë e pale)_
+_(tue kndue palë e palë)_
+
 Kjosh e bardhë e kjosh me jetë!
-Te shkoftë moti si do vetë,
+Të shkoftë moti si do vetë,
 Të shkoftë moti tue këndue,
 Tue këndue — e tue vallzue,
 Tue kecye — e tue shkelzye
 Neper gurra — e neper curra,
-Neper mriza — e gepariza
-Bjeshkë e m' bjeshkë e shpat me shpat:
-T'u bâftë dita nji sahat --
-Nji sahat t'u bâftë ty dita:
+Neper mriza — e qepariza
+Bjeshkë e m' bjeshkë e shpat më shpat:
+T'u bâftë dita nji sahat —
+Nji sahat t'u bâftë tý dita:
 Êndu shtatit porsi drita:
-Gjeraçinë mbi tjere petrita --
+Gjeraçinë mbi tjerë petrita —
 Zojë e randë n'at krye t'Malcís
 Siellsh mbi hasem të Shqypnís,
 Siellsh ka pak e shitosh shum,
@@ -424,17 +441,17 @@ N'ato kohët e Akil Peleut.
 
 ##### ZANA ERATO
 
-Jo, po, prá: nji fis bujar
+Jo, po, prá: nji fis bujár
 Po ishte 'i mend fisi shqyptár;
 Perse un vetë atje kam pá
 Djelm me u prekë, po, kryet më trá,
 Ardhun shtatit si namlija:
 Kam pá vashat si silvija,
-Me u ndritë llâna - porsi hâna,
-Me u ndritë dora - porsi bora:
+Me u ndritë llâna — porsi hâna,
+Me u ndritë dora — porsi bora:
 Njana ixhí — ruejtun n'kutí,
 Tjetra lule rritë n'saksí,
-Kush fëllanxë, kush hajmali
+Kush fëllanxë, kush hajmalí
 T'gjitha zoja per njerzí.
 
 ##### ORA E SHQYPNIS
@@ -447,43 +464,43 @@ Kúr t'a zjerrë aj t'prehët çelikun
 E t'a msŷj per ballë anmikun,
 Si ajo rrfeja tue gjimue,
 Jo m'e pré, jo m'e shkurtue,
-Jo per tokë dekun m' e shtri,
-Por gjallë m' kambë, thue, m' e perpi?
+Jo per tokë dekun m' e shtrî,
+Por gjallë m' kambë, thue, m' e perpî?
 Jo, po, po; Shqyptari i ngratë
-Armë e besë i ká zanate
+Armë e besë i ká zanatë
 Si kurrkush tjeter mbi dhé:
 T'a bân deken si me lé.
-Veç — kercuna, váj medet! --
+Veç — kercuna, váj medet! —
 Gati tash nja pêsqind vjet,
 Çohet Turku e i bje Shqypnís
-— Malukati i madh i Azís --
-Edhè t'mjeren moj Shqypni
-T'a shkretnon, t'a veshë në zi:
+— Malukati i madh i Azís —
+Edhè t'mjeren moj Shqypní
+T'a shkretnon, t'a veshë në zí:
 Me i u dhimbtë gurit e drunit.
 Sá s' po dij si m' i a kjá hallet.
 
 ##### ZANA E MADHE
 
-Shka po flet, moj - Shto-Zo', Vallet!
+Shka po flet, moj — Shto-Zo', Vallet!
 
 ##### ORA E SHQYPNIS
 
-Jo, po, Motra, besa prá --
+Jo, po, Motra, besa prá —
 Lê se zêmren i a ká thá,
 Tue e bâ t'mjeren me kjá,
 Por dér shpirtin flligjë i a ká:
 Sá qi, besa, o Motra t'mija,
 As me u njoftë s' njifet Shqypnija,
 Per shka kênë ajo ká motit
-E per shka âsht bâ n'ditë te sotit.
+E per shka âsht bâ n'ditë të sotit.
 
 ##### TË LUMET E NATËS
 
 Atê e vraftë Zoti,
 Atê e thaftë moti!
-Qi kshtû - barbari -
+Qi kshtû — barbari —
 At vend t'lulzuem,
-Kû rnon Shqyptari,
+Kû rrnon Shqyptari,
 Paska shkretnuem
 E lshue n'mjerim.
 Per tê asnjihera
@@ -493,13 +510,13 @@ M' t'Lem e m' Prendim.
 
 ##### ORA E SHQYPNIS
 
-Por i urti e pat lâne fjalë
+Por i urti e pat lânë fjalë
 Dalë kadalë, moj zêmer-valë,
 Se vjen moti per kadalë;
 Edhè kshtû, mbas sa mjerimit,
 Mbas sa lotsh e sa desprimit,
-Shqypnís dita na i ká ardhë --
-Na i ká ardhë - po, fati i bardhë,
+Shqypnís dita na i ká ardhë —
+Na i ká ardhë — po, fati i bardhë,
 Qi me dalë ajo zojë m' veti...
 
 ##### TË GJITHA ZANAT S' BASHKUT
@@ -510,7 +527,7 @@ Shqypnija ká dalë zojë m' veti?
 
 Po, Shqypnija dalë ká m' veti,
 Si çdo tjeter Shtet mbi dhé,
-Ligje e pare ajo tue pré:
+Ligjë e pare ajo tue pré:
 E me ushtrí — e qeverí:
 Merr e nep me kê t'duejë vetë:
 N'kuvend Mbretensh thirrë e pvetë:
@@ -522,35 +539,35 @@ Edhè mbajtë i a pat gjûn' m' bark.
 ##### ZANA MELPOMENE
 
 Po ti ashtû, moj vetull-njalë,
-Na ngushllo pak gjâ me fialë --
+Na ngushllo pak gjâ me fjalë —
 Na ngushllo, po, sado pak;
 Se, maná, mue zêmra gjak
-M' ka pikue, per shka kam ndi
-Per të mjeren moj Shqypni,
+M' ka pikue, per shka kam ndí
+Per të mjeren moj Shqypní,
 Si ká hjekë kjo keq e zí
 Si i ká shkue moti tue kjá
-Herë nen Turk e herë nen Shkja,
+Herë nen Turk e herë nen Shkjá,
 — Eh kta Zeusi m' i paste vrá!
 
 ##### ORA E SHQYPNIS
 
-Jo, po, prá; ne ditë të sotit
-Shqyptarija a e lirë si motit:
-Si pat kênë n'kohë t'Gjergi Kastriotit,
+Jo, po, prá; në ditë të sotit
+Shqyptarija â e lirë si motit:
+Si pat kênë n'kohë t'Gjergj Kastrjotit,
 N'kohë të Burrit, n'kohë t'Agronit,
 T'cillt, si vala e nji përronit
 Qi kah dkohet turra-turra,
 Tue dermue shkon landë e curra,
-Dermue e kan pá dhimbë anmikun
+Dermue e kan pá dhîmbë anmikun
 Per t'mprojtë shpín, erzin e mikun.
 E vertetë se sod n'Shqypní
-T'tana punët nuk jane n'hullí,
+T'tana punët nuk janë n'hullí,
 Ke Shqyptarët shpesh marrin jashtë
 E s' shkojn t'gjith si kisht' me u dashtë;
 Por se foshnje enè âsht Shqypnija
-E „ço e rrxo" me hecë zên fmija:
+E „ço e rrxo“ me hecë zên fmija:
 Se, medjé, edhè Shqyptarís
-Me i vue i duhet - porsi fmís -
+Me i vue i duhet — porsi fmís —
 T'gjitha Ingatët e foshnjenís.
 S' ngrehen Shtetet m'kambë e m' dorë
 Si me ngrehë bata nper borë!
@@ -567,25 +584,26 @@ Zojë m' vedvedi p'rherë t'lumnojë.
 ##### ZANA TERSIKORE
 
 A din shka, moj Gjeraçinë,
-— Mori bryma ne ledinë --
+— Mori bryma në ledinë —
 A t'i lâmë kto derte e halle
-E na prij ti ktû nji valle. --
-Prijna 'i valle bukurí,
+E na prîj ti ktû nji valle. —
+Prîjna 'i valle bukurí,
 Si qi hecë vallja n'Shqypní?!
 
 ##### SHTOZOVALLET
 
-_(tue kndue palë e pale)_
+_(tue kndue palë e palë)_
 
 Edhè hâna do t'a dije
 Edhè dielli do t'két pá,
 Se per çark ksaj rrokullije,
-Si Shqypnija i vend nuk ká.
+Si Shqypnija 'i vend nuk ká.
 
 Fusha t'gjâna e kodra t'blera,
 Vaditë n'lume, gurra e shé,
 Me gaz t'vet ktû i veshë Prendvera,
 Si kurrkund njeti mbi dhé.
+
 Nen nji qiellë perherë t'kullueme,
 N'rreze e n'dritë pershkue unjí,
 Bjeshkë e male të blerueme,
@@ -597,20 +615,20 @@ Armët e t'cillvet, p'rherë besnike,
 Po u permendshin n'fise t'tana.
 
 Atje léjn, po, Toskë e Gegë,
-Si dy rreze n'flakë t'nji dielli,
-Si dý rrfé, qi shkojn tue djegë
+Si dŷ rreze n'flakë t'nji dielli,
+Si dŷ rrfé, qi shkojn tue djegë
 Kúr shkrepë rêja nalt prej qielli.
 
-##### TE LUMËT E NATËS
+##### TË LUMET E NATËS
 
-_(tue lodrue) _
+_(tue lodrue)_
 
 O Zojz i perjetshem,
 Ti zín — e morín,
 Ti t'ligat — e shlligat,
 Ti damin e gramin
 E boren — e breshnin,
-E t'zin sŷkerveshnin
+E t'zín sŷkerveshnin
 Shqypnijet mba larg.
 
 Reshja t'mbaren,
@@ -631,7 +649,7 @@ Grunë, tagjí:
 Si m' hardhí
 Qarri rrush
 T'bâjë n'gajush:
-Hithi, Ipusha.
+Hîthi, lpusha.
 Neper fusha,
 N'mal, nper vrrîje
 Mjaltë të rîje:
@@ -647,12 +665,12 @@ Njitun valle
 Dora-dora,
 Bardh si bora,
 Të këndojm
-Te lodrojm,
-Fat e jete Shqypnís t'i urojm.
+Të lodrojm,
+Fat e jetë Shqypnís t'i urojm.
 
 ##### ZANA E MADHE
 
-_(tue piskate)_
+_(tue piskatë)_
 
 Oj Shtriga,
 Qi t'liga
@@ -671,34 +689,30 @@ Mushknít u a hani:
 Kû t'jeni,
 Ktû eni,
 E me rizë hjekun
-E gúr me gúr.
-M' anmiq t'Shqypnis
-M' a Ishoni 'i namë
+E gúr më gúr
+M' anmiq t'Shqypnís
+M' a lshoni 'i namë
 Të madhe fort.
 
-_(Hijn dy shtriga, tue lodrue, me nji fultere e me
-nji trikamç, (saxhak) ne dorë. Mbas ktyne hijn tie-
-at: do me faculeta lidhun m' krye, si zingare-
-let, e do me faculeta të zhdredhuna e me ka dy
-gur ne dorë)._
+_(Hîjn dy shtriga, tue lodrue, me nji fultere e me nji trikamç, (saxhak) në dorë. Mbas ktyne hîjn tjerat: do me faculeta lidhun m' krye, si zingarelet, e do me faculeta të zhdredhuna e me ka dy gur në dorë)._
 
 ##### SHTRIGAT
 
-O Zoiz i pushtetshem,
+O Zojz i pushtetshem,
 O Zojz i perjetshem,
 M'ânmiq të Shqypnís
-— N'dashtë t'huej, n'dashtë të shpís --
+— N'dashtë t'huej, n'dashtë të shpís —
 Lsho puçat e «lís»,
-Lsho t'pimt e «sergís»:
-Lsho «gunga» - Isho «lunga»
-Lsho rebe - edhè «zgjebe».
+Lsho t'pîmt e «sergís»:
+Lsho «gunga» — lsho «lunga»
+Lsho rrebe — edhè «zgjebe».
 «Gerbulen», «lulbardhen»:
 E lshojau ti mardhen,
 Lshou plajmin e zushen:
-Kreit thajau ti fushen
+Krejt thajau ti fushen
 Qi t'mbjellin, mos t'korrin:
 Vorfnojau oborrin
-Me dam nder bagti,
+Me dam nder bagtí,
 Nder dhên e nder dhí:
 Mos lên qi në voter
 T'u rritet vllá a moter.
@@ -726,31 +740,31 @@ _(tue lodrue)_
 
 «Pse edhè hana do t'a dije,
 Edhè dielli do t'két pá,
-Se per qark ksaj rrokullije,
+Se per çark ksaj rrokullije,
 Si Shqypnija 'i vend nuk ká».
 
-##### TË TANA SHTOZOVALLET SE BASHKUT
+##### TË TANA SHTOZOVALLET SË BASHKUT
 
 «Rrnosh e kjosh, oh moj Shqypní:
 Rrnosh e kjosh gjithmonë si vera,
 E me pagjë e me Liri
-Per jetë t'jetës të rrnoftë ty ndera.»
+Per jetë t'jetës të rrnoftë tý ndera.»
 
 <center>
-DUKE III
 
-_(Hijn dy Zânat, Bora e Bieshka, me Silen, nji
-vajze shkodrane nja trembëdhetvjeçe)._
+DUKË III
+
+_(Hîjn dy Zânat, Bora e Bjeshka, me Silen, nji vajzë shkodrane nja trembëdhetvjeçe)._
 
 </center>
 
 ##### BORA
 
-T'paçim, Zânë, sá gjithkto male! --
+T'paçim, Zânë, sá gjithkto male! —
 Porsà sod muer me vezllue
 Hylli i dritës m' at vetull mali,
 E nper lugje e nper blerime,
-Zogjt e verës shkrȋheshin n'valle,
+Zogjt e verës shkrîheshin n'valle,
 Edhè bulku, m' krah parmenden
 E vû para qét nen laver,
 Dilte n'arë me kapë aj punen,
@@ -758,7 +772,7 @@ Un e Bjeshka — na dý shoqe,
 U vûm m' shtek fíll m' anë prej Verit
 Per me pá e me soditun
 Se si toka n'ato vise
-Bukur ȇndte gieth e lule :
+Bukur êndte gjeth e lule :
 Se si rrmejshin prrojet malevet,
 Si gurgllojshin gurrat krepavet
 E si njethej bari fushavet;
@@ -768,19 +782,19 @@ Se as vetë Fushat Elizé
 S' po ishin t'bukra si njaj dhé.
 Edhè, besa, prá ashtû po ishte :
 Të tanë vêndi nji lulishte :
-Borë në bjeshkë e voes në vrrȋ :
-Fusha njethë për bukurí :
+Borë në bjeshkë e voes në vrrî :
+Fusha njethë per bukurí :
 Gjith motmoti 'i Shgjergj i rí.
 Sŷnin kndellë e zêmren kndellë,
 Atij vêndi shtŷ jem' kthellë,
-Edhè mrrȋ kem' n'nji terthore
+Edhè mrrî kem' n'nji terthore
 Kû po kishte 'i lum t'madhnueshem,
 Pertej lumit nji gjytet,
-Brî jit nji kalâ,
+Brî gjytetit nji kalá,
 N'báll të kalás nji liqê t'gjânë :
 Prej si rriedhte edhè nji lum,
 Neper tê êndeshin anijat
-— Velat ndê per t'gjatët t'pajarit --
+— Velat ndê per t'gjatët t'pajarit —
 Si ato mjellmet neper glina.
 Por po kishte edhè nji shé,
 Kjarët qi rrmete krés së gjytetit:
@@ -796,18 +810,18 @@ E me kumlla bordarike,
 Kypça, ullîj e gjithnduer pême,
 Si kurrund njeti n'ket dhé.
 Aty 'i herë rám zhyt m' at shé
-–- Mbasì u bânë cilat e mdhá --
+— Mbasì u bânë cilat e mdhá —
 E t'filluem mbrenda me u lá,
 Dér qi dielli u çue n'mjesditë.
 Mandej zên me na thekë ûja,
-Edhè dalim shûjtë me gietun.
+Edhè dalim shûjtë me gjetun.
 Mjelim sutat hijes s' malit,
 Xjerrim mjalten jashta zgavrrash,
 Mbledhim dredhza e urtyta bjeshkve
-Gjêjm nji rrasë të Imuet mermeri
+Gjêjm nji rrasë të lmuet mermeri
 Per tryezës, e shi mbi stom
 T'atij sheu, n'nji grykë t'blerueme,
-Strukë nder badra te lulzueme,
+Strukë nder badra të lulzueme,
 Per anë rrase me ngranë u vûme.
 Kúr, pá pritë e pá kujtue,
 Qe, po vjen njikjo bí nierit
@@ -830,15 +844,15 @@ Besa, po, moj Zana e Madhe ;
 Njashtu âsht krejt si ti po thue.
 Edhè un deshta m'e shitue :
 M' e bâ deshta garravâxh,
-Qi mos t'kisht kush shka me pá ;
-Veç kjo Bora — shoqja e ême --
+Qi mos t'kisht' kush shka me pá ;
+Veç kjo Bora — shoqja e ême —
 M' thotë: âsht fmî, e garravâxh
 Mos t'a bâjm; por t'i lshojm zverdhcen
-Dér n'ditë t'verës - sod nji motmot.
+Dér n'ditë t'verës — sod nji motmot.
 Aty u zûm shoqe me shoqe,
 Edhè kthelltë na shkuem me fjalë:
-Un e dojshe garraväxh,
-Kio veç ftyren me i a zverdhë --
+Un e dojshe garravâxh,
+Kjo veç ftyren me i a zverdhë —
 Ftyrë e sŷ m'i a bâ çapî.
 Qatje vonë rám t'dyja n'godi,
 Ktû m' e prû perpara teje,
@@ -849,9 +863,9 @@ Me i a dhânë ti vetë ndeshkimin.
 _(vedi me vedi)_
 
 Zojë !.... Kû gjindem vetë ?... Kto grá
-Kush do te jén?
+Kush do të jén?
 
-##### ##### ZANA E MADHE
+##### ZANA E MADHE
 
 _(Silja)_
 
@@ -869,7 +883,7 @@ A t'u lá, ase m'tryezë tue ngranun.
 Me fishkllue m' thue?... un nuk jam djalë.
 N'Shqypní varzat nuk fishkllojn.
 
-##### ##### ZANA E MADHE
+##### ZANA E MADHE
 
 Mirë; po ti, moj bijë, kahë jé?
 
@@ -897,10 +911,10 @@ Po; katolike.
 
 ##### ZANA E MADHE
 
-Vashë o nanë, githmonë fisnike…
+Vashë o nanë, gjithmonë fisnike…
 
-(Orës s' Shqypnís, e cilla po rrite tue bisedue
-t' ultët me do Zâna tjera).
+_(Orës s' Shqypnís, e cilla po rrite tue bisedue t'ultët me do Zâna tjera)._
+
 Po shikjo, moj Gjeraçinë!
 Ktû po kemi 'i vajzë Shqyptari :
 A thue e njef? a thue t'ká rá
@@ -908,8 +922,7 @@ Me e pá ti ndojherë n'Shqypní?
 
 ##### ORA E SHQYPNIS
 
-(Tue i u avitë Siles e ne njanen dorë tue e
-Imue krejet).
+_(Tue i u avitë Siles e ne njanen dorë tue e lmue krejet)._
 
 Po a Shqyptare jé, moj bijë?
 
@@ -930,7 +943,7 @@ Zû me i shndritë hylli i Lirís.
 ##### ORA E SHQYPNIS
 
 Vajzë shkodrane, pra?... Sa mirë
-Asht tue m'ardhë, qi edhè un po ndolli
+Âsht tue m'ardhë, qi edhè un po ndolli
 Ktû me tŷ.
 
 ##### SILJA
@@ -951,10 +964,9 @@ Njana Orë e tjetra Zânë...
 Këto janë, moj, Shtozovallet:
 Njato t'Bukurat e dheut.
 
-(Silja tmerohet e struket nen sjetull-t’ Orës
-së Shqypnis).
+_(Silja tmerohet e struket nen sjetull-t'Orës së Shqypnís)._
 
-Jam un ktû: s' t'bâjn gjà; mos druej.
+Jam un ktû: s' t'bâjn gjâ; mos druej.
 Veç, si ti ké ndollë ktû, m' thuej.
 
 ##### SILJA
@@ -964,7 +976,7 @@ Un? s' e dij.
 ##### ZANA E MADHE
 
 Po t'kallxoj vetë.
-Bjeshka e Bora - kto dy Zâna
+Bjeshka e Bora — kto dŷ Zâna
 T'logut t'êm, ktû n'Helikonë,
 Paskan dalë sod, tue zbardhë drita,
 Edhè marrë kan dhén perpjetë,
@@ -990,7 +1002,7 @@ Edhè fíll me kambë m' tryezë t'tyne.
 Por, ke kto nuk mund rán n'godi,
 Se n'ç' mndyrë vajzen me e shitue,
 — Sikúr né na nep zakoni
-Kúr ndokush tryezen t'na shklase -
+Kúr ndokush tryezen t'na shklase —
 E kan prû ktû para meje,
 Qi shi vetë un t'a shitoj.
 
@@ -1017,24 +1029,22 @@ Shka u jânë dashtun ato lule?
 
 Besa, zojë, veç persè neser
 Na kremtojm pêsdhetvjetorin
-E t'ndertuemit t'njasai Shkolle
+E t'ndertuemit t'njasaj Shkolle
 Kû na zâm; e prandej deshtem
 Sod t'i mbledhim nji tubë lule,
 Per m' e çue neser dhantí
-
-- Pêng dashtnije e evarije,
-  Per shka psojn Msueset me né,
-  Qi t'ushtrohna n'dije e n'Fé,
-  E n'dashtní të flakët p' r Atdhé -
-
+— Pêng dashtnije e evarije,
+Per shka psojn Msueset me né,
+Qi t'ushtrohna n'dije e n'Fé,
+E n'dashtní të flakët p'r Atdhé —
 Kshtû na duelem dér nder Bardhaj,
-Per te mbledhun do aso lulesh
+Per të mbledhun do aso lulesh
 Neper badra.
 
 ##### ORA E SHQYPNIS
 
 Po a fmî shkolle
-Jé, moj vajze?
+Jé, moj vajzë?
 
 ##### SILJA
 
@@ -1042,17 +1052,18 @@ Si urdhnon.
 
 ##### ORA E SHQYPNIS
 
-Të cillen shkollë ndjekë?
+Të cillen
+Shkollë ndjekë?
 
 ##### SILJA
 
 T'paren klasë Normale
-N'shkolle fêmnore, qi mbain n'Shkoder
+N'shkollë fêmnore, qi mbajn n'Shkoder
 T'ndertat Motrat Stigmatine.
 
 ##### ORA E SHQYPNIS
 
-Oh! po, i njof e mire e dí,
+Oh! po, i njof e mirë e dí,
 Se me ç'zéll e me ç'dashtní
 Kto punojn per Fé e Adhé,
 Qi me i rritë varzat fisnike,
@@ -1064,28 +1075,28 @@ Njimend mesa t'Skanderbeut.
 
 A po ndien, moj Zâna e Madhe,
 Shka po thotë kjo vajzë shkodrane?
-Kio po thote, moj vetull-njalë,
+Kjo po thotë, moj vetull-njalë,
 Se dér n'Bardhaj paska dalë
-— Nder ato rudina t'blera --
-Bashkë me disá shoqe tiera,
+— Nder ato rudina t'blera —
+Bashkë me disá shoqe tjera,
 Mbasi dielli u çueka m' cila,
 Per të mbledhun vjollca e lila,
 Drandofille e karajfila,
 Shebojë, iris e zymyla,
 Gjithnduer lulje e gjithnduer bime,
 Qi me ndreqë me ato blerime
-Sá mâ t'kandshme 'i tubë per sỹ,
-Per t'i a çue mandej dhanti
-— Pêng dashtnije — e evarije --
+Sá mâ t'kandshme 'i tubë per sŷ,
+Per t'i a çue mandej dhantí
+— Pêng dashtnije — e evarije —
 Njasaj s' Pares s' Shkollës femnore,
 Qi n'gjytet t'Shkodres mizore
 Aq me zéll, dashtní e dije
-Stigmatinet mbain per fije,
+Stigmatinet mbajn per fije,
 Kû kjo vajza âsht msim tue xâne.
 
 ##### ZANA E MADHE
 
-Po a thue din, moj, ti, me m' thanë,
+Po a thue din, moj ti, me m' thanë,
 Stigmatinet se kush janë
 Me kujdes qi kshtû t'nji nane
 Msuekan n'shkollë varzat shkodrane?
@@ -1096,15 +1107,15 @@ Janë Vestalet françeskane.
 Qi t'kushtueme Nazareut,
 Shpînen sjellë i a kan ktí dheut :
 E t'kullueta porsi lili
-Qi nper voes t'agimit cili
-— Nji rahá ato e parrizit --
+Qi nper voes t'agimit çili
+— Nji rahá ato e parrizit —
 Bashkë me Arvalt e Sh' Frano Asizit,
 Me ata Etent Françeskâj,
-— Kênë per Fé gjithmonë vigâj --
+— Kênë per Fé gjithmonë vigâj —
 Ruejn n'Shqypní flaken e Unjillit,
 Qi dikúr e prû prej qiellit
 Fjala e Mendes s' Perendís,
-Prometeu i rí i njerzís;
+Prometeu i rí i nierzís;
 T'cillin forcat kundershtare
 M' kryq mberthye e kan m' Sukë Kalvare
 
@@ -1113,11 +1124,11 @@ M' kryq mberthye e kan m' Sukë Kalvare
 Françeskâjt ke po i zên n'gojë,
 Tash nder mend po m' bjen, oj zojë,
 Se disá nder këtà Freten,
-Qi n'Shqypni kushtue kan veten
+Qi n'Shqypní kushtue kan veten
 Fés e Atdheut, na njoftë i kina
 Edhè m' brej, aha e çetina,
 T'Helikonës neper rudina,
-Kthelltë me Ivore tue i zgavrrue,
+Kthelltë më lvore tue i zgavrrue,
 Êmnat na u a kemi shkrue,
 Qi n'harresë kurr mos me u qitë.
 
@@ -1140,12 +1151,12 @@ Tue e lânë nen zgiedhë t'Turkís.
 Po; por ká prap do êmna tjerë,
 Shkrue mbi landë t'ktij vendi t'blerë,
 E qi un tý, qatje mâ vonë,
-Kúr te prîjë nper Helikonë,
+Kúr të prîjë nper Helikonë,
 Bigat t'ona per me pá,
-Ne shêj t'gjith kam me t'i dá. --
+Në shêj t'gjith kam me t'i dá. —
 Veçse mue krejt po m' habitë
 Kahë po m' thue, mori petritë,
-Se kjo vajzë në shkolle âsht njitë :
+Se kjo vajzë në shkollë âsht njitë :
 Po a njimend se edhè n'Shqypní
 Ká nisë grueja me u pertrí
 Neper dije e gjytetní?
@@ -1155,7 +1166,7 @@ Neper dije e gjytetní?
 Jo, po, prá, moj lum pinjolla,
 Sod n'Shqypní 'dhé po ká shkolla,
 Kû shkojn varzat shqera shqera
-— Si ajo bleta kahë prendvera
+— Si ajo bleta kahë prendvera —
 Edhè at msim thithin me dije,
 Qi Shqyptares t'i két hije:
 Edhè 'i shkollë, besa, lum Zâna,
@@ -1164,48 +1175,48 @@ Po ishte ajo shkolla fêmnore
 Qi n'at Shkodren t'onë mizore
 Stigmatinet çilë e kan,
 Mbas programit françeskan:
-Fé e Atdhé e miré me t'hujë,
+Fé e Atdhé e mirë me t'hujë,
 Per pá u bâ robi i kurrkujë:
 Qi secilla n'shpí të vet
 Të jesë zot e pashë e mbret;
 Edhè bijavet shqyptare
-Me u dhâne msimi n'gjûhë amtare.
-Edhe fmija shqyp me u msue.
+Me u dhânë msimi n'gjûhë amtare.
+Edhè fmija shqyp me u msue.
 
 ##### ZANA KALJOPE
 
 Ky âsht program, taman program,
 Bâ per trû e jo per dhâm:
-Bà per trû e t'mire te zânsit,
+Bâ per trû e t'mirë të zânsit,
 Jo per dham e bark t'msimdhânsit.
 Me u msue fmija shqyp po thue?...
-E po ç'n'gjûhë posë në gjûhë t't Parit
+E po ç'n'gjûhë posë në gjûhë t't'Parit
 Mund t'zânë n'shkollë t'bijt e Shqyptarit.
 
 ##### ORA E SHQYPNIS
 
 E vertetë se mîfet n'ujë,
 Fmít në shkollë tue i msue n'gjûhë t'hujë
-Prej kahë fmija - shpresa e Atdheut --
+Prej kahë fmija — shpresa e Atdheut —
 Dalin si baktija e Ndreut :
 Mos m'i u dashtun gjâ kurrkujë
 E as Shqyptarë nuk janë, as t'hujë.
 Veç n'Shqypní, si e dij un hollë,
 Gjithshka mujt dikúr me ndollë
-E prandej ç'do i huej krye - tollë,
-Mlysh, a krap a mende - kubel,
+E prandej ç'do i huej krye-tollë,
+Mlysh, a krap a mende-kubel,
 Qi n'vend t'vet t'a bâne zhubel
-Tue e gjuejtë m' Ivore e me voe sklluka
-— Zêmer pus, majmun kahë duka --
+Tue e gjuejtë m' lvore e më voe sklluka
+— Zêmer pus, majmun kahë duka —
 E qi bâ 'i herë pazarllek,
 Shqyptarín m' e bâ qifllek
 P'r atà Çfutent e dheut t'vet
-— Si t'kisht' mbetë Shqypnija shkret --
+— Si t'kisht' mbetë Shqypnija shkret —
 Porsa e vuell deti n'Shqypní,
 T'ngrefi plang e t'ngrefi shpí,
 T'çili shkollë e t'grumblloi fmí
 Kû t'u vûni 'i mij leçí,
-N'gojë Shqypnín kurr mos m’ e xânë :
+N'gojë Shqypnín kurr mos m' e xânë :
 Nji fjalë shqyp kurr mos m' e thânë :
 Librat shqyp — me i bâ nji gyp,
 E tue frŷ erë e murrâ,
@@ -1214,9 +1225,9 @@ Me mbajtë t'hujët per njerz bujarë:
 Skanderbegun m' e quejtë « Shkjá »
 Të gjith boten m' e mbajtë vllá,
 Posë Shqyptarësh; e se Shqyptari
-— Per me i hecë puna per s' mbari --
+— Per me i hecë puna per s' mbari —
 Ai do t'kapej veç me fé,
-N't’ cillen fat kisht' pasë me lé,
+N't'cillen fat kisht' pasë me lé,
 Pá çá kryet, aspak p'r Atdhé :
 Persè, thotë, 'i Shqypní m' veti
 S' mund t'a bâte as Krajli as Mbreti,
@@ -1231,14 +1242,14 @@ Me fiq barkun.
 Çudë me bâ,
 Si persritet historija !
 Kshtû si psue paska Shqypnija,
-Besa, psue ká rokullija,
+Besa, psue ká rrokullija,
 Ç' se zû e Drejta me marrë m' thue,
 E m' krye t'vendit hajni u vue,
 Me pré ligjë, me dá kanue.
 Kurdoherë qi i huej vû sye
 Mos me lânë qi 'i kóm t'çojë krye,
 Të dalë m' vedi e t'gzojë lirí,
-Por të vuej githmonë n'robní;
+Por të vuej gjithmonë n'robní;
 Prej programit t'vet shkolluer
 Jashtë fjalen «Atdhé» aj xuer.
 Edhè shkollën, kopilani,
@@ -1249,27 +1260,27 @@ Edhè vllazent per nen kamë
 Me i mbajtë rob në vajë e n'gjamë,
 Qi t'kertyllej vetë në vjamë
 Prej programit t'vet shkolluer,
-Fjalen « Fé» perjashta xuer.
+Fjalen «Fé» perjashta xuer.
 Prandej pra, kudo mbi dhé,
 Shkolla e vendit nuk ká «Fé»,
 Ajo âsht drejt kundra lirís ;
 Ndersa shkolla e huej pa «Atdhé»
-asht rreziku i pamvarsís
+Âsht rreziku i pamvarsís
 T'atij komi, kû âsht ndertue.
 
 ##### ZANA EUTERPE
 
 Të lumët goja! Mirë po thue.
-Edhè un tham - se nji program,
+Edhè un tham — se nji program,
 Bâ per hajr e jo per dam :
 Bâ si vêndi e lypë, e stina
-Asht, po, njaj qi Gjeraçina
+Âsht, po, njaj qi Gjeraçina
 Tha, se atje n'Shkodren mizore
 Kan qitë n'punë në shkollë fêmnore,
 E e zhvillojn me 'i kujdes nane,
 Tash dyzet e sá motmote
 Njato Motrat Françeskane,
-Stigmatine quejtë prej bote,
+_Stigmatine_ quejtë prej bote,
 Fé e Atdhè, e mirë me t'hujë,
 Per pá u bâ robi i kurrkujë
 Qi seicilli n'shpí të vet
@@ -1285,8 +1296,8 @@ Ke mendue paska me veti
 N't' kremte, qi siell neser vjeti,
 Nji tubë lule me i dergue
 S' Pares s' Shkollës, per t'i diftue
-Evarí - e dashtuní.
-Prand’ as vetë s' due me i thânë gjâ,
+Evarí — e dashtuní.
+Prand' as vetë s' due me i thânë gjâ,
 Per at faj qi kjo ká bâ ;
 Mu mâ teper un, po, vetë
 Due at tubë lule me i a gjetë
@@ -1296,11 +1307,11 @@ Pêng dashtnije — e evarije
 T'asaj vepre gjytetare,
 Qi kto Motra rregulltare
 Zhvillojn n'Shkoder xênmitare
-Nda' ato varzat shqypëtare. -
-Po ndigjo, mo ti Klarinë,
+Nda' ato varzat shqypëtare. —
+Po ndigjo, moj ti Klarinë,
 Ti Culinë — e ti Dalinë,
 Ulnju shpejt dér poshtë kahë vrrini
-Shpeit do lule edhè t'm' i gjini
+Shpejt do lule edhè t'm' i gjini
 E mâ shpejt khâ nalt t'm' i bini.
 
 ##### ZANA E MADHE
@@ -1326,28 +1337,29 @@ T'u shmangë s' keqes e me endirë
 Herë perherë tue ndjekë shka âsht mirë.
 Mbasandej na msojn per s' mbarit,
 Se Shqypnija âsht e Shqyptarit:
-Se kû i huej nuk ká shka bân:
+Se ktû i huej nuk ká shka bân:
 Se t'krishtenë e muamedan
 Nuk do t'rrijn t'u kqyrun çark
 E me mende gjithmonë në bark;
 Se gjithmonë fjala «Shqyptár»
 S'do me thanë, besa «atdhetár»
-Se n'ket shekull rumbullak
+Se n'ket shekull rrumbullak
 T'gjith virtyti s'rri n'mustak:
 Se nja s'janë «serm» e «teneqe»,
 E se po isht', po 'i punë e keqe
 Per nji plesht me djegë jorganin ;
 Fé e Atdhé me pasë sahanin ;
-Se s' rinon vendi me nji mik,
-Me sá rnon sorra me 'i fik,
+Se s' rrnon vendi me nji mik,
+Me sá rrnon sorra me 'i fik,
 E se shpesh mund t'jét rrezik,
-Me mbajtë . . per fisnik.
-. . . . . per besnik,
+Me mbajtë . . . . per fisnik.
+. . . . . . . per besnik,
 Per budall me mbajtë Inglizin
 N'çashtje Atdheut me pvetë Af'zin
-. . . . . . . . .
 
-##### ZANA POLINITE
+. . . . . . . . . . . . . .
+
+##### ZANA POLINIJE
 
 Me nám, besa ! Të lumët goja:
 Sá mirë flitke !
@@ -1366,98 +1378,59 @@ A se hatllavet me shì lpozë :
 Se dikush ká lé per pendë,
 Dikush tjeter per parmendë,
 E se mirë tha 'i plak i ngratë,
-Krushka- madh, i hollë e i gjatë,
+Krushka-madh, i hollë e i gjatë,
 Rri n'zanát qi t'la yt-atë,
 Edhè prap, nper mokna e vegla
 Na diftojn nper t'cillat rreglla
 Zhdrivillon vepren natyra,
-E pse sŷn' shpesh t'a rrêne ftyra.
+E pse sŷn' shpesh t'a rrênë ftyra.
 Pse t'vjen letë shka m' vedi âsht randë.
 Na ligjrojn mbi gúr e landë,
 Mbi lulqerblla e suta t'egra:
-
-Prap aty msohet Algebra,
-Msohet mbrende Matematika,
-Gymnastika - eohè Muzika:
-Me Historí - e Geografi
-Edhè zâme na me ravise,
-Me ravise - e me gendise;
-Zâme me mate e zâme me pré
-N'trajte te vieter, n'trajte te ré:
-Me lá petkat, me arnue,
-Buke e shûjte na me gatue:
-Gjithshka hije ká pri grue
-Qi me zâne e me punue,
-Zot e Atohé per pá i harrue.
-(Hijn zânat me nji tube lule ne dorë)
-
-##### ZANA E MADHE
-
-Qe, pra, oj vaize, lulet tek jane:
-Mêrri e çoja s' Ndertes Nanë,
-S' Pares s' Shkolles, qi aq fort dishrue
-Kishe pasë ti me i a çue,
-Pêng dashtnije - e evarije
-Per shka Motrat Françeskane
-Me i kuides e i zêmer nane,
-— Tash po mbushen pêsdhetë vjet -
-Veprue paskan ne gjytet
-T'asaj Shkodre n'zâ bujare,
-Tue msue n'shkolle bijat shqyptare
-Hyut e Atdheut si me u sherbye,
-Si detyrët ato me i krye,
-Si me viefte, si me punue,
-Shpín dhe erzin tue shikjue :
-Me kênë ndera e Fés e Atdheut
-Njimend mesa t'Skanderbeut.
-E mâ teper ké me i thanë
-Asaj s' Ndertes Moter - Nanë,
-Se kto lule - kshtû si jânë -
 Prap aty msohet Algebra,
 Msohet mbrendë Matematika,
-Gymnastika - edhè Muzika:
-Me Historí - e Geografi
-Edhè zâme na me ravisë,
-Me ravisë - e me qendisë;
+Gymnastika — edhè Muzika:
+Me Historí — e Geografí
+Edhè zâmë na me ravisë,
+Me ravisë — e me qendisë;
 Zâmë me matë e zâmë me pré
-N'trajtë të vjetër, n'trajtë të ré:
+N'trajtë të vjeter, n'trajtë të ré:
 Me lá petkat, me arnue,
 Bukë e shûjtë na me gatue:
 Gjithshka hije ká p'r'i grue
 Qi me zânë e me punue,
-
 Zot e Atdhé per pá i harrue.
 
-_(Hijn zânat me nji tubë lule në dorë)_
+_(Hîjn zânat me nji tubë lule në dorë)_
 
 ##### ZANA E MADHE
 
-Qe, pra, oj vaizë, lulet tek janë:
+Qe, pra, oj vajzë, lulet tek janë:
 Mêrri e çoja s' Ndertes Nanë,
 S' Pares s' Shkollës, qi aq fort dishrue
-Kishe pazë ti me i a çue,
-Pêng dashtnije - e evarije
+Kishe pasë ti me i a çue,
+Pêng dashtnije — e evarije
 Per shka Motrat Françeskane
-Me i kujdes e i zêmer nane,
-— Tash po mbushen pêsdhetë viet --
-Veprue paskan ne gjytet
+Me 'i kujdes e 'i zêmer nane,
+— Tash po mbushen pêsdhetë vjet —
+Veprue paskan në gjytet
 T'asaj Shkodre n'zâ bujare,
 Tue msue n'shkollë bijat shqyptare
-Hyut e Atdheut si me u shërbye,
+Hyut e Atdheut si me u sherbye,
 Si detyrët ato me i krye,
 Si me vjeftë, si me punue,
 Shpín dhe erzin tue shikjue:
 Me kênë ndera e Fés e Atdheut
 Njimend mesa t'Skanderbeut.
-E mâ tepër ké me i thanë
-Asaj s' Ndertes Moter - Nanë,
-Se kto lule — kshtû si jânë --
+E mâ teper ké me i thanë
+Asaj s' Ndertes Moter-Nanë,
+Se kto lule — kshtû si jânë —
 S' kan me u veshkë, as s' kan me u thá,
 Pse kto Zâna mbledhë i ká.
 
 ##### SILJA
 
-_(tue marre tuben e lulevet)_
+_(tue marrë tuben e lulevet)_
 
 T'falem nderës, o e ndritshmja Zânë;
 Gjithsi urdhnon un kam me i thânë.
@@ -1476,7 +1449,7 @@ Jo, po, gadi i kam do fjalë.
 
 ##### ZANA E MADHE
 
-Hajt, na i thuej ktû dalë- kadalë.
+Hajt, na i thuej ktû dalë-kadalë.
 
 ##### SILJA
 
@@ -1484,22 +1457,22 @@ _(sjellë prej publikut)_
 
 Fort e Nderta e e dashtna Nanë!
 N'rasë të s' kremtes të ksaj dite,
-Shum do fjalë kisht me t'i thâne,
+Shum do fjalë kisht me t'i thânë,
 Gjûha e mjerë me u shprehë po t'di'te.
 Mbasi vetë, pra kam qillue
-Enè fmí e me folë nuk di,
-Bashke me shoqe jam mendue
+Enè fmí e me folë nuk dí,
+Bashkë me shoqe jam mendue
 Ket tubë lule t'ap n'dhantí.
 Po, kto bimë me njyrë t'veta
 Kan me t'thânë, shpnesoj, mâ s' miri,
 Shka me shprehë s' din gjûha e shkreta
 Ashtû mue si m' don dishiri.
-Njekto lule t'bardha — t'bardha
+Njekto lule t'bardha-t'bardha
 Kan me t'thânë se nderë e Fé
 N'zêmer t'onë as zhegu as mardha
 S' kan m' e shue, dér t'jem' mbi dhé.
 Këto t'kuqet do t'u thonë,
-Se ajo flakë athedashtnije
+Se ajo flakë atdhedashtnije
 Qi u ndez n'shkollë në zêmer t'onë,
 Gjallë perherë nder né do t'rrije.
 E kta gjeth, mandej, të blerë
@@ -1516,7 +1489,7 @@ Se Shqypnija âsht e Shqyptarit,
 Se t'bijn n'luftë per tê si rrfeja.
 Edhè 'i fjalë m' ká thânë mue Zâna,
 Helikonës kahë un kam rá:
-Se, dér t'leje e të marrë hâna
+Se, dér t'lejë e të marrë hâna
 Kurr kto lule s' kan me u thá.
 Eni prá, varza shkodrane,
 S' cillsdo fé e s' cillsdo stine,
@@ -1531,16 +1504,16 @@ Rrnoshin Shkollat Stigmatine!
 
 _(Kaljopes)_
 
-Hei, Kaljope!... A ndien?... Si thue
+Hej, Kaljope!... A ndien?... Si thue
 Shqyp kto vjerrsha janë punue?
 
 ##### ZANA KALJOPE
 
-Si âsht mâ së miri! Tanë ndjesi
+Si âsht mâ së miri! Tanë ndiesí
 Per Fé Shêjte e per Shqypní. — _(Siles)_
 Po ti vajzë, qi paske xânë
-Me qitë vjerrsha, — thue, jé Zânë --
-Mbasi s' kem' ktû tjeter rângë --
+Me qitë vjerrsha, — thue, jé Zânë —
+Mbasi s' kem' ktû tjeter rângë —
 A na kndo tash shqyp nji kângë?
 
 ##### SILJA
@@ -1551,7 +1524,7 @@ A t'u kndoj kângë t'Kastriotit?
 
 ##### ORA E SHQYPNIS
 
-«Porsi fleta e Ejllit t'Zotit.»
+«Porsi fleta e Êjllit t'Zotit.»
 
 ##### SILJA
 
@@ -1562,4 +1535,4 @@ Po rreh flamuri i Shqypnís;
 
 ##### VALLJA
 
-\_kapë e vijon kângën gjatë dy strofash.
+_kapë e vijon kângen gjatë dŷ strofash._

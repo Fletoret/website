@@ -394,7 +394,7 @@ Edhè kapu m'Rozafat,
 M' at kala t' Shkoders mizore:
 Ndera e nami i tokës arbnore';
 Persè atŷ Zanat i ké,
-Pre' Eñkonet bartë m' ket dhé,
+Pre' Elikonet bartë n' ket dhé,
 Si të bâjë hana me dalë,
 Nisin vallet palë e palë
 Me ato Motrat shqypëtare,

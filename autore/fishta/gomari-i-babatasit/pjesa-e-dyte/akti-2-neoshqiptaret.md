@@ -5,7 +5,7 @@ author: Gjergj Fishta
 respectLineBreaks: true
 parent: Visku i Babatasit
 grandparent: Gomari i Babatasit
-order: 2
+order: 6
 keywords:
 published: true
 ---
@@ -14,7 +14,7 @@ published: true
 
 <epigraph>
 
-Të gjith mbasditën vlon puna në "Restaurant" të "Internacjonalit", për të bamë gati "sofrën" për ministra e deputetën. Ndihet krisma e tryezavet kah përbaren prej njanës anë m'tjetrën të "Restaurantit". Vetë Ismet Efendija drejton punën, tue i dhanë urdhna herë njanit herë tjetrit ndër sherbtorë. Edhe tryezat vehen ndër vende e mblohen me sofrabeza, aviten karrigat, bárën gotat, shishet, boskat, çinijat e gjithshka lypet për me shtrue nji sofër për zotni. Ismet Efendija, tue pa se Koço, i pari i shërbëtorve, po shtronte mbi nji tryezë nji sofrabez që nuk ishte krejt i pastër, i thotë:
+Të gjith mbasditën vlon puna në "Restaurant" të "Internacjonalit", për të bamë gati "sofrën" për ministra e deputetën. Ndihet krisma e tryezavet kah përbaren prej njanës anë m'tjetrën të "Restaurantit". Vetë Ismet Efendija drejton punën, tue i dhanë urdhna herë njanit herë tjetrit ndër shërbtorë. Edhe tryezat vehen ndër vende e mblohen me sofrabeza, aviten karrigat, bárën gotat, shishet, boskat, çinijat e gjithshka lypet për me shtrue nji sofër për zotni. Ismet Efendija, tue pa se Koço, i pari i shërbëtorve, po shtronte mbi nji tryezë nji sofrabez që nuk ishte krejt i pastër, i thotë:
 
 </epigraph>
 
@@ -79,7 +79,7 @@ Me fjalë t'ëmbla, erz e shpirt.
 
 <epigraph>
 
-Prendon dielli. Tiranasit endën e shendën rrugave të qytetit, si të burgosunit n'oborr të burgut; merzitshëm. Nisë ndriçimi i qytetit. Aty – ktu nëpër dritare të do shpijave shifen kè xhixhillojnë do "stearinë". M'minare të xhamisë kundruell "Internacjonalit" në njan'anë hidhet nji zhel kuq e zi, i dalun bojet: Flamuri kombtar; në tjetrën varet nji fener, me nji qiri vjami ndezun mbrendë. Nji fmij, me nji vandak gazeta nën stjetull, gërthet: "Ora e Malevet"; nji tjetër: "Republika"; ma përtej: "Dajti", "Opinga", "Kombi" etj.
+Prendon dielli. Tiranasit endën e shendën rrugave të qytetit, si të burgosunit n'oborr të burgut; merzitshëm. Nisë ndriçimi i qytetit. Aty-ktu nëpër dritare të do shpijave shifen kè xhixhillojnë do "stearinë". M'minare të xhamisë kundruell "Internacjonalit" në njan'anë hidhet nji zhel kuq e zi, i dalun bojet: Flamuri kombtar; në tjetrën varet nji fener, me nji qiri vjami ndezun mbrendë. Nji fmij, me nji vandak gazeta nën stjetull, gërthet: "Ora e Malevet"; nji tjetër: "Republika"; ma përtej: "Dajti", "Opinga", "Kombi" etj.
 
 Në kafehane t' "Internacionalit" do deputetën kan xanë vend ké 'i tryezë e veçueme në nji skutë të salonit. Tash e ma vonë ndihet shegerti tue bërtitë: Një kafé! Tri "mastika" me meze! Një çaj! Dy deputetën – njani "popullor" tjetri "opozitar" – kaherë ia kan nisë me luejt tavëll, e ndihen kè, herë njani herë tjetri, tue njeh "zaret", thonë: shesh-besh, besh-dort, gjihar i se, se-jek, iqi-bir, hep-jek, dy-shesh etj. Nji deputet, që me dy a tre vetë tjerë rrité tue i shikjue, thotë si nëpër dhamë:
 
@@ -123,7 +123,7 @@ _**Meazallah**_!
 _(me të madhe)_
 Se né kisha edhe xhamija
 Na kanë darë – na kanë përçarë
-Si mos t 'i'm trima Shqiptarë:
+Si mos t'i'm trima Shqiptarë:
 Gegë me opinga... e Toskë me çizma.
 Poshtë dasija e fanatizma!
 
@@ -155,7 +155,7 @@ Po, me Esadin – pastë _rahmet_ –
 Atdheun nxori n'selamet....
 Rroftë Flamuri kombëtar!
 
-**NXANSAT E SHKOLLAVE**
+**NXANËSAT E SHKOLLAVE**
 Rroftë Flamuri kombëtar!
 
 **DALLKAUKU**
@@ -357,7 +357,7 @@ Për "patriot" e "veterana",
 Për "dëshmorë" edhe "therorë",
 Ktij mbaj çunin, atij çupën,
 Asajë me pare mbushja kupën,
-Kin' demek për grue "deshmori".
+Kin' demek për grue "dëshmori".
 
 **ÇAKO**
 _(Babatasit)_
@@ -500,7 +500,7 @@ Veç se e di, që larg tefteri
 Mund ta qesë popllin e ngratë,
 Qi s'po i del as buka thatë,
 Për me mâjë do zogj shqiptarit
-Prej Sanxhak – Novi – Pazarit.
+Prej Sanxhak-Novi-Pazarit.
 Prej Dobrugjet, prej Kosovet,
 Prej Prishtinet e Tetovet
 T'cillt po thonë janë Shqiptarë,
@@ -543,7 +543,7 @@ Të trasha fort, edhe mendiz,
 E mbi t'gjitha hoxhë telbiz:
 Veç se hoxhë mjaft tekahyt,
 Der sa kjé pa u bâ Shqipnija,
--Dikur Shqype, sod kjé qyqe –
+– Dikur Shqype, sod kjé qyqe –
 E, endè bâ s'isht hoxhë modern,
 Pa "çallmë" m'krye e mjekrrën shyt;
 Pse aso kohe zotënija,
@@ -564,8 +564,7 @@ Rrnoftë Shqipnija!
 **NJI GJIMNAZIST**
 Edhe sahani....
 
-_Nxanësat e shkollave nisin me kndue Hymnin e Flamurit "Porsi fleta e Engjllit t'Zotit". Kur fillojnë përkthesën "Bini Toskë, e bini, Gegë", Babatasi, tue përcjellë kangën,
-këndon nën zâ:_
+_Nxanësat e shkollave nisin me kndue Hymnin e Flamurit "Porsi fleta e Engjllit t'Zotit". Kur fillojnë përkthesën "Bini Toskë, e bini, Gegë", Babatasi, tue përcjellë kangën, këndon nën zâ:_
 
 Bini, Toskë, e bini, Gegë!
 Shoqi-shojnë shkoni tue djegë!

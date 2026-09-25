@@ -66,7 +66,7 @@ Mbreti vetë po t'kisht tokue,
 M'shpinë poteren i a ki'n vû:
 Zêmra n'fyt u kisht' qillue.
 Veç rrogovast, kesh t'a dí!
-Shka i ká qitë m'at Qafë-Hardhí·
+Shka i ká qitë m'at Qafë-Hardhí
 Me bâ pushkë me Mal të Zí
 Mu ndër vise të Gusís ?
 Ora e bardhë e Shqyptarís!
@@ -204,7 +204,9 @@ E kush lshue âsht perposhtë dromit,
 Kush âsht strukë e futë mas stomit,
 Kush mas landësh shtatin ká zânë:
 Strukun kryet e kan të tânë.
-Per «kapica» per gjith treg
+Per «kapica» dert s'po kan
+Pse u rrotllohen poshtë nper plan:
+Ká «kapica» per gjith treg
 Veç se krés s'i gjindet shteg
 Bâni kush e met pá te.
 Shkjeve mendja atŷ po u ve,
@@ -434,7 +436,7 @@ Kam pasë thânë se per midis
 T'ndo 'i taborrit me u pershkue,
 S'do t'kisht' metë trimi pa pshtue:
 Kaq qi pushkës i âsht kênë kujtue!
-Por kur do me t'gjetë rrcziku,
+Por kur do me t'gjetë rreziku,
 Aj po t'gjetka, mor lum miku,
 A prej hasmit a prej vllaut,
 T'jésh ti strukë mu n'bryne t'kaut.

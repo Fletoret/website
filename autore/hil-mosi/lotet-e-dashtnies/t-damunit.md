@@ -10,22 +10,20 @@ order: 59
 > Den mein Mund nicht nehmen kann!
 > Schwer, wie schwer ist er zu tragen!
 > Und ich bin doch sonst ein Mann.
-> 
-> Goethe.
+>
+> — Goethe.
 
-Për mu po ikun sot ditt e gëzimit ...
+Për mu po ikun sot ditt e gëzimit....
 Nji koh e bukur sot për mue po tret,
 E ardhjen n'prêhen t'mallshëm t'qetësimit
-Më duhet mu m'e pshtet—
+Më duhet mu m'e pshtet —
 
-Të knaqshmet ora shpejt do t'bin
-n'pushime,
+Të knaqshmet ora shpejt do t'bin n'pushime,
 Kush' di se kur për mu do t'kthejn për s'ri
-Do t'kthejn, por vetëm plot me mall
-n'kujtime,
+Do t'kthejn, por vetëm plot me mall n'kujtime,
 Por n'mu, se kur, s'e di.
 
 As syt e mi s'do t'ken se ku m'u gzumun,
 Por veç me mall shpesh her do të dishrojn,
 E ftyren t'ânde para tuj kujtumun,
-Me lot at mall do t'shkojn.
+Me lot at mall do t'shkojn —

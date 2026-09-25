@@ -1,5 +1,6 @@
 ---
-title: Proverba - Vëllimi 2
+title: Vëllimi 2
+slug: proverba-vellimi-2
 author: Sami Frashëri
 respectLineBreaks: false
 parent: Proverba
@@ -13,9 +14,9 @@ order: 2
 352. Aq sa ka nevojë personi me përvojë, por i paditur, për ndihmën e dijetarit, edhe
     dijetari i papërvoje ka po aq nevojë për ndihmën e atij që ka përvojë, por që nuk
     është i ditur.
-353. Po deshe të ahmerresh kundër një gruaje, lëvdo në sytë e saj një grua itjetër.
+353. Po deshe të ahmerresh kundër një gruaje, lëvdo në sytë e saj një grua tjetër.
 354. Ata që janë të kujdesshëm, shohin që përpara fatkeqësinë dhe i shmangen asaj;
-    ndërsa të pakujdesshinit i dalin përpara dhe zhduken prej saj.
+    ndërsa të pakujdesshmit i dalin përpara dhe zhduken prej saj.
 355. Vlefta e ujit kuptohet kur shterret pusi.
 356. Shkenca zbulon të fshehtat, ndërsa mjeshtëria (arti, industria) i krijon gjërat.
 357. Kur njeriu do të marrë një vendim, duhet të parashikojë edhe rreziqet; por, pasi të
@@ -49,10 +50,10 @@ order: 2
     saj që ka në fillim, me kalim të kohës e bjerr atë. Pra, atë që ti dëshiron të jetë
     gjithmonë e fortë, përpiqu ta fillosh më me shumë forcë se sa nevojitet.
 371. Konfucio thotë: "Njeri i përsosur nuk është ai që flet fjalë të bukura; por ai që e
-    bën atë që thotë, dhe thotë  atë që mund të bëjë."
+    bën atë që thotë, dhe thotë atë që mund të bëjë."
 372. Po ai i nderuar thotë: "Kush zë dituri e shkencë dhe nuk vret mendjen e vet, ka
     bjerrë kohën kot, ai i cili pa zënë dituri e shkencë vret mendjen (përpiqet,
-    mendon) dhe përpiqet që të zbulojë gjërat e zbuluara lodh kot mendjen e tij.
+    mendon) dhe përpiqet që të zbulojë gjërat e zbuluara lodh kot mendjen e tij."
 373. Në të vërtetë, shkenca për njerinë është të dallojë atë që di nga ajo që nuk di.
 374. Ai që zgjedh si model kaligrafie një shkrim të bukur, nuk mund ta imitojë atë
     plotësisht, por duke përmirësuar shkrimin e vet, mund të shkruajë edhe më bukur
@@ -69,15 +70,15 @@ order: 2
     jetën, është e qartë se do ta mundë atë.
 378. Viktimat e gjuhës janë më të shumta se ato të shpatës.
 379. Njeriu mund të arrijë lartësinë e virtytit dhe të përsosmërisë, por keqdashësi ia
-    lidh litarin për këmbe dhe e tërheq teposhtë.
+    lidh litarin për këmbë dhe e tërheq teposhtë.
 380. Për të jetuar njeriu rehat në botë, i nevojiten katër gjëra prej metali: një torbë me
     florinj, një pishtar i argjendtë, një fytyrë prej bronzi, një zemër prej hekuri.
 381. Zemra e një njeriu që ka pësuar një fatkeqësi të madhe i ngjan një tasi të mbushur
-    plot rae ujë; një lëvizje e vogël bëhet shkak të derdhet.
+    plot me ujë; një lëvizje e vogël bëhet shkak të derdhet.
 382. Kush vdes me nder, edhe pse e bjerr jetën, fiton famën.
 383. Një filozof mblodhi nxënësit e tij dhe i pyeti se cila është gjëja më e mirë në botë
     për njeriun. Njëri tha: "mendja e përsosur", tjetri: "shoku i mirë", një tjetër: "fqiu
-    i mirë" dhe një tjetër: "kujdesi dhe largpamja". Filozofi puk pëlqeu asnjerën. Më
+    i mirë" dhe një tjetër: "kujdesi dhe largpamja". Filozofi nuk pëlqeu asnjerën. Më
     në fund, njëri porsa tha: "është zemra e mirë", filozofi: "Po, tha, po të jetë kjo,
     janë edhe ato që thanë të tjerët."
 384. Njeriu duhet të përpiqet që lumturinë të mos e ketë vetëm për veten e tij. Një grua
@@ -107,7 +108,7 @@ order: 2
     mangut çka di dhe çohet të mësojë gjëra të tjera, nuk mëson kurrëgjë.
 397. Është gabim i madh të përdorësh në punë të vogla atë që mund të kryejë punë të
     mëdha.
-398. Selvini dhe kavaku bëhen më të gjatë se çclo dru, por nuk japin pemë.
+398. Selvini dhe kavaku bëhen më të gjatë se çdo dru, por nuk japin pemë.
 399. Njeriu ka nevojë për arsim ashtu si bima për ujë. Ashtu sikundër që thahet pema
     kur është e njomë, po nuk u vadit, edhe njeriu thahet shpirtërisht po nuk u edukua
     qysh në fëmijëri (vogëli), sepse nuk i mbetet gjë për t'i shërbyer njerëzimit.
@@ -129,7 +130,7 @@ order: 2
     përgjues, kujdesej shumë kur do të fliste. Pra, pasi në një çip të zemrës së njeriut
     qëndron një përgjues i tillë siç është ndërgjegjja që shënon çdo fjalë dhe çdo punë
     të tij dhe, pasi i shënon, ka zakon t'ia kujtojë dhe t'ia trokasë në kokë të zotit,
-    njeriu duhet të ketë gjithmonë kujdes për f jalët dhe punët e tij — qofshin të
+    njeriu duhet të ketë gjithmonë kujdes për fjalët dhe punët e tij — qofshin të
     hapta, qofshin të fshehta.
 408. Pasuria nuk e vlen mundimin që heq njeriu për ta fituar, kujdesin që nevojitet për
     ta ruajtur dhe më në fund hidhërimin e shkaktuar kur humbet.
@@ -137,7 +138,7 @@ order: 2
 410. Meqenëse shporri i ëndërrimit është dëshira, ky kalë (d.m.th. ajo që ëndërron)
     kalon gjithmonë përtej mundësive (për ta arritur).
 411. Zogu që ka jetuar i lirë, ia del të shpëtojë nga kthetrat e skifterit; ndërsa zogu që
-    ka shpëtuar nga kafazi, mbasi ka në mendje vetëm ikjen nga kafasi, bie në kthetrat
+    ka shpëtuar nga kafazi, mbasi ka në mendje vetëm ikjen nga kafazi, bie në kthetrat
     e armikut të tij.
 412. Edhe në jetëshkrimet e njerëzve më të mëdhenj shihen disa vogëlsira. Jeta e
     njeriut është një godinë e përbërë nga mermeri dhe balta.
@@ -149,14 +150,14 @@ order: 2
 415. Gjërat që numërohen të shenjta, si mendja, njohuria dhe dituria, nga shkaku i
     lakmisë për famë e madhështi, s'mund t'u qëndrojnë disa dëshirave të kota,
     ndërsa dashuria mund çdo gjë. Dashuria duron varfërinë, nevojën, urinë,
-mundimin, poshtërimin — çdo gjë. Dashuria e ndryshon skëterën në parajsë. Në
-qoftë se kërkohet një shenjë e botës shpirtërore në botën lëndore, ajo shenjë është
-dashuria.
-416. Ëndërrimi çdo gjë nuk e tregon ashtu siç është. por ashtu siç dëshirohet. Prandaj
+    mundimin, poshtërimin — çdo gjë. Dashuria e ndryshon skëterën në parajsë. Në
+    qoftë se kërkohet një shenjë e botës shpirtërore në botën lëndore, ajo shenjë është
+    dashuria.
+416. Ëndërrimi çdo gjë nuk e tregon ashtu siç është, por ashtu siç dëshirohet. Prandaj
     vetëm ëndërrimi është që bën të shijohet bota dhe jeta.
 417. Kur të njihesh me ndokënd për herë të parë, kujdesu të kuptosh nëse po përpiqet
-    të dëgjojë ato që thua apo të dëgjosh ato që thotë  ai.
-418. Edukatë në bashkëbisedim nuk është vetëm të flasësh f jalë të mira. Është konditë
+    të dëgjojë ato që thua apo të dëgjosh ato që thotë ai.
+418. Edukatë në bashkëbisedim nuk është vetëm të flasësh fjalë të mira. Është konditë
     të mos flasësh fjalë të ligë dhe të mos e lesh tjetrin ta thotë.
 419. Gruaja dredharake është një trëndafile, që çdo gjeth të saj e mban një njeri, ndërsa
     të shoqit i takojnë vetëm gjembat.
@@ -179,13 +180,13 @@ dashuria.
     ai, që para teje shitet mik yti e pas shpine vepron si armik.
 434. Turma mendon se e drejta është aty ku sheh forcën, por e drejta me forcën
     bashkohet shumë rrallë.
-435. Turma është e deshiruar për gjëra të jashtëzakonshme.
+435. Turma është e dëshiruar për gjëra të jashtëzakonshme.
 436. Vendi më i lumtur është ai ku ndihet sa më pak dora e qeverisë.
 437. T'i ndalosh me forcë zakonet e liga të kombit do të thotë t'i shpallësh luftë atij;
     gjëja që nevojitet është të ngresh kombin në shkallë që vetë të heqë dorë nga
     zakonet e liga.
-438. Pjalët dhe punët e njerëzve të mëdhenj nuk janë sipas vendit e kohës së tyre, ata
-    mund t'i përshtaten çdo kohe dhe çdo vandi.
+438. Fjalët dhe punët e njerëzve të mëdhenj nuk janë sipas vendit e kohës së tyre, ata
+    mund t'i përshtaten çdo kohe dhe çdo vendi.
 439. Figura morale e njeriut është rruga që ndjek.
 440. Përpiqu të imitosh vetëm punët e mira të njerëzve të mëdhenj.
 441. Nuk është forca që e bën shtetin të qëndrueshëm, është dashuria e nënshtetasve.
@@ -202,14 +203,14 @@ dashuria.
     dhe mirësjellja. Një njeri i rëndomtë humb besimin po nuk e mbajti fjalën, një
     diplomat që qeverisë një shtet, sa më shumë të gënjejë, aq më shumë numërohet
     për diplomat.
-446. Në kohën tonë të gjithë po merren me politikë; kjo punë ka taërë që të rinjtë të
+446. Në kohën tonë të gjithë po merren me politikë; kjo punë ka bërë që të rinjtë të
     harrojnë zbavitjet e tyre, pleqtë — hallet e tyre, gratë — qeverisjen e shtëpive të
-    tyre, adhuruesit — adhurimin, tregtarë: — fitimin dhe mjekët — të sëmurët e tyre.
+    tyre, adhuruesit — adhurimin, tregtarët — fitimin dhe mjekët — të sëmurët e tyre.
 447. Idetë e mëdha formohen te shpirtërat e mëdhenj.
 448. Traktati i pranuar nga mundja, bie poshtë porsa të forcohet i munduri.
 449. Aleati i fortë, të shumtën e herës, është më i rrezikshëm se armiku.
-450. Aleata i fortë është zot i shokut të tij.
-451. Një qeveri mizore kërkon rastin të ndëshkojë të pafaishmit, të thyejë guximin dhe
+450. Aleati i fortë është zot i shokut të tij.
+451. Një qeveri mizore kërkon rastin të ndëshkojë të pafajshmit, të thyejë guximin dhe
     të heqë lirinë.
 452. Qeveria tirane, pasi në vend të drejtësisë mbështetet në forcën, ka nevojë për forcë
     edhe më të madhe.
@@ -228,10 +229,10 @@ dashuria.
 460. Mossuksesi e thyen dëshirën dhe guximin, por nuk mund t'i zhdukë; trimëria e
     thyer nga një mundje e madhe, mund të përmirësohet me një fitore të vogël.
 461. Ata që qeverisin një shtet, duhet të mësohen t'u qëndrojnë dallgave dhe fortunave
-    të opinionit publik, të mos i bëjnëmë të rrepta fortunat, por të përpiqen t'i
+    të opinionit publik, të mos i bëjnë më të rrepta fortunat, por të përpiqen t'i
     qetësojnë ato.
 462. Forca e armatosur e përdorur kundër së drejtës dhe lirisë, është ajo që do t'u
-    shkaktojë vdekjen atyre iqë e përdorin.
+    shkaktojë vdekjen atyre që e përdorin.
 463. Liria, nga ndonjëherë, nuk mund t'i mbrojë partizanët e saj; por nuk i vret me
     dorën e vet ashtu siç bën forca absolute.
 464. Nuk duhet dyshuar për ndershmërinë e atij njeriu që e shajnë dhe e përbuzin
@@ -242,7 +243,7 @@ dashuria.
 467. Nuk është mirësi t'i falësh tjetrit fajin e tij, duhet ta harrosh. Faji i falur pa e
     harruar nuk fshihet, mbetet i skalitur në zemër.
 468. Spiunët dhe agjentët e fshehtë janë miza që lëshojnë larva në plagët që i janë
-    hapur trupit ië shtetit; për të merituar rrogën që marrin i tregoj në për kriminelë
+    hapur trupit të shtetit; për të merituar rrogën që marrin i tregojnë për kriminelë
     dhe fajtorë njerëzit e ndershëm dhe të pafajshëm.
     (Sulltan Hamidi kishte formuar një rrjetë të madhe spiunazhi në gjithë perandorinë e Turqisë osmane, fijet e së cilës i mbante vetë në duart e tij. Shënim i përkthyesit.)
 469. Ashtu sikundër i sëmuri që dëshiron të ndërrojë klimën me shpresë që të
@@ -250,7 +251,7 @@ dashuria.
     gjendjen.
 470. Pishtari i historisë tregon se drejtësia shkon paralel me paqen, dashurinë e me
     konsideratën dhe se lakmia për të pushtuar gjithë botën, veset si fanatizma,
-    rebelimi dhe mizoria iënë mbrapa fatkeqësi që vazhdojnë për një kohë të gjatë dhe
+    rebelimi dhe mizoria lënë mbrapa fatkeqësi që vazhdojnë për një kohë të gjatë dhe
     bëjnë që pasardhësit të mallkojnë paraardhësit e tyre.
 471. Historia është një procesverbal, i cili ligësitë e shekullit të tanishëm ia përcjell
     për gjykim gjykatës së opinionit publik të shekujve të ardhshëm.
@@ -259,17 +260,17 @@ dashuria.
 473. Epokat që përmenden shkurt në histori, janë epokat më të lumtura të njerëzisë.
 474. Historia, që i jep formë drejtësie mizorisë së mizorit, është më e keqe se 100
     mizorë.
-475. Mendimet (ose idetë) është e parnundshme t'i dallosh nga dobitë (ose interesat),
+475. Mendimet (ose idetë) është e pamundshme t'i dallosh nga dobitë (ose interesat),
     asnjëri nuk e përkrah një ide po nuk e kuptoi se është në dobi të përgjithshme ose
     të atij vetë.
 476. Sa më shumë të kundërshtohet një ide, aq më shumë bëhet e fortë (e fuqishme).
-477. Çthurja morale e një kombi kuptohet nga sa janë denimet e caktuara në ligjet e tij.
+477. Çthurja morale e një kombi kuptohet nga sa janë dënimet e caktuara në ligjet e tij.
     Sepse janë fajet e rënda që nevojitin dënime të rënda.
 478. Sa do që të jetë i pafuqishëm opinioni publik, prapëseprapë e tremb qeverinë
     tirane. Për këtë shkak qeveria tirane, mbasi ta ketë shkatërruar dhe zhdukur
     opinionin publik, përpiqet ta vërë atë në gjumë me dhelpëri.
 479. Forca shkatërrimtare që shtyp trupat, nuk mund ta shtypë mendimin, përkundrazi
-    — duke u shtypur trupi, forcohet mandimi; ushqimi i mendimit është gjaku i
+    — duke u shtypur trupi, forcohet mendimi; ushqimi i mendimit është gjaku i
     derdhur nga mizoria.
 480. Ligji s'ka forcë kundrejt opinionit publik. (Më mirë: "Opinioni publik nuk mund
     të mposhtet me anë të ligjit.")
@@ -306,7 +307,7 @@ dashuria.
 496. Aq sa forcohet tirania dhe veprimi arbitrar i një qeverie, aq pakësohet edhe forca e
     saj.
 497. Zhdukja e barazisë shkakton humbjen e lirisë. Privilegjet janë shokë të tiranisë.
-498. Deshira për liri dyfishon forcën e një kombi.
+498. Dëshira për liri dyfishon forcën e një kombi.
 499. Nuk janë armiqtë e saj ata që zhdukin lirinë, të shumtën e herës është teprimi i
     përkrahësve të saj.
 500. Kur është liria në djep, përkorja duhet të jetë daja i saj.
@@ -322,7 +323,7 @@ dashuria.
     ndryshojë mendim dhe të besojë përsëri.
 505. Një popull që s'ka opinion publik, nuk mund të numërohet për komb.
 506. Trathtia, pa marrë parasysh shkakun, prapëseprapë trathti është.
-507. Qëllimi i lig, edhe sikur t'i dalë mirë fundi, prapëseprapë po i keqë shtë.
+507. Qëllimi i lig, edhe sikur t'i dalë mirë fundi, prapëseprapë po i keq është.
 508. Keqbërësit s'mund të besojnë se ekziston mirëbërja.
 509. Në periudhën e një qeverimi mizor nuk flitet as për meritat e të mirëve as për
     ligësitë e të ligjve, njerëzit dallohen sipas pozitës dhe mjerimit të tyre.
@@ -350,7 +351,7 @@ dashuria.
 521. Kthimi i së kaluarës është i pamundshëm, pritja të shumtën e herës është një
     shpresë e thatë, koha që zotëron njeriu është e tashmja; por — ah! — e tashmja
     është si zhiva (që rrëshqet), e pamundshme të pushtohet, prandaj jeta mbetet e
-    përtaërë nga shpresa për të ardhmen.
+    përbërë nga shpresa për të ardhmen.
 522. Vobegësia dhe vështirësia e madhe zhduk ndjenjat e dashurisë për atdheun e të
     dëshirës për liri dhe e bën të lehtë durimin e tiranisë.
 523. Si te njerëzit, ashtu edhe te shtetet, sa shtohet pasuria dhe fama aq shtohet edhe
@@ -369,12 +370,12 @@ dashuria.
     ndërtosh murë para tij të përbërë nga mendja dhe arsyeja, sepse ku është me forcë
     të shemb, duhet pritur t'i pakësohet forca.
 531. Lavdimi më i pëlqyeshëm është ai që del nga goja e armikut të të lavduarit.
-532. Faji më i madh në botë është t'i mbash anën atij që s'ka të drejtë, e të jeshë armik
+532. Faji më i madh në botë është t'i mbash anën atij që s'ka të drejtë, e të jesh armik
     i të drejtit.
 533. Zotësia, për të cilën në gjendje të qetë nuk pyet kush, kërkohet në kohën e
     rrezikut.
 534. Fatkeqësitë e mëdha lypin zotësi të mëdha (për t'i përballuar).
-535. Ka vetëm një rrugë për të arritur njeriu në stacionin e së dejtës e të vërtetës, e ajo
+535. Ka vetëm një rrugë për të arritur njeriu në stacionin e së drejtës e të vërtetës, e ajo
     është të dallojë paditurinë e gabimin e tij, edhe ta pohojë kur s'ka të drejtë.
 536. Realiteti nuk mund të arrijë kurrë në shkallën ku arrin ëndërrimi, prandaj ëmbëlsia
     që shihet në pikturën e një piktori e në vjershën e një poeti, nuk mund të gjendet
@@ -388,8 +389,8 @@ dashuria.
     ndonjëherë bëhet udhëheqëse e dredhisë dhe e intrigës.
 541. Mëria, epshi, dashuria dhe besimi (feja) ia verbojnë njeriut sytë, ia mbyllin veshët,
     pushtojnë rrugët nga do të hyjnë në zemër arsyeja dhe e vërteta.
-542. Zemërimi, ahmarrja, smira dhe mëria janë armiqtë më të mëdhenjë të njerëzimit.
-543. Ëndërrimet, madhësMia, pasuria, fama e lavdia janë lojëra të jetës. Ashtu si
+542. Zemërimi, ahmarrja, smira dhe mëria janë armiqtë më të mëdhenj të njerëzimit.
+543. Ëndërrimet, madhështia, pasuria, fama e lavdia janë lojëra të jetës. Ashtu si
     fëmija që s'qëndron dot pa lojëra, as njeriu nuk jeton dot po nuk ndërtoi
     ëndërrime.
 544. Vetia e shquar që ndodhet te njerëzit që meritojnë me të vërtetë të numërohen për
@@ -405,7 +406,7 @@ dashuria.
     e e dyta e bën të turpërohet.
 548. Nuk zgjat shumë dashuria me njeriun që dashurohet me një të parë (pa e sprovuar
     karakterin e tij).
-549. Një i pacipë bashkohas i Sokratit e kishte sharë atë; dishepujt e tij, duke parë se ai
+549. Një i pacipë bashkëkohas i Sokratit e kishte sharë atë; dishepujt e tij, duke parë se ai
     (Sokrati) nuk iu përgjegj, e pyetën për shkakun. "Në është se një qen ju kafshon
     këmbën, a edhe ju do t'i kafshoni këmbën atij", u përgjegj.
 550. T'i përgjigjesh me të njëjtën mënyrë punës së personave të çthurrur, të njohur
@@ -413,7 +414,7 @@ dashuria.
 551. Vjedhja është një ves i lig, por t'i vjedhësh mbulesën Qabesë është një faj shumë i
     madh, gjithashtu mashtrimi është një punë e ligë në çdo rast, por mashtrimi në
     letërsi është poshtërsi e madhe.
-552. Është palaçoliëk të jesh pro ose kundër një pune pa u thelluar dhe pa qenë i zoti ta
+552. Është palaçollëk të jesh pro ose kundër një pune pa u thelluar dhe pa qenë i zoti ta
     kuptosh nëse është e drejtë apo jo.
 553. Me një shpifje, populli nuk bjerr simpatinë dhe bindjen e mirë që ka për një
     person, ai që ka fituar mërinë e popullit, edhe sikur të bëjë një shërbim, nuk
@@ -425,7 +426,7 @@ dashuria.
     tjetrit shpirtin, gjënë e nderin dhe të miqësisë së bazuar në interes e në
     prapamendim.
 557. Miqësia është një virtyt shpirtëror; sa faj i madh është ta ndyejsh atë me interesa
-    dhe keqdashje të iidhura me poshtërsitë e botës.
+    dhe keqdashje të lidhura me poshtërsitë e botës.
 558. Njeriu, të cilit i bëhet një përkrahje në kohë të vështirë, edhe pasi i kalon
     fatkeqësia i përgjigjet bamirësisë me panjerëzi, është më i poshtri i të gjitha
     krijesave.
@@ -436,16 +437,16 @@ dashuria.
     ligj dhe të ligjve ua tregon të mirët të këqinj.
 561. Hiq dorë nga miku që të flet për dashurinë që ka për ty, sepse këtë e bën ose për
     ndonjë përfitim, ose për ndonjë qëllim të fshehtë.
-562. Të l'lasësh pa menduar, është si të zbrazësh pushkën pa e vënë në shanjë.
+562. Të flasësh pa menduar, është si të zbrazësh pushkën pa e vënë në shenjë.
 563. Është më lehtë për udhëtarin të ecë një ditë se të kthehet mbrapsht një orë.
 564. Cmira dhe xhelozia janë si mikroskopi: gjërat më të vogla i tregojnë të mëdha,
     dyshimet dhe hamendjet — të vërteta.
 565. Nuk mund të gjuash në bulevard; zbulimet e deritashme janë bërë nga ata që
     shëtisin në rrugët e ngushta të diturisë dhe të shkencës.
-566. Eëndësia e një vepre matet duke e krahasuar me dobinë e saj; s'ka asnjë rëndësi
+566. Rëndësia e një vepre matet duke e krahasuar me dobinë e saj; s'ka asnjë rëndësi
     vepra që nuk sjell asnjë mirësi në botë.
 567. Përpjekjet që bëjmë për të mbuluar të metat dhe fajet tona, po t'i bënim për të
-    përmirësuar ato të meta dhe faje, shoqëria njërëzore nuk do të ishte në këtë
+    përmirësuar ato të meta dhe faje, shoqëria njerëzore nuk do të ishte në këtë
     gjendje.
 568. Dita e nesërme është ajo kur do të punojnë përtacët dhe ditë kur të marrët do të
     bëhen njerëz të mëdhenj.
@@ -453,14 +454,14 @@ dashuria.
     tënde, zemrën tënde!
 570. Sovrani, që merr vetë në dorën e tij qeverisjen e vendit dhe nuk i shtrohet ndikimit
     të askujt, mund t'i prishë qejfin parësisë, por do të kënaqë atë masë që është baza
-    e shtetit:
+    e shtetit.
 571. Po të ishte i mundshëm kthimi i kohërave të kaluara, ato kohë nuk do të dukeshin
     aq të ëmbla.
 572. Dijetari spanjoll, Lope De Vega, thotë: "Duke u kënaqur me 2 — 3 lule të lulishtes
-    sime dhe me 2 — 3 piktura që kara në dhomën time, kam shpëtuar nga robëria e
-    tre tiranëve, siç janë: lakmia, shpresa dhe frika.
+    sime dhe me 2 — 3 piktura që kam në dhomën time, kam shpëtuar nga robëria e
+    tre tiranëve, siç janë: lakmia, shpresa dhe frika."
 573. Në ujët që fle, mos fut as gishtin.
-574. Një gjilpërë taëhet shtyllë hekuri, po të vihet me kohë në vendin e saj.
+574. Një gjilpërë bëhet shtyllë hekuri, po të vihet me kohë në vendin e saj.
 575. Kënaqësinë që të jep lumturia kur e ëndërron, nuk mund ta japë kur realizohet.
 576. Vetëm ata që janë të sinqertë e duan njeriun e sinqertë.
 577. Nuk mund të bashkohet në një vend sinqeriteti me lajkën.
@@ -478,12 +479,12 @@ dashuria.
     vërtetë, prapëseprapë nën robëri është.
 586. Njeriu mund të humbë çdo liri të tij, por nëse e ruan lirinë e mendimit,
     prapëseprapë i lirë është.
-587. Shumëherë harrohet mirësia që i bëhet njeriut, por keqtaërja nuk harrohet kurrë.
+587. Shumëherë harrohet mirësia që i bëhet njeriut, por keqbërja nuk harrohet kurrë.
 588. Më i ligu ves është të tregosh dhe të përhapësh një turp ose një fshehtësi të një
     tjetri që ti e di.
 589. Të fshehtat që mësojmë janë amanet i perëndisë në zemërat tona; të mos e
     shpërdorojmë amanetin për inat të njerëzve.
-590. Është shumë lehtë të ruash nga çthurja një komta që nuk e ka mësuar atë, por
+590. Është shumë lehtë të ruash nga çthurja një komb që nuk e ka mësuar atë, por
     është shumë vështirë të shpëtosh atë që është mësuar.
 591. Petkat e mëndafshta dhe gëzofat e shtrenjtë shuajnë zjarrin e kuzhinës.
 592. Shumë persona rrinë të uritur për të zbukuruar sipërfaqen.
@@ -492,8 +493,8 @@ dashuria.
 595. Gjëja më e mërzitshme për njeriun është të shohë sjellje të keqe nga njeriu që ka
     dashur.
 596. Të jesh nën urdhër të shumë vetëve është më mirë se të jesh nën robërimin absolut
-    të njerit.
-597. Easti është kurajo për njerëzit; i ngathëti dhe përtaci nuk gjejnë rast për të bërë
+    të njërit.
+597. Rasti është kurajo për njerëzit; i ngathëti dhe përtaci nuk gjejnë rast për të bërë
     gjësend, veçse për të fjetur.
 598. Fjala e gjatë ka kuptim të shkurtër.
 599. Fjalët e gjata të shumtën e herës fliten nga mungesa e aftësisë për të shfaqur
@@ -516,15 +517,15 @@ dashuria.
     ca janë të drejta, ca gënjeshtra; i urti pranon të drejtat, e i marri gënjeshtrat.
 606. Dy gjëra e bëjnë njeriun njeri: njëra ndërgjegjja, tjetra principi. Duhet të puthet
     dora e atij që ka një ndërgjegje të lirë dhe një princip të drejtë.
-607. Shërtaimi që duhet bërë skamnorëve nuk është ai për t'u lehtësuar jetesën, por
+607. Shërbimi që duhet bërë skamnorëve nuk është ai për t'u lehtësuar jetesën, por
     gjetja e mjetit për t'i shpëtuar nga varfëria.
 608. Servilizmi është udhëheqës i tiranisë.
 609. Fshatari e çon në vend fjalën e dhënë, por premton shumë rrallë.
 610. Kundrejt rrezikut nuk duhet shkuar me ngutësi, kundrejt përgatitjes duhet shkuar
     me shpejtësi.
 611. Duke qenë se njeriu është i përbërë nga trupi dhe shpirti, edhe të mirat që mund të
-    arrijnë në botë ca i përkasin trupit e ca shpirtit. Sa shtohen të mirat, e trupit
-    (materiale) aq pakësohen ato shpirtërore (morale), dhe kur tajerren të mirat
+    arrijnë në botë ca i përkasin trupit e ca shpirtit. Sa shtohen të mirat e trupit
+    (materiale) aq pakësohen ato shpirtërore (morale), dhe kur bjerren të mirat
     trupore, fiton shpirti.
 612. Ashtu si anijet që sigurojnë takimin dhe marrëdhëniet midis tokave, prodhimet e
     një vendi i dërgojnë në një vend tjetër, edhe librat krijojnë relatat midis shekujve,
@@ -544,12 +545,12 @@ dashuria.
     ditë me radhë.
 620. Njeriu kurdoherë duhet të lodhë mendjen me shkencën që merret vetë, por kur
     bisedon me të tjerët nuk duhet të flasë për punët e veta. Kur diplomati do të
-    bisedojë me arkitektin, duhet të flasë për ndërtimet e arkitekti kur të Msedojë me
+    bisedojë me arkitektin, duhet të flasë për ndërtimet e arkitekti kur të bisedojë me
     bariun duhet të flasë për dhentë.
 621. Po kërkove një mik besnik, përpiqu të miqësohesh me një njeri që ka pak miq.
 622. Dëshira është një lloj sëmundje, që zgjat disa orë, disa ditë dhe rrallë disa muaj,
     janë shumë të rrallë në botë ata që vazhdojnë një vit me një dëshirë.
-623. Prirjet sensuale (epshet vijnë e shkojnë, por mbresat mbeten dhe ia ndyejnë jetën
+623. Prirjet sensuale (epshet) vijnë e shkojnë, por mbresat mbeten dhe ia ndyejnë jetën
     njeriut.
 624. Dashuria është e ëmbël, por përfundimi është shumë i hidhur.
 625. Në është se ka një komandant që vret vartësit e tij, dashuria është.
@@ -558,7 +559,7 @@ dashuria.
 627. Mos u tërhiq nga një punë dhe mendim që di se në të vërtetë është i drejtë dhe i
     pëlqyeshëm, porse në sytë e turmës i keq; në është se ty atë ditë të kritikojnë, do
     të vijë dita që do të të lëvdojnë.
-628. Po të varej eiita nga turma, njerëzit nuk do të shpëtonin kurrë nga errësira.
+628. Po të varej elita nga turma, njerëzit nuk do të shpëtonin kurrë nga errësira.
 629. Ka shumë pak nga dijetarët e kohës së kaluar që sot na çuditin me shërbimet që i
     kanë bërë mendimit, shkencës dhe njerëzimit e që të jenë dashur dhe çmuar nga
     bashkëkohasit e tyre.

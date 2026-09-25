@@ -5,7 +5,7 @@ author: Gjergj Fishta
 respectLineBreaks: true
 parent: Visku i Babatasit
 grandparent: Gomari i Babatasit
-order: 4
+order: 8
 keywords:
 published: true
 ---
@@ -15,10 +15,10 @@ published: true
 1. **Parnas** - mitologji: Mal që ngrihej mbi Delf, ku ndodhej vendi i shenjtë kushtue Apolit; për ketë arsye mendohej edhe si seli e Muzave (Zanave).
 2. **Pegas** - mitologji: Kalë me flatra i mitologjisë greke; nga Olimpi pat zbritë në Helikonë; aty me një shkelm çili një gur magjik që frymëzonte poetët të cilët pinin në atë burim.
 3. **Kvirinal** - histori: Një nga shtatë kodrat mbi të cilat asht ndertue Roma. Sot aty asht Selia e Presidentit të Republikës Italiane.
-4. **Bismark** - histori.: Burrë i shtetit gjerman (1815-1898), asht futë në histori me nofkën e njohtun “Kancelari i hekurt”. Asht farkëtuesi i madh i unitetit gjermanik; ishte ndër autorët e “Aleancës Tripalëshe”(Gjermani-Austri-Itali), e cila ka luejt rol të rendësishem në daljen e Ballkanit nga Perandoria Turke.
+4. **Bismark** - histori: Burrë i shtetit gjerman (1815-1898), asht futë në histori me nofkën e njohtun “Kancelari i hekurt”. Asht farkëtuesi i madh i unitetit gjermanik; ishte ndër autorët e “Aleancës Tripalëshe”(Gjermani-Austri-Itali), e cila ka luejt rol të rendësishem në daljen e Ballkanit nga Perandoria Turke.
 5. **Dityramb** - poet: Hartim i lashtë poetik; té grekët e vjetër vinte prej kultit të Dionizit prandej, lidhej me dehjen dhe euforinë.
 6. **Kaliope** - mitologji: Muza (Zana) e elegjisë; paraqitej me një rrotull në dorën e majtë.
-7. **Aelius** – personazh bihud, si duket deformon emnin e shkrimtarit dhe filozofit latin Lacius Apuleus (rreth 150 –180), autor i veprës së bujshme “Metamofoza ose Gomari i Artë”, ku shkruhet për aventurat e një djalit të rij të shndërruem në gomar nëpërmjet të magjisë dhe i kthyem përsëri në njeri.
+7. **Aelius** - personazh bihud, si duket deformon emnin e shkrimtarit dhe filozofit latin Lucius Apuleus (rreth 150–180), autor i veprës së bujshme “Metamorfoza ose Gomari i Artë”, ku shkruhet për aventurat e një djalit të rij të shndërruem në gomar nëpërmjet të magjisë dhe i kthyem përsëri në njeri.
 8. **Pallas Athina** - mitologji: Një nga Hyjnitë ma të rendësishme të Panteonit grek; asht vizatue në dy mënyra, si Athinë dhe si Pallas Athinë. Hyjnesha e luftës, këshilltare e afërt e heronjve ma të mëdhaj; ma vonë edhe mbrojtëse e arteve, shkencave etj.
 9. **Lassen Sie nur** - gjermanizm: lene mâ!, mos e ço mâ gjatë!
 10. **Neni gordian** - histori: Kur ndodhej në Gordium, Aleksandri i Maqedonisë mori vesht punën e një nyeje të ngatrrueme në një mënyrë të pazgjidhëshme nga asnjë njeri, tue marrë vesht legjendën simbas së cilës ai që e zgjidhë atë nyje do të pushtonte botën, Aleksandri nxori shpatën dhe e këputi nyjen dysh.
@@ -27,9 +27,11 @@ published: true
 13. **Laholevelá!** - turqizm: Ruejna, Zot!
 14. **Tobe estagi furullah!** - turq.: Na ruej, Zot, nga ky mëkat!
 15. **Allahile!** - turqizm: Pashë Zotin!
-16. **Sozyn la bamá** - turqizm: Me nder’e me thanë ...
+16. **Sozyn ia bamá** - turqizm: Me nder’e me thanë ...
 
 ### Fjalë të tjera
+
+<dl>
 
 <dt><a id='Adalet' href='#Adalet'>Adalet</a></dt>
 <dd>Shumë, tejmase, e teprueme.</dd>
@@ -94,7 +96,7 @@ published: true
 <dt><a id='Dergjé' href='#Dergjé'>Dergjé</a></dt>
 <dd>Tuberkuloz.</dd>
 
-<dt><a id='Devër-' href='#Devër-'>Devër  (saber)</a></dt>
+<dt><a id='Devër' href='#Devër'>Devër (saber)</a></dt>
 <dd>Durim.</dd>
 
 <dt><a id='Dishditës' href='#Dishditës'>Dishditës</a></dt>
@@ -163,16 +165,16 @@ published: true
 <dt><a id='Handrak' href='#Handrak'>Handrak</a></dt>
 <dd>Pisllek, vend i ndytë.</dd>
 
-<dt><a id='Haps’hane' href='#Haps’hane'>Haps’hane</a></dt>
+<dt><a id='Hapshane' href='#Hapshane'>Haps’hane</a></dt>
 <dd>Burg.</dd>
 
-<dt><a id='Hergjele-' href='#Hergjele-'>Hergjele  (hergele)</a></dt>
-<dd>Tufë kafshësh e lanun lirë në kullosë.</dd>
+<dt><a id='Hergjele' href='#Hergjele'>Hergjele (hergele)</a></dt>
+<dd>Tufë kafshësh e lanun lirë në kullosë. Pélë e zgjidhun.</dd>
 
-<dt><a id='Pélë-e-zgjidhun.-Hasi' href='#Pélë-e-zgjidhun.-Hasi'>Pélë e zgjidhun. Hasi</a></dt>
+<dt><a id='Hasi' href='#Hasi'>Hasi</a></dt>
 <dd>Kryengritës, i pabindun.</dd>
 
-<dt><a id='Hep-jek,' href='#Hep-jek,'>Hep-jek,</a></dt>
+<dt><a id='Hep-jek' href='#Hep-jek'>Hep-jek</a></dt>
 <dd>Një e një (dy njisha në zare).</dd>
 
 <dt><a id='Me-hukatë' href='#Me-hukatë'>Me hukatë</a></dt>
@@ -193,7 +195,7 @@ published: true
 <dt><a id='Iptadije' href='#Iptadije'>Iptadije</a></dt>
 <dd>Shkollë plotore (turke).</dd>
 
-<dt><a id='Iqi-bir.' href='#Iqi-bir.'>Iqi-bir.</a></dt>
+<dt><a id='Iqi-bir' href='#Iqi-bir'>Iqi-bir</a></dt>
 <dd>Po njësoj, po atë mënyrë, Po ashtu. (në tavëll).</dd>
 
 <dt><a id='Ishkile' href='#Ishkile'>Ishkile</a></dt>
@@ -211,7 +213,7 @@ published: true
 <dt><a id='Kabull' href='#Kabull'>Kabull</a></dt>
 <dd>Pelqim, pranoj, e begenis ket gja.</dd>
 
-<dt><a id='Kacabet-' href='#Kacabet-'>Kacabet  (kaçybet))</a></dt>
+<dt><a id='Kacabet' href='#Kacabet'>Kacabet (kaçybet)</a></dt>
 <dd>Skifter.</dd>
 
 <dt><a id='Kafaz' href='#Kafaz'>Kafaz</a></dt>
@@ -247,7 +249,7 @@ published: true
 <dt><a id='Kermez' href='#Kermez'>Kermez</a></dt>
 <dd>Ngjyrë allè e mbylltë.</dd>
 
-<dt><a id='Kin’-' href='#Kin’-'>Kin’  (kindemek)</a></dt>
+<dt><a id='Kin' href='#Kin'>Kin’ (kindemek)</a></dt>
 <dd>Kinse, me bâ sikur, demek.</dd>
 
 <dt><a id='Kokòt' href='#Kokòt'>Kokòt</a></dt>
@@ -313,10 +315,10 @@ published: true
 <dt><a id='Mexhelé' href='#Mexhelé'>Mexhelé</a></dt>
 <dd>Kodi civil (i vjetër i Turqisë).</dd>
 
-<dt><a id='Mhyr,' href='#Mhyr,'>Mhyr, (myhyr)</a></dt>
+<dt><a id='Mhyr' href='#Mhyr'>Mhyr (myhyr)</a></dt>
 <dd>Vulë, unazë që përdorej edhe për dyllosje.</dd>
 
-<dt><a id='Mylk,-' href='#Mylk,-'>Mylk,  (mylqe)</a></dt>
+<dt><a id='Mylk' href='#Mylk'>Mylk (mylqe)</a></dt>
 <dd>Pronë e madhe, tokë, kullosa, vneshta, pyll etj.</dd>
 
 <dt><a id='Nafakë' href='#Nafakë'>Nafakë</a></dt>
@@ -355,7 +357,7 @@ published: true
 <dt><a id='Sandalije' href='#Sandalije'>Sandalije</a></dt>
 <dd>Poltron, karrigë e rahatëshme.</dd>
 
-<dt><a id='Se-jek,' href='#Se-jek,'>Se-jek,</a></dt>
+<dt><a id='Se-jek' href='#Se-jek'>Se-jek</a></dt>
 <dd>Tre dhe një (në lojë zaresh).</dd>
 
 <dt><a id='Sebet' href='#Sebet'>Sebet</a></dt>
@@ -364,7 +366,7 @@ published: true
 <dt><a id='Sefir' href='#Sefir'>Sefir</a></dt>
 <dd>Ambasador.</dd>
 
-<dt><a id='Singi-' href='#Singi-'>Singi  (syngji)</a></dt>
+<dt><a id='Singi' href='#Singi'>Singi (syngji)</a></dt>
 <dd>Bajonetë arme.</dd>
 
 <dt><a id='Son' href='#Son'>Son</a></dt>
@@ -392,7 +394,7 @@ published: true
 <dd>Për pamje, për dukje, për fëtyrë.</dd>
 
 <dt><a id='Syrgjyn' href='#Syrgjyn'>Syrgjyn</a></dt>
-<dd>Interrnim. I dëbuem.</dd>
+<dd>Internim. I dëbuem.</dd>
 
 <dt><a id='Shah' href='#Shah'>Shah</a></dt>
 <dd>Kur kali çon dy kambët e para dhe rri madhshtor mbi dy të mbrapmet.</dd>
@@ -418,7 +420,7 @@ published: true
 <dt><a id='Shnjalli' href='#Shnjalli'>Shnjalli</a></dt>
 <dd>Djalli, asht si shnjall – asht si dreq.</dd>
 
-<dt><a id='Shqek,-shqekë' href='#Shqek,-shqekë'>Shqek, shqekë</a></dt>
+<dt><a id='Shqek-shqekë' href='#Shqek-shqekë'>Shqek, shqekë</a></dt>
 <dd>Xhep, xhepa.</dd>
 
 <dt><a id='Tanuz' href='#Tanuz'>Tanuz</a></dt>
@@ -430,7 +432,7 @@ published: true
 <dt><a id='Tarabë' href='#Tarabë'>Tarabë</a></dt>
 <dd>Drrasat që hapin e mbyllin pamjen e dyqanit.</dd>
 
-<dt><a id='Tebá-' href='#Tebá-'>Tebá  (tebaje)</a></dt>
+<dt><a id='Tebá' href='#Tebá'>Tebá (tebaje)</a></dt>
 <dd>Nënshtetas.</dd>
 
 <dt><a id='Tekahyt' href='#Tekahyt'>Tekahyt</a></dt>
@@ -457,7 +459,7 @@ published: true
 <dt><a id='Vár' href='#Vár'>Vár</a></dt>
 <dd>Fjalë, fjalim, ligjërim.</dd>
 
-<dt><a id='Vergi-' href='#Vergi-'>Vergi  (vergji)</a></dt>
+<dt><a id='Vergi' href='#Vergi'>Vergi (vergji)</a></dt>
 <dd>Taksë shtëpije, dyqani, toke, etj.</dd>
 
 <dt><a id='Xhep-e-lep' href='#Xhep-e-lep'>Xhep e lep</a></dt>
@@ -472,5 +474,7 @@ published: true
 <dt><a id='Ymer' href='#Ymer'>Ymer</a></dt>
 <dd>Jetë; për ymer – për jetë, për amshim.</dd>
 
-<dt><a id='Zollude-' href='#Zollude-'>Zollude  (zollotë))</a></dt>
+<dt><a id='Zollude' href='#Zollude'>Zollude (zollotë)</a></dt>
 <dd>Monedhë turke tridhetë paresh.</dd>
+
+</dl>

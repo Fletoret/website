@@ -5,7 +5,7 @@ author: Fan Noli
 respectLineBreaks: true
 parent: Albumi
 grandparent:
-order: 9
+order: 10
 keywords:
 published: true
 ---
@@ -17,12 +17,12 @@ Ndrit me Kryqin si martir.
 
 Rent nëpër kallaballëk,
 Seç po ngjan s'merr vesh as gëk,
-Je i pir” e s'mban dot anë
+Je i pir' e s'mban dot anë
 Për çlironjës a tiranë.
 
 Nëpër pluhër dhe shamatë
 Turren burrat, çirren gratë,
-Turm” e ndezur, e tërbuar,
+Turm' e ndezur, e tërbuar,
 Krishtin për të kryqësuar.
 
 "Mir' e gjeti, tha sarafi,
@@ -55,10 +55,10 @@ Dhe mi Krishtin të vërviti,
 Të tre Kryqet i përfshive
 Dhe përdhe të gjith' i shtrive.
 
-Ç'ngjau pasandaj s' kuptove
+Ç'ngjau pasandaj s'kuptove
 Kryqin gjer sa e zaptove
 Dhe si Krisht u kapardise
-Dhe në djers” u batërdise.
+Dhe në djers' u batërdise.
 
 Ç'vete shtrëmbër në Kalvar
 O qyqar, o Kirenar!
@@ -66,7 +66,7 @@ Seç përmbysesh, kamçikohesh,
 Rrihesh, ngrihesh, çdehesh, zgjohesh.
 
 Krishtin me hapi pyet:
-"Nga më krisi ky tërmet”
+"Nga më krisi ky tërmet?
 Pse pa faj po më mundojnë,
 Kryqn' e huaj ç'ma ngarkojnë?"
 
@@ -76,11 +76,11 @@ Dhe durim të këshillon:
 Me dolli lavdi fitove!
 
 Mos kij dert, mor Kirenar,
-T'a bën këngën një Shqiptari"
+T'a bën këngën një Shqiptar!"
 "Po ku është Shqipëria?"
 "Tek ndes vetë Perëndia!"
 
 Bëj gajret, mor Kirenar,
 Drejt përpjetë në Kalvar!
-Për paradën që'bën ti
+Për paradën që bën ti
 Çdo besnik të ka zili.

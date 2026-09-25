@@ -5,7 +5,7 @@ author: Fan Noli
 respectLineBreaks: true
 parent: Albumi
 grandparent:
-order: 14
+order: 15
 keywords:
 published: true
 ---
@@ -68,7 +68,7 @@ Lark, or Marathonomak!
 
 Hajde, ja Akropolia,
 Ja qyteti e njerëzia
-Që të pan” e që të çquan
+Që të pan' e që të çquan
 Dhe fuqinë ta rishtuan
 Haj dhe pak,
 Hajde, or Marathonomak!
@@ -77,7 +77,7 @@ Ja, arrive, ua the:
 Ç'gas e ç'helm qe kjo myzhde!
 "E fituam!", brohorite
 Dhe për tok' u përpëlite:
-Vdiq, or vdiqi
+Vdiq, or vdiq!
 Vdiqe, or Marathonomak!
 
 Rent kudo, dyke bërtitur,

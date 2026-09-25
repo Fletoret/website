@@ -8,12 +8,12 @@ order: 86
 ---
 Tash n'ket koh qi gjithësia
 Ra n'pushim, plot qetësië,
-Ti do t'flêsh me t'ndîme t'mia—
+Ti do t'flêsh me t'ndîme t'mia —
 Flêj dashtnië!
 
 Ti n'ket ças, moj bukuroshe
 M'ke kujtu me knaqësië,
-Tash dhe un te ti dishroshe—
+Tash dhe un te ti dishroshe —
 Flêj dashtnië!
 
 Po te ti dishroj m'u gjetun,

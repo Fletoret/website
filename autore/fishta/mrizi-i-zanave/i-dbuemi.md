@@ -5,18 +5,18 @@ author: Gjergj Fishta
 respectLineBreaks: true
 parent: Mrizi i Zânavet
 grandparent:
-order: 18
+order: 17
 keywords: i debuari
 published: true
 ---
 
-Lamtumirë! - vendet e mija,
-Qe, po zhduken dalë — kadalë;
+Lamtumirë! — vendet e mija,
+Qe, po zhduken dalë-kadalë;
 Gjimon deti, ushton duhija,
 Lkundet barka valë mbi valë.
-Kahë njaj diell, qi a tue flakue
-Andej fill un tash do t'veta...
-Lamtumirë! O dhé i bekue!
+Kahë njaj diell, qi â tue flakue
+Andej fíll un tash do t'veta...
+Lamtumirë! o dhé i bekue!
 Lumtumirë! per sá t'jét jeta!
 
 Neser nade kúr mbi né
@@ -26,7 +26,7 @@ Mue prej teje ká me m'dá!
 E por n'pvetsha rêt mizore,
 E por n'pvetsha zojt e detit;
 Se per tý, moj tokë arbnore,
-S'ká me m'folë mâ kush mue t'shkretit ...
+S'ká me m'folë mâ kush mue t'shkretit...
 
 Tjera fushë e tjera zalle
 Kam me pá, e tjera dete:
@@ -49,16 +49,16 @@ Kam me pasë, ehu! tigren nânë...
 Nâna e mbetne per së gjallit
 Ká me m'kjá, kushdi, ndo 'i ditë,
 Dér sá motra, dekun mallit,
-Kot ndo'i herë mue ká me m'pritë.
+Kot ndo 'i herë mue ká me m'pritë.
 Ká me i njehë, po, krushqt, e mjera,
 Me i prû nânes n'shpí nji ré:
-Por i vllai, kushdi, m'at hera
+Por i vllaj, kushdi, m'at hera
 Ká me u kalbun per nen dhé!
 
-E, njai dhé — ehu! kob prej qiellet! --
+E, njaj dhé — ehu! kob prej qiellet! —
 S'ká me kênë, jo, dheu i t'Parvet,
 Kû mâ bukur qiella kthiellet,
-Kũ mâ âmel n'gjûhë t'Shqyptarvet
+Kû mâ âmel n'gjûhë t'Shqyptarvet
 Para Hyut naltohet luta,
 E kû besa âsht e shêjtnueshme
 E kû zêmrat s'dijn shka â tuta,
@@ -73,37 +73,37 @@ Kahdo t'm'jét gjykue me u êndë:
 Dér sá t'muj me ligjirue,
 Jú gjithmonë kam me u permêndë!
 
-E ato hale e qepariza
+E ato halë e qepariza
 Kam me i pasë nder mend gjithmonë,
 E ato stâne e njato mriza,
-E ato berre e ato kumbonë..
+E ato berre e ato kumbonë...
 Por, oh váj! malet e mija,
-Qe, po zhduken dalë - kadalë;
-Glimon deti, ushton duhija,
+Qe, po zhduken dalë-kadalë;
+Gjimon deti, ushton duhija,
 Lkundet barka valë mbi valë.
 
-Lamtumirë, prá, bjeshkë e male !
+Lamtumirë, prá, bjeshkë e male!
 E ju krepa edhè ju curra;
 E ju breshta e ju gjeth hale,
 E ju prroje edhè ju gurra!
 Lamtumirë, ju mrize e stâna!
 Lamtumirë, kumbona e berr'e!
 Lamtumirë, ju fusha t'gjâna,
-Ju livadhe, enè ju dierre.
+Ju livadhe, enè ju djerre.
 
 Lamtumirë! ti shpija e t'Parvet,
 Kû mâ s'parit m'agoi drita
 E kû strehë u dhaçë shtektarvet
-Miqt e babës edhe kû i prita.
+Miqt e babës edhè kû i prita.
 Lamtumirë, carâni m'voter!
 Lamtumirë, ju armët e shkreta!
-Lamtumirë, ti nânë e motër!
-Lamtumirë, per sá t'jét jeta! ...
+Lamtumirë, ti nânë e moter!
+Lamtumirë, per sá t'jét jeta!...
 
 O shtegtár, m'nji nji vorr të rí.
-N'hassh ndo'i herë ti, tue ndjekë shtekun,
-T'silun n'rânë nper ndo i shkreti,
-Aty vetë kam me kênë dekun.
+N'hassh ndo 'i herë ti, tue ndjekë shtekun,
+T'çilun n'rânë nper ndo 'i shkretí,
+Atŷ vetë kam me kênë dekun.
 Nji kryq drûnit, t'kjosha true,
 Ziere e vênma permbi krye,
 E, nemose, ti per mue

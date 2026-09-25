@@ -67,7 +67,7 @@ Por un nji tjetër due!
 
 #### Karajfili
 
-Në kopsht të rojsit [^1], plot madhnië
+Në kopsht të rojsit[^1], plot madhnië
 E er un jam kah çili;
 N'mos ty, i ndershëm zotëni
 Të shkon n'mênt karajfili?
@@ -88,7 +88,7 @@ Asht vetëm lulja e ême!
 
 #### Vjollca
 
-Un n'bar të njom jam kah rri mshehun,
+Un n'bar të njom jam kah rri msheh,
 Mos mu je tuj m'kujtumun,
 Nër t'gjitha lulet mu m'ke njoh
 E t'ânden m'ke êmnumun?
@@ -111,7 +111,7 @@ Qi shkon tuj gurgullumun,
 Rrin nusja e ême q'un e du
 Ç'do ças mu tuj m'kujtumun!
 Nji lule qiellit q'ajo e do,
-Kur kput e i thot: «Mos me harro!» [^2]
+Kur kput e i thot: «Mos me harro!»[^2]
 Ktu larg mu zêmra m'kputet.
 
 Dhe larg dashtnia gjên tingillim
@@ -120,7 +120,7 @@ Prandej dhe ktu në ket harrim
 Të ndîmet s'munt t'më shuhen,
 E kur atê qi zêmra do
 Un e kujtoj, tham: «Mos m'harro!»
-Ather më njallet jeta.
+Ather më njallet jeta —
 
 
 [^1]: Rojsi i burgut, ku âsht ndry begu.

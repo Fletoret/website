@@ -20,7 +20,7 @@ pezmatohem. Sikurse pëson ndryshime trupi i njeriut tue u lakue nëpër
 rrathët e moshës, ashtu ndodh edhe me jetën. Kush e din se sa
 mallëngjehet xha Simoni kur e shef fotografin e vet të dalun në prehën
 të s'amës me sy të hapun që shikojnë, çuditshëm, kah aparati? Ndoshta
-ai tash ndin dhimë për atë foshnje që u rrit e u mplak tue kalu e
+ai tash ndin dhimë për atë foshnje që u rrit e u mplak tue kalue
 përmes shumë rreziqeve dhe tue vuejtë tepër për me e ngadhnye jetën.
 
 — Ky asht xha Simoni i vogël, moj bijë - më tha disa ditë ma parë tue
@@ -62,10 +62,10 @@ me të shkopaxinglli, guraçokthi, vorba, symbyllthi, varëza etje. Tash
 ai m'asht ma i afër e ma i miqsueshëm. Qeh se sa vlerë kanë
 fotografit. Un s'kam as nji, se im atë e quen për mëkat me u
 fotografue. E me të vërtetë kam ndigjue edhe un se fotografia në jetën
-tjeër ka me kërkue... shpirt prej njeriut! Mue, të them të drejtën,
+tjetër ka me kërkue... shpirt prej njeriut! Mue, të them të drejtën,
 kurrsesi nuk më mbushet mendja se pikturat do të bajnë, në jetën
 tjetër, nji kërkesë të tillë. Në nji rasë të tillë kështu duhet të jet
-edhë pasqyra, qelqi ose ujt e kulluet që na e pasqyrojnë fëtyrën dhe
+edhe pasqyra, qelqi ose ujt e kulluet që na e pasqyrojnë fëtyrën dhe
 shtatin. Sidoqoftë mue s'më hyn në punë kjo çashtje. Prandaj s'po e
 nxej kryet me të. Por sa për t'u fotografue, makar nji herë, nuk guxoj
 se më shkallmon em atë me dru. Na, në shtëpi s'kemi asnji fotografi,
@@ -104,7 +104,7 @@ Po filloj.
 Eme amë më la katër vjetsh. Ajo vdiq e re. Thonë se nuk i kishte
 mbushë as të 23 vjetët kur ndrroi jetë. Pak e mbaj mend: Kish nji
 shtat të hollë e të ajthtë, sy të kaltërt, vetulla të holla, fëtyrë të
-bardhë, qafë të gjatë dhe flokë të gështenjtë që pjerrin kahe arta.
+bardhë, qafë të gjatë dhe flokë të gështenjtë që pjerrin kah e arta.
 Kaq mund të shënoj për dukjen e sajë. Nji kohë, kujtoj mjaft të gjatë,
 u dergj në shtrat. Shpesh më merrte në prehën dhe m'argëtonte me
 dashuni. Nji mëngjes, pak ditë përpara se të vdiste m'i lëmoi flokët e
@@ -141,7 +141,7 @@ shtëpi ma herët se kurdoherë dhe darkën e hangrëm pa perëndue dielli.
 Mbas darke më vunë me flejtë herët, me gjith që un nuk dishirojsha. Të
 nesërmen në mëngjes, kur u ngrita prej gjumit, pashë nji grue të huej
 që po dilte nga kthina e t'im et me tespijt e tija në dorë. Kur më pa
-u ndalu e dhe m'argëtoi. Dora që m'i lëmoi faqet m'u duk e ashpër dhe
+u ndalue dhe m'argëtoi. Dora që m'i lëmoi faqet m'u duk e ashpër dhe
 e ftoftë. Ika me vrap dhe shkova në kthinën e bukës, ku ishin mbledhë
 të gjithë rreth votrës.
 
@@ -189,7 +189,7 @@ mban mend e kush mund t'i numërojë këto. Vetëm do të përmendi se më
 mundonte si të më kishte halë në sy dhe më shante me nji gjuhë shumë
 të pasun n'ekspresione ndyesije, me nji gjuhë të marrun hua nga
 jevgat. Vdekja e s'ime amë, për mue, qe nji kob, por martesa e t'im et
-me këtë shtrigë që nji mënxyrë e vazhdueshme dhe e pambarueme kurrë.
+me këtë shtrigë qe nji mënxyrë e vazhdueshme dhe e pambarueme kurrë.
 S'dij se ku e gjetën këtë korbë.
 
 "Fëmia pa nanë, si nata pa Hanë" thotë nji fjalë popullore. Sa mirë e
@@ -213,7 +213,7 @@ i madh që bani em atë mbasi u martue me t'eme njerkë, më bani të besoj
 se ekziston nji fuqi magjike dhe se ai u gazit e u skatarit me magji
 prej saj. Ndryshe nuk kam se si t'a shpjegoj mospërfilljen e tij
 kundrejt meje dhe pjerrjen kah e shoqja. Në ditët e para të martesës
-nuk ishte kështu. Duket se ende nuk e kisht e torrullue magjia. Shpesh
+nuk ishte kështu. Duket se ende nuk e kishte torrullue magjia. Shpesh
 më merrte në prehën dhe, tue m'argëtue me dashuni, më thoshte me za të
 çjerrun:
 
@@ -232,7 +232,7 @@ Gjendja e eme u vështirësue edhe ma fort kur leu Rizai - në krye të
 tre vjetve q'ishte martue. Atëherë em atë u dha kryekëput mbas të
 birit tue mos e nxe kryet ma për mue. Qysh atë ditë eme njerkë u ba
 zotnuesja e plotpushtetëshme mbi t'em atë dhe tiranëja ma e egër mbi
-mue. Nuk guxojshja as edhe me qamë e jo me shfaqë ndonji mbëhi ose
+mue. Nuk guxojsha as edhe me qamë e jo me shfaqë ndonji mbëhi ose
 dëshir. Kurrkush mos u rritët si un!
 
 Kur i mbusha shtatë vjetët më futën në shkollë. Nji të hanë në mëngjes
@@ -263,9 +263,9 @@ pëlqente të rrij në shkollë se sa në shtëpi, ku më priste njerka me
 mashë në dorë e me namë në gojë.
 
 Zonjushën Marie Frëni e zavendësoi zonjusha Sabrije Qafëtrashi. Edhe
-kjo që mjaft e mirë, por kurrë sa Marija. Drejtoresha e shkollës ishte
+kjo qe mjaft e mirë, por kurrë sa Marija. Drejtoresha e shkollës ishte
 zoja Sofije Filipiadhi. Si kjo ashtu edhe zonjusha Kristina
-Petropullos flitshin toskënisht, se ishin nga jugu. Për çdo, mëngjes,
+Petropullos flitshin toskënisht, se ishin nga jugu. Për çdo mëngjes,
 kur do të shkojsha në shkollë, simbas porosis që më kishin bamun
 mësueset, ia puthsha dorën t'im et ashtu edhe njerkës. Kësaj i
 pëlqente t'ia puth dorën e zeshkët e të plasarueme, por nuk i vint e
@@ -277,7 +277,7 @@ mëllef. Shpesh herë më kapte për krahu dhe më nxjerrte jashtë portës
 pa e lamë fëtyrën e pa i gërshetue flokët. Disa herë nuk më lejonte
 fare me shkue në shkollë. Më mbante në shtëpi që t'ia përkundsha
 djepin e Rizait dhe ma vonë të Ferides e të tjerve. Të tanë ditën
-rrijsha pranë djepit tue e përkrundë foshnjën dhe fantazin t'eme që
+rrijsha pranë djepit tue e përkundë foshnjën dhe fantazin t'eme që
 endesh rreth e rrotull shkollës, ku i shifsha tue luejtë e tue u
 prrallë shoqet e mija të dashtuna.
 
@@ -288,10 +288,10 @@ për me i ndiellë gjumin ose, e lodhun krahësh, e ndalojsha lëkundjen.
 Shumë herë më çonte në shkollë zbathun ose me nalle dhe nuk më lejonte
 me i mbathë këpucët edhe sikur të binte shi ose vdorë. Nji herë më
 takoi, mb'udhë, kushrini i em Hamiti dhe, kur më pa me nalle dhe pa
-çorapë në kambë. U lemeris fare, pse moti ishte i keq dhe po binte
+çorapë në kambë, u lemeris fare, pse moti ishte i keq dhe po binte
 vdorë. Më muer për dore dhe më çoi në shtëpi të vet.
 
-Atë ditë nuk më la me shkue në shkollë. I kisht e folë mjaft ashpër
+Atë ditë nuk më la me shkue në shkollë. I kishte folë mjaft ashpër
 t'im et për mospërfilljen që tregonte kundrejt meje tue ia rrëfye edhe
 ngjarjen e ditës. Kur e pyeti em atë njerkën se pse më kishte çue në
 shkollë zbathë, faji mbet mbi mue, se ajo u shfajsue tue thanë se un
@@ -322,7 +322,7 @@ qenka. Edhe un kam vu re se fëmia në këtë moshë pyet pa pra dhe disa
 herë ban pyetje e vërejtje të çuditëshme. Veç kësaj fëmijt e kësaj
 moshe mbajnë mend gjithshka të kenë bamë, por mbasandaj harrojnë dhe,
 për nji kohë, e humbin fuqin e kujtesës. Edhe un, megjithqë u përpoqa
-mjaft nuk munda me u përjashtu e nga ky rregull, pse qysh nga tetë e
+mjaft nuk munda me u përjashtue nga ky rregull, pse qysh nga tetë e
 deri më dymbëdhetë vjet, gati gati, nuk mbaj mend fare. Prandaj po e
 kaloj në heshtje këtë kohë. Irena asokohe e kishte kryeqytetsen dhe po
 matesh me ndjekë nji shkollë ma të naltë. Edhe un dojsha me i vazhdue
@@ -350,7 +350,7 @@ dhe me la e me lye. Sikur t'lypset të mësohet me matarue nji shtëpi,
 se nesër do të shkojë në derë të huej e nuk do të dijë me u bamë nji
 amvizë e mirë.
 
-— Ke të drejtë, por ...
+— Ke të drejtë, por...
 
 Ia preu fjalën dhe vazhdoi:
 
@@ -358,7 +358,7 @@ Ia preu fjalën dhe vazhdoi:
 krejt fajin tue pamë se ajo s'din kurrgja për me e mbarsue shtëpin.
 Veç kësaj grat e botës, qysh tashti, pëshpërisin vesh në vesh kur e
 shofin kaq të rritun dhe më hudhin veshtrime me bisht të synit. E un
-nuk mundem me i mbyllë gojët e botës. Mbasa ndaj ajo tash duhet të më
+nuk mundem me i mbyllë gojët e botës. Mbasandaj ajo tash duhet të më
 ndihmoj edhe mue në punët e shtëpis, se dhe un s'kam fuqi. Fëmijt,
 Zoti i lashtë, duen hyzmet. E un s'kam veçse dy duer.
 
@@ -382,12 +382,12 @@ Mbas dy ditësh më mveshën nji çarçaf të zi dhe më vunë në fytyrë nji
 perçe të zezë e të trashë. Atë natë e squllosa jastëkun me lotët që
 derdha. Kisha të drejtë të qaj, pse më kishin ndamë nga shoqet, më
 kishin largue nga sheshi i lojnave zbavitëse, më kishin futë nën
-zgjëdhën e padurueshme të njerkës, dhe, ma në fund, më kishin dënue të
+zgjedhën e padurueshme të njerkës, dhe, ma në fund, më kishin dënue të
 mbetem gjysmake dhe e robnueme për jetë. Atë natë, si dhe net të
 tjera, pashë n'andërr sikur e kisha fitue prap lirin dhe sikur kisha
 hymë në shkollë. Më bahej sikur bridhsha poshtë e përpjetë, pa çarçaf,
 tue luejtun me shoqet e mija në kurt të shkollës. E shkreta un! Sa e
-shëmtueshme m'u duk vetja kur pashë se isha futë mbrenda aaij thesi të
+shëmtueshme m'u duk vetja kur pashë se isha futë mbrenda atij thesi të
 zi. Më gjante vetja plotsisht si sorrë e zezë, por pak e gjatë. Po,
 sigurisht nji foshnje do të tmerohesh po të më shifte papandehun.
 Mirë, po kështu donte zakoni, kështu urdhëronte feja, kështu
@@ -411,7 +411,7 @@ futë në të? S'mund t'a besoj. Përkundrazi kam formue besim se çarçafi
 asht mjet turpi e shnderimi. Po. Sa herë kam ndigjue prej plakave të
 fisit se jevgat t'ona ose laviret tjera, për të mos ramë në sy të
 botës, mvishen me çarçaf dhe, në mes të ditës, shkojnë ke ky ose ke ai
-bik. E femna e pambuelueme nuk guxon të futet në shtëpin e huej jo
+bik. E femna e pambulueme nuk guxon të futet në shtëpin e huej jo
 ditën, por as edhe natën, pse njifet prej shum kuj. Kuptohet fare
 lehtë, pra, se çarçafi, në vend që t'a ruejë nderin, e lehtëson
 shnderimin. Prandaj ai nuk vlen veçse për t'i mbulue robet e bardha
@@ -449,7 +449,7 @@ E këto krijesa të vorfëna nga bukuria vetëm syt t'ona munden me i
 njoftë e me i dallue, pse na, domosdo, nuk e shofim njena tjetrën me
 syt e nji mashkullit të turbulluem prej pasionit. Mbasandaj kush mund
 të pretendojë se nuk ka në mes të meshkujve djelm e burra të bukur?
-Mos kujton ndokush se nuk ka bukuri mashkullore? Si kur të mundesh me
+Mos kujton ndokush se nuk ka bukuri mashkullore? Sikur të mundesh me
 folë femna, me atë liri gjuhe që kanë mashkujt, kush e din se sa poezi
 do të vargëzonte për me e përshkrue bukurin e shokut të vet jo gjini.
 Kush mundet me më sigurue se nuk ka me mija femna që, tue kundrue mbas
@@ -472,7 +472,7 @@ Janë ngarkue me punë të randa që nuk i kryen as mashkulli as edhe
 kafsha. E na qytetaret bajmë nji jetë ma pak të vështirë, por jemi
 bamë monopol, plotsisht, si hokat e shkrepseve; jemi si shkrepset që
 shkëlqejnë e djegin vetëm kur t'i prekish ose t'i shkrepish. Ç'të
-bëjmë? Kështu e lyp zakoni, kështu urdhëron feja, por ajo fë q'asht
+bëjmë? Kështu e lyp zakoni, kështu urdhëron feja, por ajo fe q'asht
 bastardue prej disa njerësve gjysmakë e të pandërgjegjshëm.
 
 Femna muslimane, e mbyllun mbrenda katër mureve, asht e mpit, e dobët
@@ -514,14 +514,14 @@ ata janë ma se të hidhta dhe pezmatuese. Me gjith këtë lypsen shkrue.
 Po, duhen përshkrue, se janë prona e eme, se ashtu plotsohet ditari i
 jetës s'eme. Atëhere le të vazhdojmë.
 
-Mbas nji jave, që qeshë mbulue, shkova ke Hallë Latixheja për të bujtë
+Mbas nji jave, që qeshë mbulue, shkova ke Hallë Hatixheja për të bujtë
 disa net. Meqenëse nuk isha mësue me ecë symbyllazi, rrugës qesh tue e
 thye qafën dy tri herë. Oh sa qeshën gocat e hallës kur më panë me
 çarçaf. U shkëlyen gazit, pse me nji anë nuk më njoftën dhe m'anë
 tjetër u habitën nga shkaku se nuk e kishin paramendue se mund të më
-shifshin të mbulueme n'ate moshë aq të njomë. Kishin të drejtë të mos
+shifshin të mbulueme n'atë moshë aq të njomë. Kishin të drejtë të mos
 më njofin, pse un isha maskue dhe isha bamun tamam për të marrë pjesë
-në nji _"Bal masqué". _Samiu, djali i madh i hallës, tue më shique
+në nji _"Bal masqué"_. Samiu, djali i madh i hallës, tue më shique
 çuditshëm tha:
 
 — Qenka bamë si ata që dalin në karnaval!
@@ -529,7 +529,7 @@ në nji _"Bal masqué". _Samiu, djali i madh i hallës, tue më shique
 — Uh mashaallah të qoftë moj bijë! Qenke bamë gjallë jot amë. Sa hije
 të paska se?... - tha halla tue më marrë n'grykë dhe tue më puthë.
 
-Un me të vështirë i mbajsha lotët që dojsnin me më shpërthye, pse
+Un me të vështirë i mbajsha lotët që dojshin me më shpërthye, pse
 megjithqë ende e njomë, e kuptojsha se nuk mund të kenë bukuri verigat
 e robnis. Mamë Gjystina dhe Irena m'uruen fat të mirë. Më thanë se
 çarçafi më kish dhanë nji hije të randë. Më shiquen zymtas. E
@@ -542,9 +542,9 @@ kur më pa. U nxe dhe nji copëherë shfreu tue true kundër t'im et e
 kundër fanatizmës verbuese që po na shpije në greminë. Gjith far'e
 fisin e shëtita me rradhë. Diku bujta dy net e diku tri.
 
-Ma në fund u ktheva në shtëpi për t'a vuejtë denimin e burgimit të
+Ma në fund u ktheva në shtëpi për t'a vuejtë dënimin e burgimit të
 përjetshëm që më dha em atë simbas mendësis së tij prapanike. Në
-kohët, e para u mërzita shum. Shpesh rrënkojsha e qajsha tue e soditë
+kohët e para, u mërzita shum. Shpesh rrënkojsha e qajsha tue e soditë
 lirin, tue i kujtue shoqet e mija q'e gëzojshin jetën tue luejtë e tue
 bredhë lirisht. Mbasandaj dalëngadale nisa me u mësue me robnin. E me
 çfarë nuk mësohet njeriu i shkretë në këtë jetë? Oh sa mizorë janë
@@ -554,7 +554,7 @@ përdorë si sherbëtore. Më vente t'i laj enët, t'i mshi kthinat, t'i
 laj liveret, të gatuej dhe vetë dilte me shëtitë. E që të
 justifikohesh thoshte se më futte në punë për me më stërvitë! Kjo
 grue, nuk dij se pse, shijohesh e kënaqesh - ashtu edhe sot - tue më
-mundue e tue më mallkue. Çuditem se çfarëshpirti ka.
+mundue e tue më mallkue. Çuditem se çfarë shpirti ka.
 
 Ajo - eme njerkë - nuk ka regull në punë të shtëpis dhe asht e hutueme
 fare. I len punët verde dhe harron fort. Shum herë harronte, për
@@ -578,13 +578,13 @@ merrte vesh ajo se?! As s'donte të dijë se a mundesha t'a baj atë punë
 apo jo. Tue nuhatë e tue rrënkue i mshojsha gurit. Bahesha qull me
 djersë dhe më dridhesh krejt shtati prej mundimit. Kur këputesha fare
 e mbështetsha kryet mbi gur për të pushue sado pak. Atëherë djersët e
-lotët e mij pikojshin mbrenda gurit. Oh sa killogram kafe të mbrutjun
+lotët e mij pikojshin mbrenda gurit. Oh sa killogram kafe të mbrujtun
 me djersët dhe lotët e së bijës ka pimë im atë! Shkurt më vinte
 shpirti në majë të hundës derisa e shtypsha kafen. Kur i mbarojsha
 punët e shtëpis ose kur e gjejsha vetëhen të ngeshme, shkojsha ke Xha
 Simoni për të ndejtë me Irenën. Atë e dojsha dhe e due shum, se më qe
 bamë si motër dhe më jepte mësim. Të gjitha mësimet e shkollës m'i
-përsëritte dhe më nxitte t'a zgjanoj dijnin e paktë që kisha marrë në
+përsëritte dhe më nxitte t'a zgjanoj dijenin e paktë që kisha marrë në
 shkollën fillore. Mirë, por ku më lente njerka. Sa t'a merrte vesht se
 mungoj në shtëpi, më thirte tue bërtitë me za të naltë:
 
@@ -630,7 +630,7 @@ im atë e ndigjova se më kërkoi tue m'a thirrë emnin, por un nuk
 bëzajta dhe s'luejta vendit. Mamë Gjystina, që i dinte hallet e mija
 dhe që ndinte dhimë për mue, më kshilloi t'i ankohem t'im eti. Mbas
 nja nji ore erdh Meti e më njoftoi se më kërkonte em atë. Shkova.
-Mbrenda asajë kohe njerka, natyrisht, do t'isht e shprazë kundër meje.
+Mbrenda asajë kohe njerka, natyrisht, do t'ishte shprazë kundër meje.
 
 Por edhe un e kisha vendosë qëndrimin t'em për me e luftue dhe me e
 shkundë zgjedhën e saj.
@@ -686,7 +686,7 @@ këmishat dhe, përmbi të gjitha, i kam lamë edhe shpergajt e kalamajve.
 — Ti? - thirri si i habitun e me mosbesim.
 
 — Po, po, un. Un i kam bamë të gjitha. Por oxhakun nuk mundem me e
-mshimun, se ajo asht puna e njej puntori. E në qoftë se këtë grue e ke
+mshimun, se ajo asht puna e nji puntori. E në qoftë se këtë grue e ke
 sjellë këtu për me më bamë shërbëtoren e saj, m'a thuej që t'a dij -
 shtova.
 
@@ -704,7 +704,7 @@ përveç dajallarve nuk ka mbetë njeri që t'i vije keq për mue. Në ju
 randohem shum. Më thoni të shkoj e të strukem ndër ta, përpara se të
 vdes nga mundimet e përpara asajë kohë që vdiq eme amë - i thashë dhe
 u shgreha në vaj. Em atë u turbullue fare. U çue në kambë dhe m'u
-afrue. Më kapi përdore dhe, tue m'i lëmue flokët, tha me za të plasun:
+afrue. Më kapi për dore dhe, tue m'i lëmue flokët, tha me za të plasun:
 
 — Edhe un s'dojsha që të vdiste jot amë, por ashtu urdhënoi Zoti moj
 bijë. Ti mos u dëshpro e mos qajë. Un të këshilloj të punosh vetëm për
@@ -723,13 +723,13 @@ shique me sy të përlotun.
 me m'a marrë shpirtin përpara kohës - i thashë me za të mbytun prej
 vajit dhe tue u dridhë prej zemërimit që më kishte mbërthye.
 
-— Oh si flet moj bijë; Kurrkush nuk mundet me të shtrëngue me punue.
+— Oh si flet moj bijë! Kurrkush nuk mundet me të shtrëngue me punue.
 Un qysh sot po e porosis atë - donte të thote për njerkën - që mos
 t'api punë. Rri rahat e mos u mërzit - tha.
 
 Sa e mbaroi fjalën iku i turbulluem e i surbulluem. Të nesërmen erdh
-nji shërbëtore në shtëpi. Njerka ishte kahpëlset prej zemrimit, por
-s'kishte se si me shfry. Edhe oxhakun e mshiu nji puntor. Qysh ate
+nji shërbëtore në shtëpi. Njerka ishte kah pëlset prej zemrimit, por
+s'kishte se si me shfry. Edhe oxhakun e mshiu nji puntor. Qysh atë
 ditë nuk bana ma punë shtëpije, veçse ndonji gjellë kur më ftekesh ose
 qindissha ndonji gja që më pëlqente. Mbasi shpëtova nga thundra e
 njerkës nisa me këndue, gadi përditë, me Irenën. Ajo m'i epte mësimet
@@ -748,7 +748,7 @@ gjykatoren e këtushme, kurse Marku ende asht pa punë. Kola asht 11
 vjetsh; simjet e mbaron filloren. Xha Simoni, ati i tyre, asht nëpunës
 i kadastrës me nji rrogë të vogël. Mamë Gjystina asht e ama e Irenës
 dhe e vllazënve të saj. Këta janë Kosovarë, t'emigruem prej andej qysh
-në kohen e luftës Ballkanike. Kanë blemë shtëpi këtu, ngjit me ne.
+në kohën e luftës Ballkanike. Kanë blemë shtëpi këtu, ngjit me ne.
 Nëpërmjet nji deriçke hyjmë e dalim ke njeni tjetri. Xha Simoni asht
 shpenxue shum dhe asht ngarkue me borxhe për t'i mësue djelmt e vet.
 Tash që ata mbaruen shpreson t'a përmirsojë gjendjen.
@@ -784,21 +784,21 @@ due t'a kem si kujtimin t'and - tha.
 pakën, dhetë herë në ditë? – përgjigja me buzë në gaz.
 
 — Ahu Dije! Po ti nesër do të martohesh dhe un, kush e din, nuk kamë
-me të pamë. .. veçse në të rrallë.
+me të pamë... veçse në të rrallë.
 
 Të gjithë qeshën. M'u vunë shum. Ma në fund u binda dhe u fotografova
 vetëm. Sot e pashë vetëhen të fotografueme. Ajo paraqitte nji blondinë
 17 vjeçare që ka qëndrue në këmbë si e trembun prej dikuj me gjithë që
 asht mundue të buzëqeshi. Filmi u hudh dhe kopjet i mbajti Irena. Në
 njenën nga kopjet bana nji shënim për Irenën tue e shprehë krejt
-dashunin që ushqej për të. Me ketë mënyrë dhe simbas mendësis së
+dashunin që ushqej për të. Me këtë mënyrë dhe simbas mendësis së
 fanatikve, dje bana nji mëkat apo faj të pafalshëm që... duhet
 ndeshkue rreptë. Po e muer vesht im atë më hangër dreqi.
 
 ## 21 Mars
 
 Kushrinit të njerkës i paska lemë djalë dhe kjo ishte grishë sot në
-pallagajat. Kishte vendosë me e marrë me vetëhe edhe Metin e Fazijen.
+pallagajat. Kishte vendosë me e marrë me vetëhe edhe Metin e Razijen.
 Ndërsa ajo po mvishesh e po mertisesh në kthinë të vet, un i lava
 fëmijt. Por meqenëse s'dijsha se ç'duhej t'u mveshi, shkova me e
 pyetë. Kur e hapa derën, me habin ma të madhe, pashë se ajo, e zveshun
@@ -825,11 +825,11 @@ s'andejmi me nji habi të përzieme me gaz. I mvesha fëmijt, simbas
 porosis që më bani, dhe shkova në lulishte, ku nisa të mendohem.
 
 “A beson kjo grue se asht zbukurue me ato ngjyra që ka vumë?” i thashë
-vetëhes. Çuditem se sa fort i mungon gustoja kësajë femne. Ne na e
+vetëhes. Çuditem se sa fort i mungon gustoja kësajë femne. Në na e
 marrtë mendja se e zbukurojnë ngjyrat nji zezake, kemi të drejtë të
 besojmë se edhe kësaj ia shtojnë bukurin. Për të, simbas mendimit
 t'em, do t'ishte ma mirë sikur të mos e trathtonte ngjyrën e zeshkët
-të natyrës dhe të mbëtesh e thjeshtë, se sa të bahesh si nji kukull
+të natyrës dhe të mbetesh e thjeshtë, se sa të bahesh si nji kukull
 për t'i trembë sorrat në kopsht. Mirë, por ec e thuej po deshe! Ajo
 ndoshta kujton se asht tërhekse dhe e bukur. Ndoshta. Dhe asajë
 bukurije nashti don t'i shtojë edhe vetë dishka ose atë që s'ka dijtë
@@ -837,7 +837,7 @@ me ia dhanë krijuesi!..
 
 Ndër ne nuk asht zakon të lyhen e të ngjyhen gocat. Vetëm mbas martese
 fillon të tregohet aftësia e tualetës. Un jam kundër këtij farë
-operacioni, pse më pël en bukuria natyrale, ajo që ka jetë, ajo që nuk
+operacioni, pse më pëlqen bukuria natyrale, ajo që ka jetë, ajo që nuk
 shduket bashkë me errësinën e natës. Fund'i fundit nji tualetë të
 vogël me nji çikë kremë e me pak pudër mund të mos e neveris, mbasi e
 mbajnë mirë lëkurën, por kur e kalon këtë masë kujtoj se njeriu, në
@@ -867,7 +867,7 @@ jem ndihmësja e saj dhe m'anë tjetër nuk mundem me e kundërshtue se
 duhet t'i shijoj hidhësit e nji zihjes me të. Për shembull vjetin e
 kaluem u zumë e u bamë për pesë pare pse un, tue thanë se magjia asht
 nji bestydni e marri, s'dojsha me i ndihmue. Prandaj edhe simjet iu
-binda. Muer njerka ni spagë, nja dy pash të gjatë, dhe e lidhi në
+binda. Muer njerka nji spagë, nja dy pash të gjatë, dhe e lidhi në
 hatllat e gjelltores. Mbasandaj u drejtue kah un tue më shique në
 mënyrë që më dha të kuptoj se ishte gati për t'a nisë veprimin magjik.
 Atëhere un pyeta:
@@ -888,7 +888,7 @@ Me këtë mënyrë u ba nji varg nyjesh për mos me na kafshue buzëkuqet -
 çimkat -, buzëzezat – mizat -, brinjëzit - akrepët -, kërcimtarët -
 pleshtat -, rrëshitsit - gjarpijt -, fërshëllyesat - miskonjat. Përveç
 pyetjeve e përgjigjeve të caktueme asnji fjalë tjetër s'duhet folë kur
-bahet magjia, se prishet e nuk banë dobi. Gjithashtu nuk lypset të
+bahet magjia, se prishet e nuk ban dobi. Gjithashtu nuk lypset të
 përmenden insektet me emnat e tyne të vërtetë, por me emna të
 përshtatun. Fjala vjen çimkat përmenden me fjalën buzëkuqet, mizat me
 fjalën buzëzezat etj.
@@ -911,7 +911,7 @@ nuskat e babës!
 Edhe sot në mëngjes, si shumë herë, krisi poterja në shtëpi t'onë.
 Shkaku i zihjes qe kafja dhe mungesa e do sumbllave në nji këmishë të
 t'im et. Em atë ka disa vetia, por si njeri mishi ka edhe disa vese e
-mani që nuk i hjek si kur t'i a presish kryet. Për shembull vetë i lan
+mani që nuk i hjek sikur t'ia presish kryet. Për shembull vetë i lan
 syt e nuk don që t'i shërbejë tjetri; nuk ban potere po të bahet
 ndonjë dam, as edhe nuk zemrohet kur merr vesht se e shoqja ka dalë me
 shëtitë pa lejen e tij. Por po gjet këmishë ose brekë pa sumblla dhe
@@ -927,7 +927,7 @@ mallkue. Ajo u mundue të shfajsohet tue thanë se e kishin pengue
 fëmijt, por ku merrte vesh ai se. Pa u shafitë mirë kjo potere krisi e
 dyta, pse këmisha që do të ndrronte sot im atë, për fat të keq, kish
 qëllue me dy sumbulla mangut. Ushtoi e buçiti shtëpia, nji copë herë,
-nga britmat e t'ime et.
+nga britmat e t'im et.
 
 Çuditem në pakujdesin e kësaj grueje dhe nuk marr vesh se pse nuk i
 ven menden me i përmbushë dëshirat e porosit e të shoqit. Nji grue që
@@ -935,12 +935,12 @@ s'ka regull në punë, që s'ka kujdes me i përmbushë nevojat e burrit,
 që nuk përpiqet me i kuptue veset ose vetiat e bashkëshortit të vet,
 nuk vlen asnji dysh dhe nuk meriton të jet as shërbëtore e jo ma Zojë
 shtëpije. Nga shkaku i grindjeve të shpeshta që ngjajnë në mes të t'im
-ët e të njerkës edhe mue më prishet qetësia dhe më cenohet prehja, pse
+et e të njerkës edhe mue më prishet qetësia dhe më cenohet prehja, pse
 ajo, e zemrueme me t'em atë, kërkon rasë që t'a shprazi në mue dufin e
 vet. Për këtë arësye shpesh herë shtrëngohem me u mprojtë nga
 shigjetat helmatuese që hedh me gjuhën e sajë të mpreftë. Vetëm jam e
 kënaqun se ky zemrim që shpërthen në mëngjes me aq forcë e furri, nuk
-ka fuqi të jetojë veçse derisa të perdëndojë dielli dhe disa herë edhe
+ka fuqi të jetojë veçse derisa të perëndojë dielli dhe disa herë edhe
 ma heret. Mbas bubullimave dhe shiut len dielli! Po. Në mbramje
 paqtohen dhe bahen ... mjaltë e tëlyen, si thotë fjala popullore. Un,
 tue i pamë në mbramje që ligjerojnë amblas e me buzë në gaz, shpesh
@@ -962,7 +962,7 @@ ka gjasë t'i përgjigjet së vërtetës, por sidoqoftë mue m'intereson
 fakti e jo qëllimi apo shtytsi. Mbasandaj e mira, nga do që të vijë,
 nuk e vdjerr vlerën dhe lypset të çmohet si e tillë. S'dij se çfarë
 lidhje mund të mbetet në mes të dy bashkëshortëve kur futet ndërmjet
-tyne mënia në trajtë shamjeje e rrafjeje. Grueja që poshtrohet me
+tyne mënia në trajtë shamjeje e rrafjeje. Grueja që poshtnohet me
 shamje të randa dhe rrifet, o duhet të jetë lopë që t'i meritojë ose
 të ketë interes apo frigë nga burri që nuk e këput atë lidhje që i ka
 bashkue dikur formalisht e jo shpirtnisht, sepse jeta e përbashkët, në
@@ -976,7 +976,7 @@ flakët e tija edhe fëmijt që do t'u lejnë.
 
 “Mirë, por femna Muslimane asht e mbulueme dhe s'asht e lejueme me u
 njoftë me atë që do të martohet”, më përshpëriti dikush në vesh me nji
-za që gjante sikur vinte nga thellësit e njej vorri. Ndoshta që zani i
+za që gjante sikur vinte nga thellësit e nji vorri. Ndoshta qe zani i
 ndonji martyres Muslimane. Ndoshta. Qeh edhe këtu del para çarçafi dhe
 e prish punën krejt. Shpesh kemi ndigjue të flitet, me përbuzje, për
 ata djelm që martohen me vajza të hueja. Martesa e djelmve Shqiptarë
@@ -989,7 +989,7 @@ përjetëshme. Për shembull nji student, nji djalë që asht pajue me nji
 kulturë të shëndoshë dhe që e çmon vlerën e jetës me bashkëshorten, si
 mund të martohet me nji femën që kurrë nuk i ka pamë fëtyrën, që nuk
 ia njef veset e vetiat, që nuk ia din gradën e mendjes, që s'ka as ma
-të voglën kulturë dhe dhe që nuk e ka dashunue? Martesa lypset të jetë
+të voglën kulturë dhe që nuk e ka dashunue? Martesa lypset të jetë
 akti i lidhjes së dy zemrave, i pajtimit të karaktereve, i përshtatjes
 së pjerrjeve dhe i bashkimit të të gjitha pikpamjeve. Përndryshe
 ndjell kobe e mbjell mjerime për palën e bashkueme. Ndër ne ka shumë
@@ -1015,7 +1015,7 @@ kërkojsha lirin e femnës, do të lypsha që të provohet kapasiteti i saj
 për me i zhvillue cilsit e mbrendëshme dhe për me e fisnikue shpirti i
 saj i shtypun e i mbytun deri tash, pse përparimi i nji kombi shkon
 krahas me atë të femnës dhe poshtnimi i femnës e çon kombin në
-grëminë.
+greminë.
 
 Tue përfundue due të them se martesa nuk asht nji lojë zarësh ose nji
 llotari që pa kokëçamje të madhe provon fatin e lojtarit; nuk asht nji
@@ -1032,12 +1032,12 @@ ngjarja e hidhët që si trashigimtarin e vet m'a la këtë shenjë.
 Meqenëse e paskam harrue me e shkrue kur e përshkrova jetën t'eme të
 kalueme, po e shënoj sot, mbasi ajo asht si nji njollë e pashlyeshme
 për njerkën t'eme zemër gur dhe si nji pikë e zezë në kët ditar që
-përmbledh në gji të vet të gjitha shfaqjet e jetën s'eme. Me bije
-ndërmend se në nji mbasdarke Dimni, kur un do të kem qenë nja 5 - 6
+përmbledh në gji të vet të gjitha shfaqjet e jetës s'eme. Më bie
+ndërmend se në nji mbasdarke Dimni, kur un do të kem qenë nja 5-6
 vjetsh, ndodhesha vetëm me njerkën në shtëpi. Em atë kishte shkue
 s'dij se ku. U ngrita me pimë ujë. Kur u ktheva me u ulë në vend, më
 ngeci gishti i kambës së djathtë në nji të grisun të qylimit dhe u
-përplasa mbi tagarin e q'ishte plot me push. S'dij se qysh, por të dy
+përplasa mbi tagarin q'ishte plot me push. S'dij se qysh, por të dy
 duert e mija u rrasën në prush dhe hunda më ndeshi në tefin e tagarit.
 Nji klithmë e thekshme, që u shkëput nga shpirti i përvëluem, plasi
 nga goja e eme si ndonji dinamit. Mandej nji breshën lotsh shpërthyen
@@ -1048,9 +1048,9 @@ e hollë të tagarit.
 mshoi me nji grusht. Përnjiherë u përplasa për dheu tue piskëllue nga
 dhimbja e hundës që m'ishte çamë, nga duert që m'ishin djegë dhe nga
 grushti i njerkës. Kur un qajsha e ulërijsha nga djega e madhe që
-kisha ajo, tue më sha e mallkue, m'urdhënonte me pushue.
+kisha, ajo, tue më sha e mallkue, m'urdhënonte me pushue.
 
-— Mjaft ma, moj buçë, se m'i shurdhove veshët - thiri ma në fund dhe u
+— Mjaft ma, moj buçë, se m'i shurdhove veshët - thirri ma në fund dhe u
 çue nga vendi si e trenueme. Muer nji grusht spec të kuq dhe m'a rrasi
 në gojë me përdhunë. Nji gjamë dy herë tmeruese dhe nji dënes e
 trefishueme ndoq mandej këtë barbarizmë. Atëhere u mërzit ma fort. Më

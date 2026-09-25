@@ -16,8 +16,8 @@ tue hymë n'at shtëpi, në muzg të mbramjes, dhe tue prue natën me vete.
 Se mbas tij dera u mbyllte, dhe atëthere të hymet e të dalmet ishin
 jashtëzakonisht të rralla, dhe vetëm kur lajmonte kush ndoj lindje,
 ndoj vdekje ose vinte ndoj mik i papritun, çka
-ngjante shum rallë, u prishte kjo ligie patriarkale. Ligjë, edhe
-çfarë ligje! Kush e shkelte at ligjë, gjith at natë do ta conte në një
+ngjante shum rallë, u prishte kjo ligje patriarkale. Ligjë, edhe
+çfarë ligje! Kush e shkelte at ligjë, gjith at natë do ta çonte në një
 ndjenjë si me pasë shkelë dicka të ftohte, të rrëshqitshme si gjarpni.
 E syt e t'et që të përshkojnë me ftoftsi përftojshin tamam një aso
 ndjenje te Nushi. Si me pasë shkelë gjarpnin. Edhe kjo ishte një
@@ -31,7 +31,7 @@ Por letra që mori tashti, i jepte afatin e fundit. "Motra jote do
 të të martohet, edhe një muej, prandej ti, si vllau i saj, duhesh me
 ardhë medoemos." Ishte urdhni i t'et. Nushit në fillim i erdh disi mirë,
 u gëzue, por kur u mendue pak, u ftof, ishte në natyrë të tij
-që githcka m'e marrë me mend e jo me zemër.
+që githçka m'e marrë me mend e jo me zemër.
 
 * * *
 
@@ -45,7 +45,7 @@ shumë të vogla. Mobiliet ndër to si mos me i pasë prekë dora
 e njeriut. Gjithçka në vendin e përparshëm, si me qenë të
 destinueme dhe me u kalbë po n'ato vende. Por githçka, githçka
 disi e zvoglueme. Mezi Nushi gjet shkakun e këtij mashtrimi
-optik. Shaku ishte te shtëpiat e mdhaja dhe sheshet e hapta të
+optik. Shkaku ishte te shtëpiat e mdhaja dhe sheshet e hapta të
 qytetit ku kishte qenë. Po, gjithçka për Nushin ishte zvogluem,
 vetëm vllaznit e motrat ishin rritë, ishin ma të mdhaj sesa i
 paraftyronte ai vetë kur i kujtonte përjashta. Tek e ama i ra në sy
@@ -63,8 +63,10 @@ dhe oshtini nëpër shtëpi.
 motra e fejueme, dhe shpëtoi tek e ama në dhomë të zjarrmit.
 Mamë! Nushi thotë se edhe vajzat sa unë, edhe të martueme bile,
 shkojnë në shkolle. Ha-ha-ha! u perplas qeshja e vajzës në ftyrë
-të s'amës. - Mos u qesh ashtu moj bije, se po të ndijnë kojshit...
-asht marre. Vajza nuk përgjegji, por, e zanun me tregimet e vilaut,
+të s'amës.
+
+— Mos u qesh ashtu moj bije, se po të ndijnë kojshit...
+asht marre. Vajza nuk përgjegji, por, e zanun me tregimet e vllaut,
 mendonte ato vende të çuditshme, ku vajzat nuk lidhen për
 shtëpi, ku dalin me djelm me shetitë pa fare turpit, ku kërcejnë...
 ah! kërcejnë aq bukur.
@@ -73,8 +75,8 @@ ah! kërcejnë aq bukur.
 me kërcye? Një shoqe e eme ma plasi zemrën, tue m'u lavdue se
 din me kërcy... (Ah, kur të më mësoje mue Nushi, tash ia kallzoj
 qejfin - mendonte me vetë tue fshi një çini). Vllau muer motrën
-dhe filloi t'i kallzojë do regulla, por ashtu në grykë të shogi-
-shoqit dhe tue kërcye, i gjeti i ati.
+dhe filloi t'i kallzojë do regulla, por ashtu në grykë të
+shoqi-shoqit dhe tue kërcye, i gjeti i ati.
 
 — S'ke marre! Nesër do të martohesh!... Edhe ti, - tue iu sjell
 Nushit, - s'je i vogël. Shyqyr që paske ardhë sonte herët! - tha i ati
@@ -122,7 +124,7 @@ për jetën qytetare të nesërme. "Mos të më korisin, - mendon
 kryetari i familjes, tue i shikue me rend të gjith pjestarët. Mos të
 më korisin, prandaj shtrëngo frenat, shtrëngo sa të mundësh, e nse
 nuk mund të marrin frymë - të pëlcasin. Sa vështirë asht me rritë
-fëmi në koh të sotme! Sa vështirë ashe me i ruejte varzat! Eh,
+fëmi në koh të sotme! Sa vështirë asht me i ruejte varzat! Eh,
 Kohët e kalueme! — Por a e dini ju, more fëmi, se une njaq sa ju
 isha, kur fillova me fitue bukën... Edhe qe, ka dasht zoti, edhe
 ju me pasë mjaft, sa me ju plasë planci...
@@ -139,7 +141,7 @@ impulsive të lejon ta shijosh dhe si i ri dhe si plak, si filozof ose si
 njeri i thjeshtë. Nushi vëren kontrastin e tmerrshëm në mes të
 vendit të vet dhe t'atyne viseve. Dhe si i ri që asht, ndjenjat e tij
 mnjanojnë për mrekullinat e largëta, e në mendime gjyrmon
-shkaqet pse vendi i tij asht aq mbrapa. Dhe njato shkage, me gith
+shkaqet pse vendi i tij asht aq mbrapa. Dhe njato shkaqe, me gith
 zjarrmin e rinis, i urren. Urren të kaluemen që asht aq e afërme,
 si baba i tij. Baba asht i afërm, si babë, por i largët si perfaqësues
 i shoqnis, si person. E gjith mosmarrveshja, të gjitha moskuptimet
@@ -186,7 +188,7 @@ Nushi për motrën ma të madhe, e cila me vjet iu avitte, ndiente
 një dashuni të pasun me kujtime fminore. Gjithmon bashke. Ndër
 mbramje të dimnit, kur u duhej me ra me fjetë, tue mberdhitë nga
 çarçafi i ftoftë i dyshekut, iu avitshin shoqi-shoqit. Përputheshin
-trup për trup dhe ndëgjojshin të rrektunat e zemrave të shoqi-shogit.
+trup për trup dhe ndëgjojshin të rrektunat e zemrave të shoqi-shoqit.
 E kur në përshpritjen e ndoj prrallës së gjatë trupnat e tyne
 u nxejshin mjaft, atëherë ndjejshin pranin e një gjas së tretë, të
 huej, deri atëhere të panjoftun për trupnat e tyne, por që tash, në
@@ -207,7 +209,7 @@ mbetë në kujtesë nga njato pjekje vetëm buzëqeshja banale e një
 fëtyrës së frytë e të zbetë, belbëzim i një bisedës ma banale nëpër
 dhambë të prishun dhe majmunizma e një snobit. Qe dhandri,
 miku i tij. Asht i shtëpis së mirë dhe tregtar i zoti, ka than baba.
-Dhe njato fjalë kanë qenë të mjafta para të shoqes; nenesre puna
+Dhe njato fjalë kanë qenë të mjafta para të shoqes; në nesre puna
 ka qenë e kryeme. E Agia? Agia asht vajze e mirë, e urtë, ndëgjon
 prindët, njajo gja nënkuptohet. Kur e pa të fejuemin, pak ne
 dhomë a ma tepër nëpër birat e dyerve, u zbe pak, por njaj të
@@ -243,9 +245,9 @@ Nushi dyshoi dhe shkoi në dhomë të zjarrmit, por, aty as nuk kishte zjarrm.
 — Jo besa! - dhe u largue kinse me punë.
 
 Nushi u mundue ashtu prej së largu, tue qeshë, të diktojë ndoj
-gja, por si shkoi për dore. Tue dale prej shtëpie, u kujtue pse qan
+gja, por s'i shkoi për dore. Tue dale prej shtëpie, u kujtue pse qan
 Agia; i ra në mend dhe shikimi i saj i mbramshëm. Desht të
-kethehet, por e dinte se Agia nga turpi nuk do t'i tregojë gja, as
+kthehet, por e dinte se Agia nga turpi nuk do t'i tregojë gja, as
 nuk do t'i pohojë. Turpi, e sidomos turpi i vajzave të fejueme,
 asht një hallkë ma tepër në zinxhirin që shtrëngon jetën. E si mos
 me pasë turp vajza e fejueme, kurse e din se te burri shkon vetem
@@ -294,9 +296,9 @@ tatalosh" - i ka mrri Ages në vesh nga biseda e dy shoqeve. Një
 kundërshtim të parrfyeshëm ndien atëbote Agia. Dhe njaj
 kundërshtim shfrehej tashti në sjelljen e saj kundra vllazënve,
 motrave dhe s'amës kanjiherë. Si me pritë rasën, dhe ajo ishte
-gati me u kuq nga zemrimi, me i ra filxhani ose me thye dicka, sì
+gati me u kuq nga zemrimi, me i ra filxhani ose me thye dicka, si
 ndoj çini, gotë ose gjë tjetër që kishte në dorë. Kur e ama i
-bërtitte për gjanë e thyeme, ajo u përgjigite ashpër me një: nuk
+bërtitte për gjanë e thyeme, ajo u përgjigjte ashpër me një: nuk
 deshta as un ta thej; mandej shkonte, u mshehte në ndoj skutiliq
 dhe qante.
 
@@ -310,7 +312,7 @@ Quhej "Ekstazë". Ishte film i një martese të papërshtatshme.
 * * *
 
 — Mos të koritena - ka thanë i ati. - Duhet gjithçka boll për
-darsëm. Të giitha, të gjitha duhet me përgatitë. Rueju mos të
+darsëm. Të gjitha, të gjitha duhet me përgatitë. Rueju mos të
 harrojsh gja! - i ka thanë burri të shoqes. Dhe darsma ka dale
 shum e mirë. Ka plase delli i qejfit në te. Venë e raki, si aty ma.
 Darsmat janë të ralla, prandaj qejf, qejf me ba. Për shndet të
@@ -321,7 +323,7 @@ e palyeme. Megjithse këta po i lyejnë fytat shum mirë. Gratë,
 n'an të vet, tash këndojn kangen e japrakut, tash flasin të githa
 përnjëherësh, tue ndëgjue secila vetëm fjalët e veta, tash qeshen
 si-ki-ki, ka-ka-ka. Nepër qoshe fëmite, secili tue hangër ka dicka,
-shikojnë dhe çuditen për nanat e veta, se si kanë pamë kurr në
+shikojnë dhe çuditen për nanat e veta, se s'i kanë pamë kurr në
 gjendje aq të zjarrtë.
 
 — Pse martohet Agia? - pyet një shok vllain e vogël shtatëvjeçar
@@ -414,7 +416,7 @@ të prishet lustra e shoqnis së qytetit tonë. Të shkëlqejë lustra e
 marrëdhanieve tona të përditshme me shoqi-shoqin, të shkëlqejë
 si këpuca e lustrueme në baltë. E pse një grue, tue fjetë me burrin
 e vet plak ose idiot, vuen dhe mendon ndoj tjetër, s'ka gja. E pse
-një grue, pranë burrit të pamasskulli, merr mshehtas një tjetër që
+një grue, pranë burrit të pamashkulli, merr mshehtas një tjetër që
 ta përkëdheli, prap s'ka gja. Njësoj. S'ka randsi. Jeta bashkëshortore
 njësoj asht e hyjnueshme. Këtë e ka vërtetue instituti fetar. Vetem
 dicka: skandali nuk durohet. Bani çmos që të mos shkaktoni
@@ -443,18 +445,18 @@ burrit të saj e të zotnis së tij. Deri në darsëm, ai e shikonte zotnin
 vetëm si zotnin e tij, të zotin e dyqanit, i cili ia pagonte rrogën
 regullisht dhe mirë. Luli disi nuk e mendonte, nuk mund t'ia
 paraftyronte vetes se zotnia i tij mundet me qenë dhe burr' i një
-grueje, sidomos burr' i një grueje si Agia. Në ndërgjegie të Lulit
-ishte formue një giykim për zotnin: i zoti të rrijë mbas banakut
+grueje, sidomos burr' i një grueje si Agia. Në ndërgjegje të Lulit
+ishte formue një gjykim për zotnin: i zoti të rrijë mbas banakut
 dhe të shikojë se si ai vete, shegert i tij, u pergjegjet blesve,
 peshon, merr paret, ia bien atij zotnis, i cili i ve në banak, tue
 buzëqeshe me gojë pa dhanë në ndoj isharet të tij, të shegertit.
 Prej zotnis Luli nuk ndiente ndoj frigë, ose ndiente aq frigë, saqë
 e ndien një shok prej shoku tjeter me vjet ma i madh. Por tashti,
 me martesë të zotnis, i cili muer një grue aq të bukur, në thellsin
-e shpiti Luli njeu një pakënaqsi, por krejt të pandërgjegjshme.
-Kjo pakënasi me kohë, aty-këtu, u shfaqte në një mnijë, e cila
-ishte ma tepër një smirë. Luli nuk dinte t'analizojë gjendien
-shpirtnore të vetën, se ishte një shegert pazarit, por instinki i
+e shpirtit Luli ndjeu një pakënaqsi, por krejt të pandërgjegjshme.
+Kjo pakënaqsi me kohë, aty-këtu, u shfaqte në një mnijë, e cila
+ishte ma tepër një smirë. Luli nuk dinte t'analizojë gjendjen
+shpirtnore të vetën, se ishte një shegert pazarit, por instinkti i
 thjeshtë njerzuer ndjente dhe shfaqej. Ai tatalosh, çfar vajzet me
 marrë - i tha Lulit një shok intim, shegert pazarit. Lulit iu
 theksuen këto fjalë në mendje. Shoku i tha, tue qeshe dhe tue e
@@ -478,7 +480,7 @@ Edhe në shtëpi Nushi, si mjek i kryem, u ndiente disi ndryshe.
 Edhe vllaznit e motrat, në praninë e tij, qëndrojshin ndryshe.
 Fjala mjek lëshon një ere barnash, të cilët ta shtijnë frigën e
 smundjes, prandej motrat dhe vllaznit e shikojshin dhe e dojshin
-Nushin ma shum me një dashni admiruese se vIlaznore. E i ati
+Nushin ma shum me një dashni admiruese se vllaznore. E i ati
 kish ndrrue tonin e bisedës; e kish ulë për nja dy nota. Përpara
 fliste në sol e tash në re. I ra në sy Nushit se sjellja e babës
 përpara tij përgjithësisht kish ndryshue. Kur vinte në mbramje
@@ -541,7 +543,7 @@ te shikojshin, tash nguleshin diku n'anë, pranë teje, dhe vetëm si
 përshqit kanjëherë të shikojshin për të ba me ditë se flet me ty ose
 asht tue ndëgjue bisedën e jote. Nushin e çuditi ajo gja, tue ditë
 se motrat e martueme zakonisht janë ma të çeluna dhe ma të
-singerta kundrejt vllaznve. Dhe kur doli nga shtëpia e saj, nuk
+sinqerta kundrejt vllaznve. Dhe kur doli nga shtëpia e saj, nuk
 doli disi i kënaqun dhe i dukej se nuk asht pamë me motrën Age.
 "Ndoshta topitet" - tha Nushi në vetvete. Në mbramje t'asaj dite,
 Nushi tha në shtëpi se kish qenë të Agia dhe se kish ndryshue
@@ -558,7 +560,7 @@ asht Agia vetëm.
 
 — Kur atij, burrit të saj, s'i vjen keq, çka po ke ti?
 
-— Ti, si shifet, s'i ke mend në kry! A s'po ndëgjon se cka flet
+— Ti, si shifet, s'i ke mend në kry! A s'po ndëgjon se çka flet
 bota, a? - tha baba tue çue zanin dhe shikoi Nushin.
 
 Nushi nuk bani za fare, por i ndëgjoi këto fjalë gati pa marrë
@@ -570,10 +572,10 @@ E në shpi t'Ages sundon harmonia e plotë. Kushdo që thotë
 se aty ka shamat, grindje ose dicka tjetër - dajak si thonë - rren,
 kushdo që ta thotë rren. Aty mbretnon harmonia e plotë. Qe për
 shembull: burri vjen nga pazari, prej pune, në mbramje, e Agia
-ban çmos që ai ta giejë shtëpin sa ma komode, për tu shplodhë
+ban çmos që ai ta gjejë shtëpin sa ma komode, për tu shplodhë
 nga puna e ditës; mandej e pyesin shoqi-shoqin si e kaluen ditën
 a u mërziten, çka ka të re. Agia të gjitha këto komplimente
-familjare i bante disi ftoftë, por singerisht. E burri, në përkëdheljet
+familjare i bante disi ftoftë, por sinqerisht. E burri, në përkëdheljet
 e ndjenjave, shkonte edhe ma larg; iu avitte Ages, kapte për faqe
 me dy gishta, me ere të dhjamit dhe ashtu si kapen fëmitë e
 vegjël, ia ledhatonte flokët, ose qafën, e shikonte me sy admirues
@@ -582,7 +584,7 @@ reth mesit dhe, i kënaqun me lumnin familjare, ndezte cigaren,
 sillte poshtë e nalt nëpër dhomën e zjarrmit tue bame punë,
 ndëgjonte fjalët e burrit dhe u përgjigjte aty ku duhej.
 
-— At'i prue Luli të gjitha qe ke pase nevojë? - pyet burri tue çue gotën e rakis.
+— A t'i prue Luli të gjitha qe ke pase nevojë? - pyet burri tue çue gotën e rakis.
 
 — Po, - i pergjegjet Agia shkurt, - por ke harrue me i dhanë
 byberin, - vazhdon tue u kuqë lehtë në ftyre dhe sjell kryet n'anë
@@ -607,10 +609,10 @@ ndjesijë, diku thellë e mfshehun, nga e cila Ages, zojës së
 ndershme të filanit e të filanit, i vjen ndoht. Por ndjesia e
 mfshehun ia pushton trupin e ri dhe ajo i thotë burrit:
 
-— Mos harro me ma cue nesër byberin edhe... - mendohet të
+— Mos harro me ma çue nesër byberin edhe... - mendohet të
 gjeje edhe diçka tjeter.
 
-— Po, tash ta çoj edhe mish të mirê, më tha kasapi se do të
+— Po, tash ta çoj edhe mish të mirë, më tha kasapi se do të
 prejnë nesër. Te tjerat i ke?
 
 — Po...
@@ -637,7 +639,7 @@ buzëqesh, nsa në ftyre ishte e zbeme.
 — Ah, po, me dhemb kryet. Jo, parë me dhimbte, tash nuk më
 dhemb, - u ngatrronte Agia në gjuhë e në ftyrë ndrronte ngjyrë
 nën shikimin depërtues të vllaut. Shuplaka e friges nisi t'ia
-shterngojë zemen, gjujt iu këputen dhe qe tue ranë, mos t'ishte
+shtrëngojë zemrën, gjujt iu këputen dhe qe tue ranë, mos t'ishte
 dora e Nushit për ta mbajtun.
 
 — Ti Age, tash nuk duhesh me punue shum - tha Nushi tue sjell
@@ -654,10 +656,10 @@ parë dhe mandej për barrën nuk asht mirë me punue shum.
 Agia e shikoi të vllan drejt në sy dhe kuptoi se ai nuk mendonte
 asgja tjetër veç asaj q'i tha, nsa Nushi u gëzue kur pa se i kish
 shkue për dore me e genjye motrën, se ai nuk dyshon asgja ndër
-marrdhaniet e saj me Lulin. Mbasandej; Nushi filloi të flasi mbi
+marrdhaniet e saj me Lulin. Mbasandej, Nushi filloi të flasi mbi
 gjanat e përditshme, tue pyet motrën për këtë dhe atë me gaz dhe
 tue u tregue në qejf, dhe e motra e pyette për baben, nanën,
-vllaznit e motrat, giithnjë tue u qeshë.
+vllaznit e motrat, gjithnjë tue u qeshë.
 
 Nushi doli nga e motra me një buzëqeshje. Edhe, për çudi,
 ishte në qejf. Edhe ai vete u çuditte për kët gëzim dhe qetsi që
@@ -681,5 +683,5 @@ me veti. Une jam pa moral, koncepti i em menduer - mos me
 than ideologjik - nuk pajtohet me moralin, të cilin mue kjo
 shoqni ma imponon. Por unë e marr moralin e saj për sy e faqe,
 nsa mbrapa ia loz lojën kur të due. Keshtu si unë ia lozin lojën
-shoqnis me qinda veta nê vendin tonë. Prandaj, shoqni, po deshe
-të mos lozin nẽ kurriz tand, ndrro format. Higi bragashat.
+shoqnis me qinda veta në vendin tonë. Prandaj, shoqni, po deshe
+të mos lozin në kurriz tand, ndrro format. Hiqi bragashat.

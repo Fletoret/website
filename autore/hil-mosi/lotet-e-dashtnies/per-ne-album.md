@@ -15,7 +15,6 @@ T'a ndrroft n'nji t'âmbël gjum.
 
 T'dishroj, q'edhe e vshtira
 Prej tejet u mergoft,
-
 E sa dishron të mira
 I Nalti ty t'i çoft.
 
@@ -29,7 +28,7 @@ Do t'jen gjithmon n'ket jet.
 Ktu n'kta rrështa ke me gjetun
 Dashuniën qi kam për ty;
 Gjall gjithmon kta kan me mbetun,
-Kur t'i kndosh, do t'm'kesh nër sy—
+Kur t'i kndosh, do t'm'kesh nër sy —
 
 ***
 

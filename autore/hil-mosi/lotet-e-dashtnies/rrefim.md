@@ -20,4 +20,4 @@ Krejt si t'ishe nji i huj.
 Po mâ mir të mbes i vetem!
 Po, le t'vuj, s'ashtu jam msu!
 Mjaft qi gzushem un do t'mbetem,
-Se dashtniën e paç s'i kru.
+Se dashtniën e paç s'i kru —

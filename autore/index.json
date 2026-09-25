@@ -32,7 +32,8 @@
         "datePublished": "1936",
         "thumbnail": "/images/covers/vargjet-e-lira.avif",
         "abstract": "Këto janë poezitë e Migjenit, në themelin e të cilave qëndron aspirata për një botë të re, ku njerëzit e thjeshtë e të varfër të jetojnë të lirë, të lumtur, me dinjitet njerëzor dhe pa frikë për të nesërmen.",
-        "publishedFletoret": true
+        "publishedFletoret": true,
+        "epub": true
       },
       {
         "@context": "https://schema.org",
@@ -43,7 +44,8 @@
         "datePublished": "1936",
         "thumbnail": "/images/covers/novelat-e-qytetit-te-veriut.avif",
         "abstract": "Heronjtë e veprave të tij më të mira ishin të papunë që rropateshin gjithë ditën për të nxjerrë kafshatën e gojës, malësorë që qëndronin në zgrip të jetës, të mjerë që nuk u kishte ecur në jetë dhe ishin flakur jashtë shoqërisë.",
-        "publishedFletoret": true
+        "publishedFletoret": true,
+        "epub": true
       }
     ]
   },
@@ -59,13 +61,15 @@
         "@type": "Book",
         "name": "Doktor Gjilpëra",
         "folder": "konica/doktor-gjilpera",
+        "subtitle": "zbulon rrënjët e dramës së Mamurrasit",
         "genre": "albanian poetry classics",
         "startDate": "1924",
         "endDate": "1924",
         "datePublished": "1924",
         "thumbnail": "/images/covers/doktor-gjilpera.avif",
         "abstract": "Vepra më e rëndësishme letrare e Konicës, një prozë satirike që rrëfen historinë e një doktori të ri shqiptari, i cili prej idealizmit dhe patriotizmit, vendos të kthehet në atdhe pas studimeve të gjata jashtë vendit. Ai përballon realitetin e rëndë të shoqërisë shqiptare, ku korrupsioni, analfabetizmi dhe tradita të vjetra mbizotërojnë, duke e vendosur atë në një konflikt të brendshëm dhe të jashtëm me strukturat sociale dhe politike.",
-        "publishedFletoret": true
+        "publishedFletoret": true,
+        "epub": true
       },
       {
         "@context": "https://schema.org",
@@ -78,7 +82,8 @@
         "datePublished": "1938",
         "thumbnail": "/images/covers/ese-faik-konica.avif",
         "abstract": "Përmbledhje esesh nga Faik Konica. Një pjesë e tyre u publikuan në revistën Albania.",
-        "publishedFletoret": true
+        "publishedFletoret": true,
+        "epub": true
       }
     ]
   },
@@ -98,7 +103,8 @@
         "datePublished": "1913",
         "abstract": "Mrizi i Zanave është një përmbledhje lirike, kryesisht me poezi atdhetare. Fishta i këndon dashurisë për atdheun, duke shprehur krenari, por edhe ankth e dëshpërim për fatin e tij. Vepra thekson rëndësinë e punës dhe veprës për të kapërcyer harresën, duke nënvizuar se puna e njeriut vazhdon edhe pas vdekjes. Ajo shfaq shpesh një frymë kryengritëse dhe patriotike, duke vënë në qendër gjuhën shqipe si simbol të identitetit kombëtar.",
         "thumbnail": "/images/covers/mrizi-i-zanave.avif",
-        "publishedFletoret": true
+        "publishedFletoret": true,
+        "epub": true
       },
       {
         "@context": "https://schema.org",
@@ -107,9 +113,10 @@
         "folder": "fishta/gomari-i-babatasit",
         "genre": "dramatic poem",
         "datePublished": "1923",
-        "abstract": "Satirë politike për demagogët qe udhëheqin vendin.",
+        "abstract": "Satirë politike për demagogët që udhëheqin vendin.",
         "thumbnail": "/images/covers/gomari-i-babatasit.avif",
-        "publishedFletoret": true
+        "publishedFletoret": true,
+        "epub": true
       },
       {
         "@context": "https://schema.org",
@@ -120,7 +127,8 @@
         "datePublished": "1937",
         "thumbnail": "/images/covers/lahuta-e-malcis.avif",
         "abstract": "Eposi kombëtar shqiptar, që Fishta e shkroi gjatë më shumë se tri dekadash dhe e botoi të plotë në vitin 1937. Në tridhjetë këngë e rreth 17 mijë vargje, i ngjizur mbi këngët e kreshnikëve të Veriut, poema ndjek qëndresën e malësorëve kundër pushtuesve, nga luftërat në kufi me Malin e Zi, përmes Kongresit të Berlinit dhe Lidhjes së Prizrenit, deri te shpallja e pavarësisë. Për përmasat dhe frymën e saj heroike, shpesh është quajtur “Iliada shqiptare”.",
-        "publishedFletoret": true
+        "publishedFletoret": true,
+        "epub": true
       }
     ]
   },
@@ -140,7 +148,9 @@
         "datePublished": "1933",
         "thumbnail": "/images/covers/kanuni.avif",
         "abstract": "Kodi i etikës i një strukture shoqërore pa shtet – besa, nderi, gjaku, hakmarrja (gjakmarrja), buka dhe miku. Ligjësitë zakonore të Shqipërisë Veriore.",
-        "publishedFletoret": true
+        "publishedFletoret": true,
+        "epub": true,
+        "compiledBy": "gjecovi"
       }
     ]
   },
@@ -176,7 +186,9 @@
         "datePublished": "1899",
         "thumbnail": "/images/covers/shqiperia-sami-frasheri-cover.avif",
         "abstract": "Mendime për shpëtimt të mëmëdheut nga reziket që e kanë rethuarë.",
-        "publishedFletoret": true
+        "publishedFletoret": true,
+        "epub": true,
+        "subtitle": "Mendime për shpëtimt të mëmëdheut nga reziket që e kanë rethuarë"
       },
       {
         "@context": "https://schema.org",
@@ -187,7 +199,9 @@
         "datePublished": "1878",
         "thumbnail": "/images/covers/sami-frasheri-proverba.avif",
         "abstract": "Fjalë të urta, thënje filozofike. Si fillim u botua me emrin Emsâl në 4 vëllime.",
-        "publishedFletoret": true
+        "publishedFletoret": true,
+        "subtitle": "Fjalë të urta, thënje filozofike",
+        "epub": true
       }
     ]
   },
@@ -223,7 +237,8 @@
         "datePublished": "1886",
         "thumbnail": "/images/covers/bageti-e-bujqesi.avif",
         "abstract": "Poemë baritore lirike, në te cilën Naim Frashëri përshkruan fshatin ku ishte lindur e rritur. Një përshkrim idilik, ku asgjë nuk e cënon euforinë mistike dhe të gjitha konfliktet gjejnë pajtim.",
-        "publishedFletoret": true
+        "publishedFletoret": true,
+        "epub": true
       }
     ]
   },
@@ -259,7 +274,8 @@
         "datePublished": "1948",
         "thumbnail": "/images/covers/albumi-fan-noli.avif",
         "abstract": "Albumi është një vëllim me poezi shkruar nga intelektuali dhe shtetari i shquar shqiptar, Fan Noli. Kjo antologji paraqet aftësinë lirike të Nolit dhe përkushtimin e tij të thellë për nacionalizmin shqiptar.",
-        "publishedFletoret": true
+        "publishedFletoret": true,
+        "epub": true
       },
       {
         "@context": "https://schema.org",
@@ -302,7 +318,8 @@
         "datePublished": "1636",
         "thumbnail": "/images/covers/frang-bardhi-skenderbeu.avif",
         "abstract": "Autori e shkroi veprën në 15 ditë, në zemërim, për të hedhur poshtë shkrimet e një peshkopi boshnjak që pretendonte se Skënderbeu nuk ishte nga Shqipëria.",
-        "publishedFletoret": true
+        "publishedFletoret": true,
+        "epub": true
       }
     ]
   },
@@ -338,7 +355,8 @@
         "datePublished": "1917",
         "thumbnail": "/images/covers/juvenilja-ndre-mjeda.avif",
         "abstract": "Poezi të zgjedhura nga Ndre Mjeda.",
-        "publishedFletoret": true
+        "publishedFletoret": true,
+        "epub": true
       },
       {
         "@context": "https://schema.org",
@@ -349,7 +367,8 @@
         "datePublished": "1901-1911",
         "thumbnail": "/images/covers/lirija-ndre-mjeda.avif",
         "abstract": "Poezi Ndre Mjeda.",
-        "publishedFletoret": true
+        "publishedFletoret": true,
+        "epub": true
       }
     ]
   },
@@ -387,7 +406,8 @@
         "datePublished": "1936",
         "thumbnail": "/images/covers/sikur-te-isha-djale.avif",
         "abstract": "Botuar për herë të parë më 1936, romani rrëfen në formë ditari jetën e Dijes, një të reje që kërkon të gjejë vetveten brenda kufizimeve të shoqërisë patriarkale shqiptare. Konsiderohet një nga veprat më të njohura e më të ribotuara të letërsisë shqipe të shekullit 20.",
-        "publishedFletoret": true
+        "publishedFletoret": true,
+        "epub": true
       }
     ]
   },
@@ -423,7 +443,9 @@
         "datePublished": "1926",
         "thumbnail": "/images/covers/vjersha.avif",
         "abstract": "Tridhjetë e pesë vjersha shqip, mbledhur e botuar në Milano nga i nipi, një çerek shekulli pas vdekjes së poetit. Vargje malli e humbjeje — për një dashuri që iku përtej detit, për Arbërinë matanë ujërave, për një rini të shuar.",
-        "publishedFletoret": true
+        "publishedFletoret": true,
+        "subtitle": "Poezi Arbëreshe",
+        "epub": true
       }
     ]
   },
@@ -444,7 +466,8 @@
         "datePublished": "1925",
         "thumbnail": "/images/covers/kryengritja-e-shqiptareve.avif",
         "abstract": "Kujtimet e Gramenos nga vitet e çetërisë kundër ushtrive turke e greke, krah më krah me Çerçiz Topullin. Rrëfim historik i kryengritjeve shqiptare të fillimit të shekullit XX, i shkruar si dëshmi për trimërinë e luftëtarëve dhe shembull për brezat që vijnë.",
-        "publishedFletoret": true
+        "publishedFletoret": true,
+        "epub": true
       }
     ]
   },
@@ -480,7 +503,9 @@
         "datePublished": "1916",
         "thumbnail": "/images/covers/lotet-e-dashtnies.avif",
         "abstract": "Dyzet e shtatë vjersha dashtnore në gegnishten shkodrane, botuar me shpenzimet e vetë autorit në Shkodër. Vargje malli, xhelozie e humbjeje — dashuri të mbetuna përgjysmë, netë pa gjumë, rini që ikën — ndër to edhe gjashtëmbëdhjetë përkthime e përshtatje nga Gëte, Shileri, Hajne, Lesingu, Petëfi e Katuli. Në parathanie Mosi pyet veten nëse i kishte ardhur koha Shqipërisë për një libër të tillë.",
-        "publishedFletoret": true
+        "publishedFletoret": true,
+        "subtitle": "Vjersha dashtnore",
+        "epub": true
       }
     ]
   },
@@ -516,7 +541,8 @@
         "datePublished": "1910",
         "thumbnail": "/images/covers/agimi-i-gjytetniis.avif",
         "abstract": "Libër edukate qytetare për rininë shqiptare, i shkruem në gegnishten e veriut dhe i ndamë në paragrafë me pyetje e përgjigje, citate nga Aristoteli e Ciceroni. Gjeçovi flet për shoqninë e detyrat e njeriut ndaj shokëve, për vllaznimin, besimin e atdheun, atdhedashtninë, dhe për gjuhën shqipe si detyrë që i ka çdo shqiptar ndaj të parëve.",
-        "publishedFletoret": true
+        "publishedFletoret": true,
+        "epub": true
       }
     ]
   }

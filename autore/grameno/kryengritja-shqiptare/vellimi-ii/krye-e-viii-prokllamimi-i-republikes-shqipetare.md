@@ -17,7 +17,7 @@ sundojti ajy vetë Shqipërinë.
 Besonte që largim' i tij, prej Shqipërisë, do t'i beheshe një shkoll'
 e naltë, për pritmjen të atdheut, se më nj'anë do të argaseshe në
 politikë, kur të shëkonte burrat e rahur e të pjekur qysh dinë të
-suudojnë shtetin, edhe më tjatër anë do të munte të piqeshe ca më mirë
+sundojnë shtetin, edhe më tjatër anë do të munte të piqeshe ca më mirë
 dyke njojtur cilët ishin shokët edhe bashkëpunonjësit e tij besnikë.
 
 Me të vërtejt, për Ahmet Zogun, ky largim u bë një shkollë e naltë, se
@@ -138,7 +138,7 @@ regulluar një shërbim qeverimi të hëpërhëshme.
 
 Me 25 Dhjetor ryn vetë Ahmet Zogu, si Kumandant i Përgjithëshmë i
 Operacionit me gradon Kolonel, edhe u prit me enthuziazmë të madhe nga
-ana e popudlit. Lajmeja e rikthimit, në Shqipëri, të Ahmet Zogut u
+ana e popullit. Lajmeja e rikthimit, në Shqipëri, të Ahmet Zogut u
 prit me gëzim të math nga gjithë populli, i cili i mërzitur nga një
 qeveri ilegale ishte tepër dëshpëruar, prandaj rikthimi i Ahmet Zogut
 e ngushëllojti dyke i mbushur zemrën plot shpresë për një pritmje të

@@ -16,7 +16,7 @@ Sa jetën po shikoj pa asnjë hirë?
 Oh, këto ditë i shkova me hidhërim,
 Se s't'i pashë të qeshur ata sy
 Që shpirtin mua ma mbushnin me ngadhënjim
-Dhe ma rrihnin me mal zemrën në gji.
+Dhe ma rrihnin me mall zemrën në gji.
 
 Dhe ballin e qëndisur rrezesh dielli
 Më te dritarja jote nuk e pashë,
@@ -39,7 +39,7 @@ Era trupin ma rrihte bot e bot,
 Jeta qante mbi mua me zymti.
 
 Mishtë e trupit si dylli mua m’u shkri,
-Damari i trimërisë krejt mu shua,
+Damari i trimërisë krejt m’u shua,
 Dhe këshilla më jepte çdo njeri
 E ndizte ferrin q'ish brënda te mua.
 

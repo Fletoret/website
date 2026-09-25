@@ -41,7 +41,7 @@ Dy lule lidh n'dashtnië! »
 T'dy lulet u bashkuene,
 Nji tub ato u bâne;
 N'dashtnië kto u betuene
-E besen nermjet dhâne—
+E besen nermjet dhâne —
 
 Kto kurr nuk kan m'u damun,
 S'i thehet kurr lidhnia,

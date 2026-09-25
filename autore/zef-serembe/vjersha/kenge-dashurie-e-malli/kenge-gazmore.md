@@ -28,8 +28,8 @@ I veshur si një plak,
 Me trupin si në lak,
 Me shpirtin në vajtim.
 
-Po, ja, me bje në sytë
-Një vashës shumë e bukur,
+Po, ja, më bje në sytë
+Një vashëz shumë e bukur,
 Si trëndafil e skuqur,
 Edhe afër Malli i ri.
 

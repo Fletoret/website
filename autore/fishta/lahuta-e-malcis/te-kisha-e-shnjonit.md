@@ -124,6 +124,7 @@ Dér dikû na e ká pelqye,
 S'na ká lânë aj krejt m'u thye:
 Na ka lânë lirín jetike,
 Na i ka lânun armët besnike,
+Per me mprojtë kto malet t'ona
 Per me ruejtun Fé e zakona,
 Per me mbajtë kanú'n e t'parve
 Me ruejtë erzin e Shqyptarve:

@@ -64,7 +64,7 @@ ata, që bëjnë fjalë për prindin e Skënderbeut, e quajnë atë Jan
 Kastriot. Shiko për këtë Analet turke, venecjane, të Raguzës, Marin
 Becihemin, Jan Nikolla Doglionin, i cili bën veçanërisht fjalë për të
 dy, edhe për Juanisin e Tomkos edhe për Jan Kastriotin, prindin e
-Skënderbeut, Jan Korol Saracenin, (179) veprën e Jakov Gordonit (180)
+Skënderbeut, Jan Karol Saracenin, (179) veprën e Jakov Gordonit (180)
 të shoqërisë së Jezuitëvet, Cezar Kampanën (181) dhe shkrimtarë të
 tjerë shumë të kujdesshëm. Këtyre mund t'u shtojmë edhe vetë Barletin,
 i cili flet kështu në librin e parë, kur prek origjinën e Skënderbeut:
@@ -95,7 +95,7 @@ këtu sheshit e pa dyshim gënjeshtar dhe përrallaxhi. Por nga kjo pjesë
 e Barletit del gjithashtu qartë se në kohën e Janit, babës së
 Skënderbeut, kanë pasë jetuar shumë Kastriotë, sepse për ndryshe, po
 të mos kishin ekzistuar ata në këtë botë, s'mund të thuhej se «ai ua
-kaloi atyre nga virtutet»,
+kaloi atyre nga virtutet».
 
 Pastaj me emrin Ematia (182), nga e cila Barleti thotë se kanë dalë
 Kastriotët, shënohet këtu Maqedhonia. Kjo del nga vetë fjalët e
@@ -120,9 +120,9 @@ gjyshër e nga një vënd i tillë, siç është Epiri apo Shqipëria, e cila
 dikur quhej edhe Maqedhoni, në të cilën kanë lindur e janë shquar aqë
 e aqë princër nga më fisnikët e nga më të pamposhturit, aqë prijës e
 perandorë kryetrima të palodhur, që, duke luftuar me vrullin më të
-math, nënshtruar gjithë rruzullin e dheut. Këtyre pastaj ua zunë
+math, nënshtruan gjithë rruzullin e dheut. Këtyre pastaj ua zunë
 vëndin (184) me radhë paraardhësit e tu dhe ti vetë, o princ i
-pathyeshëm, i dërguar nga Zoti i thuaj i zbritur nga qielli, ti që po
+pathyeshëm, i dërguar nga Zoti e thuaj i zbritur nga qielli, ti që po
 bën kaq vepra të ndritura e gati të pavdekshme për çështjen e
 Krishterimit».
 
@@ -145,15 +145,15 @@ për t'u lënë në duart e armikut? Me zor, sigurisht, mund të mohoni,
 (në rast se nuk ja bëj tepër qefin vehtës) se ajo është zemra e fuqisë
 së Arbënit, e ndërtuar nga të parët tanë dhe e vetmja për të
 përballuar çfarëdo kondita paqeje e lufte». — Por që Kastriotët kanë
-rrjedhur prej Maqedhonie, mund të nxirret nga «Kuitimet» e Piut të II.
-— (186). Ky thotë se Skënderbeu, në një letër që i dërgonte princit të
+rrjedhur prej Maqedhonie, mund të nxirret nga «Kujtimet» e Piut të II
+(186). Ky thotë se Skënderbeu, në një letër që i dërgonte princit të
 Tarantos Jan Antonit, (187) i është përgjegjur kështu: «Në thënç se
 Shqipëria është një pjesë e Maqedhonisë, atëherë ti i pranon të parët
 tanë shumë më fisnikë, sepse ata, nën Aleksandrin, u futën gjer në
 Indi, duke i nënështruar gjithë fiset që u dilnin përpara me lehtësinë
 më të madhe. Prej atyre kanë zbritur këta njerëz etj. gjer te
 Skënderbeu vetë.» Por jo vetëm kaqë; nga e njëjta pjesë del në të
-vërtetë fare shevshit se Skënderbeu ynë ka qënë, si nga atdheu si nga
+vërtetë fare sheshit se Skënderbeu ynë ka qënë, si nga atdheu si nga
 origjina, Epirotas apo Shqiptar. Sepse, (me gjithëqë edhe nga fjalët e
 tij, siç përmëndëm më sipër, duket se ka lindur në Krujë, në qytetin
 më fisnik e më të fortë të Epirit), princi i lartpërmëndur i Tarantos,
@@ -162,10 +162,10 @@ ai flet kështu: «Jan Antoni, princ i Tarantos, i dërgon përshëndetje
 Gjergj Shqiptarit».
 
 Princit tarantin mund t'i shtojmë Stefanin (188), mbretin e fundit të
-mbretërisë së Boshnjës, për të cilin Abat Marto Orbini shkruan në
+mbretërisë së Boshnjës, për të cilin Abat Mavro Orbini shkruan në
 gjuhën italiane sa vijon: «Stefani, mbreti i fundit i Boshnjës, dërgoi
 delegatët e tij tek Pius i II. Njeri prej këtyre foli kështu:
-«Stefani, mbreti i fundit i Boshjës, bir [^46] i Juaj, (o atë i
+«Stefani, mbreti i fundit i Boshnjës, bir [^46] i Juaj, (o atë i
 lumnueshëm) na dërgoi pranë jush, që t'Ju parashtrojmë në emër të tij
 sa vijon: «Kam lajme të sigurta», thotë ai, «se Murati kësaj vere ka
 për të më sulmuar dhe se, për t'ja arritur kësaj, ka pregatitur
@@ -177,7 +177,7 @@ Stefan vjen menjëherë vetë Abat Orbini, i cili, duke ndjekur Barletin,
 shkruan për Gjergj Dhespotin, që kemi përmëndur më lart, dhe për
 Skënderbeun si vijon: «Mbassi Gjergji s'ua vinte aspak veshin këtyre
 gjërave e mbasi, nga ana tjetër, Skënderbeu e shikonte kështu se
-s'kishte shpresë tjetër përveç armëvet, me gjithqë nuk i pëlgente dhe
+s'kishte shpresë tjetër përveç armëvet, me gjithqë nuk i pëlqente dhe
 i dukej një punë plot rreziqe të fillonin që këndej vuajtjet e luftës,
 sepse fuqitë e freskëta të tij i ruante kundër ushtërisë mbretërore
 [^47], me gjithë këto e quajti për nder të provonte e ta çante rrugën
@@ -199,7 +199,7 @@ luftën e Kalabrisë nën trimin Robert Orsinin, e kishte zakon të më
 tregojë se e kish parë këtë Shqiptar, i cili me gjashtëqind kalorës
 ishte hedhur në Apuli në emër të mbretit Ferdinand, të luftojë
 krahëçveshur, herë me heshtë, herë me shpatë të përdredhur, të plagosë
-e të vrasë në beteje aqë shumë njerëz, sa as gjithë skuadra që kishte
+e të vrasë në betejë aqë shumë njerëz, sa as gjithë skuadra që kishte
 pas, duke i kallur tmerin armikut. Ky, si e shtiu përsëri në dorë me
 përpjekjet e veta principatën e Shqipërisë, e mbrojti atë sa ishte
 gjallë kundër Turqvet me shumë pak njerëz, duke treguar kështu një
@@ -248,12 +248,12 @@ Skënderbeun: «U shqua në kohën e tij edhe Gjergj Skënderbeu, Shqiptar.
 Ky, si iku nga sarajet e Turqut, e zuri përsëri Shqipërinë, shtetin e
 tij atëror, dhe e mbrojti atë fatbardhësisht me trimërinë më të madhe
 kundër fuqisë turke, duke i dhënë mbretit [^49] goditje të atilla, që
-shpesh e shpunë më dëshpërimin më ekstrem». — Këto thotë ai. Por
+shpesh e shpunë në dëshpërimin më ekstrem». — Këto thotë ai. Por
 s'mund të lëmë pa përmendur këtu Jan Baptista Pignën, i cili në librat
 e historisë së princërvet «Atestinë» (192), pikërisht në librin e
 tetë, shkruan kështu: «Por në një gjëndje kaqë kritike zbriti në Bari
 (Barolum), në kohën e duhur, Gjergj Kastrioti, i mbiquajtur Skënderbe.
-Ky, mbasi kishte bërë armë pushim për një vit (193) me Turkun, armikun
+Ky, mbasi kishte bërë armëpushim për një vit (193) me Turkun, armikun
 e përhershëm të tij, me nxitjen e Pontifikut [^50] dhe të Insubrinit
 (194), nxori në kontinent disa legjione dhe 700 (shtatëqind) kalorës
 epirotas». Dhe pak më poshtë ai vazhdon: «Dalmatët po i ndrydhte
@@ -279,9 +279,9 @@ ilirike (sllave) dhe do të thotë Shqiptar); Kardinalin Petro Bembin
 (199), burrë i madhërishëm, i cili, në librat e historisë së Venetisë,
 e quan Epirotas; Tuberonin dalmatas (200) dhe Tuberonin raguzin (?);
 të dy abatë, të cilët nuk dyshuan ta quajnë Shqiptar. Po lë gjithashtu
-menjëanë, që të mos mërziteni, shkrimtarë të tjerë të panumurtë e të
-shquar, sidomos, italianë, por edhe poetë si Jan Babtista Marinin
-(201) gruan fisnike Margarita Sarroki, (202), e cila ka hartuar me
+mënjanë, që të mos mërziteni, shkrimtarë të tjerë të panumurtë e të
+shquar, sidomos, italianë, por edhe poetë si Jan Baptista Marinin
+(201), gruan fisnike Margarita Sarroki (202), e cila ka hartuar me
 shumë mjeshtëri dhe e botoi një librëzë për lavdinë e Skënderbeut, ku
 e quan vazhdimisht kryetrimin tonë Shqiptar dhe Jan Jakov Ricin (203).
 Ky, në librin e tij të titulluar «Argëtimet e Parnasit, rimë e prozë
@@ -291,7 +291,7 @@ Skënderbeun, në librin e pestë, num. 649:
 > *Beteja e Herkulit dhe e Skënderbeut,* [^54]  
 > «Por me gëzim të math e me furi,  
 > Skënderi Epirotas, i pathyëshëm,  
-? Sulmon kreshnik n'betejë e del gadhnyëshëm,  
+> Sulmon kreshnik n'betejë e del gadhnyëshëm,  
 > Shpirtmath, i vrullëshëm dhe plot fuqi». —  
 
 Dhe më poshtë:  
@@ -322,20 +322,20 @@ origjinën e Skënderbeut, do të sjell këtu disa auktorë të shquar e nga
 çdo anë më të mbëdhenj, nga dëshmitë e të cilëvet lëxonjësi ynë me
 vullnet të mirë do të mundet fare lehtë dhe pa dëmtuar aspak të
 vërtetën ta përcaktojë mirë gjithë këtë çështje. Le të jetë i pari
-ndër këta Gjergj Baltoldi, (205) kryeoiqar [^55] prej Prage i cili, me
+ndër këta Gjergj Bartoldi (205), kryeoiqar [^55] prej Prage, i cili, me
 shumë kujdes dhe me zellin më të madh ka prekur shumë çështje të
 Orientit. Ky auktor, pra, ndërsa po shkruan në hyrje të veprëzës së
 tij për Skënderbenë, flet kështu për prindin e këtij Jan: «Baba i
 Skënderbeut, Jan Kastrioti, ka qenë princ i shkëlqyer i Epirit dhe i
 Shqipërisë. Ky e ka origjinën e tij nga fisi bujar dhe mbretëror i
-mbretit të Epirit Piro dhe është zot i shumë qytetve të Epirit dhe të
+mbretit të Epirit Piro dhe është zot i shumë qyteteve të Epirit dhe të
 krahinave të tjera, ndër të cilat Kruja ka qenë veçanërisht e dalluar
 për fuqinë dhe qëndresën e saj». — Këto thotë Bartoldi, burrë me
 rëndësi shumë të madhe. Le të shohë tani Tomku nëse prindi i
 Skënderbeut Jan rrjedh nga familja e Margnaviçëvet apo nga e
 Kastriotëvet, nga Vukashini apo nga kryetrimi ynë Pirro, mbret i
 Epirotëvet. Po këtë vlerësim të rëndësishëm të Bartoldit do ta gjesh
-fjalë për fjalë në Analet turke dhe tek interpretuesi i Kolkokondilit.
+fjalë për fjalë në Analet turke dhe tek interpretuesi i Kalkokondilit.
 
 Pas këtyre shtoj edhe Jan Tarkognatin (206), i cili, në pjesën e dytë
 të librit të 17-të të: «Historitë e botës», kur shkruan për veprat e
@@ -354,7 +354,7 @@ apo Shqiptar ose Epirotas.
 Por le të dëgjojmë së treti, nëse ju pëlqen, dëshminë e shënuar të
 vetë Skënderbeut, i cili, në përgjigjen që i bën princit të Tarantos
 Jan Antonit, i shkruan kështu për origjinën e fisit të vet, — sipas
-kujtimevet të Piut të II: — «Pasaj ti e përbuz fisin tonë dhe
+kujtimevet të Piut të II: — «Pastaj ti e përbuz fisin tonë dhe
 Shqiptarët i quan bagëti. Sipas zakonit që ke, ti flet me përbuzje e
 duket se nuk e njeh origjinën e fisit tonë. Të parët tanë kanë qenë
 Epirotas, nga të cilët ka zbritur ai Pirroja i famshëm, sulmin e të
@@ -389,7 +389,7 @@ mija, kundër të varurvet të mi je sjellë si i xhindosur dhe luftës ja
 fillove para se ta shpallësh. Ti thua se je një mbret kryetrim për
 fenë e krishterë, por ja që tani po ndjek ata, që me plot të drejtë
 quhen të parët e të krishterëve. Kundër Frëngjvet e ktheve shpatën, të
-cilëvet u përket mbretëria e Siqelisë (208.) Ke shpresuar, ndoshta, se
+cilëvet u përket mbretëria e Siqelisë (208). Ke shpresuar, ndoshta, se
 do të luftosh kundër Turqvet të çburrëruar, apo kundër grekërvet të
 paaftë për luftë, që je mësuar t'i vësh në ikje e t'u biesh mbas
 shpine. Të tjerë burra do të gjesh këtu. Sadoqë tmerrohen, kur të
@@ -572,11 +572,11 @@ Analet, pra, shumë të vjetra të këtyre, ndërsa bëjnë fjalë për një
 farë mbreti të vogël apo dukë, i cili kishte vendosur të sulmonte
 Epirin, [^67] japin edhe këto informata në gjuhën italiane, që unë, si
 zakonisht, po i parashtroj këtu fjalë për fjalë, me qëllim që të mos
-dyshohet se u kam bërë ndonjë ndryshim. «. . .Pastaj u kthye pranë
+dyshohet se u kam bërë ndonjë ndryshim. «… Pastaj u kthye pranë
 ushtërisë, në dëm të Shqiptarëvet. Por mbasi mori vesh pregatitjet që
 bënin Turqit nga brënda, dhe Jan Kastrioti, Zoti i Krujës, Familja e
 të cilit ka dalë nga Kastrati, një katund në juridiksionin e Asit në
-Shqipëri, pak larg lumit Drin, . . . etj.». Dhe në buzë të fletës, ku
+Shqipëri, pak larg lumit Drin, … etj.». Dhe në buzë të fletës, ku
 ne i lëxojmë këto fjalë, është ky shënim: «Nga pat origjinën e saj
 familja e Kastriotëvet».
 
@@ -603,7 +603,7 @@ denjë i lavdisë dhe trimërisë stërgjyshore.
 
 Për këtë familje unë nuk pata mundësi të gjurmoj tani për tani
 fillimin dhe vargun e origjinës së saj më të vjetër; nuk do të
-mërzitem ta bëj në të ardhmen. (222). Me gjithë këtë nuk e gjej pa
+mërzitem ta bëj në të ardhmen (222). Me gjithë këtë nuk e gjej pa
 vënd që të bëj këtu vetëm një vërejtje, d.m.th. se Jani, prindi i
 Skënderbeut tonë, quhet prej disave Iban, princ shumë i fuqishëm i
 Tribalëvet. Unë kam arësye të mos dyshoj për këtë, sepse vëndet, që
@@ -618,7 +618,7 @@ të dhënë krejtësisht pas zakonevet greke. Nuk ka gjithashtu dyshim se
 Abati Mavro Orbini, njeri i rrahur me vaj e me uthull, më mirë se
 kushdo tjetër, në punët e historisë dhe ndriçues, i palodhur i kombit
 të tij, [^72] do ta kishte shënuar edhe Skënderbeun tonë bashkë me
-Iriliket apo sllavët, kur përmënd duket dhe princët e shquar të fisit
+Ilirikët apo sllavët, kur përmënd dukët dhe princët e shquar të fisit
 ilirik apo sllav dhe prek përmbledhtas e me shumë kujdes veprat e
 tyre, po ta kishte gjykuar se kjo do të mund të ishte në harmoni me të
 vërtetën historike, së cilës ky auktor i është përmbajtur me ngulmin
@@ -631,7 +631,7 @@ Pastaj, në rast se ndryshimi i shënjavet apo diademavet tregon
 ndryshimin e një familjeje, atëhere edhe nga kjo pikë kyçe do të mund
 të konstatohet se Skënderbeu ynë nuk ka rrjedhur në asnjë mënyrë nga
 familja e Margnaviçëvet. Siç del qartë nga Barleti dhe nga privilegjet
-e Familjes imperiale të Flav Engjellit (223), ky princ shumë i
+e Familjes imperiale të Flav Engjëllit (223), ky princ shumë i
 fuqishëm përdorte një *shqipe dykrenore mbi një fushë të kuqe*. Këtë
 stemë Skënderbeu e pat prej të parëvet dhe stërgjyshëvet të tij.
 Familja e Margnaviçëvet, përkundrazi, ka patur shumë pak shënja të
@@ -672,11 +672,11 @@ paqëndrueshmërinë dhe mëndjelehtësinë e këtij kundërshtari. Sepse ky,
 megjithëqë ka lindur në Dalmaci, në mbretërinë më fisnike të të gjithë
 kombit ilirik (227), në qytetin e shquar të Dalmacisë Sicencë, por nga
 një familje e panjohur, (sepse Tomku është aqë larg nga familja e
-Margnaviçëvet sa fundi i tokës nga pika më e lartë e qiellit [^74],
+Margnaviçëvet sa fundi i tokës nga pika më e lartë e qiellit)[^74],
 guxon, me pacipësinë më të madhe, të na shitet herë për Niseas, herë
 për Boshnjak, por kurrë për Dalmatas.
 
-Për në rast se ti, o Tomko, dëshiron madhërinë, skeprat, kurorat dhe
+Për në rast se ti, o Tomko, dëshiron madhërinë, skeptrat, kurorat dhe
 diademat perandorake, kujton se Dalmacia nuk do të të mbushë me
 mbretër e princër tepër të fuqishëm, me perandorë e monarkë të
 hyjnishëm të Romanëvet? Nëse kërkon palmat [^75] dhe triumfet prej
@@ -704,8 +704,6 @@ që s'puth në shkëlqimin e tyre, është futur në birucat e Boshnjakëvet
 — FUND —
 
 </center>
-
-# FOOTNOTES
 
 [^42]: D.m.th. nga mbretëria e t'et. — Sh. p.
 [^43]: Barleti, Lib. II faq. 55-56 (Edicioni i vit. 1537) Veç të

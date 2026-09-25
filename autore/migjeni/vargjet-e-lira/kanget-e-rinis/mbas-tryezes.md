@@ -4,7 +4,7 @@ author: Migjeni
 respectLineBreaks: true
 parent: Kangët e rinis
 grandparent: Vargjet e lira
-order: 8
+order: 14
 ---
 
 _Një grupit_
@@ -24,7 +24,7 @@ dhe na shtrëngon laku…
 serioze, t'urta, por ma shpesh të dyshueshme,
 me gjuhë të bukur, të zgjedhun, mbi ngjarje të ra flasim
 e prej një dëshirës pa mshirë të gjithë pëlsasim.
-Ngushllim! - se zonjusha na i din mirëi hallet,
+Ngushllim! - se zonjusha na i din mirë hallet,
 prandej aq me andje, bukur, kërcen vallet.
 Jonet muzikore derdhen, rrkaj derdhen,
 lëmojnë ata që në valle sjellen, në hare sjellen,

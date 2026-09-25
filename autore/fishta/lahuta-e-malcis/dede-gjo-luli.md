@@ -47,7 +47,7 @@ Edhè kshtu s'mûjm me durue.
 Pushken sod un i a kam vû,
 Mandej dalët si kjoftë gjikue.
 
-    Kshtû tha Deda, e si shterngue,
+  Kshtû tha Deda, e si shterngue,
 Veshë e mbathë kishte qillue,
 Njet «alltín» në flet t'sylahit
 Vên «mauzerren» mbi sup t'krahit,
@@ -66,7 +66,7 @@ Idhtë tue i bâ shkinat me kjá,
 Idhtë tue i bâ me fshâ turkinat,
 Kah n'dorë flakë u rrín «martinat».
 
-    Kúr janë kapë m'at Brigje t'Hotit:
+  Kúr janë kapë m'at Brigje t'Hotit:
 At herë «Shêjzat» tue prendue:
 Dedë Gjo' Luli, flakë barotit,
 Marash Ucit n'derë ká shkue,
@@ -113,8 +113,9 @@ Shtatë «mauxerre» e kjo «alltí»
 Qi kam n'brez, tha Dedë Gjo' Luli.
 Me aq pushkë, thom un, armët askjerit
 T'Rapshës u mirren, Marash Uci
-I a kthej Dedës. Kastrat, e 'i herit
-Po kumtoj Shkrel e Kelmend,
+I a kthej Dedës. Un me nji herit
+Po kumtoj Shkrel e Kastrat,
+Po çoj fjalë edhè n'Kelmend,
 Gjâs e gjindes me i dhanë shpat,
 N'qafa burrat me zanë vend.
 M'tani, djelm! se, me nihmë t'Zotit,
@@ -332,7 +333,7 @@ Si kulshedra bjen nder kneta.
 Lum per Tý, o i Lumi Zot,
 Se ç'kà krisun m'at Deçiq,
 Idhtë tue u grî turq, Grudë e Hot,
-M'pushkë, m'singija edhè me klli ç!
+M'pushkë, m'singija edhè me klliç!
 Kamë per kamë por me malcorë,
 M' Deçiq rrâ ká 'i djalë i rí:
 Qaj Hilë Mosi, pushken n'dorë,

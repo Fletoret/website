@@ -160,7 +160,7 @@ E per t' vûm punve kapak,
 Mêrr e mûshë edhè nji gotë,
 Edh' e shpikë e e bân zollotë.
 Mandej poçin ndrŷn n' frangí;
-Ndên kəmishin nen sergjí,
+Ndên kamishin nen sergjí,
 Mbasi llullen shkundë i a ká,
 Edhè shkon n' odë t' vet me rá.
 E, si lodhë qi kishte kênë,

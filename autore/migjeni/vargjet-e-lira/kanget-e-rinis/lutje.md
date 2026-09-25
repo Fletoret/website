@@ -4,7 +4,7 @@ author: Migjeni
 respectLineBreaks: true
 parent: Kangët e rinis
 grandparent: Vargjet e lira
-order: 7
+order: 13
 ---
 
 Të lutem, o perëndi,
@@ -23,7 +23,7 @@ për një simfoni
 të dëfrej në lumni
 t'u u përkundë n'ani
 të bukur t'andrrimeve
-të kaitër, ku të fantazmeve
+të kaltër, ku të fantazmeve
 buzët më tërheqin zjarrtë
 e më digjen syt e flaktë.
 

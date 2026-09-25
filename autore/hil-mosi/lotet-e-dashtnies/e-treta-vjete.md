@@ -9,12 +9,12 @@ order: 130
 Kjo âsht e treta vjet, qi un fejumun.
 Pa ty jam êmnin t'êm un tuj e lut;
 Kjo âsht e treta her, qi je tuj m'çumun
-Nji tub me lule, qi ti vet ke kput—
+Nji tub me lule, qi ti vet ke kput —
 
 E bota ne të dy nuk na lshon gojet,
 Tuj thân: «Kta t'dy si s'u martuene mâ?
 E na të dy shpesh her perqeshna soje,
-Se pse dashtnia darsem s'din me bâ!—
+Se pse dashtnia darsem s'din me bâ! —
 
 Ç'at ças qi t'dy u lidhme n'bes dashtnore,
 Na darsmen t'on t'perjetshme e patme kry,

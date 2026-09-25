@@ -8,7 +8,7 @@ grandparent: null
 order: 19
 ---
 
-Ëndërro. Njeri, sot ma Shumë se kurrë
+Ëndërro. Njeri, sot ma shumë se kurrë
 Vepro. E len prova t'prekshme
 
 Fol. E t'nihet zani deri n'skaje

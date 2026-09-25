@@ -26,7 +26,7 @@ me pare në dore.
 
 E Lukja e mirë, Lukja e mshirëplotë - se ajo ishte njëlloj
 hyjneshë - Lukja e dëshrueme me të vërtetë askujt nuk i thoshte
-jo. Vijshin studentat, jo me ndoj gellim të keq, vijshin vetëm me
+jo. Vijshin studentat, jo me ndoj qëllim të keq, vijshin vetëm me
 përcjellë ndoj shok i cili gjithashtu ishte student. Kur kryente
 punë me të parin, Lukja i thoshte tjetrit: sa lekë ke në xhep? -
 Katër. - Hajde, - i thoshte të dytit, të tretit e të katërtit me radhë
@@ -40,8 +40,8 @@ mos t'i shofi kush, dhe mandej shpejt nëpër derë fut brenda si
 plumb pushke. Lukja kanjiherë merrte poze serioze dhe u bertiste:
 
 — Pse keni ardhë? Ke kërkoni? Nuk asht këtu ai që kërkoni...
-Studentat hutoheshin, iu merrte fjala në gojë, shikojshin shoqi-
-shoqin, skuqeshin në ftyrë dhe niseshin të kthehen. Atëherë Lukja
+Studentat hutoheshin, iu merrte fjala në gojë, shikojshin shoqi-shoqin,
+skuqeshin në ftyrë dhe niseshin të kthehen. Atëherë Lukja
 plaste gazit, qeshej me gjithë zemër dhe i merrte për dore n'odë
 të saj. Kanjiherë ziheshej me ta, pse ndonjeni nga ata ia puthte
 krahun e zhveshun, e kapte ose e ledhatonte për ftyre, ashtu si ka
@@ -87,7 +87,7 @@ Reth emnit Luke, veçanërisht rreth trupit të saj, ishte krijue
 njëfare aureole (nimbusi) si rreth krenave të shejtënve. Aq sa
 ndonjenit i vinte dhe keq që e quejnë kurvë, dhe mundoheshin ta
 zbusin kuptimin e fjalës tue i thanë prostitutë, grue publike, grue
-problematike - me emna të cilät i kishin gjetë tue lexue libra.
+problematike - me emna të cilat i kishin gjetë tue lexue libra.
 Sidomos njenit, i cili nuk shiptonte kurr fjalë të ndyeta, i vinte
 keq ta quejshin Luken kurvë. Vetë ai le që s'e quente kurr, por
 edhe kur thoshte kush, atij i dhimbste veshi sikur gërdhishte kush
@@ -101,17 +101,17 @@ hatrin e saj.
 
 * * *
 
-Prodhon nana - tokë, prodhon krijesa me shpirt dhe pa shpirt,
+Prodhon nana-tokë, prodhon krijesa me shpirt dhe pa shpirt,
 prodhon dhe krijon si me miliona vjet dhe me sekonda, prodhon
 trajta të cilat ngrofen njena me tjetrën për me prodhue prap trajta
 të tjera e të reja për të vazhdue jetën. Dhe e njejtë asht: si dëshira
 e një krymbi dhe dëshira e njeriut. Me prodhue. Vetëm se krymbi
 s'e din se prodhon, s'e ka ndërgjegjen e prodhimit, e njeriu po, e
 din, e kupton, e ndjen bashkë me energjitë që treten, të cilat duhet
-të treten. Dhe këtu, vetëm ketu, jo në ndoj naltësim tjetër
+të treten. Dhe këtu, vetëm këtu, jo në ndoj naltësim tjetër
 imagjinues të njeriut por në ndërgjegjen e krijimit qëndron
 ndryshimi në mes të krymbit dhe të njeriut. Krymbi krijon, ban
-punën e vet të krymbit (bren drunin) dhe vazhdon rodin; njeru
+punën e vet të krymbit (bren drunin) dhe vazhdon rodin; njeriu
 krijon, prodhon vepra teknike, arkitekturë, arti, letërsie njësoj si
 prodhon dhe rodin e vet njerzuer. Janë energjitë që duhen tretë
 simbas zotsis të çdo njeriu, energjitë që burojne të gjitha nga një
@@ -125,7 +125,7 @@ materiale, pse shoqnia, drejt ose zhdrejt, e detyroi.
 
 E në dhomën e Lukes treteshin energjitë e të rijve. Të mos u
 treteshin aty, do treteshin ngjeti, në mënyrë të panatyrshme, të
-rafinueme, të shpikun vetvetiu, tue u bashku intelekti me epsh.
+rafinueme, të shpikun vetvetiu, tue u bashkue intelekti me epsh.
 
 — Luke, kështu-kështu... Sa të bukur i ke syt.., - i fliste djaloshi.
 
@@ -135,7 +135,7 @@ Ajo heshtte.
 
 — Praj, more vagabond! Hajt, mbaroje punën për të cilën ke ardhë...
 
-Nje kapardisje n'intimitet ma të lakuriqët, marrje fryme e
+Një kapardisje n'intimitet ma të lakuriqët, marrje fryme e
 parregullt, kanjiherë ndoj kafshim, ndoj afsh ose edhe ndoj
 shuplakë për trup të lakuriqet...
 
@@ -146,15 +146,15 @@ ndër ato çaste të ralla thente gota, çinia, pasqyra, dhe çka t'i
 vinte për dore. N'ato çaste as nuk pranonte vizita. Ndoshta i
 dhimbste shpirti Lukes, pse të gjitha energjitë e djemve nëpër të
 shkojshin kot? Ndoshta dhe ajo donte që të prodhoje, si prodhon
-nana - tokë dhe cdo krijesë tjetër? O sa trishtim, pothuej një
+nana-tokë dhe çdo krijesë tjetër? O sa trishtim, pothuej një
 dhimbë fizike ndiente, kur u kujtonte se asht një grue që nuk
 prodhon. Një kukull, një lodër me pasë për t'ia kushtue dhe
-harrue githe ato orët e mbrapshta kur e shef veten të zhigatun
+harrue gjithë ato orët e mbrapshta kur e shef veten të zhigatun
 në balte.
 
 * * *
 
-Nje ditë të kristaltë dimni, kur frynte veriu e acari kish ngri
+Një ditë të kristaltë dimni, kur frynte veriu e acari kish ngri
 vesën, Lukja briti në qytet. Biografia e saj deri m'at ditë asht e
 thjeshtë, por plot vuejtje si e të gjitha femnave të malsis. E jeta
 ne qytet, prej së largu, dukej e bukur. Sidoqoftë, buka fitohej;
@@ -185,14 +185,14 @@ mërzinë e jetës shoqi-shojt. Qe e tanë dëshira e vakët e Lukes.
 * * *
 
 
-Dyqind napolona janë dyind flamure triumfues mbi jetën e
-mbrapshtë të vorfnis. Janë dyind klithma ngadhnimi në luftën e
+Dyqind napolona janë dyqind flamure triumfues mbi jetën e
+mbrapshtë të vorfnis. Janë dyqind klithma ngadhnimi në luftën e
 jetës, janë dyqind "hurra!"
 
-Dhe me dyind napolona mendoi Lukja të ndertoje në
+Dhe me dyqind napolona mendoi Lukja të ndertoje një
 kështjellë dhe bashkë me një zemër të humbun si të veten të futet,
 mbrenda. Aty në heshtje, në limanin e qetë të votres, të mejtojë
-luftën epike - sentimentale të jetës së saj të kalueme. Qetsi, qetsi.
+luftën epike-sentimentale të jetës së saj të kalueme. Qetsi, qetsi.
 Si anija e orvatun me tallazet e detit e zhgatrueme mbrrin në
 lima.
 
@@ -202,7 +202,7 @@ romantik, as si një shpirtmadh që don të pakësoje vuejtjet e botës,
 por erdh si kallajxhi i falimentuem.
 
 — Ka vdekë zanata e jonë. Dolën enët e cingos dhe sot vetëm
-shepitë e vjetra mbajnë bakër, edhe ata s'e perdorin, por tash
+shtëpitë e vjetra mbajnë bakër, edhe ata s'e perdorin, por tash
 kanë fillue me e varrë nëpër mure si gjana antike, - thoshte
 kallajxhiu tue e çue gotën e verdhë të rakisë.
 
@@ -245,11 +245,11 @@ shkojnë lotët për njeqind napolona të hjedhuna në rrugë.
 për me ia ba kafen të shoqit.
 
 I shkonte mendja n'ardhmëni dhe e shihte veten prap në
-mshirën e turmave t rrugës. Por njajo turmë, e cila e shfrytzoi
+mshirën e turmave të rrugës. Por njajo turmë, e cila e shfrytzoi
 derisa ishte e re, tue ia thye ndër kthetrat e veta at njomsi, tashti
 ma s'ka me e dashtë. S'ka me i dhanë as lemoshë. Kurvës së
 dikurshme kush i ep lemoshë?! Dhe atëherë vjen ajo vdekja e
-ngadalteë nga uja, - jo vdekje çasti, por vdekje e javashme, dita
+ngadaltë nga uja, - jo vdekje çasti, por vdekje e javashme, dita
 me ditë, si vdesin motrat dhe vllaznit e saj në malsi.
 
 Kur ia solli kafen të shoqit, i cili nëpër dritore e kish humbe shikimin në muzg të mbramjes, ky u kthye:
@@ -298,7 +298,7 @@ skamore. Dhe i tha një dite:
 
 — Ku po shkon?
 
-— Nëpër katunde të punoj... Ty tash të coj para andej...- ndoj
+— Nëpër katunde të punoj... Ty tash të çoj para andej... - ndoj
 pare, desht me thanë, por s'dijti as ai pse nuk e tha. Ndjenja e një
 pasigurie e pushtoi dhe shikonte para vetes pa guxue me çue syt
 në Luken. E kjo i tha:
@@ -347,7 +347,7 @@ dhe buzëqeshte:
 
 — Hi-hi-hi... Po pse m'i kane lidhë duert... hi-hi-hi.
 
-Një dialosh, giysmë nëpunsi, s'di, seriozisht apo për tallje, ia
+Një djalosh, gjysmë nëpunsi, s'di, seriozisht apo për tallje, ia
 dorzoi një tufë lule të veshkuna - s'di se ku i kish gjet. E ajo me
 një levizje komplimentuese tue buzqeshë, e falnderoi:
 
@@ -355,7 +355,7 @@ një levizje komplimentuese tue buzqeshë, e falnderoi:
 mbajë lulet drejt ndër duert e lidhuna.
 
 
-Automobili u nis. Dhe Lukja, me ftyrë të nxime nga vuejia,
+Automobili u nis. Dhe Lukja, me ftyrë të nxime nga vuejtja,
 me ata sy të marri me at hi-hi-hi, shkoi në çmendinë. Në çmendinë
 me at hi-hi-hi ka me tregue historinë e jetës së vet. Por të paket
 kanë me qenë ata që kane me e kuptue at' hi-hi-hi.

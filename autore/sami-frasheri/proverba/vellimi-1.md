@@ -1,5 +1,6 @@
 ---
-title: Proverba - Vëllimi 1
+title: Vëllimi 1
+slug: proverba-vellimi-1
 author: Sami Frashëri
 respectLineBreaks: false
 parent: Proverba
@@ -14,18 +15,17 @@ order: 1
 4. Detyra jonë kryesore ndaj njerëzisë është të studiojmë dhe të mësojmë (të tjerët)
     pa u mërzitur.
 5. I madh është ai njeri që i shikon të gjithë një soj, që vepron pa anuar, dhe që
-    mendon për të gjithë. Al që mendon për interesat e veta, është njeri i ulët.
+    mendon për të gjithë. Ai që mendon për interesat e veta, është njeri i ulët.
 6. Detyrat njerëzore janë një barrë e rëndë; sjellja e keqe sipas andjes dhe pëlqimit të
     botës është një moçal i madh. Për të nxjerrë në breg një barrë të tillë të rëndë nga
     një moçal i tillë, duhet të ecësh drejt, pa shikuar djathtas e majtas.
-7. Në vend që të shesësh dituri dhe zotësi, pëxpiqu t'i fitosh ato.
+7. Në vend që të shesësh dituri dhe zotësi, përpiqu t'i fitosh ato.
 8. Mos e duaj gjumin shumë; hap sytë që të mos mbetesh i uritur.
 9. Toka mund t'i ushqejë njerëzit fare mirë; vetëm pse shumica e pasurisë
-    shpenzohet pa vend, e shurata e njerëzve mbeten të uritur.
+    shpenzohet pa vend, e shumta e njerëzve mbeten të uritur.
 10. Për t'ia nënshtruar botën mirësisë, duhet luftuar kundër ligësive.
-11. Pitimi i pozitës varet nga të tjerët. A nuk është marrëzi të lësh atë që ke në duart
+11. Fitimi i pozitës varet nga të tjerët. A nuk është marrëzi të lësh atë që ke në duart
     tua dhe t'u drejtohesh të tjerëve.
-
 12. Më parë se për pasurinë, mjeshtërinë dhe tregtinë e një bashkësie (njerëzore),
     duhet menduar për edukimin e saj, sepse edukata e mirë është baza e bashkësive
     njerëzore.
@@ -43,7 +43,7 @@ order: 1
     vetitë e mira dhe jipet pas veseve të këqia, atëherë nuk ka më shpresë shpëtimi.
 17. Mos i poshtëroni njerëzit e mëdhenj për një a dy faje të tyre, sepse diamanti sado i
     prerë shtrembër të jetë, është më i vlefshëm se një gur i zakonshëm, i prerë në
-    forrnën më të përsosur.
+    formën më të përsosur.
 18. Mashtrimet e mashtruesit i përballoni me drejtësi, sepse gjithçka mënjanohet me
     të kundërtën.
 19. Njerëzit janë të njejtë para natyrës, edukata i bën të dallohen (njëri nga tjetri).
@@ -54,7 +54,7 @@ order: 1
 24. Virtyti i bën të dashur (me njëri — tjetrin) njerëzit e mëdhenj, njerëzit e
     zakonshëm — dëfrimi dhe zbavitja, të këqinjtë — vagabondazhi dhe delikti.
 25. Duhen shumë mend që të mund të shoqërohesh me njerëz pa mend.
-26. Mos shkruaj gjë kur je me nerva; sepse, kur plaga e gjuhës ësMë më e keqe se e
+26. Mos shkruaj gjë kur je me nerva; sepse, kur plaga e gjuhës është më e keqe se e
     shpatës, mendo çfarë mund të jetë ajo e pendës.
 27. Kot përpiqet mendja, kur nuk mund të arrijë gradën e lartë të ndjenjave.
 28. Fjala më elokuente është ajo konkluzioni i së cilës kuptohet që nga fraza e parë e
@@ -63,14 +63,14 @@ order: 1
     gjendje të vështirë, të thuash të vërtetën edhe në zemërim, të falësh kur je i zoti të
     ndëshkosh ose të hakmirresh.
 30. Për ndryshimin e një gjëje askush nuk është më i aftë se koha.
-31. Ti japësh pozitë dhe të nderosh një njeri pa merita është si të hedhësh në ndyrësira
+31. T'i japësh pozitë dhe të nderosh një njeri pa merita është si të hedhësh në ndyrësira
     një qese me inxhi (margaritarë).
 32. Po të bjerë në det një pikë ujë, nuk thahet.
 33. Sikundër që elefantin e vrasin për dhëmbët e tij të çmueshëm, disa guaska deti i
     gjuajnë për margaritarët që kanë brenda e që bilbilin e robërojnë për zërin e tij të
     bukur, kështu edhe njeriun — të shumtën e herës — e rrezikon vlera e tij e lartë.
 34. Mos iu mbështet së nesërmes, nuk mund të dish se ç'do të lindë nata.
-35. Pa taashkim s'mund të ketë as opinion publik, as forcë.
+35. Pa bashkim s'mund të ketë as opinion publik, as forcë.
 36. Liria s'mund të shkojë përpara pa pasur udhëheqëse arsyen dhe pa qenë e
     shoqëruar nga vetitë e mira.
 37. Gjuha e memecit është më e mirë se e gënjeshtarit.
@@ -108,7 +108,7 @@ order: 1
     mbetet.
 55. Si flaka e shkrepsës me kokë poshtë, që është më e fortë, ashtu edhe virtytet e
     dijetarit të rënë në fatkeqësi duken më qartë.
-56. Ata që tregohen të drejtë me qëllim lartësimi, pasi të arrijnë qëllimin, s'ndjenjë
+56. Ata që tregohen të drejtë me qëllim lartësimi, pasi të arrijnë qëllimin, s'ndjejnë
     më nevojë për drejtësi.
 57. Shërbimin që bën arsimi për përmirësimin e një kombi, ligji s'mund ta bëjë kurrë.
 58. Shpagimi më i ëmbël është të bësh mirë kundër së keqes që të është bërë.
@@ -153,7 +153,7 @@ order: 1
     mirësjelljen, mirëpo pasuria sjell kryelartësinë e dorëlirësinë, e kryelartësia e
     dorëlirësia shthurjen dhe keqsjelljen.
 90. Njeriu që s'mund të mbrojë mendimin e vet, i ngjan një qyteti të pambrojtur.
-91. Dijetari nnk thotë  ç'ka di (kur nuk është rasa për t'i thënë), i marri nuk di çka thot.
+91. Dijetari nuk thotë ç'ka di (kur nuk është rasa për t'i thënë), i marri nuk di çka thotë.
 92. Është faj të meritosh qortimin, mosdurimi (me rasën) i qortimit është faj edhe më
     i madh.
 93. Zgjuarësia është një dritë hyjnore, ndriçimi i së cilës ndrit jo vetëm sipërfaqen e
@@ -174,34 +174,34 @@ order: 1
 100. Gjithkush mendon për veten e tij, vetëm shpirtmiri mendon për të tjerët.
 101. Kombi është themeli i godinës së shtetit, sa më i fortë të jetë themeli, aq më
     shumë qëndron godina.
-102. Të iillosh një punë cthe të mos e vazhdosh deri në fund, është si të fillosh të
-    mihësb një pus dhe pas 2 — 3 pashësh ta lësh punën. Sikur të mihë njeriu në 100
-    vende nga 2 — 3 pashë, nuk nxjerr dot një pikë ujë, por po të mihë në një vend 5
-    — 10 pashë, me siguri del ujë.
+102. Të fillosh një punë dhe të mos e vazhdosh deri në fund, është si të fillosh të
+    mihësh një pus dhe pas 2 — 3 pashësh ta lësh punën. Sikur të mihë njeriu në 100
+    vende nga 2 — 3 pashë, nuk nxjerr dot një pikë ujë, por po të mihë në një vend
+    5 — 10 pashë, me siguri del ujë.
 103. Po të fillosh një punë dhe të mos i dalësh në krye, mos u dëshpro; po nuk ia dole
     të parën, ia del me të dytën dhe fundja me të tretën.
 104. Mos u tremb nga shuplaka e mikut, duhet të kesh frikë nga lëvdata e armikut.
-105. Në çdo mandim mund të ketë shkarje e në çdo veprim gabim: mendimet
+105. Në çdo mendim mund të ketë shkarje e në çdo veprim gabim: mendimet
     korrigjohen me kohë, veprimet me përvojë.
 106. Shumë rrallë i takon fatkeqësi atij që kur del në mengjes nga shtëpia i shkon
     mendja se mund të kthehet me qivur në mbrëmje.
 107. Gjithë ç'është në botë, me shpirt dhe pa shpirt, është armik i njeriut; njeriu i urtë
     qëndron gjithmonë me kujdes dhe nuk ka besim në asnjeri, në asgjë. (Me këtë
     Samiu tregon se në ç'rreth ka jetuar i gjori).
-108. Ç'mund të bëjë një kalë i fortë rae një karrocë të shkatëruar?
+108. Ç'mund të bëjë një kalë i fortë me një karrocë të shkatëruar?
 109. Më kryesoret janë katër gjëra që e bëjnë njeriun njeri: dituria, durimi, kanaati
     (mjaftimi me atë që ka) dhe drejtësia.
-110. Ujtë në vetvete është i pastër, duke u trazuar me disa materie dhe sende të tjera,
+110. Ujët në vetvete është i pastër, duke u trazuar me disa materie dhe sende të tjera,
     bëhet i idhët dhe i ndyrë; njeriu është krijuar i mirë, bëhet i keq nga ndikimi i
     epsheve dhe i veseve të këqia.
 111. Njeriu don të jetojë shumë, por nuk don të mplaket.
-112. KUr çdo njeri t'i shikojë të gjithë njerëzit për shokë, gjënë e tjetrit si gur dhe tokë
-    (dmth të pavlefslune), gratë — përveç të tijnë — si nëna dhe motra, atëhere është
+112. Kur çdo njeri t'i shikojë të gjithë njerëzit për shokë, gjënë e tjetrit si gur dhe tokë
+    (dmth të pavlefshme), gratë — përveç të tijnë — si nëna dhe motra, atëhere është
     e mundshme të ketë lumtëri dhe prehje në botë.
 113. Po deshe të kesh të lirë zemrën tënde, mos i plotëso dëshirat (e këqia).
 114. Punën e nesërme mbaroje sot dhe pushimin që do të bësh pasnesër bëje sot.
 115. Mos jep shkas të flasë kush keq për ty; por mos u mundo t'i mbyllësh gojën
-    keqdashësve, sepse qeni, ashtu sikundër i leh natën ikusarit që i kalon afër, ashtu i
+    keqdashësve, sepse qeni, ashtu sikundër i leh natën kusarit që i kalon afër, ashtu i
     leh edhe njeriut të ndershëm.
 116. Po të flitet keq për ndokënd, gjithësecili beson në çast; po të flitet mirë për të —
     asnjeri nuk beson. Përçarja është bërë aq e pëlqyer në botë sa që lëvdatës nuk i ka
@@ -216,7 +216,7 @@ order: 1
 122. Kush çmon (lavdon) një ligësi, është më i lig se ai që e bën.
 123. Zbavitja më e bukur për njerinë është leximi, shoku më i mirë libri.
 124. Kush kuvendon me botën, kuvendon me persona të zakonshëm; kush lexon libra,
-    kuvendon me filozofë, letrarë dhe me njerëz të famshërn.
+    kuvendon me filozofë, letrarë dhe me njerëz të famshëm.
 125. Kush nuk është i gjykuar, është gjykues; kush nuk është i urdhëruar, është
     urdhërues.
 126. Njeriu kërkon të njihet me të pasurit dhe mënjanohet të njihet me të varfërit;
@@ -224,12 +224,12 @@ order: 1
 127. Ngutja në marrjen e vendimeve në çështje të vështira dhe të dyshimta, është e
     dëmshme.
 128. Ujët që pihet me ngadalë, largon etjen më shumë.
-129. Kush nuk e kupton të vërtetën e fjalës së tjetrit, nuk di edhe atë që thotë  vetë.
-130. Gjithësecili mban në gojë punën 6 të pasurve; vetëm njeriu zemërrnirë mendon
+129. Kush nuk e kupton të vërtetën e fjalës së tjetrit, nuk di edhe atë që thotë vetë.
+130. Gjithësecili mban në gojë punën e të pasurve; vetëm njeriu zemërmirë mendon
     gjithmonë gjendjen e të varfërve.
 131. Pleqtë të mos kalojnë pranë varreve të të rinjve, mizorët pranë atyre të të mirëve
-    dhe trathtarët pranë varrit të dëshmorëve, sepse dheu i tyre nuk duron të qenmen e
-    tyre mbl faqen e tokës.
+    dhe trathtarët pranë varrit të dëshmorëve, sepse dheu i tyre nuk duron të [qenit] e
+    tyre mbi faqen e tokës.
 132. Kush mëshiron gjarpërin, torturon njerëzinë.
 133. Njëri nga filozofët kinezë thotë: "Ai që është në punë të shtetit, mirësitë duhet t'i
     bëjë duke u gëzuar dhe ndëshkimet duke u hidhëruar."
@@ -270,7 +270,7 @@ order: 1
     zakoneve të liga të bashkëkombësve të tij.
 156. Bota është një shesh i ekspozuar shiut dhe erës; ai që në këtë shesh e ruan dritën e
     përpjekjes e të kuptimit dhe nuk e shuan, është filozof i vërtetë.
-157. Mentari dhe ai që qëndron me këmbëngulje në punën. e tij, sado fatkeqësi që t'i
+157. Mentari dhe ai që qëndron me këmbëngulje në punën e tij, sado fatkeqësi që t'i
     ngjajnë, prapëseprapë nuk e humbet toruan. Zjarrit nuk i parritet flaka pse
     trazohet.
 158. Frika e varfërisë e e përbuzjes dhe lakmia për pasuri e famë, e verbojnë njeriun
@@ -305,12 +305,12 @@ order: 1
     qorrit që ecën duke rrokur nga pëqiri shokun që shkon para tij.
 176. Në botë nuk gjënden dy mendime të ngjashme nga çdo pikëpamje; ai që pranon
     çdo mendim të filozofëve më të mëdhenj pa kundërshtuar asnjërin, është pa mend.
-177. Një punë e bukur është më e dobishme se një mijë f jalë të bukura.
+177. Një punë e bukur është më e dobishme se një mijë fjalë të bukura.
 178. Jeta, rehatia dhe mirëqenia blihet me punë; kush punon shumë asnjëherë nuk vuan
     dhe nuk bie në ngushticë.
 179. Fëmija sikundër që mëson të flasë gjuhën e s'ëmës, t'atit dhe të gjindve të tjerë të
     shtëpisë, pajiset edhe me moralin e tyre.
-180. Nuk është mësuesi ai që edukon njeriun, por nëna, ciadua dhe edukatori i tij.
+180. Nuk është mësuesi ai që edukon njeriun, por nëna, dadua dhe edukatori i tij.
     Gruaja që është vetë e edukuar, ose që edukon vetë fëmijën e saj, ose ia dorëzon
     një personi të edukuar. Fëmija e gruas së paedukuar vjen në botë për t'u bërë
     fatkeq.
@@ -319,20 +319,20 @@ order: 1
     vetmi.
 183. Njeriu nuk mund të zbavitet po nuk bëri batall synimet e mendimit të tij dhe
     ndjenjat e zemrës së tij.
-184. Zbavitja e mendjes është studimi, ztaavitja e zemrës melankolia.
+184. Zbavitja e mendjes është studimi, zbavitja e zemrës melankolia.
 185. Kush i tregon botës rrugët në një qytet, humbet në rrugicat e një qyteti tjetër.
-186. Në është se ka një gjë që e kënaq njeriun në bota, është gëzimi i nderit dhe i
+186. Në është se ka një gjë që e kënaq njeriun në botë, është gëzimi i nderit dhe i
     simpatisë nga të gjithë.
 187. Zemra është një fëmijë (është si fëmijë), kujton se bëhet gjithçka që dëshiron.
 188. Njeriu e shikon të shkuarën me ngashërim, të ardhmen me shpresë; asnjëherë nuk
     është i kënaqur nga e tashmja.
-189. Lumturia e ngjan hënës që duket në majën e një mali; njeriu thotë: po të dal në
+189. Lumturia i ngjan hënës që duket në majën e një mali; njeriu thotë: po të dal në
     majën e këtij mali do ta kap hënën; mirëpo kalon sa fusha e sa male — përsëri
     hënën e shikon të qëndrojë në majë të malit tjetër që ka përpara.
 190. Ndalesa e atij që udhëton me karrocën e shpresës është skamja.
 191. Njeriu është gjuetar i shpresës; duke u turrur pas saj, bie në gropë, ndërsa shpresa
     fluturon, ikën.
-192. Vetëm borxhi i marrë për ta taërë mjet pune, paguhet me lehtësi.
+192. Vetëm borxhi i marrë për ta bërë mjet pune, paguhet me lehtësi.
 193. Një proverb spanjoll: Mos kërko ndihmë nga asnjëri për një punë që mund ta
     kryesh vetë.
 194. Nuk i takon gjë dhëmbit të skiles që qëndron e mbyllur në strofkun e vet.
@@ -356,15 +356,14 @@ order: 1
     ndriçon.
 207. Një dijetar anglez thotë: "Më e madhja lumturi e miqve të mi nuk më duket e
     shumtë, dëmi i tyre më i vogël më duket i madh."
-208. Durimi dhe meditimi nuk bashkohesn me pendimin.
+208. Durimi dhe meditimi nuk bashkohen me pendimin.
 209. Në lumenj të mëdhenj ka peshq të mëdhenj, por është rrezik të mbytesh; është më
     mirë të kënaqesh me peshq të vegjël të lumenjve të vegjël.
 
-<center>
-Të mira të shumta ka në det,
-Në do shpëtim, rri në çip i getë.
-(Sheh Sadi)
-</center>
+> Të mira të shumta ka në det,\
+> Në do shpëtim, rri në çip i qetë.
+>
+> — Sheh Sadi
 
 210. Në është se ekziston gabim i pëlqyer, është ai që ne, të shtyrë nga simpatia për një
     shok, kujtojmë se ai është njeri i përsosur.
@@ -404,7 +403,7 @@ Në do shpëtim, rri në çip i getë.
     nga lumturia, do të ishte tepër i ashpër dhe nuk do të hynte në punë.
 233. Dajaku e bën të paedukuar njeriun e edukuar; të paedukuarit ia shton edhe më
     shumë atë.
-234. Fabkeqësitë kur vijnë — duket se tremben nga njerëzit që janë armiqtë e tyre —
+234. Fatkeqësitë kur vijnë — duket se tremben nga njerëzit që janë armiqtë e tyre —
     vijnë të gjitha bashkë.
 235. Koka s'mund të shkojë askund vetë, atë e dërgojnë këmbët, por këmbët s'tunden
     vendit fare pa kokën.
@@ -412,11 +411,11 @@ Në do shpëtim, rri në çip i getë.
 237. Mos e nis një punë, në të cilën ti sheh për veten tënde 9 dobi dhe një dëm për
     publikun, sepse do t'i humbasësh të 9 dobitë, ndërsa konsekuencën e dëmit të
     përgjithshëm do ta heqësh për se gjalli dhe pas vdekjes sate.
-238. Një proverta spanjoll thotë: "Njerka edhe sikur të jetë prej sheqeri, prapë e hidhët
+238. Një proverb spanjoll thotë: "Njerka edhe sikur të jetë prej sheqeri, prapë e hidhët
     është."
 239. Vjehra nuk e kujton asnjëherë kohën e nusërisë.
 240. Është e lumtur ajo grua që s'ka vjehër dhe kunatë.
-241. E shumta e godinave që të du'ken të bukura, e kanë themelin të dobët.
+241. E shumta e godinave që të duken të bukura, e kanë themelin të dobët.
 242. Lumturia dhe fatkeqësia kanë mbarim; kur zgjat njëra shumë, do të thotë se i
     është afruar koha tjetrës.
 243. Mbas agjërimit bie bajrami.
@@ -435,14 +434,14 @@ Në do shpëtim, rri në çip i getë.
     nuk mund të vdesë sot.
 253. Gjendja e dehur (të pirët) nuk e ndryshon njeriun, vetëm e bën të duket ashtu siç
     është në të vërtetë, pasuria nuk ia ndryshon moralin njeriut, ia nxjerr në shesh atë.
-254. Pjala e keqdashësit është si qymyri, edhe kur nuk e djeg sendin që e prek, e nxin
+254. Fjala e keqdashësit është si qymyri, edhe kur nuk e djeg sendin që e prek, e nxin
     atë.
 255. Shtëpia që nuk i duket tymi, s'ka kuzhinë.
 256. Koha mund të bëjë të harrohen fatkeqësitë më të mëdha.
-257. Vlera e zjarrit kuptohet në ditët e dirnërit, e ajo e dëborës në ditët e verës.
+257. Vlera e zjarrit kuptohet në ditët e dimërit, e ajo e dëborës në ditët e verës.
 258. Trimëria në kuvendim dhe eleganca në fushë të betejës s'bëjnë para.
 259. Qesja nuk zbrazet duke dhënë lëmoshë.
-260. Po s'tërhoqe dot lopatën, mos i hip sandaliit.
+260. Po s'tërhoqe dot lopatën, mos i hip sandalit.
 261. Grada e qytetërisë dhe e moralit të një populli kuptohet nga këngët dhe lojërat e
     tij.
 262. E vërteta është një lloj ujë i nxehtë që del nga toka, i cili shkrin dëborërat dhe
@@ -460,8 +459,8 @@ Në do shpëtim, rri në çip i getë.
 268. Kush lë xhadenë, humb rrugën.
 269. Kush mbështetet në një dru të madh, është gjithmonë nën hije.
 270. Dëborën në daç zieje, në daç thaje në diell, s'mund të kesh veçse ujë.
-271. Të thuash po është më mirë se të thuash jo, por po-ja e cave është më e keqe se jo-
-    ja e ca të tjerëve.
+271. Të thuash po është më mirë se të thuash jo, por po-ja e cave është më e keqe se
+    jo-ja e ca të tjerëve.
 272. E keqja në botë të shumtën e herës vjen nga ata që janë shumë të uritur ose shumë
     të ngopur.
 273. Gjithësecili dëshiron t'i shohë njerëzit e mëdhenj, por më mirë është të shohësh
@@ -481,20 +480,20 @@ Në do shpëtim, rri në çip i getë.
 283. Kur të lavdon dikush, mos e prano lëvdatën që të bëhet pa e peshuar në
     ndërgjegjen tënde nëse është e drejtë a jo.
 284. Mos e qorto atë që ka rënë në greminë pse nuk i dëgjoi këshillat tuaja, as mos e
-    këshillo përsëri. Po e nxorre nga gremina që ka rënë, atëherë ai panon këshillat e
+    këshillo përsëri. Po e nxorre nga gremina që ka rënë, atëherë ai pranon këshillat e
     tua.
 285. Mendojmë se njeriu vdes dhe shkon, mirëpo të vdekurit janë ata që edukojnë
     fëmijët tanë, që na mësojnë dituritë dhe shkencat, kur marrim në dorë një libër
     dhe e lexojmë në vetmi në një çip dhe, sipas rastit, ata na bëjnë të qeshim apo të
     qajmë.
 286. Mos prit pemë nga shelgu e hije nga hurma.
-287. Biseda lind nga mendimi; biseda pa nendim nuk eshtë bisedë, është grindje.
+287. Biseda lind nga mendimi; biseda pa mendim nuk është bisedë, është grindje.
 288. Liria varet në kënaqësinë me atë që ke (kanaat); lakmia, pasuria dhe fama e
     robërojnë njerinë.
 289. I famshmi Newton, ca ditë para se të vdiste, tha: "Nuk di çdo të thotë publiku për
     mua. Por unë i përngjaj një fëmije që mbledh guaska në buzë të oqeanit. Me gjithë
-    përpjekjet e mia të shumta, nga deti i së vërtetës munda të shtie në dorë vetëm 5—
-    10 guaska që kishin dalë në breg."
+    përpjekjet e mia të shumta, nga deti i së vërtetës munda të shtie në dorë vetëm
+    5—10 guaska që kishin dalë në breg."
 290. I famshmi filozof Taj Çung thotë: Deti i përmbyt anijet, por po të mos ishte deti,
     nuk do të ishte as emri i anijes...
 291. Solomoni thotë: "S'ka trathtar më të madh se ai që është afër një sovrani dhe fsheh
@@ -514,8 +513,8 @@ Në do shpëtim, rri në çip i getë.
 296. Një nga filozofët kinezë thotë: "Sovrani, i cili ia del të zgjedhë një këshilltar që
     thotë të vërtetën, që nuk i do lajkat dhe që është mentar dhe i zoti, ai meriton të
     sundojë."
-297. Konfucio thotë:"Njeriu, i cili, duke u konsultuar, vërejtjet që i bëhen i pranon
-    mbasi të jetë menduar, është i zoti për çdo gjë; ai, i cili i mbështe tet vetes së tij
+297. Konfucio thotë: "Njeriu, i cili, duke u konsultuar, vërejtjet që i bëhen i pranon
+    mbasi të jetë menduar, është i zoti për çdo gjë; ai, i cili i mbështet vetes së tij
     dhe nuk respekton konsultimin, nuk shpëton nga gabimet edhe sikur të jetë më i
     madhi filozof i botës."
 298. Alfonsi X-të, mbret i Spanjës, thotë: "Në thesaret e grumbulluar nga ana e një
@@ -533,11 +532,11 @@ Në do shpëtim, rri në çip i getë.
     pamundshme të mundshmet.
 303. Mos prit ndihmë nga ai që nuk sheh nevojë për konsultim.
 304. Ai që pranon këshilla, është më i madh se ai që jep, sepse, sa lehtë është të japësh
-    këshilla. aq rëndë është t'i pranosh.
+    këshilla, aq rëndë është t'i pranosh.
 305. Shumica e ligësive që shihen në botë shkaktohet nga ari. Natyra duket se i ka ditur
     të ligat që do t'i sjellë njerëzisë ky mineral, prandaj e ka groposur aq thellë në
     tokë; por njerëzit, të cilët kanë në shpirt gjithmonë ligësinë, futen thellë si iriqi dhe dalin përsëri.
-306. Mos baktis punën për të mësuar lajme të reja; sa të kalojë pak kohë ai lajm i ri do
+306. Mos braktis punën për të mësuar lajme të reja; sa të kalojë pak kohë ai lajm i ri do
     të vjetrohet, i bie vlefta e atëhere do të mund ta dëgjosh edhe aty ku je.
 307. Exheli (vdekja) i qenit që gjuan ujkun, është te dhëmbi i tij.
 308. Kush ngjitet lart, sigurisht do të zbresë poshtë.
@@ -557,7 +556,7 @@ Në do shpëtim, rri në çip i getë.
     ujët e derdhur.
 320. Dyshimi është gur argjendari i së vërtetës, kush dyshon në marrëdhëniet e
     përditshme, s'gabon asnjëherë, kush dyshon në veprimet e veta, bëhet filozof.
-321. Turma u lakmon mrekullive, më shumë u taeson gënjeshtrave se së vërtetës. Një
+321. Turma u lakmon mrekullive, më shumë u beson gënjeshtrave se së vërtetës. Një
     gënjeshtër, që njëri e ka bërë për ta besuar një popull brenda një dite, diturisë dhe
     shkencës i duhen shekuj për ta shkulur nga mendja e njerëzve. Me gjithëkëtë,
     mbresa mbetet se mbetet.
@@ -575,7 +574,7 @@ Në do shpëtim, rri në çip i getë.
     keqen.
 328. Dhelpra tretet duke menduar pulën që nuk e shtie dot në dorë.
 329. Arma më e mirë për ta mposhtur armikun është zemra.
-330. Në gurin e varrit të një ngadhnjyesi tëmadh ishte shkruar: "Këtu është vendi ku ka
+330. Në gurin e varrit të një ngadhnjyesi të madh ishte shkruar: "Këtu është vendi ku ka
     arritur ky njeri që ka rënë këtu pasi ka pushtuar botën. O ti njeri, që dëshiron të
     ngadhnjesh tërë botën, mos harro se rruga e gjatë dhe me mundime, këtu ka për të
     sjellë."
@@ -584,7 +583,7 @@ Në do shpëtim, rri në çip i getë.
 332. Tjetër: "Ai që ka rënë këtu, edhe kur ka qenë gjallë, s'ka bërë gjësend."
 333. Në portën e faltores së Delfit, një nga faltoret e vjetra të Greqisë së vjetër, kanë
     qenë shkruar këto tri këshilla të filozofit Gilon: "Njih veten tënde; mos lakmo
-    shumë; ruaju nga borxhi dhe nga të ngrënit me f jalë."
+    shumë; ruaju nga borxhi dhe nga të ngrënit me fjalë."
 334. Ai që i përgjigjet me ligësi mirësisë sate, bëhet mjet për të bërë të njohur mirësinë
     tënde dhe ligësinë e vet.
 335. Po të njohësh një faj të ndonjërit, mund ta mbulosh me një nga virtytet e tij.
@@ -601,22 +600,22 @@ Në do shpëtim, rri në çip i getë.
 340. Ajo që forcon mendimin është gjykimi. Mendimi i pranuar në çdo kohë pa u
     gjykuar nga asnjëri, kalbet shpejt.
 341. Filozofët thonë: "Njeriu s'mund të shohë të metat e të dashurve të tij; kur puna
-    qëndron kështu, si kërkohet që njeriu t'i shohë «të metat e veta?"
+    qëndron kështu, si kërkohet që njeriu t'i shohë të metat e veta?"
 342. Njëri nga autorët anglezë thotë: "Anglezi dëgjon, frëngu flet. Ndër anglezët mund
     të gjesh asi që edhe dëgjojnë edhe flasin, por te frëngu s'mund të gjesh të tillë; në
     është se frëngu ta le ty radhën dy minuta për të folur, mos kujto se po të dëgjon,
     jo, ai është duke menduar se ç'ka do të thotë kur ti të kesh mbaruar së foluri."
-343. Një mentar e kishin pyetur për tanë (taabanë) dhe sojin e tij. "Im atë janë krahët e
+343. Një mentar e kishin pyetur për tanë (babanë) dhe sojin e tij. "Im atë janë krahët e
     mi, soji im — veprat e mia."
 344. Ai që nuk është në gjendje të ecë në rrugë të sheshtë, mos e shtrëngo t'i ngjitet
     malit.
 345. Në çdo punë ka pak a shumë dobi, vetëm në të folur për së tepërmi s'ka asnjë
     dobi.
 346. Shërbëtoret kanë gjithmonë dëshirë të mbledhin lajme e zonjat e shtëpisë
-    dëshirojnë t'd dëgjojnë. Qoftë larg! Sikur edhe i zoti i shtëpisë të përulet dhe të
+    dëshirojnë t'i dëgjojnë. Qoftë larg! Sikur edhe i zoti i shtëpisë të përulet dhe të
     dëgjojë këto tregime, në shtëpi s'mbetet tjetër veç fjalëve.
 347. Po të bashkohen dy tufa (bagëtish) të vogla, bëhet një tufë e madhe.
 348. Një tigër të lidhur me zinxhirë mund ta përmbajë edhe një fëmijë, por, po u këput
     zinxhiri edhe njeriu më i fortë në botë nuk mund ta mbajë.
-349. Zemra e gëzuar njeriut ia bën të qeshur fytyrëin, zemra e dëshpëruar i ndrydh
+349. Zemra e gëzuar njeriut ia bën të qeshur fytyrën, zemra e dëshpëruar i ndrydh
     mendjen.

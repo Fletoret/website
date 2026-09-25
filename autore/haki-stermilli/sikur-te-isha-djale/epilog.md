@@ -12,7 +12,7 @@ Letra që më shkruente përmbante këto fjalë:
 
 “I dashtuni Hamit,
 
-Në fletorin që po të dorëzojë kam shkrue shkurtazi, jetën t'eme. Mbasi
+Në fletorin që po të dorëzoj kam shkrue shkurtazi, jetën t'eme. Mbasi
 t'a këndojsh epja Shpend Rrëfes bashkë me letrën dhe shamin e bardhë
 që po i dërgoj si shenjën e qefinit t'em. Nga përmbajtja e fletorit
 keni për t'a kuptue se sa shum vuen femna Shqiptare, se sa keq
@@ -57,7 +57,7 @@ shtati më ishte drobitë. Edhe syt m'ishin turbullue dhe më qitshin
 xixa lodhjeje. E ndijsha nevojën urdhëruese për t'u prehë e qetsue. E
 vuna librin me nji anë dhe u shtrina për të flejtë, por nuk më lejshin
 mendimet. Si grenza të kuqe më msyejshin mendimet dhe më kafshojshin
-pamëshirshëm tue më shkaktue dhimbjë në zemër. Po, mendojsha për Dijen
+pamëshirshëm tue më shkaktue dhimbje në zemër. Po, mendojsha për Dijen
 e ngratë. Dojsha të gjej se në ç'gjendje ndodhesh aso kohe. Tue gjykue
 se ajo pritte prej meje nji përgjigje zotuese, nisa me u shqetsue se
 mos vdes përpara se të jem takue me te. Prandaj vendosa të nisem.
@@ -81,7 +81,7 @@ m'a dha këtë telegram që vinte prej t'atit të Dijes së mjerë.
 Sulë Kërthiza”
 
 Punën, për të cilën kisha shkue atje, e lashë pa e krye dhe pa humbë
-kohë u nisa për Tiranë. Por të nesermen sosa, pse na u prish
+kohë u nisa për Tiranë. Por të nesërmen sosa, pse na u prish
 automobili në rrugë. Kur mbrrina në kryeqytet ajo kishte vdekë dhe
 ishte vorrue.
 
@@ -91,4 +91,4 @@ vorri i saj dhe, me lot ndër faqe, u betova se do t'a përmbush
 dëshirin e saj.
 
 Në marrëveshtje me Shpendin, vendosa t'i shtyp shënimet e saj në formë
-libri që janë si shpërblim për të dhe si mësim për të tjerët
+libri që janë si shpërblim për të dhe si mësim për të tjerët.

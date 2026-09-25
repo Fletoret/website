@@ -1,10 +1,10 @@
 ---
-title: Hidhet e perhidhet
+title: Hidhet e përhidhet
 author: Migjeni
 respectLineBreaks: true
 parent: Kangët e rinis
 grandparent: Vargjet e lira
-order: 9
+order: 15
 ---
 
 Hidhet e përhidhet në shtregullën e fatit
@@ -32,7 +32,7 @@ mfshehtas fillon lojën tinzake, si krymbi
 në thalbin e mollës… e syni i të riut
 merr hijen e vendit, hijen e një murit
 mbrapa të cilit rrahin zemrat e makinat
-m'i krijuejetë të tjetër, njeriun e gurit…
+m'i krijue jetë të tjetër, njeriun e gurit…
 … po, një ringjallje mbi të vjetra kalbsinat.
 Syn' i të riut muer hijen e atij murit.
 Hidhet e përhidhet

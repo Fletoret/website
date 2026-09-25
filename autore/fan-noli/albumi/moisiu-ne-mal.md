@@ -26,7 +26,7 @@ Skllevë, bij skllevësh, s'e meritoni
 Se liri s'doni!"
 
 Kryeprofetit dita i ngryset
-dhe shpirtkëputur përdhe përmbyset
+Dhe shpirtkëputur përdhe përmbyset
 Me lot në sy, me zemër të ngrirë
 I lyp mëshirë.
 
@@ -35,9 +35,9 @@ Pse më përplase, më përpëlise,
 Pse shpresën dyzet vjet ma ushqeve,
 Dhe sot ma preve?
 
-“Nem Dhen' e Lirël! Zot ku ma ke?"
+"Nem Dhen' e Lirë! Zot, ku ma ke?"
 "Shiko, i tha, dhe ja ku e pe!"
-Sëlargu Zoti ia pasqyron,
+Së largu Zoti ia pasqyron,
 Dhe e shikon.
 
 Ja Nazareti, ja Bethlehemi,

@@ -4,12 +4,12 @@ author: Migjeni
 respectLineBreaks: true
 parent: Kangët e mjerimit
 grandparent: Vargjet e lira
-order: 13
+order: 31
 ---
 
 Na shprehun të ngushlluem gjetme në vaj…
 Mjerimet i morme në pajë
-mejetë… se kjo botë mbarë
+me jetë… se kjo botë mbarë
 ndër gji t'Univerzumit asht një varrë,
 ku qenia e dënueme shkrrahet rrshanë
 me vullnet të ndrydhun në grusht të një vigani.

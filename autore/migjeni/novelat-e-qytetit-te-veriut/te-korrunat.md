@@ -31,7 +31,7 @@ që ndien hollë e thellë.
 Pa masë u gezoheshin njerzit të korrunave t'ardhshme. Nga
 kodra e fshatit shikojshin se si arat e grunit si një det i gjelbër,
 trazohen nga flladi i lehtë i perëndimit. Dhe fshatarët shikojshin
-me sy, ndjejshin se si ritet gruni, e si me grunin dhe ata rriten,
+me sy, ndjejshin se si rritet gruni, e si me grunin dhe ata rriten,
 mbrrijnë deri në qiell, bahen titaj. Oh! Oh! iu shmangej nga gjoksi
 i kënaqun tue andrrue të korrunat e ardhshme.
 
@@ -55,7 +55,7 @@ Kur iu avitën arave të tyne, fshatarët nisën t'i fërkojnë syt.
 Shikojshin para vetes arat e tyne dhe fërkojshin syt. Nuk u
 besojshin syve të vet. Grykat e topave të luftës u kërcnoheshin t'i
 përpijnë. Ishin drejtue drejt fshatit. U baheshin fshatarve, këto
-topa, si perbindshat e prrallave që kanë ndëgjue nga giyshat e
+topa, si perbindshat e prrallave që kanë ndëgjue nga gjyshat e
 tyne dhe u dridhej këmisha mbi shtat.
 
 — Ç'asht kjo? - thojshin tue iu avit topave si të harlisun. I prekshin

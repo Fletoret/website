@@ -13,7 +13,7 @@ Bashk me sa sa lule tjera;
 Por e njom nuk mbet asnjêna,
 Se u thane plot mallim!
 
-Un i ruj kto lule t'thata—
+Un i ruj kto lule t'thata —
 Tuj i pa këto kujtime
 Nji mêndim po vjen me turr.....
 Gzohet prap kjo zêmer ngrata,

@@ -28,7 +28,7 @@ qenë shumë e ndryshme nga ajo që është hedhur brenda."[^1]
 
 Dhe më tej: "Askund nuk ekziston sot një grup
 njerëzor, i cili i përgjigjet përpikërisht ndonjë nënlloji
-sistematik si të kafshët, sepse nënllojet origjinale janë
+sistematik si te kafshët, sepse nënllojet origjinale janë
 kryqëzuar herë pas here dhe vazhdimisht. Për popullsitë
 ekzistuese duhet të përdoret termi i tërthortë "grup etnik"!"
 
@@ -153,7 +153,7 @@ në kontakt autoritetet e imigrimit në Amerikë. Duke u
 bazuar kryesisht në gjetjet e dr. Paul Tregerit, ja se çfarë
 thotë dr. Folkmar për racën shqiptare:
 
-_SHQIPTARËT_ (emri vendas _Shqiptar_, emri i lashtë _Ilir_,
+"_SHQIPTARËT_ (emri vendas _Shqiptar_, emri i lashtë _Ilir_,
 nga turqit quhen _Arnautë_). Raca ose popullsia vendëse,
 rrënjëse e Shqipërisë ose e Turqisë Perëndimore. Ndryshe
 nga shumica e të ashtuquajturave "raca" evropiane, kjo është
@@ -182,6 +182,7 @@ rrumbullakët ose jo të zgjatur.
 
 
 ## II
+
 Nga pikëpamja historike, shqiptarët janë pasardhës
 të ilirëve, banojnë në trevat e tyre dhe flasin gjuhën e
 tyre. Këtu kemi tre pohime që kanë nevojë për
@@ -309,6 +310,7 @@ krahinave angleze Jorkshir dhe Devon. Ne jemi të
 kënaqur me këtë pranim të heshtur të një gabimi.
 
 ## III
+
 Shqiptarët përbëjnë një popullsi homogjene
 kompakte, që flet të njëjtën gjuhë nga një cep i vendit në
 tjetrin. Megjithatë ka pak elemente heterogjene, që
@@ -349,7 +351,7 @@ Nuk ka dyshim që Kekaumenosi ka qenë i sinqertë:
 ai nuk kishte aspak ndër mend që ta botonte librin, kjo
 ishte më tepër një këshillë prindërore për të bijtë, një
 lloj testamenti politik për ta pasur në arkivat e familjes.
-Megjithatë akuza e tij e mërshme kundër një grupi të
+Megjithatë akuza e tij e [tmerrshme] kundër një grupi të
 tërë racor duhet të merret me rezervë shumë të madhe.
 Kekaumenosi ka qenë një dinjitar bizantin, i ngarkuar
 me qeverisjen e një populli të huaj dhe përshtypjet e tij
@@ -372,7 +374,7 @@ _arixhinjtë_. Ashtu si dhe gjetkë, ata janë të ndarë në dy
 grupe: arixhinjtë e mirëfilltë endacakë dhe arixhinjtë e
 ngulur, evgjitët. Të parët merren me kuaj dhe thurin
 shporta, të dytët janë kovaçë, kallajxhinj, sazexhinj dhe
-valltare. Gratë ndonjëherë argëtojnë gejflinjtë. Po t'i lëmë
+valltare. Gratë ndonjëherë argëtojnë qejflinjtë. Po t'i lëmë
 këto mënjanë, arixhinjtë e Shqipërisë janë një skotë mjaft
 e padëmshme dhe e këndshme, kurse ata të Tiranës, të
 cilët ndonjëherë janë mjaft të bardhë e madje flokëverdhë,
@@ -417,7 +419,7 @@ këtij problemi, ka vënë në dukje se Shkodra ka qenë
 shqiptare shumë shekuj përpara sesa serbët të kishin
 kaluar Danubin. Ky autor, Wadham Peacock, thotë më tej:
 
-> Fakti qendror dhe më i rëndësishëm është se kombësia
+> "Fakti qendror dhe më i rëndësishëm është se kombësia
 shqiptare është njohur nga vetëdija evropiane, ndërsa ky
 qytetërim i është mohuar Polonisë së shekullit të njëzetë.
 Ndërmjet shqiptarëve dhe sllavëve ka disa shekuj urrejtjeje
@@ -433,10 +435,10 @@ historike, e ka tjetërkush mizën në kësulë." [^8]
 
 
 [^1]: Julian S. Huxley dhe A. C. Haddon, We Europeans, A Survey of "Racial" Problems, Londër, 1935, f. 23.
-[^2]: Eugène Pittard, Les Races et I'Histoire, Paris, 1924, f. 3
-[^3]: P. Traeger, "Mitteilungen und Funde aus Albanien." Z.f.Ethnologie, Verh. Berlin, 1900; dhe Z.f. Ethnologie, XVII, Berlin, 1901, Sitzungsber. - Dr. Traeger pak më vonê më ka dërguar njé letër, ku jep njé permbledhje të gjurmimeve tê veta.
+[^2]: Eugène Pittard, Les Races et l'Histoire, Paris, 1924, f. 3
+[^3]: P. Traeger, "Mitteilungen und Funde aus Albanien." Z.f.Ethnologie, Verh. Berlin, 1900; dhe Z.f. Ethnologie, XVII, Berlin, 1901, Sitzungsber. - Dr. Traeger pak më vonë më ka dërguar një letër, ku jep një përmbledhje të gjurmimeve të veta.
 [^4]: Eugène Pittard, vep.e cituar, f. 361
-[^5]: Senati, Kongresi i 61-të, dokumenti nr. 662, Dictionary of Race or Peoples, Uashington, 1911, f. 13 vijim
-[^6]: Robert Seymour Conway, The Prae-Italic Dialects of Italy, 3 vellime, Londer, 1933. I gjithe vellimi i pare permban mbishkrimet venete, te quajtura me pare "ilire".
-[^7]: Cecaumeni Strategicon, etc., ediderunt B. Wasiliewsky er V. Jernsted, Petropoli, 189, f. 75. Nie botim i ri ge do re dale i ket) librite rallé, me nje perkthim francez, ishte njoftuar nga Brukseli.
-[^8]: Wadham Peacock, Albania: The Foundling State of Europe, Londer, 1914, f. 177.
+[^5]: Senati, Kongresi i 61-të, dokumenti nr. 662, Dictionary of Races or Peoples, Uashington, 1911, f. 13 vijim
+[^6]: Robert Seymour Conway, The Prae-Italic Dialects of Italy, 3 vëllime, Londër, 1933. I gjithë vëllimi i parë përmban mbishkrimet venete, të quajtura më parë "ilire".
+[^7]: Cecaumeni Strategicon, etc., ediderunt B. Wasiliewsky et V. Jernsted, Petropoli, 189[6], f. 75. Një botim i ri që do të dalë i këtij libri të rrallë, me një përkthim francez, ishte njoftuar nga Brukseli.
+[^8]: Wadham Peacock, Albania: The Foundling State of Europe, Londër, 1914, f. 177.

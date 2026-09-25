@@ -4,7 +4,7 @@ author: Migjeni
 respectLineBreaks: true
 parent: Kangët e mjerimit
 grandparent: Vargjet e lira
-order: 7
+order: 25
 ---
 
 Nëpër hekra të kryqzuem të dritores seme
@@ -35,4 +35,4 @@ edhe e ndjej vetën lua të ndryem në kafas.
 Nëpër hekra të kryqzuem të dritores seme
 shof qiellën të coptueme në katërdhetë copë
 dhe zemra e eme ndien po aq të breme
-në mes të katër murve sii në një gropë.
+në mes të katër murve si në një gropë.

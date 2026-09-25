@@ -4,10 +4,8 @@ author: Migjeni
 respectLineBreaks: true
 parent: Kangët e rinis
 grandparent: Vargjet e lira
-order: 4
+order: 10
 ---
-
-Z. B.*
 
 Buzmramja u dridhte ndër afshet e mbramë
 të diellit përndimuer
@@ -17,7 +15,7 @@ ku në fund u pasqyronte një dashni e lume
 si vegimet e fatbardhsis në lima,
 mbi të cilin tërthuer fluturon një pëllumb
 dhe gëzime të pamatna gugon pa pra.
-Zojushë, q'at buzmramje
+Zojushë,[^1] q'at buzmramje
 unë andrroj me andje
 dhe me një dashni të pastër
 ata dy sy tuej të kaltër,
@@ -25,4 +23,4 @@ që m'u falne letë
 me një shikim diskret.
 
 
-_* Zonjushës Bojka, mikes së tij (Bojka Nikolla)_
+[^1]: Z. B., zonjusha Bojka, mikja e tij (Bojka Nikolla).

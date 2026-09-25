@@ -13,7 +13,7 @@ mendimet, trazyre e çuditshme e jetës së shpellave
 dhe e kohës së mesme, me ca gjurmë gjysmë të
 shuara të mbetura nga vjetërsia klasike, dhe me një
 spërkatje të rrallë të qytetërisë së sotme, - të gjitha
-këto e tërhiqnin mendjen e sovranit tonë dhe e
+këto e tërhiqnin mendjen e savantit tonë dhe e
 interesonin pa masë. I pëlqente veçan pazari, kur
 fshatarët nga fusha e Tiranës dhe nga malet më të
 largme, burra dhe gra, djem dhe vajza, vinin për të
@@ -46,7 +46,7 @@ shpresëdhënëse për të pritmen e racës.
 
 Ashtu shkuan ditët e para në Tiranë. Dhe duke
 hyrë në marrëdhënie me popullin, dr. Gjëlpëra nisi
-të kuptonte më mirë frymën e vendit. Zemëra e tij
+të kuptonte më mirë frymën e vendit. Zemra e tij
 nuk u ftoh nga mungesat dhe vogëlitë që zbulonte
 në karakterin e këtij populli; po ca më tepër i rritej
 dëshira që të merrej me stërvitjen e tij, se shpirtrat e
@@ -65,13 +65,13 @@ mori një pjekje me këta njerëz të mirë, dhe shkoi
 bashkë me Ibn-el-Kelbin t'i vizitojë. Qëlluan më
 parë në shtëpi të Muhidinit. E gjetën again
 këmbëkryq mbi një qilim elegant të Persisë, duke
-pirë një çibuk nja tri pëllëmbë të gjatë. Që një njeri
+pirë një çibuk nja tri pëllëmbë të gjatë. Qe një njeri
 me mjekër kripë-piper dhe me sy të vegjël, të zez
 dhe si të ndezur; veshja e tij ish një trazim petkash
 kombëtare dhe fetare: brekushe dhe xhybe, opinga
 dhe njëfarë çallme, dhe në mes një brez prej
-mendafshi disangjyrash. Dukja e Muhidin Agait ish
-një ashketiu të dalldisur në mejtime të botës tjetër.
+mëndafshi disangjyrash. Dukja e Muhidin Agait ish
+e një asketi të dalldisur në mejtime të botës tjetër.
 U ngrit me një oborrësi të ftohtë që të presë
 mysafirët, të cilët u ulën në një minder kundrejt tij.
 Fjalët e Muhidin agait qenë të pakta dhe me vend:
@@ -85,14 +85,18 @@ pak zaife. Kini mirësinë t'i jipni ndonjë ilaç?"
 
 "Dalë të shohim se ç'ka më parë. Mund që s'ka
 nevojë për ilaçe", - u përgjigj doktori.
+
 "Gjylua! - thirri Muhidin agai, - dil aty prapa
 derës."
 
 "Peqe, këtu jam, aga!" - u përgjegj një zë i
 hollë gruaje.
+
 "Tani ç'thoni, doktor bej?" - pyeti Agai.
+
 "Po unë s'e pashë të sëmurën", - tha dr.
 Gjëlpëra.
+
 "Po s'mund ta shifni, doktor bej, se na e
 ndalon dini që të nxjerrim gratë."
 
@@ -103,30 +107,32 @@ shikuar njeriun e sëmurë."
 "Po ja t'ju them unë se ç'ka: Kollitet."
 
 "Dhe natën djersin?" - pyeti doktori.
+
 Këtë radhë u përgjigj Gjylnarja prapa derës:
 "Evet, doktor bej."
 
 "Dhe ka ethe?"
 
 "Evet, doktor bej", - vazhdoi Gjylnarja.
+
 "Dhe pështyn gjak?"
 
 "Evet, doktor bej."
 
 Dr. Gjëlpëra, pas këtyre pyetjeve, qëndroi dhe
 u mejtua pak.
+
 "Muhidin Aga, - tha më në fund, - më duket
 se e dini sëmundjen që ka zonja. S'është nevoja t'ju
 kallëzoj emrin e sëmundjes, se shumica e njerëzve
 tremben më kot nga emrat. Arrin t'ju them se është
 një sëmundje e rëndë, po jo dhe për dëshpërim se
-njeriu ka në trup të tij një fuqi.."
+njeriu ka në trup të tij një fuqi..."
 
 "Asht fuqia e Allahut", - tha Muhidin agai,
-duke i prerë fjalën,
+duke i prerë fjalën.
 
-"Maj-haj, fuqia e Allahut", - shtoi Ibn-el-
-Kelbi.
+"Maj-haj, fuqia e Allahut", - shtoi Ibn-el-Kelbi.
 
 "Njeriu, - vazhdoi dr. Gjëlpëra - ka në trup të
 tij një fuqi, të falur nga Allahu, e cila fuqi mund
@@ -142,7 +148,7 @@ përsëri Muhidin agai.
 "S'thom jo, - u përgjegj doktori, - të falur prej
 Allahut, se juve që i thoni me aq siguri, do të jeni
 ndodhur kur Allahu ia bëri atë dhuratë njeriut. Po
-le të mos harrojmë edhe një gjë. Muhidin agai,
+le të mos harrojmë edhe një gjë, Muhidin aga,
 Allahu ia ka bërë njeriut edhe një tjetër dhuratë, i
 ka falur mend. Tani mos e përbuzni këtë dhuratë ..."
 
@@ -165,7 +171,7 @@ thoni zonjës të hyjë dhe të zhvishet."
 "Të zhvishet! Meazallah!" - thirri Muhidin
 agai.
 
-"Qyqja", - briti Gjylnarja përpara derës.
+"Qyqja", - briti Gjylnarja prapa derës.
 
 Muhidin agai u hodh në këmbë dhe nxori
 koburën. Doktori me axhentin e Kamorrës u ngritën
@@ -177,7 +183,7 @@ u hodh mënjanë dhe plumbi qëlloi në pasqyrë dhe e
 dërrmoi njëqind thërrime. Dr. Gjëlpëra me shpejtim,
 po me gjakftohtësi, nxori një copë të trashë magnezium
 dhe i vuri zjarrin: një flakë dhe një dritë e
-bardhë e sipërm natyrshme plasën dhe e mbuluan
+bardhë e mbinatyrshme plasën dhe e mbuluan
 atë çast odën, posi njëqind vetëtima të bashkuara.
 Muhidin agai ngriti të dy duart në shenjë lutjeje
 Perëndisë dhe ra në gjunjë duke thirrur: "Eshhedu
@@ -187,13 +193,12 @@ të hutuar dhe e hoqi zvarrë jashtë. Të
 gjithë këto ngjanë si në një ëndërr; në më pak kohë
 që duhet të kallëzohen.
 
-Kur doli në oborrte shtëpisë së ulur dhe po
+Kur doli në oborr të shtëpisë së ulur dhe po
 largohej me shokun, dr. Gjëlpëra shikoi në
 penxheret. Muhidin Agai ish edhe me gjunjë, por
 tani me duart e shtruara mbi gjunjët, dhe duke ulur
 e ngritur trupin me një të tundur djepi këndonte
-texhvid suran' e parë të Kurani-Qerim-it: "El-
-hamdulil-Lahi-rabb-alemin" etj., pa fjalë, si
+texhvid suran' e parë të Kurani-Qerim-it: "El-hamdulil-Lahi-rabb-alemin" etj., pa fjalë, si
 mirënjohje që Perëndia e kish shpëtuar nga rreziku.
 Doktori, me agjentin e Kamorrës, edhe të habitur,
 ndenjën ca kohë pa folur. Dr. Gjëlpëra ish i kënaqur
@@ -201,8 +206,7 @@ me veten e tij; kish parashikuar ngjarje të këtilla,
 dhe mbante kurdoherë në xhep disa ndihma të vogla
 të kimisë për të trembur, për të vënë në gjumë, për
 të plagosur lehtë, dhe, po t'ish nevojë, si vetëmbrojtje
-të jetës, për të vrarë me shpejtimin e rrufesë. Ibn-
-el-Kelbi, më në fund mblodhi veten dhe mundi të
+të jetës, për të vrarë me shpejtimin e rrufesë. Ibn-el-Kelbi, më në fund mblodhi veten dhe mundi të
 flasë.
 
 "Zoti doktor, qenkeni njeri i çuditshëm.
@@ -232,8 +236,8 @@ nevojë, kini kohë."
 tek e kemi përpara shtëpinë e tij."
 
 
-Dhe ca çaste më vonë, trokitëm në derë të
-Zylfikar Agait dhe hymë në shtëpi. Zylfikar Agai,
+Dhe ca çaste më vonë, trokitën në derë të
+Zylfikar Agait dhe hynë në shtëpi. Zylfikar Agai,
 fytyrërrumbullak, me mjekër të rrojtur, me mustaqe
 majëtëpjetë, vetulltrashë, veshur me xhurdi dhe
 me brekushë të bardha si dëborë, u ngrit nga shiltejë
@@ -259,8 +263,8 @@ së Tujanit."
 
 Agait iu ngrys fytyra.
 
-"Me vjen keq me ia prish qejfin heqimit, po
-ajo tokë nuk për të shitur." - u përgjigj Agai.
+"Më vjen keq me ia prish qejfin heqimit, po
+ajo tokë nuk [asht] për të shitur", - u përgjigj Agai.
 
 "Na thanë sikur ish për të shitur", - tha dr.
 Gjëlpëra.
@@ -303,11 +307,11 @@ Zylfikar Agai i hodhi mjekut një sy gërmues.
 "Në qoftë se më jepni pesëdhjetë mijë
 napoleona mund ta shes", - u përgjigj Zylfikar Agai.
 
-Një qeshje e madhe e dr. Gjelpërës dhe Ibn-el-Kelbit i priti këto fjalë të çuditshme.
+Një qeshje e madhe e dr. Gjëlpërës dhe Ibn-el-Kelbit i priti këto fjalë të çuditshme.
 
 "S'kërkoni shumë, vetëm dhjetë mijë
 napoleona dynymin", - tha Ibn-el-Kelbi, dhe shtoi
-duke iu kthyer dr. Gjelpërës.
+duke iu kthyer dr. Gjëlpërës.
 
 "Urdhëroni të dalim, zotni doktor; Zylfikar
 Agai sot paska pi hashish dhe s'di se ç'flet. Asht mjaft
@@ -316,7 +320,7 @@ për disa tradhti që ka ba karshi Vatanit. Urdhëroni
 të dalim, zotni doktor se unë kam pak punë në zyrë
 të Policisë."
 
-"Dilni, jahu, mos bëni axhele." - Sikur u
+"Dilni, jahu, mos bëni axhele", - sikur u
 lut Zylfikar Agai.
 
 "S'kemi nge për muhabete, zotni," - bëri Ibn-el-Kelbi.
@@ -382,18 +386,18 @@ Zylfikar Agai, dhe iu adresua mjekut.
 "Doktor bej, për dyqind napolijona, e shes
 tokën, fekat merret vesh nji e shitun me shart."
 
-"Ja një kapar 50 napoleonësh". - tha dr.
+"Ja një kapar 50 napoleonësh", - tha dr.
 Gjëlpëra dhe nxori e ia numëroi Zylfikar Agait.
 
 Ashtu, një punë e mërzitur dhe e zgjatur tepër,
 mori një fund të pëlqyer.
 
-"Nesër, - tha Zylfikar Agai, - urdhëroni ketu:
-une kam me thirrë avokatin per me mbaruar punën."
+"Nesër, - tha Zylfikar Agai, - urdhëroni këtu:
+unë kam me thirrë avokatin për me mbaruar punën."
 
 
-Ashtu caktuan kohen, dhe doktori me
-agjentin e Kamorrës u ngritën te shkojnë.
+Ashtu caktuan kohën, dhe doktori me
+agjentin e Kamorrës u ngritën të shkojnë.
 
 "Ju kam shumë rixha, urdhëroni rrini edhe
 pak, - tha Zylfikar Agai, - po bëhet kafja, dhe sa të
@@ -404,13 +408,13 @@ adet."
 "Urdhëroni!" - iu përgjigj dr. Gjëlpëra dhe u
 ul përsëri.
 
-"Kam gruan te sëmurë, heqim bej, dhe dua një
-ilaç.
+"Kam gruan të sëmurë, heqim bej, dhe dua një
+ilaç."
 
 Dr. Gjëlpëra i preu fjalën menjëherë:
 
 "Ajo gjë është e pamundur; jam mjek vetëm
-per burra, s'jam mjek grash."
+për burra, s'jam mjek grash."
 
 
 "Axhaip! Po pse?" - pyeti Zylfikar Agai.
@@ -431,13 +435,13 @@ bëri Zylfikar Agai.
 
 "Jam i bindur se në një vend me namuz' si
 Shqipëria, e vetmja udhë që të këqyren gratë e
-sëmurë ashtu siç duhet është te sjellim ca
+sëmurë ashtu siç duhet është të sjellim ca
 doktoresha."
 
 Arifeja, e fshehur prapa derës, nxori përsëri
-zerin e hollë te saj.
+zërin e hollë të saj.
 
-"Po neve, grave te sëmura si do të na bëhet
+"Po neve, grave të sëmura si do të na bëhet
 halli, doktor bej? Na kemi me vdekur gjersa të vinë
 doktoreshat".
 
@@ -481,10 +485,10 @@ lënë punën për më tutje, në qoftë se mund t'i bindte
 këta njerëz të mbarë ta lenin provën për më vonë.
 
 "Po presim pra, doktor bej", - qortoi me butësi
-zëri i hollë prapa derës,
+zëri i hollë prapa derës.
 
 "Më falni që ju bëra të prisni", - tha dr.
-Gjëlpëra, - "ju lutem, zonjë si e ndjeni veten dhe ku
+Gjëlpëra, - "ju lutem, zonjë, si e ndjeni veten dhe ku
 kini të dhëmbura?"
 
 
@@ -510,13 +514,13 @@ beut", - thirri Arifeja.
 
 Dhe para se të mbetej kohë për të protestuar,
 vajza e vogël Lejlaja, hyri me një darë të frikshme
-dhe ia dha dr. Gjelpërës.
+dhe ia dha dr. Gjëlpërës.
 
 "Kjo asht darë për të shkulur gozhdë!" -
 protestoi mjeku me një tingëllimë lutjeje në zërin e tij.
 
 "Heqim beu ka hak, - bërtiti Zylfikar agai i
-vërdhër; - ta lërmë për një herë tjetër."
+verdhë; - ta lërmë për një herë tjetër."
 
 "Ke frikë, Zylfikar agë; jazëk të qoftë!" - tha
 Arifeja.
@@ -561,7 +565,7 @@ Dr. Gjëlpëra hapi sytë: A kish përpara një
 ngjarje shërimi nga besimi i fortë në shërimin e
 pritur, apo kish të bëjë me një grua të bezdisur nga
 kafshëritë e një burri të ashpër, e cila e kapi këtë
-rast për të nxjerrë inatin e mundimeve që hiqte? Dr.Gjëlpëra kish dëgjuar se gratë e Tiranës janë
+rast për të nxjerrë inatin e mundimeve që hiqte? Dr. Gjëlpëra kish dëgjuar se gratë e Tiranës janë
 shakaxhesha të mëdha; dhe ndonëse Zylfikar agai
 s'dukej njeri i keq, s'dukej as të dinte se dhe gruaja
 ka të drejtën e saj. Kush i di tragjeditë e përditshme
@@ -576,23 +580,23 @@ zëri i hollë i Arifesë u dëgjua përsëri prapa derës:
 "Jam shumë mirë prej dhëmbëve, doktor bej,
 s'kam më, kujtoj se s'kam pasë kurrë më, të
 dhimbuna. Po kam një tjetër hall; më dhemb kryet,
-e shume herë më merren ment."
+e shumë herë më merren ment."
 
 "A dilni në rregull jashtë?" - pyeti dr.
-Gjëlpëra,
+Gjëlpëra.
 
 "Jo me rregull, doktor bej."
 
-Dr. Gjelperes iu kujtua se në një spiceri, afër
-shtëpisë se Zylfikar agait, kish parë ca shishe
-Hunyadi Janos. Nxori një cope kartë, shkruajti ca
+Dr. Gjëlpërës iu kujtua se në një spiceri, afër
+shtëpisë së Zylfikar agait, kish parë ca shishe
+Hunyadi Janos. Nxori një copë kartë, shkruajti ca
 fjalë, dhe iu lut Zylfikar agait ta dërgojë në vend.
 Lejlaja mori kartën dhe doli; dhe pa shkuar shumë
 kohë, u kthye me një shishe Hunyadi Janos.
 
 "Zylfikar Aga, - tha doktori, - që të mos i
-dhembë më kryet Zonjes, dhe që të mos i merren
-mend, do t'ju jap juve të pini gjysmën e këtij ilaci."
+dhembë më kryet Zonjës, dhe që të mos i merren
+mend, do t'ju jap juve të pini gjysmën e këtij ilaçi."
 
 "Zonjë! - vazhdoi doktori, - Zylfikar agai e
 ka gjumin e lehtë?"
@@ -619,15 +623,15 @@ agai u verdh:
 
 "Nuk është shum', heqim bej?"
 
-Në vend të dr. Gjelpërës, foli Ibn-el-Kelbi.
+Në vend të dr. Gjëlpërës, foli Ibn-el-Kelbi.
 
 "Ajo është puna e zotni doktorit, - i tha
 agjenti i Kamorrës, - ti, Zylfikar Agë, si erzlli që
-je, ke borxh me e shëru gruan; pije pra ilacin, pa
+je, ke borxh me e shëru gruan; pije pra ilaçin, pa
 pyetur bashtan sa më suale."
 
 Zylfikar aga e mori Hunyadi Janos-in dhe nisi
-ta pije, po që në gllënjkë të parë shtrembëroi turinjtë dhe
+ta pijë, po që në gllënjkë të parë shtrembëroi turinjtë dhe
 qëndroi duke thirrur:
 "Asht e hidhur fort, nuk pihet, heqim bej!"
 
@@ -644,14 +648,14 @@ sytë, e piu shishen me zor gjer në fund.
 
 "E dija, që Zylfikar Aga ashtë trim", - tha
 Arifeja, sikur me një tingull përqeshës në zë të saj,
-iu duk dr. Gjelpërës.
+iu duk dr. Gjëlpërës.
 
 "Doktor bej, - vazhdoi zëri i hollë prapa derës, - e ndiej veten shumë më mirë, nuk më dhemb më
 kryet, nuk më merren mend."
 
 "Dhe do të shëroheni fare, në qoftë se Zylfikar
 aga bën përhi dy ditë. Dyzet e tetë orë mos i jepni
-hiç gjësëndi, veç ujë", - porositi dr. Gjëlpëra.
+hiç gjësendi, veç ujë", - porositi dr. Gjëlpëra.
 
 "Aman, heqim bej!" - u lut Zylfikar Aga.
 
@@ -675,7 +679,7 @@ Gjëlpëra.
 dhe mos harroni, kur të mbarohet përhizin, ta prishni
 përhizin duke ngrënë pak dhe gjëra të lehta jo duke
 nisur menjëherë nga gjellë e rënda. Dhe juve, Zonjë,
-ju porosit që Zylfikar Agait të mos i vini veshin në
+ju porosis që Zylfikar Agait të mos i vini veshin në
 qoftë se ngrihet në mes të natës dhe kërkon kafe
 dhe nargjile: Doktori bën jasak; dëgjuat?"
 
@@ -695,7 +699,7 @@ Dhe i përcjellur me falënderimet e Arifesë,
 mjeku ynë doli bashkë me agjentin e Kamorrës.
 
 "Një ilaç i dhimbshëm, i panevojshëm, po
-për një herë vetëm nuk është liksht për Zylfikar
+për një herë vetëm nuk është ligsht për Zylfikar
 aganë", mejtonte dr. Gjëlpëra. "Njeriut i qërova gojën
 dhe zorrët, gruaja është e kënaqur. Megjithëkëtë,
 ngjarja është e çuditshme, është një faj kundër së
@@ -714,10 +718,10 @@ mjeku që është armik i mjekësisë së rremë."
 "Cila është mjekësi e rremë, cila mjekësi e
 vërtetë?" - pyeti dr. Emrullahu.
 
-"Mjekësia e rreme" - u përgjigj dr. Gjëlpëra, -
+"Mjekësia e rremë" - u përgjigj dr. Gjëlpëra, -
 "është mjekësia statike, mjekësia që rri në vend pa
 përparuar, që ushqehet me formula të vjetra, që është
-fanatike dhe dogmatike, po si një fe, që nxjerr
+fanatike dhe dogmatike, posi një fe, që nxjerr
 rregulla absolute nga premisa të pakontrolluara, që
 e merr mishin e gjallë të njeriut si një shesh prej
 guri ku mund të derdhen për provim dhe pa mëshirë
@@ -751,24 +755,24 @@ them tani pse i këshillova zotit Salemboza ta flakë
 ilaçin e dr. Emrullahut. Duhet të dini, - dhe padyshim
 që e dini, po shumë herë e harroni, - që njeriu dhe
 kafshët nuk mund të rrojnë duke u ushqyer me lëndë
-inorganike. Vetëm barërat, shëlgjet, kanë fuqi të
+inorganike. Vetëm barërat, shelgjet, kanë fuqi të
 marrin ushqim me lëndë inorganike, nga lëndë
 kimike. Është, pra, një marrëzi kur gjakut të një të
 sëmuri i mungon p.sh. hekur, të kuptojmë se duke i
 dhënë të hajë lëndë inorganike si gozhdë ose toz
 hekuri në formë hapesh ose të trazuara me verë, ai
-hekur do të thithëhet në gjak të njeriut. Nuk është
+hekur do të thithet në gjak të njeriut. Nuk është
 gjë që bëhet. Po në qoftë se ai i sëmuri ushqehet ca
 kohë me barëra që kanë hekur, duke qenë se barërat
 janë lëndë organike, mund të jemi të bindur se efekti
 mbi gjakun e njeriut do të jetë i domosdoshëm."
 
-Te dy mjekët qeshën me një të qeshur të thatë.
+Të dy mjekët qeshën me një të qeshur të thatë.
 Dr. Gjëlpëra qeshte dhe ai, po përbrenda, me
 injorancën e këtyre palaçove:
 
 "Dalëni pakëz, m'u duk sikur dje pashë,
-hapeni pak gojën", - i tha dr. Dhallës,
+hapeni pak gojën", - i tha dr. Dhallës.
 
 Ky e hapi gojën.
 
@@ -793,7 +797,7 @@ një bisedim tjetër:
 "Kristofor Kolombi, - tha, - duke zbuluar
 Amerikën, pruri shkatërrimin e popujve, që rronin
 atje, të paditur dhe të lumtur. Pëllëmbë me pëllëmbë,
-të bardhët zaptuan dhënë; njëri pas tjetrit, Indianët
+të bardhët zaptuan dheun; njëri pas tjetrit, Indianët
 u zhdukën. Po Amerika mori një shpërblim të
 frikshëm nga Evropa: Amerika na dërgoi dy
 sëmundje të panjohura në botën e vjetër; -
@@ -808,14 +812,14 @@ dërgonte edhe ajo dy dhurata botës së re. Kasniku,
 që kish prurë në Evropë frengjyzin me duhanin, u
 kthye në Amerikë, mbushur me alkoolin dhe me
 gënjeshtrën. Dhe indianët që s'dinin as të rronin as
-të pinin, nxunë të bëhen gënjeshtarë dhe pijanikë,
+të pinin, nxunë të bëhen gënjeshtarë dhe pijanikë.
 _Les petits cadeaux entretiennent l'amitié_, thotë
 Frëngu. Dhe vërtet, dhuratat e vogla e mbajnë të
 gjallë miqësinë. Urdhëroni nga një cigare, zotërinj!"
 
 
 Të dy mjekët e vjetër shikuan njëri-tjetrin,
-dhe ndezen nga një cigarete.
+dhe ndezën nga një cigarete.
 
 "Dr. Habibullah pashai, pi duhan shumë,
 ndonëse është i mendjes se duhani prish", - tha dr.
@@ -823,18 +827,18 @@ Emrullahu.
 
 "Kjo është fjala më e mirë që keni për dr.
 Habibullah pashanë, se provon që Pashai të paktën
-është njeri", - u përgjigj dr. Gjëlpëra,
+është njeri", - u përgjigj dr. Gjëlpëra.
 
-"Af edersiniz, dr. Habibullah pashai është
+"Afedersiniz, dr. Habibullah pashai është
 njeri i madh", - tha menjëherë i mbrojtur dr.
 Emrullahu.
 
 "Një njeri i madh, njeri me mesh-hur, po njeri.
-_Homo sum_, jam njeri, nuk është ashtu, "O
+_Homo sum_, jam njeri, nuk është ashtu, o
 Protagora?" - bëri dr. Gjëlpëra.
 
 "_Vevea fisika_, - tha dr. Protagoras Dhalla. -
-Po mos harroni se helenishtja është më e vjeter se
+Po mos harroni se helenishtja është më e vjetër se
 latinishtja."
 
 
@@ -842,7 +846,7 @@ latinishtja."
 bëri dr. Gjëlpëra.
 
 "S'mbaj mend mirë se ç'thoshte Hipokrati
-për duhanin", - vazhdoi dr. Protagoras Dhalla,
+për duhanin", - vazhdoi dr. Protagoras Dhalla.
 
 "Duhet lexuar korrespondenca e tij
 me Inglizin Sir Walter Raleigh që pruri
@@ -851,13 +855,13 @@ duhanin në Evropë", - këshilloi dr. Gjëlpëra.
 "Nuk e kam lexuar", - tha dr. Dhalla.
 
 "Por gjëja më interesante", - shtoi dr.
-Gjëlpëra, - është korrespondenca e Herodotit me
+Gjëlpëra, - "është korrespondenca e Herodotit me
 Linkolnin."
 
 
-Këtu u bë një lëvizje në Kafene e Erzenit. U
-dëgjua një zhurmë, dhe atë çast shkoi kaluar dilë
-kapardisur ministri Salemboza. Dr. Gjëlpëra e shikoi
+Këtu u bë një lëvizje në kafenenë e Erzenit. U
+dëgjua një zhurmë, dhe atë çast shkoi kaluar, i
+kapardisur, ministri Salemboza. Dr. Gjëlpëra e shikoi
 se Salemboza kruante ballin me gishtin dëftues
 të dorës së mëngjër, dhe dukej i dalldisur në
 mendime të thella.
@@ -868,12 +872,12 @@ punët e saja, - harruat të na kallëzoni ç'patë në gojët
 tona."
 
 "S'harrova aspak," - u përgjigj dr. Gjëlpëra, -
-po thashë se nuk do të interesoheni të mësoni."
+"po thashë se nuk do të interesoheni të mësoni."
 
 "Ju lutem të na thoni", - tha dr. Protagoras
 Dhalla.
 
-"Me gëzim - bëri dr. Gjëlpëra; - dhe që t'ju
+"Me gëzim, - bëri dr. Gjëlpëra; - dhe që t'ju
 nxjerr menjëherë nga meraku, do t'ju thom se më
 dukeni që të dy skorbutikë."
 
@@ -903,7 +907,7 @@ Shqipëri, por jam i bindur se do të ketë shumë
 skorbut, kur shoh se pemë dhe sallata të njoma,
 s'hanë fare ose pak dhe rrallë, dhe veçan kur shoh
 bukën e bardhë pa krunde, që është një helm i
-vërtetë. Duhet t'i këshillojmë Guvernës, ndryshim partie, të bëjë jasak
+vërtetë. Duhet t'i këshillojmë Guvernës, pa ndryshim partie, të bëjë jasak
 miellin e bardhë, sitat dhe bukën e bardhë."
 
 "Po pse?" - pyetën të dy mjekët.
@@ -913,16 +917,16 @@ ngrit e doli nga kafeneja pa shtuar asnjë fjalë.
 
 Të nesërmen dr. Gjëlpëra vajti bashkë me Ibn-el-Kelbin në shtëpi të Zylfikar agait. Kur kapërcyen
 pragun e derës së jashtme dhe shkuan në oborr,
-dëgjuan zërin e Arifësë që thosh:
+dëgjuan zërin e Arifesë që thosh:
 
 "Lejla, çil derën se po vjen doktori."
 
 Dr. Gjëlpëra hodhi një sy përpjetë, dhe i
 pavënë re, vuri re një grua të lulëzuar nga shëndeti,
 me faqe të kuqe dhe me fytyrë të këndshme, e cila
-tregonte dy sërë dhëmbësh të paçme, duke qeshur
+tregonte dy sërë dhëmbësh të paqme, duke qeshur
 nga ana e Lejlajës. Kjo vallë ishte Arifeja? Pa fjalë,
-ajo do ishte. Gjithë dyshimet e dr. Gjelpërës u
+ajo do ishte. Gjithë dyshimet e dr. Gjëlpërës u
 vërtetuan. Arifeja nuk qe e sëmurë; po duke hyrë
 në shpirtin e shakasë së mjekut, kish kapur rastin
 për të ngarë Zylfikar aganë dhe ndoshta, për të
@@ -934,7 +938,7 @@ një hollësi prej natyre që zë vendin e diturisë dhe e
 zë me shkëlqim. Arifeja mund që, me forcë ndonëse
 në një mënyrë të pa caktuar, ndjente nevojën e një
 jete të ndryshme, një jete të ndershme e të drejtë e
-të pastër, po me më tepër diell, me tepër gaz, me
+të pastër, po me më tepër diell, më tepër gaz, më
 tepër shkëlqim mendimesh me botën e jashtme. E
 mbyllur në mes katër muresh, posi një murgeshë në
 fund të një manastiri, jeta e saj e murrme vazhdonte
@@ -945,21 +949,21 @@ nargjilesë.
 
 
 "Dukeni shumë i mejtuar, heqim bej." - Zëri
-i Zylfikar agait e zgjon dr. Gjelperën nga ëndërrimi.
+i Zylfikar agait e zgjon dr. Gjëlpërën nga ëndërrimi.
 
-"Më falni, - tha mjeku, - O, si shkoni Zylfikar
-aga?
+"Më falni, - tha mjeku, - o, si shkoni Zylfikar
+aga?"
 
 "Mos pyesni, heqim bej, u bana perishan.
-Aman, çfarë ilaci asht ai që më dhatë me pi? Kam
+Aman, çfarë ilaçi asht ai që më dhatë me pi? Kam
 dalë jashtë pa pushim, natë e ditë. U bana mahy."
 
 
-"Mos bëhuni merak, Zylfikar aga; ilaci që ju
+"Mos bëhuni merak, Zylfikar aga; ilaçi që ju
 dhashë nuk është i dëmshëm."
 
 
-U ulën të gjithë, Arifeja foli prapa derës:
+U ulën të gjithë. Arifeja foli prapa derës:
 
 "Zylfikar aga mendon vetëm veten e tij,
 s'mendon hiç për të tjerët. Doktor bej, jam shumë
@@ -968,7 +972,7 @@ shkulnin e dhëmbëve më kanë liru vuxhudin prej të
 dhimbunave."
 
 
-"E di Zonjë, dhe jam i gëzuar." - u përgjigj
+"E di Zonjë, dhe jam i gëzuar, - u përgjigj
 dr. Gjëlpëra. - Dhe ju vërtetoj se çdo herë që të
 sëmureni, jam gati të vij t'i jap ilaçet e duhura
 Zylfikar agait. Po sa më rrallë, aq më mirë, zonjë;
@@ -994,7 +998,7 @@ kam u, du me hanger", - bëri Zylfikar agai.
 
 Këtu mori fjalën Ibn-el-Kelbi:
 
-"Madam, që zotni doktori porosit me ba
+"Madem që zotni doktori porosit me ba
 përhiz, duket me pasë sabër, Zylfikar agë, se e ke gru
 dhe asht sevap."
 
@@ -1003,13 +1007,13 @@ Lejlaja pruri kafetë. Dhe tek po pinin, u
 dëgjua një e trokitur në derë, dhe pas ca çaste hyri
 një njeri me xhurdi dhe me brekushe, fytyrë e
 parrojtur e të cilit ish e ndarë në dy prej një hunde
-të madhe me një samar përsipër,
+të madhe me një samar përsipër.
 
-"Evraketjan hazer, Zylfikar agë, - tha njeriu;
-dhe pasi u njoh me dr. Gjelperën u ul dhe nxori një
+"Evraket jan hazer, Zylfikar agë", - tha njeriu;
+dhe pasi u njoh me dr. Gjëlpërën u ul dhe nxori një
 çibuk të gjatë nga brezi. Pastaj shtroi përpara
 kundratën e shitjes. Si i shkëmbyen disa mendime,
-mbetën të gjithë të kënaqur; dhe njeriu emër i të
+mbetën të gjithë të kënaqur; dhe njeriu, emri i të
 cilit ish Nizam-ul-Mulq, e mori përsipër të vejë
 bashkë me Ibn-el-Kelbin për të bërë kajd kartën dhe
 për të nxjerrë tapinë. Ashtu, pas një muhabeti të
@@ -1020,11 +1024,11 @@ punëtorë dhe i vuri ta gërmojnë tokën e tij nga gurët
 dhe ferrat, ta sheshojnë, dhe, atje ku kish ndërmend
 të mbjellë për zarzavata dhe lule, ta lërojnë me
 kujdes. Dr. Gjëlpëra vente çdo ditë të rrijë ndonjë
-orë duke vezhguar punëtorët; dhe ndaj mbrëmave
+orë duke vëzhguar punëtorët; dhe ndaj mbrëmave
 kur dielli ish në të perënduar e sipër, zëri i kulluar i
 muezinit nga minarja më e afërme u jepte rretheve
-një hije bukurie dhe tëri. dr. Gjëlpërës i vente
-mendja në prallat e Shehrazadit, i dukej sikur
+një hije bukurie dhe tëri. Dr. Gjëlpërës i vente
+mendja në përrallat e Shehrazadit, i dukej sikur
 ndodhej për ca çaste nën qiellin e Bagdatit ose të
 Shamit. Dhe kthehej në hotel plot me ëndrra të një
 bote të ndryshme.
@@ -1033,6 +1037,7 @@ Që kur ish zënë me doktorët Emrullah dhe
 Protagoras Dhalla s'kish shkelur më në kafene të
 Erzenit. Një ditë, tek po lahej në tub, u hap dera e
 odës së tij dhe hynë Dhalla me Emrullahun.
+
 "Duhej të kishit trokitur", - u tha mjeku ynë
 dr. Gjëlpëra.
 
@@ -1043,7 +1048,7 @@ Emrullahu.
 keq", - shtoi dr. Protagoras Dhalla.
 
 "Kur marr ilaçe, s'dua të më turbullojnë
-vizitorë", - bëri dr. Gjëlpëra,
+vizitorë", - bëri dr. Gjëlpëra.
 
 "O! Ilaç allij ormesh!" - tha dr.
 Emrullahu.
@@ -1051,7 +1056,7 @@ Emrullahu.
 "Ha-ha, Zoti jatro, merrkëni ilaçe, po i merrni
 fshehur!" - shtoi dr. Protagoras Dhalla.
 
-"Pa fjalë marr, dhe meqë erdhtë dhe s'dua të
+"Pa fjalë marr, dhe meqë erdhët dhe s'dua të
 ju përzë, ju lutem të rrini dhe të vëzhgoni se çfarë
 ilaçesh marr unë."
 
@@ -1097,35 +1102,35 @@ rrezeve të diellit.
 
 Dr. Protagoras Dhalla luftonte me dr.
 Emrullahun kush e kush ta këshillonte më hollë dr.
-Gjelpërën,
+Gjëlpërën.
 
 "Iliotherapia praktikohet vetëm në Elveti,
-adhelfe, - përsëriti nja dy herë dr. Protagoras Dhalla.
+adhelfe", - përsëriti nja dy herë dr. Protagoras Dhalla.
 Dr. Gjëlpëra, i cili ish i shtrirë me bark dhe po thekte
 kurrizin në diell, u mblodh këmbëkryq dhe shikoi
 me kujdes të dy mjekët:
 
 "Jeni njerëz të çuditshëm, - tha, - më habitni
 pa masë. Ku djall e kini gjetur mendimin që
-helioterapia ose elitheorapia, siç thotë miku ynë
+helioterapia ose iliotherapia, siç thotë miku ynë
 dr. Protagoras Dhalla, është e mirë vetëm në Zvicër
 e jo gjetkë? Pse, dielli që ndrit në Zvicër nuk është
 gjithë ai diell që ngroh Shqipërinë? Apo mos ka
 ndonjë diell të veçantë në Zvicër? Është e vërtetë se
-zviceranët janë të zotër pa masë të bëjnë reklama për
+zviceranët janë të zotët pa masë të bëjnë reklama për
 sanatoret dhe të heqin vërejtjen e botës mbi erën e
 pastër të maleve të tyre. Po unë ju di juve mjekëve
 s'jeni njerëz të turmës që të veni pas berihas.
-Mendoni pak, ju lutem!"
+Mendoni pak, ju lutem!
 
-Të thekurit e trupit në diell njihet sot prej
+"Të thekurit e trupit në diell njihet sot prej
 gjithë të diturve si një nga mënyrat më të fuqishme
 për të shëruar njeriun nga disa sëmundje, dhe, në
 qoftë se njeriu nuk është i sëmurë, për të forcuar
 trupin e tij kundër çdo rreziku sëmundjeje. Kur
 paska aq fuqi dielli, kur dielli qenka një ilaç aq i
 mirë dhe aq i sigurt, atëherë, zotërinj, vallë s'kemi
-detyrë ta përdorim edhe në atë ilaç të çuditshëm që
+detyrë ta përdorim edhe ne atë ilaç të çuditshëm që
 s'kushton dhe gjësendi fare? Janë këtu në Shqipëri
 gjysmë milion njerëz të sëmurë, dhe gjysmë milion
 njerëz të tjerë ndodhen në kufi të sëmundjes e të
@@ -1141,17 +1146,17 @@ larta, erën e mesme ("sub-alpine") të maleve më të
 unjura, pyje me pishe, erën e butë të viseve ku
 lulëzojnë portokallet dhe citrot, edhe sipër treqind
 kilometra anë detit; dhe përmbi të gjitha këto
-shkëlqen dielli i përëndishëm i Shqipërisë. Në qoftë
+shkëlqen dielli i perëndishëm i Shqipërisë. Në qoftë
 se s'dime t'i përdorim këto dhurata të natyrës për
 fitimin e popullit, në qoftë se dërgojmë, në Zvicër a
 gjetkë, ca të mjerë të dëshpëruar, që të harxhojnë
 para me kot dhe të prishin në mundimet e
-udhëtimeve atë shëndet të paket që u mbetet, ajo do
+udhëtimeve atë shëndet të pakët që u mbetet, ajo do
 të thotë që ose s'kemi ndërgjegje ose s'kemi për të
 stërvitur vetë popullin tonë në mënyrat e reja të
 mjekësisë. Në një rast vetëm justifikohet dërgimi i
 të sëmurëve jashtë: kur është nevoja për ndonjë
-operate kirurgjike të rëndë, e cila do specialistë që
+operatë kirurgjike të rëndë, e cila do specialistë që
 s'ndodhen në vendin tonë."
 
 
@@ -1178,7 +1183,7 @@ stërvitim si të forcojmë trupin e tyre."
 gjejnë dhe farmaka të çuditshme që s'ndodhen
 këtu", - tha dr. Protagoras Dhalla.
 
-"Haj, haj", - shtoi dr. Emrullahu. - Dr.
+"Haj, haj", - shtoi dr. Emrullahu. - "Dr.
 Habibullah pashai, çdo herë që kthehet nga
 Allamanja sjell ca _fevk-al-ade_ ilaçe që nuk i dijmë.
 _Arnautllëk Avropa di il ja!_"
@@ -1211,7 +1216,7 @@ të drejtë të marrë dhe kjo hisen e saj nga rrezet e
 diellit. Nuk është ashtu, zotërinj? - Dhe pa pritur
 përgjigje, vazhdoi me këto fjalë: - Ah, Protagora,
 Protagora, paskeni ndërruar shumë që në kohë kur
-merrnit pjesë në atë bisedime me famë në shtëpi të
+merrnit pjesë në ato bisedime me famë në shtëpi të
 Kallias-it."
 
 "Cili Kallias? - pyeti dr. Protagoras Dhalla i
@@ -1227,8 +1232,8 @@ Protagoras Dhalla.
 
 "Kini humor, - vazhdoi dr. Gjëlpëra; - po sido
 që në qoftë, fjalët tuaja i ka shënuar Platoni
-shkrimin e tij të quajtur Protagoras, dhe mënyra e
-mendjes suaj asaj kohe që fare e ndryshme.
+në shkrimin e tij të quajtur Protagoras, dhe mënyra e
+mendjes suaj asaj kohe qe fare e ndryshme."
 
 Dr. Protagoras Dhalla qeshi.
 
@@ -1249,14 +1254,14 @@ biseduar aq bukur me Sokratin në shtëpi të
 Kalliasit!? S'qenkeni ju. Më vjen keq. Po, në mos
 jini Protagora i Platonit, ai Protagora, të cilin Sokrati
 e ka quajtur, ndoshta, me ca ironi, më të urtin e gjithë
-njerëzve, - të pakën jini adashi i Protagoras; dhe si
+njerëzve, - të paktën jini adashi i Protagoras; dhe si
 adash do të ish mirë t'i dinit mendimet e tij. Javën
-që vjen nisem për Itali, ku do të vetë për punën e
+që vjen nisem për Itali, ku do të vete për punën e
 shtëpisë që dua të godis në Tiranë. S'do të harroj
 t'ju sjell shkrimin e emëruar "Protagoras" të
 Platonit. A dini të këndoni greqisht, zoti doktor?" -
 Dr. Protagoras Dhalla u skuq, dhe u përgjigj me një
-erë të zëmëruar:
+erë të zemëruar:
 
 "Në mos e di unë, teliofitos tu Panepistimiu
 ton Athinon, greqishten, atëherë, kush do ta dijë?"
@@ -1271,7 +1276,7 @@ si u mendua pak, - në më jepni leje, - i tha dr. Dhallës, -
 do t'ju pyes kuptimin e fjalëve që vazhdojnë, fjalë
 që i kam hasur në tekstet e Platonit:
 
-> Ἅι δόξα, Ἅι ὀρθάι· ἁοέαι ἅι ἀληθεί· τὸ ὀρθοδοξάζουν ἐπιστήμην ὀρθῆς δόξης.
+> Αἱ δόξαι αἱ ὀρθαί· αἱ δόξαι αἱ ἀληθεῖς· τὸ ὀρθοδοξάζειν· ἐπιστήμην ὀρθῆς δόξης.
 
 Si i merrni vesh këto fjalë, zoti doktor?"
 
@@ -1283,8 +1288,8 @@ simasia: lavditë e drejta - lavditë e vërteta - të
 lavdëruarit drejt a dituria e lavdisë së drejtë."
 
 
-"Aspak o Protagora! - iu përgjigj dr. Gjëlpëra:
-- dhoksa, në greqishtes së vjetër, ka kuptimin
+"Aspak o Protagora! - iu përgjigj dr. Gjëlpëra: -
+dhoksa, në greqishten e vjetër, ka kuptimin
 mendim, dhe fjalët që zumë në gojë duan të thonë
 mendimet e drejta, mendimet e vërteta; të menduarit
 gjëra të drejta; dituria e mendimit të drejtë. Shqip
@@ -1299,7 +1304,7 @@ protestuar:
 "Signomi, qirié iatre!"
 
 "S'ka signomi. Nuk e dini greqishtën
-klasike. Mos u bëni i marrë. Uluni! - tha dr. Gjëlpëra.
+klasike. Mos u bëni i marrë. Uluni!" - tha dr. Gjëlpëra.
 
 Dhe si u ul dr. Protagoras Dhalla, duke u
 grindur në një mënyrë të mbyllur, dr. Gjëlpëra
@@ -1331,19 +1336,19 @@ greqishtes së vjetër se sa një nxënës i mirë i Greqisë
 së sotme. Të njohurit e greqishtes së re është një
 pengim i madh për të nxënët e greqishtes së vjetër."
 
-"Paradhokson," -- murmuritë, o Protagora?
+"Paradhokson", murmuritni, o Protagora?
 Aspak. Ashtu ju duket juve, po mua më duket afër
 mendsh. Tani mjaft folëm për gjëra të gjuhës. Fundi,
 është që nuk dini greqishten, ndonëse kujtoni se e
-dini; dhe prandaj është më kot të t'ju bie tekstin
+dini; dhe prandaj është më kot t'ju bie tekstin
 e Platonit Protagoras, se edhe me ndihmën e
-shënimeve dhe fjalori nuk do ta këndoni dot. Po të
+shënimeve dhe fjalorit nuk do ta këndoni dot. Po
 t'ju thom shkurt çfarë mendjeje kish adashi juaj
 Protagoras. Shkrimtari grek Diogjenes Laertios, në
-librin e tij mbi Jëtët dhe mendimet e filozofëve të
+librin e tij mbi Jetët dhe mendimet e filozofëve të
 shkëlqyer, thotë se Protagora ngulte këmbë që çdo
-çështje ka pamje, njëra e përkundërshme nga tjetra.
-"Në të tjera fjalë, Protagora që një relativist", siç
+çështje ka dy pamje, njëra e përkundërshme nga tjetra.
+Në të tjera fjalë, Protagora qe një "relativist", siç
 thonë në gjuhën e filozofisë së sotme. Që të flasim
 hapur shqip, Protagora qe i mendjes se kur ke në
 dorë një gjë, në duam ta kuptojmë mirë, duhet ta
@@ -1353,7 +1358,7 @@ Tani, miku im, zoti doktor Protagoras
 Dhalla, mendja juaj është krejt e ndryshme nga
 adashit tuaj të shkëlqyer. Jini një njeri dogmatik,
 një njeri fanatik, që besoni me krye të ngjeshur në
-gjitha ato që ju thanë në shkollë, duke bërë veshin e
+të gjitha ato që ju thanë në shkollë, duke bërë veshin e
 shurdhër për çdo pikëpamje të ndryshme. Mjekësia,
 siç e kuptoni ju, nuk është një dituri që zhvillohet
 lirisht dhe rritet përditë pa pengim, por është një fe
@@ -1371,7 +1376,7 @@ Dhe me këto fjalë Dr. Gjëlpëra u ngrit të
 vishet.
 
 Të dy mjekët ballkanikë e kishin dëgjuar
-fjalën e Dr. Gjelpërës herë me heshtje, herë me
+fjalën e Dr. Gjëlpërës herë me heshtje, herë me
 protestime, po anë e mbanë me vërejtje. Bisedimet
 vazhduan pasi u ngrit Dr. Gjëlpëra, po vazhduan në
 një mënyrë të palidhur, me shkel e shko. Kur Dr.
@@ -1379,7 +1384,7 @@ Gjëlpëra vuri këmishën e brendshme, prej liri dhe
 pa mëngë, dhe brekët e shkurtra gjer me gju tërë
 prej liri, dhe pastaj mori këmishën e ditës, Dr.
 Emrullahu bashkë me Protagoras Dhallën bënë një
-bërtim çudie,
+bërtim çudie.
 
 "Aman, zoti doktor, - tha dr. Emrullahu, -
 s'paskeni fanellë?"
@@ -1393,7 +1398,7 @@ plevitoseni!" - bëri dr. Dhalla.
 "Aman, zoti doktor, pa fanellë si mund të
 rrojë njeriu?" - vazhdoi dr. Emrullahu.
 
-Dr. Gjëlpëra i shikoi me një sy të çuditur,
+Dr. Gjëlpëra i shikoi me një sy të çuditur:
 
 "Pse ju mbani fanellë?" - pyeti.
 
@@ -1417,7 +1422,7 @@ përgjigjen:
 
 "Unë, zotërinj, po të dua të vras veten, di
 mënyra më të shpejtë e më të ëmbla se të
-burgosur të trupit në fanella qesharake. Kam
+burgosurit e trupit në fanella qesharake. Kam
 dëshirë të rroj. S'kam ndër mend të vdes përpara
 kohës, dhe s'dua t'i jap rast sëmundjes duke
 dobësuar fuqinë qëndronjëse të trupit tim."
@@ -1446,7 +1451,7 @@ Habibullah pashai!"
 Dr. Protagoras Dhalla hyri në mes që t'i
 qetësojë.
 
-"Unë s'jam i nxehur"; - u përgjigj me
+"Unë s'jam i nxehur, - u përgjigj me
 gjakftohtësi dr. Gjëlpëra; - them vetëm dhe përsërit
 se ai, kushdo në qoftë, i cili s'ka edhe kuptuar se
 era dhe dielli janë ilaçe, dhe të mbështjellët e trupit
@@ -1506,24 +1511,24 @@ Kafshoi mollën, fshiu buzët, u mejtua ca
 të Tiranës, një shesh mësimesh për mua. Dhe tek
 po sillesha, pashë një plak me gjoksin të hapur, një
 gjoks i pjekur në diell dhe i shëndoshë posi çeliku.
-Fola me plakun. Që një njeri i butë, i sjellshëm,
+Fola me plakun. Qe një njeri i butë, i sjellshëm,
 buzëqeshur. Më tha se ishte nga një fshat i largët, i
 quajtur Martanesh, dhe vinte dendur në pazar të
 Tiranës duke e bërë kurdoherë në këmbë udhën e
 gjatë njëzet e katër orë për të ardhur e për të vajtur.
 U interesova shumë. E ftova të hyjmë në dyqan të
 Zylfikar Agait dhe atje iu luta të më leje ta vështroj.
-Të urtë dhe i kuptuar, plaku më la ta këqyrë; dhe ju
+I urtë dhe i kuptuar, plaku më la ta këqyrë; dhe ju
 them një fjalë vetëm; që është zor të gjendet njeri
 me shëndet më të bukur se ai plak. Tani, zotërinj,
 ç'do të kishte ngjarë sikur ky njeri të ishte stërvitur që
 në vogëli me fanella? Kraharori i tij, në vend të kishte
-forcën e çelnikut, do të ishte i butë dhe i dobët, një
+forcën e çelikut, do të ishte i butë dhe i dobët, një
 fole tërheqëse sëmundjesh."
 
 "Po ç'do të ngjasë, pra, sikur një njeri,
 mësuar me fanellë, t'i heqë?" - pyeti me gëzim dr.
-Protagoras Dhalla,
+Protagoras Dhalla.
 
 "Ja! Evet, ç'do të ngjasë?" - shtoi dr.
 Emrullahu.
@@ -1548,11 +1553,11 @@ shëndetit të dobët në Shqipëri. Mos më thoni si të
 bëjnë ata që mbajnë fanella. Nuk është bisedim me
 rëndësi ai. Duhet të shkojmë më thellë, dhe të
 marrim në sy hallin e atyre që s'kanë vënë edhe
-fanella, hallin e foshnjave. Ne duam një racë të fortë,
+fanella, hallin e foshnjave. Në duam një racë të fortë,
 në duam zhdukjen e sëmundjeve, duhet foshnjat t'i
 stërvitim të luajnë gjysmë lakuriq në diell e në erë të
 paqtë, që trupat e tyre të forcohen e të mos duan të
-dinë nga e ftohta, si plaku i Martaneshit që ju fola.
+dinë nga e ftohta, si plaku i Martaneshit që ju fola."
 
 Dr. Protagoras Dhalla dhe dr. Emrullahu
 dëgjonin të ngrysur. Nja dy herë dhe pëshpëritën për
@@ -1567,7 +1572,7 @@ Emrullahu dhe dr. Protagoras Dhalla shtoi dhe ai
 ca fjalë oborresie të zakonshme. Dr. Gjëlpëra i
 dalldisur në mejtime, nuk vuri re, dhe si ndezi
 llambën dhe ujdisi ujët, u suall nja dy herë anëmbanë të odës pa folur, pastaj vazhdoi në këtë
-mënyrë.
+mënyrë:
 
 "Është afër mendsh që në Ballkan dhe veçan
 në Shqipërinë tonë, të mbetur në kohët e Kohës së
@@ -1599,13 +1604,13 @@ marrë s'ka qenë; jo i marrë, po thellësisht i urtë e i
 kuptuar, aq i kuptuar e i urtë, sa turma e paditur
 thellësinë e tij e quante marrëzi."
 
-"E kam dëgjuar dhe unë, - bëri dr. Protagoras
+"E kam dëgjuar dhe unë", - bëri dr. Protagoras
 Dhalla, dhe ia krisi të qeshurit bashkë me dr.
 Emrullahun. Si u gajasën ca çaste, dr. Gjëlpëra vazhdoi
 së foluri:
 
 "Është shumë lehtë të tallet njeriu, është më
-e rëndë të kuptojë. Në viset ku dalin diamantet, ku
+e rëndë të kuptojë. Në viset ku dalin diamantet, ka
 shumë njerëz që, kur gjejnë ndonjë diamant të rrallë,
 po të trazuar me baltë dhe me guricka, nuk e njohin
 dhe e hedhin. Pastaj, një ditë, del një njeri që e njeh,
@@ -1618,11 +1623,11 @@ t'ju shtroj përpara faktet që kam mbledhur."
 
 
 Dr. Emrullahu dhe dr. Protagoras Dhalla, jo
-pa njëfarë ironie, iu lutën dr. Gjelpërës t'u flasë për
+pa njëfarë ironie, iu lutën dr. Gjëlpërës t'u flasë për
 Ali Bibinë.
 
-"Do të flas, po e di që do t' humbas kohën", -
-tha dr. Gjëlpëra, - Mësoni se Ali Bibiu lindi me 1840
+"Do të flas, po e di që do t'humbas kohën", -
+tha dr. Gjëlpëra, - "Mësoni se Ali Bibiu lindi më 1840
 në Tiranë. Qe një çilimi thatanik dhe i dobët nga
 shëndeti, si gjithë njerëzit e shtëpisë së tij. Verdhanik
 dhe i sëmurë, Ali Bibiu e hoqi zvarrë jetën gjer
@@ -1646,7 +1651,7 @@ kërkimet nëpër udhët e nëpër kopshtet e Tiranës.
 Dy a tre nga kërkonjësit e gjetën më në fund në një
 lëndinë, afër rrapit të vjetër që rron dhe sot, dhe ja
 si e gjetën: Ali Bibiu, lakuriq siç kish shpëtuar nga
-magjija, që ish shtrirë në bar dhe këndonte duke u
+magjija, ish shtrirë në bar dhe këndonte duke u
 ngrohur në diell. Posa i pa njerëzit, u ngrys, u hodh
 në këmbë, dhe u sul të ikë, po e zunë dhe e shpunë
 me zor në shtëpi. Atje e ëma e qortoi, e rrahu pak,
@@ -1660,12 +1665,12 @@ ashtu disa herë me pahir, dhe gjithnjë Ali Bibiu i
 nxirrte me shpejtim rrobat. As fjalët, as frikimet nuk
 e bindnin të rrijë i veshur, as hapte gojën të përgjigjej;
 në çdo gjë tjetër, ish i bindur. Më në fund, - u lodhën
-dhe e lanë. Si perëndoi dielli dhe u ngrys e ëma
+dhe e lanë. Si perëndoi dielli dhe u ngrys, e ëma
 shtroi tryezën, dhe Ali Bibiu u ul pranë saj lakuriq
 në vendin e zakonshëm të tij, hëngri pa folur, dhe
 pa folur puthi të ëmën dhe shkoi të flejë. Vjet me
 radhë e ëma i tregonte me mallëngjim hollësitë e
-kësaj historie, e cila për zemrën e saj ishte nje tragjedi e thellë. Ali Bibiu, atë natë,
+kësaj historie, e cila për zemrën e saj ishte një tragjedi e thellë. Ali Bibiu, atë natë,
 hyri në shtrat me jorgan, dhe bëri një gjumë të qetë.
 Me të gdhirë, kur njerëzit edhe po flinin, u ngrit
 me ngadalë dhe doli jashtë; shëtiti nga lëndina në
@@ -1686,7 +1691,7 @@ bukur e kohë të tmerrshme, Ali Bibiu shëtiste nëpër
 livadhet e nëpër kopshtet aq lakuriq, sa çasti kur ish
 lindur. Vetëm natën kthehej në shtëpi, hante,
 mbulohej dhe flinte. Kur e zinte errësira, larg
-shtëpisë tij, hynte në çfarëdo shtëpi që të ndodhej
+shtëpisë së tij, hynte në çfarëdo shtëpi që të ndodhej
 afër, dhe tiranasit zemërbardhë i jepnin për të ngrënë
 dhe një mbulesë të ngrohtë. Ashtu shkuan vjeshta
 dhe dimri. Dhe posa vera e parë, e veshur me gjethe
@@ -1731,17 +1736,17 @@ shkallmojnë themelet e jetës së tij?"
 
 "Paradhoksen, paradhoksen!" - tha dr.
 Protagoras Dhalla. Dr. Emrullahu dhe pëshpëriti mbi
-Habibullah Pashanë,
+Habibullah Pashanë.
 
 "Fjalët që ca mjekë përhapin kundër çajit, -
 vazhdoi dr. Gjëlpëra, - më sjellin çdo herë ndër mend
 ata gjykatarët që dërgojnë në burg një djalë i cili ka
 vjedhur një mollë ose një simite, po lënë të lirë një
 bankier hajdut, i cili me dinakëri ka rrëmbyer
-milionë. - Këtu dr. Gjëlpëra, mori poçen, tha: Çaji
-u bë, - dhe mbushi filxhanët, - pastaj zgjati sheqerin
+milionë. - Këtu dr. Gjëlpëra mori poçen, tha: - Çaji
+u bë, - dhe mbushi filxhanët, pastaj zgjati sheqerin
 duke thënë: - Urdhëroni nga një copë helm,
-zotërinj!" :- Të dy mjekët u çuditën, - Po, - shtoi dr.
+zotërinj! - Të dy mjekët u çuditën. - Po, - shtoi
 dr. Gjëlpëra, - sheqeri i bardhë, sheqeri i kulluar
 quhet prej shumëve një helm, dhe ata që e quajnë
 ashtu mbështeten mbi këtë: që sheqeri tharton dhe zjen
@@ -1761,11 +1766,11 @@ tepër. Se mendimi im është ky: jeta e njeriut, nga
 largimi në largim prej natyrës, është bërë nën çdo
 pikëpamje një gjë artificiale, një gjë e ujdisur dhe e
 lajthitur. E vetmja shpresë e shëmbëllimit, tani është
-jo një kthim të plotë e të pamundur të natyrës, po
+jo në një kthim të plotë e të pamundur te natyra, po
 në një të ndrequr të ngadalshëm të lajthimeve të
 ngrënies e të rrojtjes."
 
-Vazhduan bisedimet duke pire caj.
+Vazhduan bisedimet duke pirë çaj.
 
 "Të kthehemi te Ali Bibiu, - tha dr. Gjëlpëra...
 Një mot pas ngjarjes së parë, ky djalë i sëmurë
@@ -1774,7 +1779,7 @@ magji përralle. Kockat iu ndreqën; mishrat e thekura
 në dritë të diellit iu rritën, iu plotësuan; trupi i tij
 lulëzoi me një bukuri të hijshme e të fortë. Dhe kur
 vërtetohej kjo mrekulli? Më 1853, domethënë afro
-dyzet vjet para se dr. Finsen-i dhe pastaj dr. Grollieri
+dyzet vjet para se dr. Finsen-i dhe pastaj dr. Rollieri
 të bëhen apostujt e diellit si shëronjës. Do të thoni
 se Ali Bibiu s'dinte se ç'bënte. Pa fjalë, Ali Bibiu
 nuk ish veç se një djalë i paditur, jo një savant me

@@ -19,14 +19,14 @@ Sa n'tê s'i Div je tuj m'u gja.
 N'at shêj ti krejt e përftyrume —
 Se sa e kândshme mbrênda je!
 Aty n'at shêj e gjallësume,
-Ti shpirt e zêmer —t'gjitha ke.
+Ti shpirt e zêmer — t'gjitha ke.
 
 Aj i përmallshëm shêj dashtnije
 Asht nji relik' e shêjt për mu!
 N'at tuf, e lidhun fije fije
-T'shof ty n'nji mnyr, qi s'di m'e shkru—
+T'shof ty n'nji mnyr, qi s'di m'e shkru —
 
 Tuj pa at tuf aq t'përmallushme,
 Në nji veshtrim të thell un mbes;
 Edhe n'nji jet të pa-tregushme
-Me mênt e zêmer shqimit tres.
+Me mênt e zêmer shqimit tres —

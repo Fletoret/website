@@ -37,7 +37,7 @@ Njëzetetre vjetët e tij dridheshin si njëzetetre tela në harpe dhe
 tingllojshin në një melodi të cilën e këndon vetëm rinia.
 
 — Gomar! - i thoshte vetes. - Njëzetetre jetë ke e dashunohesh
-me një vajzë si me qenë gashtëmbedhjetë vjeç...
+me një vajzë si me qenë gjashtëmbedhjetë vjeç...
 
 — Po, por asht e bukur...
 
@@ -124,10 +124,10 @@ energji - ata nuk e mendojnë.)
 
 — Sa vjeç asht nj'ai djalog, që po shëtit i lodhun?
 
-— Trupi i tij asht i pesëmbëdhjetvjegarit, ftyra e tridhetjeçarit.
+— Trupi i tij asht i pesëmbëdhjetvjeçarit, ftyra e tridhetvjeçarit.
 Serioziteti i ftyrës i një katërdhetvjeçarit...
 
-— Po, asht i ri - plak, si dhe shumica e tjerve.
+— Po, asht i ri-plak, si dhe shumica e tjerve.
 
 
 * * *
@@ -136,7 +136,7 @@ Serioziteti i ftyrës i një katërdhetvjeçarit...
 Dy syt e Lilushës, dy liqej të kaltër zanash të bjeshkve
 prallore. Mbytej Lili ndër syt e thellë të Lilushës, mbytej e
 shpirti i tij bërtiste: aman, shpëtim! Në dritzën e synit të kaltërt të
-Lillushes shikonte Lili veten, shikonte veten si mbytej dhe ndiente
+Lilushes shikonte Lili veten, shikonte veten si mbytej dhe ndiente
 një dhimbë mu ne zemër. Deri atëherë ai s'e besonte - kur lexonte
 ndër romanca - se dhemb zemra, por kur këtë e provoi për së
 parit herë, kafshoi buzën me dhambë dhe pëshpëriti: dhemb, dhemb.
@@ -161,7 +161,7 @@ nuk i tha Lili Lilushes. Kur ishin vetëm, ai vjedhte çastin dhe ia
 puthte floket, e kur u përshëndetshin vetëm te dera, ai ia puthte
 dorën të cilën Lilusha shpejt e tërhiqte.
 
-I urrente fjalët dashnore Lili dhe asjenën nga ato nuk e
+I urrente fjalët dashnore Lili dhe asnjenën nga ato nuk e
 shqyptoi. Jo vetëm Lilushën por edhe përpara, ndoj vajzë të cilën
 lehtë dashnoi, asnjenën nuk e përkëdheli me fjalë dashunore.
 Vetëm, mban mend, kur si nxanës, pesëmbdhete vjeç ishte, e

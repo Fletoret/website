@@ -14,4 +14,4 @@ I nji mjesit qi më la.
 Iku, shkoj për mos me kthymun
 Ah s'do t'kthejn jo kurr për s'ri! —
 Mâ s'do t'ken ku m'u defrymun
-Syt e zêmra n'dashunië!
+Syt e zêmra n'dashunië! —

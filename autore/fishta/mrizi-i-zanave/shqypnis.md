@@ -7,9 +7,9 @@ grandparent:
 order: 3
 ---
 
-T'falem, Shqypni, ti i shpirtit t'êm dishiri!
-I lum njimend jam un n'gjí t'and tu rrnue
-Tue gzue t'pámt t'and, tue t'hjeke at ajr t'kullue,
+T'falem, Shqypní, ti i shpirtit t'êm dishiri!
+I lum njimend jam un n'gjí t'and tu' rrnue
+Tue gzue t'pámt t'and, tue t'hjekë at ajr t'kullue,
 Si Leka i Madhi e Skanderbegu i biri.
 
 Kje i Lumi vetë, qi mue m'dergoi ksi hiri

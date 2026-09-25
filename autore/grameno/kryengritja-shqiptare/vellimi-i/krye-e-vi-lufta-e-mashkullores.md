@@ -23,7 +23,7 @@ për mbi Shqipërinë!
 
 Fati pra e kishte rojtur për mua që të ndodhem atje edhe të mar pjesë
 në këtë luftë, për liri, prandaj kërkonj ndjesë këndonjësvet që nuku
-munt të mbush këtë barrë, me gjithë hollësitë, dyke lënë të tjerëvc,
+munt të mbush këtë barrë, me gjithë hollësitë, dyke lënë të tjerëve,
 të zotërit për këtë, që t'e përshkruajnë edhe rëfejnë të gjallë siç
 meriton edhe qysh ngjajti lufta e Mashkullores.
 
@@ -48,7 +48,7 @@ katua e q'atje dyke kapërxyer një mur duallmë përjashta. Atje pamë që
 ishim në rezik të math po të delnim në shesh, prandaj muarmë një
 përrua të thellë shumë, plot me shkëmbinj edhe plot me ujë.
 
-Në krye ushtëria nuku na vërejti as pak, me që-në që ata drejtoheshin
+Në krye ushtëria nuku na vërejti as pak, me qënë që ata drejtoheshin
 tek shtëpia, edhe kësisoj do të mos ishim goditur po të mos u-bërtite
 një tradhëtor edhe t'u tregonte rugën tonë. Ky bukurosh tradhëtor, na
 kishte mësuar, siç duket, se me të vajtur në Gjinokastrë sa që kishte
@@ -67,18 +67,18 @@ mbi krye, na shurdhonin veshët, po, dyke i dhënë shoku shokut kurajo
 edhe dyke rënë ku këtu ku atje, u mësuam edhe nuku na bënin nonjë
 përshtypje!
 
-Ushtarët dyke u-rëzuar që përpjetë na e prenë u-dhën edhe do të na
+Ushtarët dyke u-rëzuar që përpjetë na e prenë udhën edhe do të na
 kishin vrarë që të gjithëve po të mos ishin Çerçizi me Asllanin, të
 cilët me të shpejt, nga këmbët, nxitonin edhe muntnë të zenë një haur
 të rëzuar ku vetëm gurët kishin mbetur. Q'atje me vrap u hapnë zjar
 ushtarëve dyke shtirë dy prej tyreve kështu që ua prenë hovin e sulmin
-edhe kësisoj muntmë të arrimë e neve gejr atje.
+edhe kësisoj muntmë të arrimë e neve gjer atje.
 
 Vërtet arrimë po, për fat të zi, jo të gjithë. Haredin Tremishti ra dy
 pashë lark meje për nder të Shqipërisë edhe të lirisë! Një plump i
 armikut i kishte shpuar kryet tej-përtej, edhe shpirti i flytyrojti në
 qell! I rashë me këmbë që të ngrihet po ay nuk lëvizi. I hodha sytë që
-t'e shoh, për të fundit herë, edhe pashë q' një bukuri prej engjelli i
+t'e shoh, për të fundit herë, edhe pashë që një bukuri prej engjelli i
 kishte rënë mbi fytyrë e zbriturë prej qelli! Psherëtita edhe ngrita
 sytë në qell dyke ju lutur Perëndisë t'e ketë në prehje shpirtin të
 Haredinit, të atij djaloshi trim, guximtar edhe të urtë që ra dëshmor,
@@ -151,7 +151,6 @@ thom me dëshpërim: E ç'na bëre more derëzi që na preve krahët? Pse
 nuku dëgjon këshillat e mija po të gënjyen Tyrqit gjer të plagosnë?
 Vrapova t'i jap ndihmën e duhur kur Çerçizi dyke fshirë gjakun më
 thotë: mos u-dëshpëro
-
 Mihal se nuku jam plagosur po një ciflë, prej guri, më goditi edhe me
 zemërim qëllon ushtarë q'e kish qëlluar edhe e shtriri për dhe.
 

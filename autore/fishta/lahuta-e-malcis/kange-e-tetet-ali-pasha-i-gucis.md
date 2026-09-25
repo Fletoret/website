@@ -111,7 +111,7 @@ Se sá bukur Shqyptarija
 Rreth e çark i shtrohet para
 Me liqêj, me lume e ara,
 E me male të madhnueshme,
-E me pyje të bleruesbme;
+E me pyje të blerueshme;
 Edhè sŷt i mushen n' váj,
 Kah mendon se fati i sajë
 Nder duer t' hueja gjithmonë ngeli,

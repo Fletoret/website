@@ -26,7 +26,7 @@ Misër! Misër!
 
 Thirrja për shpëtimin e jetës! Apoteozë e shekullit të njizetët! Emën 
 perëndìsh sot nuk xajnë me gojë fëmitë qi po sa kan fillue të belbëzojnë, 
-por misër! miser! –àsht fjala e ditës, àsht sinonim i jetës për banorët 
+por misër! misër! – àsht fjala e ditës, àsht sinonim i jetës për banorët 
 legjendarë të këtyne maleve t'egra.
 
 Ushtojnë luginat e malevet nga fjala e malsorëvet t'unshem, që vargue, 
@@ -72,5 +72,5 @@ nepër birë të vogël të thesit; shoku mbrapa, pa i pà, i shkelë, e i
 treti shok, as nji as dy, por i a hjedh mallkimin e pamshirshëm: 
 "Mos i shkel he të shitoftë Zana"!
 
-Se shekulli i njizetët àsht shekulli i apoteozëz së misrit ndër 
+Se shekulli i njizetët àsht shekulli i apoteozës së misrit ndër 
 foletë e shqypeve.

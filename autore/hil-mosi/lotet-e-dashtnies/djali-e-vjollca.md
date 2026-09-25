@@ -52,7 +52,7 @@ Pse kot ti mu m'levdon
 Mbasi shkret motin shkova?
 Kërkush mu t'shkreten s'don
 E kurr dashtnië nuk gzova!
-Kërkush mu t'sh'reten s'don!
+Kërkush mu t'shkreten s'don!
 
 #### Djali
 

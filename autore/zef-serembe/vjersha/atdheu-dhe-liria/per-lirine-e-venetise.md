@@ -8,8 +8,10 @@ grandparent: Vjersha
 order: 31
 ---
 
-Pasi Bomba  na vdiq, Bomba që na vu në kryq
-Edhe Nxhiku  tutje u flak Sapo i dhanë dy shuplakë.
+Pasi Bomba na vdiq,
+Bomba që na vu në kryq
+Edhe Nxhiku tutje u flak
+Sapo i dhanë dy shuplakë.
 N'ato ditë e n'atë mot
 Qenë sy që derdhën lot
 Qenë vasha e nëna qenë
@@ -63,7 +65,7 @@ T’Arbërisë ku, oh! s'u lemë...
 Të bëjmë udhën në pak mot
 Se na ndih i madhi Zot.
 
-* * *
+***
 
 Shkojmë, shokë, duke kënduar,
 Vashat duke i kujtuar
@@ -73,7 +75,7 @@ Kur te Alpet ne do shkojmë,
 Këngë lufte do fillojmë.
 Ja, fanfara na gëzon,
 Ja, edhe topi na shurdhon.
-Kush me pushkë e, kush me shpatë
+Kush me pushkë e kush me shpatë
 Zëmë e lozim n'atë shtërngatë.
 Po marshojmë si luftëtarë,
 Duke shtënë, duke vrarë.
@@ -102,7 +104,7 @@ U fitua: sheshi e di.
 Të këndojmë të gëzuar
 Përball' armikut të poshtruar.
 
-* * *
+***
 
 E kush qesh, kush mallkon,
 Kush ha bukë e kush këndon.
@@ -113,7 +115,7 @@ Thot' se i bukur ësht’ rreziku!
 Flamurtari, dorëgjati,
 Rri si trungu i madh te shpati
 Goxha pallë ka në brez,
-la merr era flokët e zes.
+Ia merr era flokët e zes.
 Plaku i pari po afron,
 Ballin drita ia gëzon.
 Dy liktorë i mban pranë
@@ -131,7 +133,7 @@ Si shtëpisë djeg malli i nxehtë.
 Kush rri i qetë, kush këndon
 Dhe të vrarët i lëvdon.
 
-* * *
+***
 
 Kur fshatit pranë i shkojmë
 Zbrazim pushkët dhe vallzojmë
@@ -147,7 +149,7 @@ Në dritaret çdo vashë e re
 Trëndafila hedh nga ne.
 Lulëkuqe e rrodhostanë,
 Pastaj një këngë ia dhamë.
-Shohim vuzë dhe ato faqe
+Shohim buzë dhe ato faqe
 Që dikur aq na kënaqën.
 Na gëzojnë ata sy
 Se na shohin me ëmbëlsi.

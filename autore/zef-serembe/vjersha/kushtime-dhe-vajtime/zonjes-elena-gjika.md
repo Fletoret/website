@@ -79,7 +79,7 @@ U vesh me mburrjen e saj,
 Dhe shkëlqeu te kjo botë.
 
 Dhe sikush me llahtarime
-Svtë ktheu nga sheshet tënë
+Sytë ktheu nga sheshet tënë
 Edhe pa me drithërime
 Luftat që ndër ne u bënë.
 
@@ -196,4 +196,4 @@ Asnjeri kështu s'harron
 Ahere me këtë dorë,
 Sikur qielli të më ormisi,
 Do të vija një kurorë,
-Perëndeshëm, degash lisi.
+Perëndeshëm, degash lisi."

@@ -73,7 +73,7 @@ zbulohet tinëzia, e ula kokën, por edhe pyeta:
 
 — Ç'pyeti?
 
-Më ças u pendova për pyetjen që bana. E ndiva se isha skuqë në fëtyrë
+Në ças u pendova për pyetjen që bana. E ndiva se isha skuqë në fëtyrë
 dhe zemra më rrafi me hof.
 
 — Pyeti se cila je dhe e kuj je - gjegji ajo.
@@ -93,7 +93,7 @@ lavdërueshme për...
 
 Me të vërtetë nuk m'interesonte të dij se ai qenka biri i nji familjes
 fisnike apo trashanike, i nji të vorfënit. Qeshë tue plasë nga
-padurimi. Un dojsha të marr vesh se cili asht, ç'asht dhe ç'farë
+padurimi. Un dojsha të marr vesh se cili asht, ç'asht dhe çfarë
 lidhjesh ka me Irenën. Shkurt m'interesonte personi i tij e jo
 familja, nga e cila zbritte. Mirë, por ajo vazhdonte të më flasi për
 shkallën dhe pozitën e familjes së tij. Me fjalë të tjera ajo flitte
@@ -109,7 +109,7 @@ e tyre, janë të mirë. Sa për rodin...
 
 — Mirë pra. E lamë - tha tue m'a pre fjalën.
 
-Nuk guxova, t'a pyes ma. Oh se ç'm'a punoi!... Un dojsha të flitte,
+Nuk guxova t'a pyes ma. Oh se ç'm'a punoi!... Un dojsha të flitte,
 por jo për prindët e tij. Dëshirojsha të më rrëfejë se cili asht
 dhe... deri ku interesohet për mue. Por ajo flitte kot më kot. Ma në
 fund heshti dhe më la në terr. Ajo kujtoi se u zemërova pse po më
@@ -134,7 +134,7 @@ shkëpurdhesha në vend dhe urojsha të kthehet në bisedimin e maparshëm.
 M'anë tjetër mundohesha me gjetë nji veregzë, nji farë pyetje të
 tërthurtë që t'a shtyjsha me folë mbi shka dëshirojsha, por ku i
 mbeten mend njeriut në rasa të tilla? N'ata pak minuta, që më gjajtën
-sa vjetët, trillova njimij mendime për me e arrit qellimin, por prap
+sa vjetët, trillova njimij mendime për me e arrit qëllimin, por prap
 s'guxojsha nga droja se mos më kupton e mos më heton. Ta pyes kështu?
 Jooo. Ta pyes ashtu? Prap jo, se nuk ban, thojsha me vetëhe dhe nuk
 mundesha me e çikë fare çashtjen.
@@ -143,7 +143,7 @@ Ndërkohe hyni mbrenda Mamë Gjystina. U ul pranë meje dhe, tue m'i
 lëmue flokët e kokës, më pyeti për shëndetin t'em. Nashti e humba ma
 keq. Natyrisht, pse nuk mund të flitesh faqe sajë për nji djalë
 q'ishte i huej për mue. Veç kësaj ajo nisi me e pyetë të bijën për do
-punë shtëpije që për mue ishin të pashijëshme, mmërzitëe dhe të kota.
+punë shtëpije që për mue ishin të pashijëshme, mërzitëse dhe të kota.
 U mërzita. Mendova t'iki e të vij në shtëpi pa e zgjatë at lamsh që
 m'a kishte bamë lamsh mendjen e zemrën, por nuk m'ikesh se!... Dishka
 më ndalonte. Po, kisha shpresë se mos marr vesh gja. Bashkë me zemrën
@@ -161,7 +161,7 @@ mundohesha me u qetsue. Dalëngadalë kisha humbë ndër mendime. Dikur u
 Ky bashkëfjalim kumboi në veshët e mij si nji pëshpëritje që vjen prej
 së largu, si zana që ndigjohen në gjumë. Dikush më preku në sup të
 majtë dhe m'a thirri emnin në vesh. E ngrita kryet dhe, si e zgjueme
-nga jermia, pashë para meje fëtyrën e tij që shk ëlqente nga nji
+nga jermia, pashë para meje fëtyrën e tij që shkëlqente nga nji
 buzëqeshje e ambël. Menjiherë u çova në kambë si e kapun në faj dhe
 bana me ikë. Tue u rrotullue, syt e mij ndeshën në t'atij, mu n'at ças
 kur e kishte përqafue Mamë Gjystina.
@@ -186,7 +186,7 @@ se?... S'më zinte vendi në vend dhe u bana si e trenueme... Prandaj
 s'e zgjata. Shkova. Po, shkova, se sot ishte edhe dita e parë e
 Pashkëve dhe duhej t'ua uroj të kremten. Me këtë mënyrë u justifikova
 edhe para vetëhes. Mbasi e urova Xha Simonin, Mamë Gjystinën dhe
-djelmt me rradhe shkova në kthinë t'Irenës për me e urure edhe atë.
+djelmt me rradhë shkova në kthinë t'Irenës për me e urue edhe atë.
 Kur hyna mbrenda pashë se ajo po bahesh gati me luejtë, me vijolinë,
 nji pjesë të nji muzikanti të përmendun.
 
@@ -194,10 +194,10 @@ nji pjesë të nji muzikanti të përmendun.
 dhe tue m'ulë mbi nji karrike afër vetëhes.
 
 Ia urova Pashkët dhe u ula, pa dashas, mu n'at vend, ku nji ditë ma
-parë kishte qëndru e ai... djaloshi veshshpuem. E mbështeti thuprën
+parë kishte qëndrue ai... djaloshi veshshpuem. E mbështeti thuprën
 Irena mbi telat tue më shique me buzë në gaz dhe e luejti dorën,
-menjiherë, si me nervozitet. Më ças cingëroi violina. Mbasandaj nisi
-me jehue, kadalas, ambël e butë si me da hë me të marrë me të mirë, si
+menjiherë, si me nervozitet. Në ças cingëroi violina. Mbasandaj nisi
+me jehue, kadalas, ambël e butë si me dashë me të marrë me të mirë, si
 me të premtue dishka të mirë, të bukur, të lumnueshme e të...
 hyjnueshme. Irena i kishte mbyllë syt e zij, ma të zij se rrushi, dhe,
 me fëtyrë të qeshun, qëndronte në kambë si statuja e Venusit, e
@@ -271,7 +271,7 @@ Gjonin, Kolën, Irenën dhe, atje poshtë, Shpendin. I xixëlluen syt
 Shpendit kur pa se i hapa syt. Më gjajti sikur më shiqoi me dhimje e
 me... dashuni. Oh sa kënaqësi më ndiu zemra kur pashë se nga syt e tij
 shprazej, në mos gabohem, nji dhimbje shpirtnore e trazueme me nji
-farë gëzimi të pa çansueshëm. Oh se çfarë force, çfarë magneti kanë
+farë gëzimi të paçansueshëm. Oh se çfarë force, çfarë magneti kanë
 ata sy që të bajnë me vdekë vetëm për nji të shiquem të tyne. Ku e
 dijnë djelmt se sa shum na bajnë me vuejtë na të gjorat kur na hudhin
 shiqime të thekshme. Shyqyr që s'e dijnë. Ata kujtojnë se vetëm syt
@@ -336,7 +336,7 @@ dobët nga shëndeti.
 
 — Domosdo u ligshtove, por përse?
 
-— Sepse... - bana tue u mendue se si t'a gaboj
+— Sepse... - bana tue u mendue se si t'a gaboj.
 
 — Sepse u zemërove në mue.
 
@@ -390,12 +390,12 @@ mëdhej ia kanë vramë gjindarmët. Oh sikur t'a dijshe se çfarë trimash
 kanë qenë ata...
 
 E pashë se ajo do të zgjatesh në kallzime mbi trimnin, burrnin dhe
-besnikin apo fisknikin e atyne që kishin ranë dëshmorë. Prandaj ia
+besnikin apo fisnikin e atyne që kishin ranë dëshmorë. Prandaj ia
 preva fjalën tue e pyetë:
 
 — Mirë, por un kurrë s'e kam pamë at djalë ke ju.
 
-— Ai parvjet ka ikë bashkë me t'amën. Na atëhere, shkuem me i pa më, E
+— Ai parvjet ka ikë bashkë me t'amën. Na atëhere, shkuem me i pamë. E
 mban mend kur shkuem në Shkodër?
 
 — Po, e mbaj.
@@ -425,7 +425,7 @@ sa u çudita - tha Irena mbas nji heshtjeje të vogël.
 
 — S'e dij, por më duket se...
 
-— Çfare?
+— Çfarë?
 
 — Mos m'u hidhno se po të them, por më duket se të... don.
 
@@ -481,9 +481,9 @@ Oh sa shpejt gabohemi e gënjehemi na femnat. Nji shiqim i thekshëm
 mjafton me na dërmue dhe nji nënqeshje e ambël mjafton me na robnue.
 Vetëm se s'guxojmë me i shfaqë ndiesit e adhurimit, kemi turp të
 shpallim se e dashunojmë at që na e plagos zemrën me nji veshtrim të
-mpakët ose me nji nënqeshje të kandeshme. Zemrat t'ona janë ma
+mpakët ose me nji nënqeshje të kandëshme. Zemrat t'ona janë ma
 delikate se qelqet. Nji gur i vogël, i hudhun nga dora e nji të
-pamëshirshmit, i then dhe i ban thërime për t'u shkelë mandej nga
+pamëshirshmit, i then dhe i ban thërrime për t'u shkelë mandej nga
 kamba e tij. Zemrat t'ona magnetizohen me dy fjalë, shitohen me dy
 pika lot. Sa e sa prej nesh janë bamë viktimet e naivitetit dhe të
 sinqeritetit të tyne tue u besue lajkave e premtimeve të gënjeshtërta.
@@ -498,7 +498,7 @@ Shqiptare.
 Dëshiron të dashunojë vajza Shqiptare, por mbrenda caqeve të pastërtis
 morale; lakmon të lumnohet e gjora, por mbrenda kufijve që përfshijnë
 ligjët e çerdhes familjare; don t'a shijojë jetën e ngrata, por tue
-mos e humbë vlerën e nde it dhe tue mos e cenue sedrën seksuale.
+mos e humbë vlerën e nderit dhe tue mos e cenue sedrën seksuale.
 
 — Uh ti qenke e marrë! Qenke nga ato që ende e këndojnë kangën e
 Mukës! S'qenke e qytetnueme si gocat e Europës - i thonë djelmoshat
@@ -512,7 +512,7 @@ kthen shpinën tue u zgërdhimë dhe tue e përqeshë. Asht e dijtun se nuk
 janë të tillë gjithë të rijt, por në mes të tyne ka mjaft asish që e
 humbin ndërgjegjen kur ndeshin në femna Shqiptare. Ndoshta edhe
 Shpendi asht ndonji bandill që kërkon të mbledhi mjaltë nga çdo lule
-që i shef syni i tij deprtues. Ndoshta edhe ai asht ndonji kusar
+që i shef syni i tij depërtues. Ndoshta edhe ai asht ndonji kusar
 zemrash e gjuetar nderi. Ndoshta edhe ai ka lanë mbas shpine ndonji
 dyzinë goca që tash qajnë e ulërijnë me dëshprim prej kobit që kanë
 pësue. Ndoshta edhe ai asht ndonji mizuer i mshefun nën atë shtat të
@@ -525,7 +525,7 @@ shtëpi të Irenës, pasqyrojshin dhimbjen që ndinte zemra e tij,
 diftojshin se ka shpirt të mirë e njerëzi, provojshin se asht i dejë
 të quhet njeri. Prandaj ai nuk mund të futet në grumbullin e atyne që
 kanë zemra vagabonde, t'atyne që dashunojnë vetëm për t'i ngopë lakmit
-e tyne prej kafshe as e që dashunojnë për... sport. Ai, sigurisht,
+e tyne prej kafshe ase që dashunojnë për... sport. Ai, sigurisht,
 asht nga ata që kërkojnë të kenë nji shoqe ideale në këtë jetë, nga
 ata që përpiqen të ndërtojnë nji pallat lumnije në këtë botë, nga ata
 që e çmojnë kuptimin e naltë të jetës bashkëshortore. Më duket se kanë
@@ -540,8 +540,8 @@ bukuria e mashkullit i vetmi sigurim i lumnis së dëshirueme? Pa dyshim
 jo. E atëhere përse po trenohem tue u kënaqë me ato bukuri që e
 argëtojnë vetëm synin dhe që shduken mbrenda pak kohe? Ato që kanë
 mend dhe që duen nji lumni të paperëndueshme kërkojnë bukuri shpirti,
-pajtim karakteresh e qellimesh. Po un ç'kërkoj? Un shkallita fare.
-S'kam me e përmendë
+pajtim karakteresh e qëllimesh. Po un ç'kërkoj? Un shkallita fare.
+S'kam me e përmendë.
 
 ## 12 Prill
 
@@ -566,7 +566,7 @@ shkambëzue. Ndoshta.
 Sot, tue kuvendue me Irenën e me Mamë Gjystinën, ra fjala ke ai. Mamë
 Gjystina, e prekun thellë nga shdukja e Shpendit, foli nji copë herë
 mbi gjasa të nji së ligës. Mbasandaj kapërceu ke familja e tij dhe
-rrëfeu se sa herë kishte luftue i ati i tij Dan Rëfeja kundër Turqve e
+rrëfeu se sa herë kishte luftue i ati i tij Dan Rrëfeja kundër Turqve e
 gjindarmëve dhe sa herë ishte plagosë. Kallzoi se si ai nuk i duronte
 mizorit e tyne dhe sa fort e urrejshin ata. Ma në fund shpjegoi se si
 e kishin rrethue në shtëpi në nji natë vere, si kishte luftue bashkë
@@ -587,8 +587,8 @@ marrë e çue në Shkup me bursë kinse për t'a mësue, por në të vërtetë e
 kishte marrë si peng për t'ia rrudhë guximin t'atit. Në verë, me rasën
 e pushimeve, djali ishte kthye në shtëpi dhe u ndodh aty kur u
 zhvillue kobi. Kur u rrethuen, si herën e parë ashtu edhe të dytën
-afër kufinit, edhe ai ishte mbrenda. Mbas vrasjes së Danit tre djelmt
-- Bardhi, Sokoli, Shpendi - bashkë me t'amën i dhanë zjarmin shtëpis
+afër kufinit, edhe ai ishte mbrenda. Mbas vrasjes së Danit tre djelmt -
+Bardhi, Sokoli, Shpendi - bashkë me t'amën i dhanë zjarmin shtëpis
 dhe, tue përfitue nga tymi e nga errësina e natës, i msyen gjindarmët.
 Në rrëmujë e sipër vranë mjaft nga armiqt, por edhe Bardhi e Sokoli
 mbetën. Shpendin e muer nji plumb në vesh të majtë dhe t'amën në
@@ -599,7 +599,7 @@ majtë.
 — Nana e din mirë ngjarjen, se asokohe u ndodh në Kosovë, ku pat shkue
 me e pamë të motrën – vërejti Irena.
 
-— Po - ia bani ajo tue fshamë. - Kur e ka përceva kufinin ata i gjeta
+— Po - ia bani ajo tue fshamë. - Kur e kapërceva kufinin ata i gjeta
 në Kukës. Mbasandaj bashkë erdhëm deri në Shkodër, ku zunë vend.
 
 — Më duket se patën mjaft të holla me vetëhe - tha Irena, mbasi më
@@ -620,7 +620,7 @@ nga ngjarja e rrëfyeme prej Mamë Gjystinës, harrova fare me e pyetë.
 — Tash Shpendi vazhdon në gjimnaz të Shkodrës për t'i mbarue ato dy
 klasa që i mbetën pa i krye në Shkup - plotsoi Irena.
 
-— Të themi të drejtën, edhe qeveria u kujdesue për t'a - bani Mamë
+— Të themi të drejtën, edhe qeveria u kujdesue për ta - bani Mamë
 Gjystina.
 
 — Asht e dijtun - tha Irena - se ata e nderuen kombin t'onë. Tash
@@ -657,7 +657,7 @@ kohë. Motra i paska ardhë mbas dy ditësh. Veçanërisht i kishte shkrue
 edhe Irenës. E pyeste për shëndetin t'em dhe i thoshte të më
 përshëndesi nga ana e tij. Irena, tue drashtë se mos i zemrohem, nuk
 më tha gja. M'a dha letrën t'a këndoj. Kur i pashë përshëndetjet që më
-bante m'u nxe e m'u ba prush shtati dhe zemra më rafi me hov prej
+bante m'u nxe e m'u ba prush shtati dhe zemra më rrafi me hov prej
 gëzimit. Por nuk bëzajta fare. Tash jam pendue plotsisht për shka kam
 dyshue për të. Fëtyra e tij tash nisi me u shfaqë ma e kjarë dhe ma e
 ndritshme n'imagjinatën t'eme. Në syt e tij tash dallohen shenjat e
@@ -690,7 +690,7 @@ Paskan emna...
 
 — Thuej se Shqip - ia priti Irena me buzë në gaz.
 
-— T'amën e Shpendit e quejnë Fet-hije, por për shkurtim i thoni Hije.
+— T'amën e Shpendit e quejnë Fet-hije, por për shkurtim i thonë Hije.
 E të motrën e quajnë Sofije, por për dhelatim i thërrasin Fije, ashtu
 si të thonë ty Dije, kurse emnin e ke Shadije.
 
@@ -737,7 +737,7 @@ Parrizit[^1] t'em.
 
 Mora nji lule dhe nisa me ia këputë fletët, ashtu si bante dikur
 Irena, për të provue se a më dashunon apo jo dhe tue thanë: po, pak,
-aspak, shpitrnisht. Tue i shqiptue këto fjalë, që për mue kishin nji
+aspak, shpirtnisht. Tue i shqiptue këto fjalë, që për mue kishin nji
 fuqi mystike, vazhdova t'i këpus fletët e lules dhe arrina në gjethin
 e fundit me fjalën: Shpirtnish. Megjithqë e dij se bestydnia asht
 krijesa e imagjinatave të sëmuna, kësaj rradhe më pëlqeu t'a besoj
@@ -758,7 +758,7 @@ Ndoshta.
 ## 24 Prill
 
 Irena u fejua sot me Zefin, me at që dashunohesh prej kohesh. Ajo asht
-dhe duhet të jetë e lumtun, mbas i shkeli në prakun e asaj jete që pat
+dhe duhet të jetë e lumtun, mbasi shkeli në prakun e asaj jete që pat
 lakmue e andërrue për vetëhe. Shumë të rij i hudhin letrat, i djegin
 fotografit dhe i hanë me bukë premtimet që u japin dashnoreve, por
 Zefi duel besnik dhe nuk trathtoi. Kjo besniki provon se përnjimend e
@@ -767,7 +767,7 @@ rrafin për njena tjetrën. Të pakë e të rrallë janë ata djelm që me të
 vërtetë derdhin lot për dashnoret e tyne. Të shumtët kërkojnë dashuni
 nate, nji dashuni të përkohëshme e trashamane. Ka gjithashtu shumë
 mashkuj që i ndrrojnë dashnoret me atë lehtësi që i këmbejnë robet e
-shtait dhe mandej s'çajnë kryet për to. Ka plot të rij që tinzisht
+shtatit dhe mandej s'çajnë kryet për to. Ka plot të rij që tinzisht
 përpiqen t'a spekulojnë sinqeritetin e femnave për t'i shkullue
 burimet e tyne të nderit; ka asish që premtojnë shumë e me bujari të
 madhe por s'apin kurrgja; ka edhe t'atillë që me shkathtësin e nji
@@ -801,7 +801,7 @@ Fatin e Irenës kisha me ia urue edhe vetëhes, por kush e din se ç'ka
 rezervue destini për mue. Ndoshta edhe Shpendi asht shoku i atyne
 djelmave që përmenda ma sipër. Ndoshta ai asht edhe ma i lig se ata e
 nuk don të dijë për atë zemër që lëngon prej shigjetave që i nguli ai
-me syt e tij. Por jo. Ay asht i mirë, i urtë, i pastër, i ndershëm dhe
+me syt e tij. Por jo. Ai asht i mirë, i urtë, i pastër, i ndershëm dhe
 i... papërlyem nga veset e liga.
 
 ## 29 Prill
@@ -840,7 +840,7 @@ që t'a kisha pranë Shpendin për me e shijue bashkë bukurin e natyrës.
 
 ## 3 Maj
 
-Po të vehen re fëmijt ka në ndryshime në mes të njeni tjetrit dhe
+Po të vehen re fëmijt kanë ndryshime në mes të njeni tjetrit dhe
 njeni i gjason t'atit, tjetri s'amës. Gjasimet fizike i shpjegon
 shkenca dhe theoria e sajë mund të pranohet vetëm përsa ka të bajë me
 dukjen e me shtatin e fëmis. Sa për shpirtin, simbas mendimit t'em,
@@ -864,14 +864,14 @@ vet t'i rrisi e t'i edukojë simbas mendësis së vet të ngushtë e të
 mykët. Ç'mund të mësojnë fëmijt nga nji nanë e padijshme? Natyrisht
 kurrgja të mirë dhe shumë të këqia e marrëzina. Fëmijt e nji nanës
 injorante rriten të dobët nga shëndeti, nga mendja dhe nga shpirti,
-pse ajo i tremb me gogola, i kuen me bestutnina dhe i mojt me
+pse ajo i tremb me gogola, i kuen me bestydnina dhe i mojt me
 marrëzina. Për shembull kur bije rrëfeja, u thotë njerka fëmijve se
 engjëjt e gjuejnë dreqin me pushkën e Zotit dhe kur bije shi thotë se
 engjëjt luajnë livere në qiell! Për kët shkak fëmia e nji nanës
 injorante nuk mund të ketë asndonji ndihmë paraprake prej saj dhe
 rritet e trembun, e shtypun dhe e torrullueme. Un, herë mbas here,
 përpiqem me ua ndreqë gabimet fëmijve, por qortimet e mija nuk u bajnë
-efektin e dëshëruem, mbasi nuk gëzoi ndonji autoritet kundrejt tyne,
+efektin e dëshëruem, mbasi nuk gëzoj ndonji autoritet kundrejt tyne,
 pse veshët e tyne me mija herë kanë ndigjue të shahem e të përbuzem
 prej nanës së tyne. Veç kësaj qortimet apo këshillat e mija, simbas
 njerkës, janë porosina të mbrapshta dhe të damshme për fëmin. Prandaj
@@ -913,7 +913,7 @@ mashkullit, sepse femna asht edukatorja e parë e njeriut.
 Eme njerkë, tue bisedue sot me nji zojë që kishte ardhë në vizitë, po
 i thoshte se ajo nuk ishte ma shum se 35 vjetsh. U çudita kur ndigjova
 se njerka po i hiqte disa fasha moshës së vet! Un mbaj mend shum mirë
-se ajo kur u martue me t'em atë kisht e nja 32-33 vjet mbi shpinë dhe
+se ajo kur u martue me t'em atë kishte nja 32-33 vjet mbi shpinë dhe
 quhej gjysmë grueje prej grave të fisit t'onë. E qysh atëhere, në mos
 gabohem, kanë kalue nja 13 vjet. Njerka ia kishte kthye shpinën derës.
 Kur hyna mbrenda për t'i dhanë kafe zojës, ndigjova t'i thotë:
@@ -956,17 +956,17 @@ kryet për të, por sikur të më vente mendjen Irena kishte për t'a
 dallue ndryshimin e madh që pësoi fëtyra e eme në çastin që ndeshën
 syt e mij në fëtyrën e tij. Veç kësaj ajo s'vuni re se un po e
 kundrojsha tinzisht fotografin, të cilën e kisha hudhë mbi tryezë
-nergut në nji pozë që të mundesha me e pa më ma së miri.
+nergut në nji pozë që të mundesha me e pamë ma së miri.
 
-Indirefentë janë njerzit kundrejt tjerve ose sendeve që nuk i
+Indiferentë janë njerzit kundrejt tjerve ose sendeve që nuk i
 interesojnë, por janë të pashqitun dhe të pasionuem kundrejt atyne që
 i pëlqejnë e i dëshirojnë. Ku t'a dinte Irena se sa vlerë kishte për
 mue ajo pikturë që e hudha me nji farë përçmimi. Jo vetëm që un nuk i
 kam dhanë rasë për me e kuptue tinëzin e zemrës s'eme, por edhe lumnia
-e vet, e endun nga dora e Zefit , nuk e lejon të shofi se ç'ngjan
+e vet, e endun nga dora e Zefit, nuk e lejon të shofi se ç'ngjan
 rreth e rrotull. Syt e Shpendit, edhe në fotografi, gjajnë sikur
 nxjerrin rreze drite t'ambla, por edhe gaca zjarmi që djegin e
-përcëllojnë. Ah ata sy! Ata derdhën në zemrën t'eme helme nektar dhe
+përcëllojnë. Ah ata sy! Ata derdhën në zemrën t'eme helm e nektar dhe
 më banë të qaj e të qesh, të rrënkoj e të gëzoj. Po t'ishte e mundun
 që t'a përvetsojsha këtë fotografi, isha gati të baj fli disa vjet nga
 jeta e eme.
@@ -989,13 +989,13 @@ Kur u largue, tue drashtë se mos ftohem, e kshilloi njerkën që të më
 mbulonte me dishka. Un pata të nxehtë dhe s'dojsha që të mbulohem, por
 nuk bëzana se s'kisha fuqi as edhe me folë pse isha raskapitë fare. E
 njerka, që t'a çonte në vend porosin e hallës, më kishte mbulue
-asokohe, kur më kish katëllu e gjumi.
+asokohe, kur më kish katëllue gjumi.
 
 Kur u zgjova dhe i hapa sytë pashë se isha mbulue me nji jorgan të
-vjetër që isht e copa copa e me njolla që i vinte era uthull e djersë.
+vjetër që ishte copa copa e me njolla që i vinte era uthull e djersë.
 E hoqa, me neveri dhe e hudha tej at jorgan, i cili sigurisht do
 t'ishte pasunia e trashëngueme prej stërgjyshes plakë e të dergjun në
-shtrat vjet me rradhë. Nuk dij se qysh nuk e ka diktue im atë e t'u a
+shtrat vjet me rradhë. Nuk dij se qysh nuk e ka diktue im atë e t'ua
 shitte tregtarëve të vjetërsinave si jorganin e Adamit.
 
 — A s'gjete nji jorgan tjetër që më kishje mbulue me atë fëlliqsinë? -
@@ -1029,12 +1029,12 @@ quen "rafëzi", ndoshta pse ai i shfaq lirisht gjykimet e veta dhe
 ndoshta pse këta nuk pajtohen me konceptin që ka formue im atë mbi
 fen. Për shëmbëll Dajë Haxhiu thotë se vena asht e ndalueme me u pimë,
 për shkak se e damton shëndetin e moralin e njeriut, por lejohet me u
-përdorë n'asht se e porosit mjeku për t'a për mirësue shëndetin e nji
+përdorë n'asht se e porosit mjeku për t'a përmirësue shëndetin e nji
 të sëmunit të dobsuem. Em atë e kundërshton rreptësisht dhe thotë se
 nuk fut në gojë asnji pikë edhe sikur të jetë tue vdekë, pse ai që pin
 venë dyzet ditë dalka prej Imanit!...
 
-— Njeriu fetar isht asht i detyruem me e ruejtë shëndetin e vet, sepse
+— Njeriu fetar asht i detyruem me e ruejtë shëndetin e vet, sepse
 trupi asht nji ndërtesë hyjnore. Për kët shkak dhe për arësye se
 njeriu lypset t'a kryejë misjonin e vet në këtë jetë, vetëvrasja asht
 e denueme rreptësisht prej fes si nji nga mëkatët ma të mëdha. E ata
@@ -1055,7 +1055,7 @@ siguron dijenia e jo forca ose pasunia.
 — Mund të ketë urdhënue Pejgamberi që t'a kërkojmë dijenin, por atë të
 Dinit e jo të Frengut – përgjigji im atë.
 
-— Ai nuk e ka kufizu e dijenin vetëm n'atë të fes. Bile në radhë të
+— Ai nuk e ka kufizue dijenin vetëm n'atë të fes. Bile në radhë të
 parë e ka vu dijenin e shëndetit dhe mbasandaj tjerat - shpjegoi Dajë
 Haxhiu.
 
@@ -1068,7 +1068,7 @@ drashtë as prej meje as edhe prej femnave që mund t'i zemroheshin.
 Përkundrazi thotë se dijenia asht e domosdoshme si për mashkujt ashtu
 për femnat Myslimane. Veç kësaj duhet të dijsh, miku i em, se historia
 Muslimane asht plot emna femnash që kanë pasë zotnue nji kulturë të
-gjanë dhe që i kanë sjellë shërbime të çmueshme njer zimit - tha Dajë
+gjanë dhe që i kanë sjellë shërbime të çmueshme njerzimit - tha Dajë
 Haxhiu, por em atë pat thanë nji herë jo e nuk mund të thoshte po.
 
 — Ndoshta asokohe ka pasë femna të dijshme, por nashti grueja s'ka
@@ -1138,7 +1138,7 @@ sikundër duket, kujton se zotnon nji dije të gjanë mbi fe, kurse s'din
 gja. Veç kësaj ai mbahet ma sheriatçi e ma fetar i mirë se hoxha vetë.
 Sikur t'isha në vend të Dajë Haxhiut do t'a rroksha flamurin dhe do
 t'i shpallsha luftë asajë turme të pandërgjegjëshme dhe injorante që
-kërkon t'a mbajë femnën nën zgjidhën e padijenis dhe ia mohon të
+kërkon t'a mbajë femnën nën zgjedhën e padijenis dhe ia mohon të
 drejtat e saja njerzore.
 
 ## 14 Qershuer
@@ -1152,7 +1152,7 @@ shoqnueshme. Me to kalohet jeta e ambël dhe pa mërzi, pse kanë nji
 farë cilësije, dhanti prej natyre, me t'a hjekë të keqen me dy fjalë
 ose me nji nënqeshje.
 
-— Të lumtun do të jenë ata që do të bahen burrat t'ujë - u thashë
+— Të lumtun do të jenë ata që do të bahen burrat t'uej - u thashë
 pardje mbas dreke në bisedim e sipër.
 
 — Kujton ti, Dije, se do të jemi të zojat me i bamë fatbardhë burrat
@@ -1160,7 +1160,7 @@ t'onë? - pyeti Xhevrija tue më shique amblas me syt e zij.
 
 — Nuk kujtoj, por besoj Xhevrije - përgjigja.
 
-— N'asht se do të keni fat me u martue me asish qe kanë meritën me e
+— N'asht se do të keni fat me u martue me asish që kanë meritën me e
 quejtë njeri, me asish që kanë tru e ndërgjegje, do të çmohen
 cilësinat t'ueja të rralla dhe do t'i bani të lumtun.
 
@@ -1173,12 +1173,12 @@ vet.
 
 Heshta se s'kisha si me i ngushullue, mbasi edhe un isha si ato, pa as
 ma të voglin privilegj dhe pa ndonji fuqi që të mundesha me e fitue
-atë të drejtë aq natyrale që duhet t'a gëzojmë. Më shkoj mendja,
+atë të drejtë aq natyrale që duhet t'a gëzojmë. Më shkoi mendja,
 menjiherë, ke Shpendi dhe m'u rrëqeth shtati kur e kujtova vështirësin
 që mund të ndeshi për me e bamë shok jete. Ah femna shqiptare
 Muslimane. Ajo përgjithësisht asht e vorfën shpirtnish, e pazhvillueme
 mentarisht dhe e dobët fizikisht, pse nuk i asht dhanë mundësia që t'a
-argëtoje shpirtin, që t'a ushqejë mendjen dhe t'i gëzoje dhantit e
+argëtojë shpirtin, që t'a ushqejë mendjen dhe t'i gëzojë dhantit e
 natyrës për t'u bamë e fortë dhe e dobishme për shoqnin ku ban pjesë.
 Ajo s'ka kurrgja që të jetë e kënaqun dhe krenare; vjen e shkon pa
 lanë gjurmë në këtë jetë. Ajo, edhe po të dojë, s'mundet dhe s'ka se
@@ -1188,7 +1188,7 @@ asht si nji robneshë pa kurrfarë të drejte.
 — Xhevrijen e kërkoi dikush, por s'e dha tata - tha Sanija mbas pak
 tue e këputë kështu vargun e mendimeve të mij.
 
-— Kush që ai? - pyeta.
+— Kush qe ai? - pyeta.
 
 Xhevrija u skuq dhe e uli kryet.
 
@@ -1231,7 +1231,7 @@ këndej rrugës.
 “E shkreta vajzë”, thashë me vetëhe dhe e qava atë dhe vetëhen, pse
 edhe un isha në gjendje të sajë. Po. Edhe un dashunoj nji djalë që e
 pashë rasësisht në shtëpi t'Irenës, por që nuk kam mundë me folë ma
-karnji fjalë me të. Edhe un, si Xhevrija, nuk e dij se a më dashunon
+[kurrnji] fjalë me të. Edhe un, si Xhevrija, nuk e dij se a më dashunon
 apo jo dhe se ç'fat e pret dashunin t'eme. Un, ma shum se ajo, pata
 fatin t'a mësoj emnin dhe të marr njoftime mbi familjen e tij, por
 kurrgja ma shum dhe asgja të kënaqshme për sigurimin e lumnis
@@ -1262,18 +1262,18 @@ huej - bani ajo tue më shique në sy.
 “Ai asht”, pëshpërita me vetëhe dhe ika si e hutueme. Tash dashunis
 s'eme iu shtue edhe zilia dhe vuejtja shpirtnore u dyfishue.
 
-## 17 Qershor
+## 17 Qershuer
 
 Feja e moda, simbas mendësis së disa tru-ndryshkunve, qenkan shemra që
 s'pajtojnë kurrë. Un, të them të drejtën, nuk po mundem me e kuptue
 arësyen e rrjedhjes së këtij kundërshtimi kaq t'ashpër që zhvillohet
-në mes, t'antarve të të dyjave. Për shembëll disa kohë ma parë u ba
+në mes t'antarve të të dyjave. Për shembëll disa kohë ma parë u ba
 kijameti prej njerkës, pse un kisha premë nji fustan pak të shkurtun.
 Ajo u ba spec prej zemërimit dhe thoshte se fustani lypset të jetë i
 gjatë deri ke themrat e kambëve. E ai i emi ishte nji pëllambë nën
 gju. Megjithqë qysh atëhere ka kalue shumë kohe ende s'ka pushue
 grindja e fustanit. Do të mveshin këmishë zjarmi në xhehennem - thotë
-njerka dhe ket kërcnim e përsërit shpesh e shpesh.
+njerka dhe kët kërcnim e përsërit shpesh e shpesh.
 
 Këto ditë pat nisë nji grindje tjetër: Ajo e flokve të shkurtun.
 Shumica e femnave, simbas modës së sotshme, i kanë premë leshnat dhe i
@@ -1299,7 +1299,7 @@ mbrrimë kësaj dite.
 A thue se me të vërtetë do të bahet kijameti pse i preva un flokët? A
 thue se, përnjimend, ka me u zemrue Perëndia, pse na i shkurtuem
 flokët e gjatë? Nuk besoj dhe nuk kujtoj që zoti të ketë vumë nji
-ligjë të posaçem për t'a regullue çashtjen e flokve. Nuk e kuptoj se
+ligjë të posaçëm për t'a regullue çashtjen e flokve. Nuk e kuptoj se
 ç'lidhje kanë flokët e mij me lamshin e dheut. Mos asht lidhë lamshi i
 dheut në fijet e flokve të mij dhe, tash që i preva, do t'a humbi
 drejtpeshimin dhe do të rroposet?! Në qoftë se do të bahet kijameti
@@ -1335,7 +1335,7 @@ paska ndrrue ky zakon dhe të gjitha femnat, pa u përjashtue edhe
 njerka e eme, paskan nisë me i mbajtë flokët të gjatë. Për kët shkak
 paskan ndodhë shumë grindje në mes të fanatikve e të liberalëve sa
 paskan lanë shumë kujtime të hidhta. Tash që moda kërkon t'i
-shkurtojmë, prap ka nisë me fry ai murran i egër i kundështimeve dhe i
+shkurtojmë, prap ka nisë me fry ai murran i egër i kundërshtimeve dhe i
 grindjeve në mes të të dy palëve. Qysh nga Eva e deri më sot,
 sigurisht, mija volume do të jenë shkrue mbi bukurin e flokve të gjatë
 të femnës dhe un, po t'a kisha pasë në dorë, do t'a kundërshtojsha
@@ -1375,10 +1375,10 @@ gëzoi tepër, sepse do të mundem me e pamë nga ndonjiherë dhe ndoshta
 do të mundem edhe me folë me të. Më pëlqen t'a gjykoj si shenjë
 dashunije interesimin që tregon për mue, por nuk mundem me e besue
 kryekëput. Ah sikur të më dashunonte me të vërtetë. Po t'arrijsha me u
-dashune prej tij e me u... martue me të, kurrgja tjetër nuk do t'i
+dashunue prej tij e me u... martue me të, kurrgja tjetër nuk do t'i
 kërkojsha Zotit. Por ah. Ndoshta ai pyet për mue i shtyem vetëm nga
-ndërgjegja dhe për të nderue regullat e etiketës apo të kalorë is që
-tash vonë ka në nisë me i përvetue të rijt e sidomos studentët t'onë.
+ndërgjegja dhe për të nderue regullat e etiketës apo të kalorësis që
+tash vonë kanë nisë me i përvetue të rijt e sidomos studentët t'onë.
 Dhe sigurisht kështu do të jetë. Oh ku kam fat un e shkreta me u bamë
 mbretnesha e adhurueme e atij mbreti të plotpushtetshëm që sundon mbi
 zemrën t'eme. Kush e din. Të them të drejtën jam me zemër të ngrime.
@@ -1388,14 +1388,14 @@ zemrën t'eme. Kush e din. Të them të drejtën jam me zemër të ngrime.
 Eme njerkë asht edhe ziliqare. Po, asht edhe fort. Shumë herë e
 thumbon t'em atë dhe kërkon të dije se ku e kalon kohën, kur qëllon të
 vonohet me u këthye në shtëpi. Sonte, për shembëll, em atë i zanun me
-punë të shumta në dyqan, erdh pak vonë. Për këtë shkak ajo që tue
+punë të shumta në dyqan, erdh pak vonë. Për këtë shkak ajo qe tue
 luejt mendsh prej nakarit. Sa shkeli baba në prak të derës, ndeshi në
 njerkën që e priti me turi të mvarun dhe me nji breshën fjalë ankimi.
 Ai u habit dhe, pa e kuptue shkakun e vërtetë të kësaj furrejeje
 t'ashpër, shpjegoi se kishte qenë i ngatrruem me punë tregtije në
 dyqan. Mirë, por ku i mbushej mendja asaj se! Ai vonë e muer vesh
-qellimin e këtyne sulmeve të bame me nji gjuhë aq të fortë. Atëherë
-nisi me i folë ma shtruem që t'a bindët e se ai nuk ishte nga ata
+qëllimin e këtyne sulmeve të bame me nji gjuhë aq të fortë. Atëherë
+nisi me i folë ma shtruem që t'a bindte se ai nuk ishte nga ata
 burra që mund t'i vehej në dyshim nderi. Nji copë herë, i lodhi
 fëlqijt tue u arsyetue dhe tue dhanë shpjegime, por njerka vazhdonte
 t'a këndojë kangën e vet. Ma në fund babës iu sos durimi dhe e msyeni
@@ -1405,7 +1405,7 @@ E dij se zilia apo nakari në dashuni asht si krypa në gjellë.
 Gjithashtu e di se edhe dashnorët ngucen e besdisen fort kur hanë
 tepër nga kjo krypë njelmuese deri në helmim. Të gjitha këto i kisha
 ndigjuem prej atyne që i kanë sprovue dhe m'a merrte mendja edhe mue
-se, shumë herë, munde të ngjajnë moskuptime e dyshime midis atyne që u
+se, shumë herë, mund të ngjajnë moskuptime e dyshime midis atyne që u
 kanë rasë zemrave të veta nga nji kuintal ndiesi flakruese dashunore.
 Por nuk m'a merrte mendja se krymbi i dyshimit e i nakarit mundet me e
 brejtë edhe zemrën e nji grueje të mplakun dhe që disa herë asht bamë
@@ -1414,14 +1414,14 @@ nanë. Mbasandaj prej kuj me dyshue se?! Prej nji burrit që ka kalue të
 respektue porosit e fes. Përmbi të gjitha ai nuk asht as edhe i bukur.
 Nuk them se asht i shemtueshëm, por s'asht edhe i bukur. Për shembëll
 ka sy të zij, por qepallet i ka mjaft të rralla; ka kokë vezake e faqe
-të plota, por hundën e ka të shtrrembët; ka shtat të plotë, por shalët
+të plota, por hundën e ka të shtrembët; ka shtat të plotë, por shalët
 i ka disi të shtrembëta si dy kiza me korriz jashtë; ka krahënuer të
-gjanë, por ka edhe do duer të mbëdha e plot lesh. Disa thonë se leshi
+gjanë, por ka edhe do duer të mëdha e plot lesh. Disa thonë se leshi
 ndër duer të meshkujve asht shenjë fisnikije, por mue, për Zotin, nuk
 më mbushet mendja se leshi mundet me e fisnikue njeriun. Përkundrazi
 kisha me thanë se leshi ndër duar asht shenjë primitiviteti,
 moszhvillimi ose papërsosmënije në pikpamje fizike. Un fisnikrin e
-njerut e kuptoj nga veprat e nga sjelljet e tija e jo nga leshi i
+njeriut e kuptoj nga veprat e nga sjelljet e tija e jo nga leshi i
 duerve. Shkurt ai nuk asht nga ata që mund të admirohet prej nji femne
 si i bukur dhe t'a trembi njerkën se mos i rrëshqet nga dora.
 
@@ -1450,8 +1450,8 @@ Ndoshta.
 
 ## 27 Qershuer
 
-Irena asht e lumtun. Po. Herë mbas here asaj i vjen i dashuni në shtë
-i dhe, orë të tana, rrijnë tue bisedue. Ah sa lakmojsha me qenë si
+Irena asht e lumtun. Po. Herë mbas here asaj i vjen i dashuni në shtëpi
+dhe, orë të tana, rrijnë tue bisedue. Ah sa lakmojsha me qenë si
 ajo. I kam zili. Ajo u fejue me atë që ka dashunu edhe tash projekton
 se si t'a ngrehi folen e lumnis. Ku ka ma mirë? Kanë vendosë të
 martohen në vjeshtë dhe prindët e tyne e kanë pëlqye kët vendim.
@@ -1460,6 +1460,9 @@ lumtuna janë ato që i kënaqin zemrat dhe të mjera janë ato që s'mundin
 me i argëtue dëshirat e tyne. Por ma të lumtuna janë ato që nuk gjejnë
 asnji pengim prej prindërvet të vet në realizimin e andrrimeve të tyne
 lumnuese. Edhe un andrroj nji lumni, por druej se do të ndeshi në
-pengime të ndryshme e sidomos në kundërshtimin e pathyeshem të babës,
-pse ai, për fat të keq, nuk asht në gjen dje me e çmue të drejtën e
+pengime të ndryshme e sidomos në kundërshtimin e pathyeshëm të babës,
+pse ai, për fat të keq, nuk asht në gjendje me e çmue të drejtën e
 bijës së vet.
+
+[^1]: Parajsës
+[^2]: fatit

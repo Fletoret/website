@@ -5,7 +5,7 @@ author: Fan Noli
 respectLineBreaks: true
 parent: Albumi
 grandparent:
-order: 13
+order: 14
 keywords:
 published: true
 ---
@@ -21,13 +21,13 @@ Rrufeshkab' e Malësisë,
 Në një shkëmb të Dragobisë.
 
 Vendi dridhej, ay mbeti,
-Se s'tronditej nga tërrmeti -
+Se s'tronditej nga tërrmeti —
 Dif drangoj' i Dragobisë,
 Trim tribun i Vegjëlisë.
 
 O Bajram, bajrak i gjallë,
 More nam me gjak në ballë,
-Te një shpell” e Dragobisë -
+Te një shpell' e Dragobisë —
 Yll i rrall i burrërisë.
 
 Thon' u shtri e thon' u vra,
@@ -35,12 +35,12 @@ Po ti s'vdiqe, or Baba,
 As te shkëmp' i Dragobisë,
 As te zemr' e Djalërisë.
 
-AS je vrar' e as po vritesh
+As je vrar' e as po vritesh
 Legjendar Ante po rritesh
 Dithyramb i Dragobisë,
 Tmer, panik i mizorisë.
 
 Me zjarr shenjt u ndrit kjo shpellë,
-Gjer në qjell u ngrit Kështjellë
+Gjer në qiell u ngrit Kështjellë
 Për çlirimn' e Shqipërisë
 Katakomb' e Dragobisë.

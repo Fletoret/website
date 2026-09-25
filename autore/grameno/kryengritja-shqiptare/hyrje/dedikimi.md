@@ -17,15 +17,16 @@ TE SHQIPERISE
 
 **AHMET ZOGUT**
 
-PRESIDENTIT PARE TE
+PRESIDENTIT PARE
+TE
 REPUBLIKES SHQIPTARE
 
-—--
+—
 
 BERESI
 **MIHAL GRAMENO**
 
-![Ahmet Zogu - Presidenti i parë i Republikës së
+![Ahmet Zogu <br> Presidenti i parë i Republikës së
 Shqipërisë](/images/kryengritja-e-shqiptareve/ahmet-zogu.jpg)
 
 </center>

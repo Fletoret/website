@@ -6,6 +6,7 @@
   import '$lib/css/app.css';
   import BookEntryPoint from '$lib/components/BookEntryPoint.svelte';
   import type { Author, ExtendedBookType, Post } from '$lib/types.js';
+  import { EPUB_BLURB, EPUB_BLURB_PLURAL } from '$lib/epub';
 
   let { data } = $props();
 
@@ -15,7 +16,10 @@
   let description = $derived.by(() => {
     let desc = `${author?.name} - veprat e plota. `;
     if (author?.books) {
-      desc += author.books.map((x) => x.name).join(', ');
+      desc += author.books.map((x) => x.name).join(', ') + '.';
+    }
+    if (bookEntries?.some(([book]) => book.epub)) {
+      desc += ` ${bookEntries.filter(([book]) => book.epub).length > 1 ? EPUB_BLURB_PLURAL : EPUB_BLURB}`;
     }
     return desc.trimEnd();
   });
@@ -115,7 +119,7 @@
     {/if}
     {#if bookEntries}
       {#each bookEntries as [book, chapters]}
-        <BookEntryPoint {book} {chapters} />
+        <BookEntryPoint {book} {chapters} authorName={author.name} />
       {/each}
     {/if}
   </div>

@@ -9,7 +9,6 @@ order: 95
 Gjithnji t'kujtoj,
 Kurr ty s't'harroj!
 Gjithmon ky shpirt t'kujton,
-
 Se ç'se jem da,
 Shpesh rri tuj kja,
 Se zêmra ty t'dishron!
@@ -26,11 +25,11 @@ Krejt mallëngjy,
 Shpesh sulen tuj e ndal,
 Qi kah kalon,
 Nji viz lëshon
-Përmi liqê pa val—
+Përmi liqê pa val —
 
 T'gjith âsht n'qetsië,
 E plot dashtnië!
 Bylbyli n'pyll këndon —
 Un gzushëm s'jam,
 Qetsië nuk kam,
-Se zêmra ty t'dishron!
+Se zêmra ty t'dishron! —

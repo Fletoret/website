@@ -12,7 +12,7 @@ order: 6
 
 Sot në mëngjez tue u endë nëpër lulishte ndigjova nji trokullimë të
 lehtë. E ktheva kryet dhe pashë kah deriçka q'asht ndërmjet nesh e
-shtëpis së xha Simonit. Nji “_pës”_ më ra në vesh dhe mbas pak
+shtëpis së xha Simonit. Nji “_pës_” më ra në vesh dhe mbas pak
 ndigjova të thërritet emni i em. E njofta zanin. Ishte i Irenës. U
 avita në mënyrë që të mos hetohesha prej të shtëpis s'eme.
 
@@ -29,7 +29,7 @@ E dashuna Dije,
 
 Fati i lig që na lufton besomë se do të përkulet e do të ndrydhet para
 vullnetit që buron nga zemrat t'ona të mbushuna me flakë dashunije. Po
-t'a kisha paramendue se do të dëshironte nisjativa e jonë dhe do
+t'a kisha paramendue se do të dështonte nisjativa e jonë dhe do
 merreshin kaq masa t'ashpra kundrejt nesh, po t'a kisha dijtë se do
 këputet për gjysmë ajo lumni që patëm nisë me shijue, shum ma mirë do
 t'ishte që të mos e trazojshim t'yt atë me propozimin e martesës. Por
@@ -38,12 +38,12 @@ asajë jete, ashtu sikundër ishte, se sa kjo gjendje që nuk na lejon as
 të shifemi me shoqi shoqin. Atëhere, kur na besuem se do t'a
 kunorëzojmë lumnin, u mjeruem. Me gjithkëtë nuk duhet me u dëshprue,
 se ma në fund do të ngadhnojmë. Un po marr masa tjera për me ia
-mbrrimë qellimit.
+mbrrimë qëllimit.
 
 Herë herë mërzitem pa masë dhe më duket sikur do të rroposet krejt
 bota e andrrave t'ona lumnuese, ajo botë e bukur që krijuen zemrat
-t'ona. Por fotgrafia e jote që më ka pasë dhanë Irena me lejen t'ande
-- e mban mend? - më sharton shpresa në shpirt, më mbars me vullnet dhe
+t'ona. Por fotografia e jote që më ka pasë dhanë Irena me lejen t'ande -
+e mban mend? - më sharton shpresa në shpirt, më mbars me vullnet dhe
 më përtrin në fuqi. Kjartësia e syve të tu të kaltërt e të qëndisun,
 që duket edhe në fotografi, ka forcën magjike me mbytë e me zhdukë çdo
 hidhnim tue e këmbye at në gëzim.
@@ -51,14 +51,14 @@ hidhnim tue e këmbye at në gëzim.
 Sot jam mjaft i mërzitun, pse mbramë – vetëm mbramë - nuk të pashë
 n'andërr. Un edhe në gjumë jetoj me ty. Nuk dij se në ç'gjendje je ti
 o lofka e zemrës s'eme! Të lutem mos u mërzit dhe kij shpresë. Edhe
-ime amë asht mërzitë shum nga refuzimi i bamë prej t'yt ët për
+ime amë asht mërzitë shum nga refuzimi i bamë prej t'yt et për
 martesën t'onë. Fëllimi i ambël i këtij mëngjezi, sigurisht, do të
 dojë me t'i sjellë puthjet e nxehta të kësajë zemre që asht plot mall
 e dashuni për ty o engjëlli i em. I joti për jetë:
 
 Shpend Rrëfeja
 
-Disa herë e këndova dhe disa herë e putha këtë letër: Mbasandaj e futa
+Disa herë e këndova dhe disa herë e putha këtë letër. Mbasandaj e futa
 në gji me nji besim fetar që t'a qetson shpirtin e tronditun, ashtu si
 t'ishte nji hajmali e shkrueme prej dorës së nji shenjtit ose të
 profetit.
@@ -68,17 +68,17 @@ profetit.
 Gjumi m'asht prishë. Gati gjith natën rrij me sy hapët. Edhe shija e
 bukës m'asht prishë dhe gjellët më duken të zbarta. Sot pata ethe dhe
 volla pak gjak. Kanë nisë me m'u qarkue syt prej nji rrethit të zi dhe
-fëtyra m'asht zbemë. Prandaj i thashë t'im ët që të më sillte nji mjek
-për me më vizitue, por ai bani sikur nuk më digjoi.
+fëtyra m'asht zbemë. Prandaj i thashë t'im et që të më sillte nji mjek
+për me më vizitue, por ai bani sikur nuk më ndigjoi.
 
 ## 10 Shtatuer
 
 U martue Irena. Sot erdh Zefi vetë, bashkë me krushqit, dhe e muer. E
-çuen Irenën në shtëpin e atij qe dashunon. Un nuk e pashë. Kërkova të
+çuen Irenën në shtëpin e atij që dashunon. Un nuk e pashë. Kërkova të
 shkoj me e takue dhe me e përshëndetë për herën e fundme, pse atë e
 due si nji motër.
 
-Dalë-nga-dale po këputen vargjet e lidhjes që kam me Shpenzin. Mbas
+Dalë-nga-dale po këputen vargjet e lidhjes që kam me Shpendin. Mbas
 sodi nuk ka kush t'interesohet për me na mbajtë në marrëdhanëje me
 njeni tjetrin. Tash e ndi vetëhen, me të vërtetë, të shkretë, si nji
 bonjake të mjerë që nuk i qesh njeri. Oh fat'i zi.
@@ -88,18 +88,18 @@ bonjake të mjerë që nuk i qesh njeri. Oh fat'i zi.
 Tash nuk druej se më hidhnohet baba po të shkoj në shtëpi të Hamitit,
 mbasi ata janë paqtue. Prandaj, sa herë që të due, mund të shkoj pa u
 drashtë. Sot shkova kinse për të bamë nji vizitë, megjithqë vojta për
-t'u pamë me Hamitin, me shpresë së mos m'epte ndonji lajm të mirë mbi
+t'u pamë me Hamitin, me shpresë se mos m'epte ndonji lajm të mirë mbi
 fatin t'onë. Mamë Sybja, e ama e Hamitit, ashtu edhe gocat e djelmt më
 pritën me gëzim. Fëmijt e vegjël të Hamitit, si përherë, më duen fort.
 S'dij se pse simpatizohem kaq shum prej të vegjëlve. Mamë Sybja u
-çudit e u pezmatue kur më pa te dobsueme dhe të zbeme në fëtyrë. Nuk u
+çudit e u pezmatue kur më pa të dobsueme dhe të zbeme në fëtyrë. Nuk u
 mbajt pa me më pyetë se pse isha ligështue. Hamiti s'ishte aty dhe,
 megjithqë prita shum, nuk erdh. U ktheva në shtëpi e dërmueme
 moralisht.
 
 ## 16 Shtatuer
 
-U shemb e u gremis pallati i lumnis s'eme që kisha ndertue në zemër me
+U shemb e u gremis pallati i lumnis s'eme që kisha ndërtue në zemër me
 duert e Shpendit. Tash u shdukën të gjitha shpresat dhe u përmbysën të
 gjithë kështjejt e andrrave t'ona. Andrrat e lumnis, si të ishin re të
 lehta, u avulluen dhe u zhdavaritën prej nji murranit të egër. Po, të
@@ -120,12 +120,12 @@ tërhoqa me nji anë dhe nuk bëzana. Mbas pak plakat, bashkë me hallë
 Hatixhen, erdhën pranë meje dhe, mbasi më përqafuen, m'uruen dashuni e
 lumni me burrin, të cilin nisën me m'a lavdërue tue thanë se asht
 tregtar i madh, shum i pasun, i rodit të mirë dhe nji varg të
-gjatë....
+gjatë...
 
 Un, në fillim, shtanga dhe u mpina fare. E humba fuqin e gjykimit dhe
 nuk qeshë e zoja me e çmue shkallën e fatkeqësis që më kishte
 kapërthye. Syt m'u turbulluen dhe m'u mveshën prej nji rës së zezë.
-Plakat i shifsha të zhytuna në nji dendësi tymi, si t'ishin sokullu e
+Plakat i shifsha të zhytuna në nji dendësi tymi, si t'ishin sokullue
 prej turma mjegullash ose si t'ishin sorra të strukuna pranë meje.
 
 Tamthat më rrifshin me forcë dhe veshët më gugullojshin. E vuna dorën
@@ -136,7 +136,7 @@ burrë. Mbas asajë shtërgate lotsh e britmash u plandosa në nji kand si
 gjysmë e vdekun. Vajin t'em ato e kujtuen të natyrshëm dhe si të
 gjithë atyne që qajnë në rasa të tilla nga njomësia e ndiesive e nga
 foshnjëria e gjykimit, por jo si shenjë hidhnimi e dëshpërimi. Sa për
-gjysmë zalisjen që pata besuen se ajo m'u shkaktue nga dobsia e
+gjysmë zalisjen që pata, besuen se ajo m'u shkaktue nga dobsia e
 shëndetit që u trondit nga ky gëzim i papritun, megjithqë un
 protestojsha kundër asajë padrejtësije që m'ishte bamun. Edhe tash që
 po i shkruej këta rreshta jam tue derdhë lot. Syt e mij më duket se
@@ -162,7 +162,7 @@ kundërshtim të rreptë me konditat e me rrymën përparuese të kohës së
 sotshme. Këta kanë qëndrue në vend dhe as që duen me shkue përpara për
 t'i pamë ndryshimet që impozon shekulli i sotshëm. Me fjalë të tjera
 këta i përkasin shekullit të kaluem dhe nuk mund të pajtohen me frymën
-e re të kohes s'onë plot hafsh gjallnije. Em atë e dha pëlqimin që të
+e re të kohës s'onë plot hafsh gjallnije. Em atë e dha pëlqimin që të
 martohem me at njeriun e panjoftun prej meje dhe kadiu e bekoi n'emën
 të Sheriatit. Këtë poshtërsi shembëllore e bani baba kundër fëmis së
 vet dhe kadiu e aprovoi n'emën t'asajë ligje hyjnore që quhet
@@ -192,7 +192,7 @@ monopolizue. Por edhe në paçim zemër e shpirt, këta lypset të
 funksionojnë simbas andjes s'atyne që na kanë robnue e jo për ata që
 na mund të dashunojmë. Oh fatkeqsi. Sa e sa breza femnash, që erdhën
 para nesh, u banë viktimet e këtij zakoni t'egër dhe flija e asajë
-mendësije që kish për të vetmin qellim të kënaqi kapricjet e nji turme
+mendësije që kish për të vetmin qëllim të kënaqi kapricjet e nji turme
 injorante, sunduese mbi fatin dhe jetën e atyne femnave të mjera.
 Kurrkush, deri më sot, s'pat guximin me marrë përsipër nji përgjegjësi
 për me i operue e shërue plagët e kësaj shoqnije që lëngon prej
@@ -205,7 +205,7 @@ nji Titan që t'a ngrente grushtin e tij të fortë kundër atyne që e
 pengojnë zhvillimin t'onë natyrel e historik, kundër atyne që nuk na
 lanë t'ecim drejt rrugës së madhështis, të liris e të lumnis. Ah sikur
 t'isha djalë e t'a merrsha përsipër kët mision kaq delikat dhe t'i
-sherbejsha shoqnis njerzore. Na do t'ia puthim dorën me respektin ma
+shërbejsha shoqnis njerzore. Na do t'ia puthim dorën me respektin ma
 të madh dhe do t'a deklarojmë shenjt at njeri që të na shpëtojë nga
 kjo robni shekullore tue e grisë edhe peçen që t'i jepen femnës
 Shqiptare e Muslimane mundësit për me i pamë rrezet e arta të...
@@ -237,7 +237,7 @@ ulin vlerën e jetës, që përpiqen t'a hjekin shijen e rrojtjes. Edhe
 ata që e pengojnë zhvillimin e dashunis, t'asajë dashunije që
 shtjellohet mbrenda caqeve të nji moralit relatif e logjik, janë
 shokët e këtyne të verbëve që s'e njofin dritën, që s'kanë fuqi e pajë
-natyrale për me u ngjitë në sferat e nalta e të ndritshëshme të
+natyrale për me u ngjitë në sferat e nalta e të ndritshme të
 bukuris mendore e shpirtnore. Këta mëkatarë meritojnë të mëshirohen,
 se nuk e kuptojnë se shpirti e mendja ushqehen me të bukurën e jo me
 të shëmtueshmen, pse kjo i vret e i mbyt. Edhe em atë, për fat të keq,
@@ -264,7 +264,7 @@ prak të derës së tij.
 
 Kurrgja s'kam marrë vesht prej Shpendit. Due t'i shkruej, por me cilin
 me ia dërgue se? Më mungon çdo mjet. Shkurt jam e shkretë dhe e mjerë
-në çdo pikpamje. Ah un korba !
+në çdo pikpamje. Ah un korba!
 
 ## 23 Shtatuer
 
@@ -286,16 +286,16 @@ për me më përplas mandej në humnerë.
 
 ## 25 Shtatuer
 
-Kola i vogël, vëllau i Irenës, ishe futë sot në kurt të shtëpis s'onë
+Kola i vogël, vëllau i Irenës, ishte futë sot në kurt të shtëpis s'onë
 dhe sillesh rreth e rrotull.
 
-— Ç'kërkon mor Kolë? - e pyeti njer ka kur e pa.
+— Ç'kërkon mor Kolë? - e pyeti njerka kur e pa.
 
 — Kërkoj topin mori; më ra këtu - gjegji ai tue ardhë vërdallë dhe tue
 hudhë shiqime andej e këndej. Asokohe un isha naltë, në kthinë t'eme
 dhe po e shifsha nga dritarja.
 
-Kur më pa mue ma shkrepi syn dhe nisi me fërshëllye kangën “Sa bukur
+Kur më pa mue m'a shkrepi syn dhe nisi me fërshëllye kangën “Sa bukur
 neve jetojmë, në male në Shqipëri”. Mbasandaj e futi dorën në xhep dhe
 e tundi. E kuptova se dishka kishte. Zbrita poshtë dhe iu avita
 dalë-nga-dale.
@@ -315,17 +315,14 @@ Ndërkohe e kishte nxjerrë nga xhepi dhe vu mbi tokë topin, të cilin e
 muer tue u krrusë dhe tue brohoritë. Kur u drejtue pashë se edhe
 dishka tjetër kishte në dorë.
 
-— Merre, se m'a ka dhanë Shpendi. Tash vij ma vonë me marrë të gjegjun
-- tha tue më futë në gji, nji letër të bamun shuk.
+— Merre, se m'a ka dhanë Shpendi. Tash vij ma vonë me marrë të gjegjun -
+tha tue më futë në gji, nji letër të bamun shuk.
 
 Un u habita. Ai u largue tue e këndue kangën:
 
-“Nji motmot e disa muej
-
-Kena pas miqsi n’Tiranë
-
-Tash do t'i kallzoj gjithkuj
-
+“Nji motmot e disa muej\
+Kena pas miqsi n’Tiranë\
+Tash do t'i kallzoj gjithkuj\
 Se vet ke ik e m'ke lanë.”
 
 Fjalët e kësaj kange, s'dij se pse, më banë përshtypje të madhe dhe më
@@ -336,7 +333,7 @@ nuk më kishte lanë vragë sa sot. Për pak qeshë tue bërtitë e qeshë tue
 i thanë Kolës, se un nuk e kisha lanë dhe nuk do t'a lijsha kurrë
 Shpendin t'em. E hutueme shkova dhe u mbylla në kthinë t'eme. E
 këndova letrën. Ai e përshkruente dëshpërimin që kish pasë qysh at ças
-që e kisht e marrë vesht fejesën t'eme dhe ma në fund më propozonte që
+që e kishte marrë vesht fejesën t'eme dhe ma në fund më propozonte që
 të aratisemi n'Itali.
 
 E bana gati përgjigjen dhe i thashë se jam gati me shkue, me të, edhe
@@ -353,14 +350,14 @@ jo un. Më pastë në qafë!
 Dje mbrama gati gjith natën u përpusha në shtrat. Fare pak flejta.
 Shum mendova dhe tepër qava. Mendojsha se si do t'arratisem, si do të
 largohem nga gjini i familjes, nga far' e fisi dhe ma në fund nga
-atdheu. Ndiesi të paspjegueshme më ngufmojshin nga zemra dhe më
-mbushshin me mall, më pezmatojshin dhe ne fund më bajshin të derdh lot
+atdheu. Ndiesi të pashpjegueshme më ngufmojshin nga zemra dhe më
+mbushshin me mall, më pezmatojshin dhe në fund më bajshin të derdh lot
 dëshpërimi. Jo nji herë, por shumë herë u zhgreha në vaj dhe qava me
 dënes të madh.
 
 Sot gjith ditën mbeta ramë në shtrat se isha e drobitun fare. Mbas
 dreke më shpërtheu gjaku nga goja si t'ishte nji shëmali. Kësajë
-rradhe edhe im atë u shqetues se demede hallë Hatixheja ia ka bamë
+rradhe edhe im atë u shqetsue se demede hallë Hatixheja ia ka bamë
 tragjike sëmundjen t'eme. Erdh e më pa. Më tha se nesër në mëngjes do
 të më sjelli nji mjek. I thashë se nuk e due mjekun, por besoj se ka
 me e sjellë. Ndoshta don me më ngjallë, se do të më çojë ke ai
@@ -422,7 +419,7 @@ shkencës - shpjegoi njeni tue dashtë t'a meremetojë atë që kishin
 prishë të tre së bashku.
 
 — S'asht nevoja me u lodhë për me e bamë diagnozën e sëmundjes me
-mjetet e shkeneës, pse gjaku që kam nxjerrë, dhimbja e krahnorit,
+mjetet e shkencës, pse gjaku që kam nxjerrë, dhimbja e krahnorit,
 kolla e vazhdueshme, ethet e herë-mbas-hershme si dhe të tjerat, janë,
 sikundër e pohuet dhe zotnia e juej pak ma parë, symptomet e
 pakundërshtueshëm të tyberkulozit. Mbasandaj duhet të dini se kjo nuk
@@ -435,7 +432,7 @@ të kujtoni se lëngoni nga nji sëmundje e pashërueshme.
 — Un e dij dhe e kuptoj se jam dënue me vdekë, por nuk e dij se kur.
 Do t'ju isha mirnjoftës sikur të kishit mirësin me m'a caktue afatin
 që më ka dhanë mordja për me u zvarnisë në këtë botë hipokrizish,
-gënjeshtrash, padrejtësish dhe poshtersish - u thashë sikur të dojsha
+gënjeshtrash, padrejtësish dhe poshtërsish - u thashë sikur të dojsha
 me e shfrynë të tanë pakënaqësin e femnës së martyrëzueme.
 
 — Përse flitni me kaq dëshpërim zojushë? Nuk asht e vërtetë se jeni aq
@@ -447,7 +444,7 @@ mjaft nga fjalët e mija.
 nuk do të shkojë shum kjo – thashë si me qesëndi, por edhe e
 trishtueme.
 
-Të tre mjekët kishin qëndrue në kambët si të mpimë dhe po më
+Të tre mjekët kishin qëndrue në kambë si të mpimë dhe po më
 shiqojshin me dhimje të thellë. Ndoshta për të parën herë në jetën e
 tyne dhe gjatë karijerës kishin hasë në nji të sëmunë që po u flitte
 kësodore. Dukeshin të habitun aq ma shum nga mospërfillja, me të cilën
@@ -496,12 +493,12 @@ jam dënue me vdekë si tyberkuloze dhe, edhe në më martofshin me at
 tregtarin, do t'a vras vetëhen atë ditë që të më shpijnë ke ai, pse
 nuk do mundem me e durue makar edhe për pak ditë. I shpjegova edhe se
 sikur të shduken gjithë pengimet un nuk mund të martohem me të, sepse
-mund t'i a rrezikoj jetën meqë jam tyberkuloze. E jeta e tij si për
+mund t'ia rrezikoj jetën meqë jam tyberkuloze. E jeta e tij si për
 mue ashtu për t'amën plakë asht e nevojshme dhe e shtrenjtë. I thashë
 t'a harronte atë femën që e dashunoi me të tanë forcat e shpirtit të
 vet, mbasi ajo asht e dënueme me nji vdekje që nuk i jep afat të gjatë
 në këtë botë. Ma në fund iu luta të më dërgonte nji fotografi që të
-shmallesha tue e pa më.
+shmallesha tue e pamë.
 
 Letrën e dërgova me anë të Kolës, i cili ishte futë në shtëpi tue
 pretendue se prap e kishte humbë topin.
@@ -514,7 +511,7 @@ kulmin. Por m'anë tjetër më siguronte se mund të shërohem fare lehtë
 po të baj nji kurë të rregullt dhe pa u mërzitë, gja të cilën m'a
 kshillon në mënyrë të veçantë. Sa për pengimin që formon sëmundja e
 eme për martesën t'onë, ai s'e merr parasysh fare dhe thotë se, sikur
-t'ishte e mundun, do të më prite me kënaqësi e me krahë hapet edhe
+t'ishte e mundun, do të më pritte me kënaqësi e me krahë hapët edhe
 sikur t'ia shpijsha mordjen me puthjen e parë. Prandaj insiston në
 mendimin e parë dhe kërkon që të bindem me u aratisë. Gjithashtu më
 lutet të mos e zbatoj vendimin e vetvrasjes edhe në mos u gjetë
@@ -550,7 +547,7 @@ ajo e shkreta që t'ia nduk zemrën mizorisht tue ia futë në tokë edhe
 dritën e syvet dhe shtyllën e vetme të jetës së vet? Jo. Këtë nuk e
 duron zemra e eme. Prandaj duhet të hjek dorë nga mendimi i
 vetëvrasjes; lypset të rroj që të rrojë edhe Shpendi i em i shtrenjtë,
-ai që m'a ambelsoi jetën tue ma falë zemrën e vet. A nuk asht mëkat që
+ai që m'a ambëlsoi jetën tue ma falë zemrën e vet. A nuk asht mëkat që
 të vdesi ai farë djali në moshën ma të mirë të jetës së vet? Përse t'a
 tërhek rrëshanas e t'a fus në gropën e zezë, ku nuk ka për t'a pamun e
 ama? Me vdekjen e tij për mue shuhet ylli i dashunis, por për t'amën
@@ -602,7 +599,7 @@ mendjen me ndrrue drejtim. Prandaj, sido që të bahet gjendja e eme nuk
 mund të përmirësohet. Kot shpresoj si foshnjë. Vetëm aratisja asht
 mjet shpëtimi për mue, por asht e rrezikshme për Shpendin. Prandaj nuk
 mundem me e pranue. Po të mos kisha qenë e sëmunë, me kënaqësin ma të
-madhe, do te hudhesha në krahët e tij dhe do të shkojsha me të tej
+madhe, do të hudhesha në krahët e tij dhe do të shkojsha me të tej
 maleve e fushave, andej lumejve e detnave për të gjetë vendin, ku të
 preheshim, t'argëtoheshim, të gëzoheshim dhe të shijoheshim me
 ambëlsit që na ka dhurue natyra. Por qeh se jam e sëmunë dhe si e
@@ -622,11 +619,11 @@ edhe mue. Por në qoftë se ti s'do të bindesh me u aratisë dhe do t'i
 shtrohesh fatit të martesës, thotë ai, mund të shkoj n'Itali për me
 kërkue jo prehje e gëzim shpirti, por qetsimin e nervave të ndezuna
 prej kobit që pësuem. Por edhe në shkofsha duhet t'a dijsh se zemrën
-kam me e lanë këtu, ke ti o engjëllushka e me, shton ma andej Shpendi
+kam me e lanë këtu, ke ti o engjëllushka e eme, shton ma andej Shpendi
 në letrën e tij.
 
 E dij se më dashunon përnjimend dhe e kam provue se ka karakter të
-fortë, por zilin m'a bren zemrën dhe më ban të dyshoj se mos dashunojë
+fortë, por zilia m'a bren zemrën dhe më ban të dyshoj se mos dashunojë
 ndonji tjetër po të largohet tej detit. Oh, po ç'them kështu? Me gjith
 që jam me nji kambë në vorr, kërkoj me ia monopolizue zemrën Shpendit
 të ngratë. Oh sa e marrë që jam! Oh se ç'qenka dashunia! Qeh e
@@ -638,7 +635,7 @@ tjetër. Nuk mund të duroj që zemra e tij të dashunojë ndonji sylaroshe
 tjetër. Shkurt s'due shemër.
 
 “Po ai si duron që të martohesh ti me nji tjetër?”, më tha zani i
-ndërgjegjës. M'u rrëqetë shtati me tmer, prej kësajë thirrjeje që m'u
+ndërgjegjës. M'u rrëqeth shtati me tmer, prej kësajë thirrjeje që m'u
 ba nga gjykata e naltë e vetëhes s'eme. U zbrapa dhe pranova se ai, me
 të vërtetë, asht ma i naltë se un. Për hir të jetës s'eme pranon të
 rrënkojë gjithë jetën nga dhimbjet e plagëve të randa që do t'i hapen
@@ -653,7 +650,7 @@ liri dashunimi, se të due me gjith shpirt, se ti duhet të jesh vetëm i
 emi. Dhe për këto arësye po vendos t'arratisem me ty dhe të shpëtoj
 nga tortura e zilis.
 
-Vendosa t'arratisem me të, se s'mundi t'i duroj dhimbjet e ndryshme e
+Vendosa t'arratisem me të, se s'mund t'i duroj dhimbjet e ndryshme e
 të forta të zemrës, se vetëm tue qenë ngjat tij do të jem e qetë, e
 kënaqun dhe e lumtun. Sa për shëndetin e tij do të kem kujdes të mos e
 rrezikoj tue i qëndrue larg. Mjafton t'i kaloj pranë tij këto të paka
@@ -697,7 +694,7 @@ t'Adriatikut, un do të derdh lot gëzimi mbi krahënorin e Shpendit t'em
 dhe ai do të m'i lëmojë butë e butë flokët e kokës. Rrezet e hanës
 asokohe kanë me e prarue bujarisht anijen për t'a festue bashkimin
 t'onë të përjetshëm. E kur t'agojë mëngjezi i asajë nate të
-paharrueme, un do të mundohem me e derptue hapsinën e largët për me i
+paharrueme, un do të mundohem me e depërtue hapsinën e largët për me i
 dallue brigjet e Italis, ku kam me e ngrehë folën e lumnis s'eme të
 andrrueme prej kaq kohesh dhe me aq dëshirime. E atje, sigurisht, do
 të shërohem, pse liria e fitueme dhe dashunia e pazavendësueme e
@@ -719,7 +716,7 @@ sëmuhem. Vetëm këtë shërbim më ka bamë sëmundja.
 
 ## 17 Tetuer
 
-Dita e sotshme që ma e gjatë se çdo tjetër dhe muzgu i mbramjes dukej
+Dita e sotshme qe ma e gjatë se çdo tjetër dhe muzgu i mbramjes dukej
 sikur nuk donte me plakosë mbi këtë anë të dheut. Darka u hangër midis
 gazit që shpërthente shpesh ndër ato që kanë ardhë ke ne qysh prej
 kohesh me më nusënue e me më çue ke ai tregtari. Un, me gjith që
@@ -744,14 +741,14 @@ njerka, fëmijt, emtet, kushrinat dhe mbesat janë mbledhë në kthinën e
 bukës poshtë dhe po qeshin e prrallen, të shkujdesun nga çdo e
 papritme. Tingujt e qeshjeve të tyne arrijnë deri këtu dhe, me forcën
 ngacmuese, rrasen në zemrën t'eme për t'a çue peshë, në tallaze
-ndiesish. Qeh më duket sikur i shof të gjithë tufe kuvendue amblas: Em
+ndiesish. Qeh më duket sikur i shof të gjithë tue kuvendue amblas: Em
 atë thith duhan pa rreshtun dhe herë-herë i aprovon, me nji fjalë të
 vetme e me nji nënqeshje, mendimet e shfaquna prej hallë Hatixhes,
 prej njerkës ose prej mamë Sybes. Grat flasin pa u lodhë dhe me aq
 shpejti, sa ndigjuesit shqyrtues do t'i dukesh se ato nxitohen me u
 shprehë sa ma parë për të nisë mandej nji punë me randësi të madhe! Të
 rejat, çupat, rrijnë me nji anë kokë-më-kokë dhe bisedojnë me njena
-tjetrën me za t'ulët e krejt buzëqeshje. Vetëm kur këput et fjala, e
+tjetrën me za t'ulët e krejt buzëqeshje. Vetëm kur këputet fjala, e
 ngrejnë kryet me shique kah të tjerët dhe u venë veshin fjalëve të
 tyne. Shkurt n'atë kthinë përdheske fryn nji erë kënaqësije dhe zotnon
 gazi e hareja. Oh sa dëshirojsha që edhe un t'isha aty në mes të tyne
@@ -766,7 +763,7 @@ gjithë atyne, fizikisht asht ma i afërt ke un, por shpirtnisht asht
 tepër larg, pse ai m'a dënoi me vdekje zemrën dhe tash po më dëbon
 edhe nga shtëpia.
 
-Eh fat' i zi! Zemra m'asht çue peshë dhe don të shfrejë tue qamë, pse
+Eh fat'i zi! Zemra m'asht çue peshë dhe don të shfrejë tue qamë, pse
 ajo s'don me u largue nga shtëpia, ku leu, ku u mojt, ku u rrit dhe ku
 ndiu. Të pakën ky largim duhej bamë edhe me hirin e t'im et dhe t'isha
 përcjellun prej urimeve e bekimeve të tij. Por mjerisht po ngjan e
@@ -774,13 +771,13 @@ kundërta. Do të përcillem e do të përmendem me namë e me mallkime, me
 fyemje e poshtnime. Ç'të baj? Kështu qenka thanë ose kështu u desht
 bamë.
 
-Grepi i orës, dalë-ngadale, po avit et kah nanda. Tiktaket e zemres
+Grepi i orës, dalë-ngadale, po avitet kah nanda. Tiktaket e zemrës
 s'eme po bahen ma të fortë e ma të shpejtë se ata t'orës. Jam e
 trazueme dhe e turbullueme fort. Valë mallëngjimi e pezmatimi, të
 bashkueme, msyejnë nga megjet e zemrës së gandueme për t'u furrë e për
 t'u shprazë nga syt. I kafshoj buzët që t'a mbaj furrin e këtyne
 tallazeve që duen me shpërthye nga mbrenda jashtë. Ligshtohem tue i
-kujtue, me nji farë mallengjimi të pashpjegueshëm, vjetët e jetës
+kujtue, me nji farë mallëngjimi të pashpjegueshëm, vjetët e jetës
 s'eme të kalueme në këtë kthinë e në këtë shtëpi, në këtë qytet e në
 Shqipni. Fëtyra të ndryshme njerzish t'afërm e të dashun, sqena të
 ndryshme ngjarjesh e ndodhimesh dhe pamje të ndryshme banesash e
@@ -816,7 +813,7 @@ Xha Simonit e me Hamitin e dajallarët. Por, për fat të keq t'emin, po
 largohem si nji kusare, si nji e dëbueme, si nji e neveritun, pa e
 kënaqë zemrën n'asndonji mënyrë, pa marrë me vetëhe as edhe zemra
 dashamirësh as edhe tesha e sende që të m'a mbajnë gjallë dashunin dhe
-kujtimin e këtij vendi nëpër, shtigjet e skutat e mërgimit.
+kujtimin e këtij vendi nëpër shtigjet e skutat e mërgimit.
 
 Ora po avitet. Duhet t'iki ma e t'i them lamtumirë kësaj jete për të
 nisë nji tjetër në dhé të huej. Lamtumirë, pra ti moj kthina e eme që
@@ -843,7 +840,7 @@ se mos diktohem. Në rrugë, mbasi bana disa hapa përpara, hasa në
 Shpendin q'ishte strukë rranzë murit dhe po përgjonte nën hijen e
 strehëve të nji shtëpis përdheske. Menjiherë u avit. Më kapi për dore
 dhe, tue më dhanë zemër me fjalë enkurajuese, më tërhoqi deri ke kandi
-i rrugës, ku pritte nji veturë. Mbasi u futën mbrenda, i thirri
+i rrugës, ku pritte nji veturë. Mbasi u futëm mbrenda, i thirri
 shoferit:
 
 — Marsh për Durrës!
@@ -876,7 +873,7 @@ t'avitet me që s'ka mjaft ujë ma këndej.
 
 — Ani, se terrem në barkë - gjegji dhe u krrus.
 
-Ndërkohe nji i za i egër dhe i fortë arrini ke veshët t'onë:
+Ndërkohe nji za i egër dhe i fortë arrini ke veshët t'onë:
 
 — Ndal!
 
@@ -923,7 +920,7 @@ ngushtohesh. Na qëndruem në vend.
 
 — Cilët jeni ju? - pyeti Shpendi me za të plasun.
 
-— Jemi rojtarë kufizorë. Jemi gjindarmë – qe pergjigja.
+— Jemi rojtarë kufizorë. Jemi gjindarmë – qe përgjigja.
 
 — Oh un korba! - thirra me dëshpërim.
 
@@ -933,7 +930,7 @@ U kthyem. Na futën në mes dhe na çuen në qark komandë të qytetit. Prej
 andej na nisën për Tiranë. Na futën në nji veturë dhe na përcollën me
 nji kapter e dy gjindarmë. Shpendit ia lidhën duert me kllapa hekuri
 dhe gjindarmët kurrë nuk ia shqitshin syt. Çdo lëvizje e tij ishte e
-ndjekun prej tyne me sy shqyrtyes. Un isha tmerue fare dhe po
+ndjekun prej tyne me sy shqyrtues. Un isha tmerue fare dhe po
 dridhesha. Lotët më shkojshin si gjerbat e strehëve. Shpendi i ngratë
 përpiqesh me më qetsue tue më shartue guxim. Kur mbrrimë në Tiranë u
 ndaluem para Qark Komandës. Na zbritën dhe na futën në nji zyrë. Mbas
@@ -941,7 +938,7 @@ pak u duk komandanti i rojes. Kompozoi nji proces-verbal dhe, mbasi na
 e këndoi, na shtyni me e nënshkrue. Mbasandaj i dha urdhën nji tetarit
 që të më çonte në shtëpi. Shtanga.
 
-— Un nuk due me shku e në shtëpi t'eme – thashë me za të dridhun. - Do
+— Un nuk due me shkue në shtëpi t'eme – thashë me za të dridhun. - Do
 të shkoj me Shpendin në shtëpi të tij.
 
 — Ai sonte do të mbetet këtu dhe nesër do të çohet në burg - gjegji
@@ -962,15 +959,15 @@ do të m'a mjerojsh t'eme amë - tha me nji za të mbytun.
 
 — Oh jo. Do të rrij me ty - përgjigja dhe e rroka për qafe. Lotët e
 mij u përzien me ata të Shpendit. Komandanti e përsëriti urdhënin për
-me shkue në shtpi. Nji tetar u avit dhe më urdhënoi të ngrihem. Un e
+me shkue në shtëpi. Nji tetar u avit dhe më urdhënoi të ngrihem. Un e
 shtrëngova Shpendin për qafe me të tanë fuqin t'eme dhe thirra:
 
 — Jo. Nuk shkoj. Do të rrij me Shpendin t'em.
 
 Më kapën dhe më shqitën me pahir. E humba fuqin e qëndresës e të
-mendjes. U ligshtova dhe u vilanosa.
+mendjes. U ligshtova dhe u vilanisa.
 
-* * *
+***
 
 Kur rashë për mendsh e pashë vetëhen në shtëpi t'eme, të rrethueme
 prej të gjithë atyne që pata lanë aty disa orë ma parë.
@@ -993,13 +990,13 @@ dështoi plani i lumtënimit t'onë, por edhe Shpendi u rras në burg.
 Kësisoj na mbuloi e zeza, na kapërtheu mjerimi dhe u ba kijameti. Mu
 n'at ças që do të shkelshim në pragun e anis shpëtimtare për të shkue
 në Parrizin e lumnis s'onë, na sulmoi fatkeqsia tue na gjuejtë
-mizorisht. Tash të gjitha shpresat u shdukën, të tana andorrat u
+mizorisht. Tash të gjitha shpresat u shdukën, të tana andrrat u
 kotsuen.
 
 Si isha diktue dhe si kishte rrjedhë puna? Qeh se si: Natën e
 arratisjes, kur të gjithë kishin shkue me flejtë, hallë Hatixheja
 kishte trokitë në derë të kthinës s'eme që të m'epte nji bar për me
-pimë. Kur nuk mer përgjigje largohet tue kujtue se më ka marrë gjumi.
+pimë. Kur nuk merr përgjigje largohet tue kujtue se më ka marrë gjumi.
 Mbas saj vjen njerka dhe trokullin ma me forcë. Kjo paska lanë aty
 disa ndrresa të fëmijve dhe dashka me i marrë për me ua mveshë. Fati i
 em i lig e kishte shty shtrigën që të linte në kthinë t'eme ndrresat e
@@ -1022,7 +1019,7 @@ shtëpi të Shpendit. Meqense nuk më gjejnë as mue as Shpendin, dyshimet
 nisin me u trupëzue dhe besohet se jemi arratisë. Menjiherë dhe
 telegrafisht urdhënohen qarqet për me na ndjekë. Dhe me të vërtetë na
 ndoqën dhe na zunë, por ata që e kryen detyrën nuk e dijnë se sa mëkat
-të madh i ka në ngarkue vetëhes në këtë rasë. S'e dijnë ata se kanë
+të madh i kanë ngarkue vetëhes në këtë rasë. S'e dijnë ata se kanë
 mjerue dy vetë dhe kanë mbytë dy zemra. Por edhe sikur t'a dijshin se
 veprimi i tyne do t'ishte kobar për dy vetë, do t'i shkambëzojshin
 zemrat që të mos i ndigjojshin thirrjet e ndërgjegjës, pse detyra,
@@ -1040,7 +1037,7 @@ vesh. Nuk më ha malli të kuptoj se ç'flasin. E dij se ato më përbuzin
 si fajtore. Ani, s'kanë faj, pse at shpirt u kanë shartue edukatorët e
 tyre për t'i mbajtë gjithmonë të robnueme. Shpendi, sigurisht, tash do
 të jetë në burg. Edhe un jam mbyllë në kthinë e nuk dal jashtë. Tue e
-mendu e gjendjen e pikëllueme e të vajtueshme të Shpendit, më vjen të
+mendue gjendjen e pikëllueme e të vajtueshme të Shpendit, më vjen të
 plas prej të keqit, por qeh se nuk plaska njeriu!... Ma mirë të kisha
 plasë, se sa arrina me e shijue hidhësinën e këtij kobi. Oh sa mirë do
 të bahesh sikur të më vritte im atë. Porosia që më bani Shpendi, pak
@@ -1052,7 +1049,7 @@ Shpendit, por ç't'i baj kësajë jete që më asht bamë kaq e randë, kaq e
 padurueshme dhe mërzitëse? Ah Shpend! Me t'em atë ende nuk jam pamë.
 Duket se më ka marrë mëni aq fort, sa s'don me m'i pamë as syt.
 
-Mjeruesi i em njikohesisht asht edhe gjykatësi em. E ka në dorë të më
+Mjeruesi i em njikohësisht asht edhe gjykatësi i em. E ka në dorë të më
 gjykojë si fajtore ose jo.
 
 ## 20 Tetuer
@@ -1065,7 +1062,7 @@ binte damlla ose pika që të mos bahesha nusja e tij. Kob, mënxyrë!
 
 Qeh erdhën krushqit për me më marrë. Kur vdes kush e përcjellin me
 karroca deri ke Vorri i Bamit, por edhe kur martohet ndokush e
-përcjellin me karroca deri në shtëpinë dhandrit. Mos asht martesa
+përcjellin me karroca deri në shtëpin e dhandrit. Mos asht martesa
 sinonim i vdekjes? Për mue dhe për shumë të tjera asht ma e hidhët se
 vdekja, pse martohemi me njerës të panjoftun e të padashunuem prej
 nesh.
@@ -1082,7 +1079,7 @@ m'errësohen syt.
 
 — Hajde se po presin burrat në rrugë - thotë nji tjetër.
 
-Oh sa bukur e sa mirë do t'u përgjithesha këtyne thirrjeve, po të mos
+Oh sa bukur e sa mirë do t'u përgjigjesha këtyne thirrjeve, po të mos
 i kisha dhanë besë Shpendit, se do të rroj derisa të më korri vetë
 drapni i vdekjes. Oh se ç'mësim do t'i epsha skotës mashkullore që
 tregton në kurriz të femnës së ngratë. Ah un e mjera që s'jam në
@@ -1107,7 +1104,7 @@ Më duhet t'a mbyll librin për...
 Sot nuk jam ma vergjineshë. Nuk jam ajo Dija krenare që mund të
 mburresh me pastërtin e vet. Sot jam grue dhe nji grue fatzezë me
 kuptimin e plotë të fjalës. Jam nji femën që rron vetëm për të vuejtë
-shpirt nisht e trupnisht.
+shpirtnisht e trupnisht.
 
 Nji njeri gati 40 vjetsh, shtat-madh, musteqeverdhë, turi-shëmtueshëm
 dhe i fuqishëm më rroku, dje mbrama, dhe më torturoi mizorisht e
@@ -1132,13 +1129,13 @@ atyne që hyjnë e dalin si t'ishte kthina e eme nji sallë ekspozite dhe
 un nji plaçkë e ekspozueme? E përse të qëndroj në kambë e pa folë si
 ndonji mumje Egjypti? Mbasandaj përse me u ulë e me u ngritë
 automatikisht sa herë që të hyjnë e të dalin bota nëpër dyert e këtij
-hani? Ama do të hidhnohet vjehra. Aq më ban! A nuk ka plasë më gjith
+hani? Ama do të hidhnohet vjehra. Aq më ban! A nuk ka plasë me gjith
 të birin? I dij këta zakone e këto marrëzina, por un nuk mundem me i
 bamun edhe sikur të shembet bota. Dij edhe se në vendin t'onë
 bashkëshortët nuk flasin me njeni tjetrin faqe tjerëve; e kanë për
 turp t'a thrresin njeri tjetrin me emën por e përmendin tue thanë ai
 ose ajo. Un këtë musteqe-verdhin t'em - iu harroftë emni - as që due
-me e pa më e jo ma me ia përmendë emnin.
+me e pamë e jo ma me ia përmendë emnin.
 
 Shkurt të gjitha këto i dij, por nuk i baj dhe nuk do t'i baj kurrë.
 Vjehra demede e ka marrë vesht edhe arratisjen t'eme. Prandaj më shef
@@ -1151,7 +1148,7 @@ bashkëjetojë me nji femën që e përbuz? Nuk e marr vesh se si e kupton
 ky martesën. Oh sa e sa burra të tillë ka vendi i jonë dhe sa e sa
 turpe mshifen mbrenda katër mureve të shtëpiave. Të gjitha ndryhen
 mbrenda për me mos dalë jashtë portës dhe për hir të turpit gëlltiten
-të gjitha posht nimet.
+të gjitha poshtnimet.
 
 Sa keq! Sa turp!
 
@@ -1184,7 +1181,7 @@ do t'a trathtojë vullnetin t'em për të mos e shkelë vendimin e dhanun
 që t'a duroj këtë fatkeqësi. Shumë herë më mposht dëshpërimi dhe
 zgrehem në vaj. Qaj si foshnje për engjullushkën t'eme që m'a
 grabitën, qaj për zemrën t'eme e t'anden që u dënuen me vdekje dhe qaj
-per ato orë të paka lumnije që nuk mund të përsëriten ma. Nana e motra
+për ato orë të paka lumnije që nuk mund të përsëriten ma. Nana e motra
 kanë ardhë nja dy herë për me më vizitue. Shqetsohet nana kur më shef
 të zymët e të trishtuem. E shof se e pezmatoj dhe e vras tue mos e
 mbajtë vetëhen, të pakën para saj, por s'e kam vetëhen në dorë dhe
@@ -1225,11 +1222,11 @@ neveris këtë jetë dhe t'aratisem përsëri me të. Po të bijë në dorë të
 ndokuj kjo letër ose ky libër, sigurisht, do të përbuzem e do të
 mallkohem tue thanë se un sot, si grueja e këtij tregtarit, - më vjen
 efsh me ia përmendë emnin - nuk kam të drejtë të korrespondoj me nji
-tjetër dhe të shprehem kkësoore se... rrëzohem nga kunora!... Atij do
+tjetër dhe të shprehem kësodore se... rrëzohem nga kunora!... Atij do
 t'i përgjigjesha krejt duf e mëllef dhe do t'i thojsha se un, në
 realitet, nuk kam kunorë, mbasi jam martue pa u pyetë dhe me nji njeri
 që nuk e dashunojsha dhe nuk e dashunoj edhe sot. Do t'i thojsha se po
-të zbatohesh ligja dhe sherijati rigorozisht, un nuk do ë quhesha
+të zbatohesh ligja dhe sherijati rigorozisht, un nuk do të quhesha
 grueja legjitime e këtij njeriu, por mantenuta e tij e vume nën
 dispozisjon të tij prej t'im et. Me fjalë të tjera un do të quhesha
 fërshëndi, im shoq bik dhe im atë ganec.
@@ -1308,14 +1305,14 @@ Gjykata e Tiranës disa ditë ma parë më ftonte që të paraqitesha dje
 para sajë, si ndërgjyqse, në padin e aratisjes. Un dojsha të vete e të
 deklaroj se pata ikë me hirin t'em për t'u martue me Shpendin që e
 dashunoj, por nuk më lanë këta gogolë. Kur pashë se nuk do të mundesha
-me ia mbrrimë qellimit i shkrova nji letër Z. gjykatsit dhe i thashë
+me ia mbrrimë qëllimit i shkrova nji letër Z. gjykatsit dhe i thashë
 se Shpendi nuk ka as ma të voglin faj, mbasi un kam qenë ajo që e kam
 nxitë e shty n'aratisje. Letra kishte bamë bujë të madhe dhe im atë e
 im shoq, q'ishin si paditsa kundër Shpendit, ishin bamë për të vramë
 vetëhen. Dhantë Zoti t'u mbushet mendja që të më fusin nji plumb kokës
 e të shpëtoj nji herë e përgjithmonë. Sot erdh në shtëpi nji
 përfaqësues i gjykatës dhe më pyeti mbi rrjedhjen e aratisjes. I
-vertetova dhe i përsërita ato që pata shkrue në letër.
+vërtetova dhe i përsërita ato që pata shkrue në letër.
 
 Çuditem në t'em shoq. Habitem se si nuk më vret. Në mos qoftë i zoti
 me e përdorë pushkën, të paktën, duhej të më shkunorëzonte. Përse nuk

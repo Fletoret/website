@@ -30,6 +30,6 @@ Shfryhet zjarm'i dashuniës.
 Kur dy zêmra, bashk nen hân,
 Njêna n'tjetren rrin e gzon
 T'puthna t'xeta tuj u dhân,
-Kur mî kry bylbyli i kndon—
+Kur mî kry bylbyli i kndon —
 Kndo bylbyl! Bylbyl i ngrat,
 Se nuk ka mâ t'bukur nat!

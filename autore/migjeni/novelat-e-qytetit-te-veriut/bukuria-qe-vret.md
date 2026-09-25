@@ -18,7 +18,7 @@ E në kasolle, e cila gjëmon nën barrën e borës, derdhen dy
 ngjyra kuq e zi. I kuq zjarmi i votrës në mes të kasolles,
 e i zi rrethi. Të zeza, t'errta janë skutat e kasolles, nga
 ndigjohet blegrim i mekun i ndoj delja ose kumbona e lopës.
-Edhe ata i vret buluria e bardhë. Nga goja u del avulli i
+Edhe ata i vret bukuria e bardhë. Nga goja u del avulli i
 afsheve që ngrihet n'ajr, bjen mbi qimet e tyne si brymë
 dhe kristalizohet. Heshtje. Gjithçkafja e kristalizueme.
 Nji dorë shtrihet, zen nji dru e shpupurish zjarmin. Rropos
@@ -39,7 +39,7 @@ i kish zanë gjumi pranë zjarmit.
 E kur, andej nga mesnata, acarimi arrin dhe kulmin e vet,
 atëhere ndër bagëti fillon nji lëvizje. Po, nji lëvizje. Nji
 nga nji u aviten njerëzve e me syt e vet si me u lutë:
-"na lëshoni dhe neve të ngrofemi pak rreth yjarmit, se u ngrimë".
+"na lëshoni dhe neve të ngrofemi pak rreth zjarmit, se u ngrimë".
 Dhe njerzit kundrejt njerzve s'kanë mëshirë, po kundrejt
 shtazve - po. Prandej çohen, ua lëshojnë bagëtis vendin rreth
 votrës, e ata vetë shkojnë n'errësinë që përpinë.

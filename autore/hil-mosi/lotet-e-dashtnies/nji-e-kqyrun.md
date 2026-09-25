@@ -6,10 +6,10 @@ parent: Lotët e dashtniës
 grandparent: null
 order: 29
 ---
-Wol giebt es im Leben kein süsseres Glück,
-Als der Liebe Geständniss im Liebchens Blick!
-
-Th. Körner.
+> Wol giebt es im Leben kein süsseres Glück,
+> Als der Liebe Geständniss im Liebchens Blick!
+>
+> — Th. Körner.
 
 Sa mâ kishte marrun malli
 T'gjith ket zjarm un jasht m'e shfry,
@@ -24,4 +24,4 @@ Prap më mbushi plot shpresim.
 At të kqyrun, q'un n'kujtime
 M'nji e kishe prap t'a gzoj,
 Kur m'a lshoj me aq mallime,
-Deri eshtnat m'i përshkoj.
+Deri eshtnat m'i përshkoj —

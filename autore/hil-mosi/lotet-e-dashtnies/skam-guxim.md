@@ -24,4 +24,4 @@ Prap se prap e mbaj t'gjith ndry.
 Ket dishir un s'kam m'e lânun,
 Do t'a bâj ket zêmër gur
 E të gjith kam me t'a thânun,
-Po mjerim, s'e di se kur!
+Po mjerim, s'e di se kur! —

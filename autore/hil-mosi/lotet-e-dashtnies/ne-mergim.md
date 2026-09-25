@@ -24,4 +24,4 @@ Kam gjithnji.
 Larg, pa ty këtu mergumun,
 S'kam qetsië;
 Ty ç'do ças m'nji tuj t'dishrumun
-O dashtnië!
+O dashtnië! —

@@ -4,7 +4,7 @@ author: Migjeni
 respectLineBreaks: true
 parent: Kangët e mjerimit
 grandparent: Vargjet e lira
-order: 5
+order: 23
 ---
 
 Notojnë xhamiat dhe kishat nëpër kujtime tona,
@@ -23,6 +23,6 @@ Shkëlqen shejtnia mbi zhguna dhe ndër mjekra të hoxhallarve
 O, sa engjuj të bukur përpara derës së ferrit!
 
 Mbi kështjellat mijvjeçare qëndrojnë sorrat e smueme,
-krahët i kanë varë pa shpresë-simbojt e shpresave të humbune
-me klithma të dëshprueme bajnë fjalë mbi jetë të pëmdueme,
+krahët i kanë varë pa shpresë – simbojt e shpresave të humbune
+me klithma të dëshprueme bajnë fjalë mbi jetë të përndueme,
 kur kështjellat mijvjeçare si xhixha shkëlqejshin të lumtuna.

@@ -1,13 +1,16 @@
 <script lang="ts">
+  import { IconBook } from '@tabler/icons-svelte';
+  import EpubDownload from '$lib/components/EpubDownload.svelte';
   import TocItemList from '$lib/components/TocItemList.svelte';
   import type { ExtendedBookType, Post } from '$lib/types';
 
   interface Props {
     book: ExtendedBookType;
     chapters: Record<string, Post[]>;
+    authorName: string;
   }
 
-  let { book, chapters }: Props = $props();
+  let { book, chapters, authorName }: Props = $props();
 </script>
 
 <div class="book" id={book.folder.split('/').pop()}>
@@ -16,12 +19,24 @@
       <h3 class="title">{book.name}</h3>
       <div class="desc">
         {book.abstract} Botuar në {book.datePublished}.
+        {#if book.compilerName}Mbledhur dhe kodifikuar nga {book.compilerName}.{/if}
       </div>
     </div>
     <div class="thumbnail">
       <img src={book.thumbnail} alt="{book.name} - kopertina" />
     </div>
   </a>
+
+  <!-- Siblings of the header link, not inside it: links can't nest. -->
+  <div class="actions">
+    <a class="btn btn-sm read" href="/{book.folder}">
+      <span class="icon"><IconBook size="100%" stroke={1.5} /></span>
+      Lexo librin
+    </a>
+    {#if book.epub}
+      <EpubDownload bookFolder={book.folder} {authorName} variant="compact" />
+    {/if}
+  </div>
 
   <div>
     {#each Object.entries(chapters) as [chapterName, entries], idx}
@@ -52,6 +67,39 @@
     padding: var(--spacing-xl);
     justify-content: space-between;
   }
+  /* Lined up with the description, and pulled up so it reads as part of the
+     header, with a little air left below the header's hover background. */
+  .actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--spacing-md);
+    padding: 0 var(--spacing-xl);
+    margin-top: calc(-0.5 * var(--spacing-xl));
+  }
+
+  /* The primary action, inverted so it never blends into the header's hover
+     background or the EPUB button beside it. */
+  .read {
+    gap: var(--spacing-sm);
+    font-family: var(--sans-serif);
+    font-size: var(--text-sm);
+    text-decoration: none;
+    border: solid 1px var(--text-primary);
+    background-color: var(--text-primary);
+    color: var(--bg-primary);
+    transition: background-color 0.15s ease;
+
+    &:hover {
+      background-color: color-mix(in srgb, var(--text-primary), var(--bg-primary) 18%);
+    }
+
+    .icon {
+      --size: 18px;
+      padding: 0;
+      color: inherit;
+    }
+  }
+
   .book-entry:hover {
     background-color: var(--bg-secondary);
     border-radius: var(--radius-xl);
@@ -94,6 +142,10 @@
   @media only screen and (min-width: 320px) and (max-width: 576px) {
     .book-entry {
       padding: var(--spacing-xl) var(--spacing-md);
+    }
+
+    .actions {
+      padding: 0 var(--spacing-md);
     }
 
     .title {

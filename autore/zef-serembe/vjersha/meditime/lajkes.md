@@ -9,7 +9,7 @@ order: 27
 ---
 
 Sa e poshtër je, o e ndyrë përkëdheli,
-Gënjeshtëplote, e fryrë me qelbësirë,
+Gënjeshtërplote, e fryrë me qelbësirë,
 Ti bën të humbasë mendjen çdo njeri
 E katundet shkallmon me turbullirë.
 

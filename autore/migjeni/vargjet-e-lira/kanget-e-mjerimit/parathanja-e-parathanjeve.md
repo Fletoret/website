@@ -4,7 +4,7 @@ author: Migjeni
 respectLineBreaks: true
 parent: Kangët e mjerimit
 grandparent: Vargjet e lira
-order: 0
+order: 18
 ---
 
 Përditë përndojnë zotat
@@ -24,8 +24,8 @@ që nuk përgjegj.
 Dhe tash s'po dihet mâ kush âsht zot e kush njeri.
 Ka ardhë një kohë
 në të cilën njerzit po kuptohen fare mirë
-për me ndertue Kullën e Babilonit, –
+për me ndërtue Kullën e Babilonit, –
 dhe në majë Kullës, në majë të majes së fronit
 ka me hypë njeriu
 dhe ka me thirrë:
-Perendi! Ku je?
+Perëndi! Ku je?

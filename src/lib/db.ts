@@ -4,6 +4,7 @@ import { parse, parseBlogPost, parseFAQ } from '$lib/markdown';
 import type { Post, BlogPost, FAQ, Author } from '$lib/types';
 import { addTrailingSlash } from '$lib/utils';
 import CONFIG from '$lib/config';
+import { epubHref } from '$lib/epub';
 
 const sortedPosts = (posts: Post[]) => {
   return posts.sort(function (a: Post, b: Post) {
@@ -72,6 +73,24 @@ export function getAuthorsIndex(excludeEmpty = false): Map<string, Author> {
         }
         if (book.thumbnail) {
           book.thumbnailWebp = book.thumbnail.replace('.avif', '.webp');
+        }
+        // Free to read online; with an EPUB, also a downloadable e-book edition.
+        book.isAccessibleForFree = true;
+        if (book.epub && book.folder) {
+          book.workExample = {
+            '@type': 'Book',
+            name: `${book.name} (EPUB)`,
+            bookFormat: 'https://schema.org/EBook',
+            encodingFormat: 'application/epub+zip',
+            inLanguage: 'sq',
+            isAccessibleForFree: true,
+            url: `${CONFIG.info.base_url}${epubHref(book.folder)}`,
+          };
+        }
+        const compiler = book.compiledBy ? idx[book.compiledBy] : undefined;
+        if (compiler) {
+          book.compilerName = compiler.name;
+          book.editor = compiler.author;
         }
       }
     }
@@ -223,6 +242,23 @@ export const getEntries = (
     }
 
     if (book.publishedFletoret) {
+      _books.push([book, sortedChapters(groupBy(bookEntries, 'parent'))]);
+    }
+  }
+
+  // Books this author compiled but didn't write are listed here too, read from
+  // their own author's folder (see `ExtendedBookType.compiledBy`).
+  for (const owner of getAuthorsIndex().values()) {
+    for (const book of owner.books ?? []) {
+      if (book.compiledBy !== author || !book.publishedFletoret) continue;
+      const [ownerFolder, bookFolder] = book.folder.split('/');
+      const bookEntries = sortedPosts(getBookEntries(ownerFolder, bookFolder));
+      if (dropUnusedAttributes) {
+        for (const e of bookEntries) {
+          e.html = '';
+          e.body = '';
+        }
+      }
       _books.push([book, sortedChapters(groupBy(bookEntries, 'parent'))]);
     }
   }

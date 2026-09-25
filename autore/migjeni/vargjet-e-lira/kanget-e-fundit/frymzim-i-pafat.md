@@ -4,7 +4,7 @@ author: Migjeni
 respectLineBreaks: true
 parent: Kangët e fundit
 grandparent: Vargjet e lira
-order: 3
+order: 40
 ---
 
 Frymzim'i em i pafat,
@@ -16,7 +16,7 @@ frymzim'i em i pafat?
 
 Për të gjorët? për ata që nuk kanë dritë?
 O frymzim'i em i ngratë,
-mjaft me plagë qi skan' shërim,
+mjaft me plagë qi s'kan' shërim,
 leni të dergjen në mjerim.
 Njerzit s'duen ma trishtim,
 botës s'ja kande atë kangë të thatë,

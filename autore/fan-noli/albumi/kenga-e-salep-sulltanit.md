@@ -5,7 +5,7 @@ author: Fan Noli
 respectLineBreaks: true
 parent: Albumi
 grandparent:
-order: 11
+order: 12
 keywords:
 published: true
 ---
@@ -16,10 +16,10 @@ Pandeli Jano Vangjeli
 Me Sulltan-llokum na veli
 Si kofini pas të vjeli.
 
-Pyt” i Floqit po pëllet
-Top” i Krosit po kërcet:
+Pyt' i Floqit po pëllet
+Top' i Krosit po kërcet:
 Ç'është ku sheqer-kësmet?
-Hallvaxhin” e pamë mbret!
+Hallvaxhin' e pamë mbret!
 
 Dhe rakia vete-vjen
 Xhafer Ypi na mbëthen
@@ -32,7 +32,7 @@ Se me një ferman kusari
 Sadrazem u bë firari.
 
 Dhe Feridi faqe ndrron,
-Die shante, sot lëvdon
+Dje shante, sot lëvdon
 Fryn bulçit' e trumbeton,
 Që katrani zbardhëllon.
 
@@ -54,4 +54,4 @@ Rroftë sa jep ylefe.
 Seç na u gëzua xhani,
 Seç na preu Ramazani,
 Seç na piu Italiani,
-Rroftë pra Salep- Sulltani!
+Rroftë pra Salep-Sulltani!

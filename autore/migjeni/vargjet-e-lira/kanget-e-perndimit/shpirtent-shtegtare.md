@@ -4,7 +4,7 @@ author: Migjeni
 respectLineBreaks: true
 parent: Kangët e Përndimit
 grandparent: Vargjet e lira
-order: 2
+order: 37
 ---
 
 Mramë një erë e ftohtë acar fryni nga ana e maleve,

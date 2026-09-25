@@ -20,7 +20,7 @@ sa vjet jetë më presin mua?
 "Kuku!" "Një?" Moj qyqe e shkretë,
 plaç! Do rroj tërë një jetë.
 
-* * *
+***
 
 Mori qyqe, mori qyqezë
 kë këndon mbi atë çukëzë?
@@ -29,14 +29,15 @@ Po të fal unë bukë e qepë,
 veç më thuaj fati ç'më jep.
 
 Do ta kem fatin e bardhë
-Të marr të bukurën shtojzovallë?
+të marr të bukurën shtojzovallë?
 
-Apo dhëmbëzezën  mua do ma japë fati për grua?
+Apo dhëmbëzezën mua
+do ma japë fati për grua?
 
 Qyqja e urtë s'tha asnjë fjalë.
 Do të thotë: Ke fat të rrallë!
 
-* * *
+***
 
 Qyqja këndon përmbi përrua.
 Rri te lisi përmbi krua.

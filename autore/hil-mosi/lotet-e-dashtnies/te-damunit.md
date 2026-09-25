@@ -23,6 +23,6 @@ Sa n'Marc vjollcat t'gjith blerim
 Ne na i ndezshin zêmrat krejt —!
 
 Por mbas tashit si i mjer,
-Lule s'mbledhi mâ per ty!—
+Lule s'mbledhi mâ per ty! —
 Nonse pra njitash âsht ver,
 Vjesht më duket mu ner sy!

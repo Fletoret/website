@@ -16,7 +16,7 @@ Me nji t'ndezun dishrim,
 Kur syt t'u u përpoqne,
 Me dy t'mit plot mallim.
 
-N'at ças preu kuvêndimi—
+N'at ças preu kuvêndimi —
 Se ç'gëzim e knaqsië!
 N'at ças vetëm veshtrimi
 Ndêj e foli dashtnië.

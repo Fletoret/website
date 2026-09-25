@@ -12,13 +12,13 @@ O malet e Shqipërisë! e ju o lisat e gjatë,
 Fushat e gjera me lule, q'u kam nër mënt dit' e natë,
 Ju bregore bukuroshe e ju lumënjt' e kulluar,
 Çuka, kodra, brinja, gërxhe dhe pyje të gjelbëruar!
-Po të 'këndonj bagëtinë, që mbani ju e ushqeni,
-O t'vënldethit e bekuar, ju mëndjenë ma dëfreni!
+Do të këndonj bagëtinë, që mbani ju e ushqeni,
+O vëndëthit e bekuar, ju mëndjenë ma dëfreni!
 
-Ti, Shqipëri, më ep nderë, me ep emërin Shqipëtar,
+Ti, Shqipëri, më ep nderë, më ep emërin Shqipëtar,
 Zëmërënë ti ma gatove plot dëshirë dhe me zjarr.
 
- 
+
 Shqipëri! o mëma ime! ndonëse jam i mërguar,
 Dashurinë t'ënde kurrë, zemëra s'e ka harruar.
 Kur dëgjon zëthin e s' ëmës, qysh e le qengji kopenë,
@@ -36,7 +36,7 @@ Ku mërzen cjapi me zile, atje i kam mënt' e mija;
 
 Atje lint diell' i qeshur edhe hëna e gëzuar,
 Fat' i bardh' e mirësija n'atë vënt janë mbluar:
-Nat' atje 'shtë tjatrë natë. edhe dita tjatrë ditë.
+Nat' atje 'shtë tjatrë natë, edhe dita tjatrë ditë.
 Në pyjet e gjelbëruar, atje rrinë Perënditë.
 
 Mëndje! merr fushat e malet, jashtë, jashtë nga qyteti,
@@ -48,20 +48,20 @@ Tek hapetë trëndafili, atje ma ka ënda të jem,
 Bashkë me shpest edhe unë t'ja thërres këngës e t'ja them.
 
 Të shoh kecërit e shqerrat, deshtë, cjeptë, dhëntë, dhitë,
-Qiellin e zbukuruar, dhenë me lul' e me dritë
+Qiellin e zbukuruar, dhenë me lul' e me dritë.
 
--- Vashë bukurosh' e bariut, që vjen me llërë përveshur,
+— Vashë bukurosh' e bariut, që vjen me llërë përveshur,
 Me zëmërë të dëfryer e me buzëzë të qeshur,
-Me dy shqerrazë ndër duar te bukura, si dhe vetë,
+Me dy shqerrazë ndër duar të bukura, si dhe vetë,
 Në sythit t'ënt e shoh gazë, që s'e kam gjetur ndë jetë.
 Dashi sysk' e me këmborë, q' e ke manar, po të vjen pas
 Dhe qeni me bes' i larmë, të ndjek me dëshir' e me gas;
-Dashç Perëndinë, pa me thua, a mos na pe bagëtinë?
+Dashç Perëndinë, pa më thua, a mos na pe bagëtinë?
 
--- I lash' atje pas më të gdhirë... ja atje përtej tek vinë!
+— I lash' atje pas më të gdhirë... ja atje përtej tek vinë!
 
 O! sa bukuri ka tufa sa gas bije bagëtija!
-Vinë posi mblet' e plotë! i bekofte Perëndija!
+Vinë posi mblet' e plotë! i bekoftë Perëndija!
 Në për shesh' e nër bregore, janë përhapurë shqerrat,
 E kecërit në për rripat, dhe në gjethet e në ferrat;
 Sa me vrap e me gas bredhin, edhe lozin shoku me shok
@@ -75,8 +75,8 @@ Rri më gjunjë dhe zë sisën, e qumështin e ëmblë pi:
 Pa e ëma me mall shumë, ndo dhi qoftë e ndo dele,
 Bir' e vetëm e merr në gji, me gas e me përkëdhele.
 
-Sa të mirazë ke dhënë! Zot I math e i vërtetë!
-E ç' nom të hekur vure, për cdo gjë q' është në jetë!
+Sa të mirazë ke dhënë! Zot i math e i vërtetë!
+E ç' nom të hekur vure, për çdo gjë q' është në jetë!
 
 Sa më pëlqen blegërima, zër' i ëmbl' e bagëtisë,
 Qengji edhe kec' i bukur, që rri më gjunj' e pi sisë!
@@ -93,10 +93,10 @@ Me zëmrë të çelur shumë, vete si trimi me pallë,
 Zoqtë zënë këng' e valle dhe po kërcejn' e këndojnë.
 E në për dega me lule, si engjëllit fluturojnë,
 Larashi ngrihet përpjetë, thua q'i shpije Perëndisë,
-Një lëvdatë të bekuar, për gëzim te gjithësisë.
+Një lëvdatë të bekuar, për gëzim të gjithësisë.
 
 
-Qielli sa ësht' i kthlellt, e sa është zbukuruar!
+Qielli sa ësht' i kthiellt, e sa është zbukuruar!
 E dielli sa ndrin bukur, mbi lulet e lulëzuar!
 
 
@@ -104,14 +104,12 @@ Gjithë këto lule ç'janë? që u ngjallë me një herë!
 Ngaha qielli ke zbritur? ver' o e bukura verë!
 Çdo lulezë ka më vet-he, një emër' e një fytyrë,
 Një bukuri, një mirësi, një shtat, nj' erë e një ngjyrë,
-Si dhe çdo dra e çdo pemë, edhe çdo bar e çdo fletë,
-Sa ësht' e bukur faq' e dheut! s'të ze syrt gjë ,të metë,
+Si dhe çdo dru e çdo pemë, edhe çdo bar e çdo fletë,
+Sa ësht' e bukur faq' e dheut! s'të zë syrt gjë të metë,
 Gjithë kjo bukuri vallë nga dheu të ketë mbleruar?
-A me të matht të ti Zoti prej parrajs' e ka dërguar?
+A me të math të ti Zoti prej parrajs' e ka dërguar?
 ... Veç një njeri shoh pa punë dhe të mjer' e të brengosur
-
-
-Të këputur, të mejtuar, të grisur e të rreçkosur,
+Të këputur, të mejtuar, të grisur e të rreckosur,
 Lipën i gjori pa shpresë, se atje e pru përtimi,
 S'i ka mbetur gaz në zëmrë, se s'i la vënt hidhërimi;
 Është njeri, si dhe neve, pa ep-i-ni, o të pasur,
@@ -141,19 +139,19 @@ Tëmer e frikë përhapni! përpini qiejt' e retë!
 Të pa tundurë për jetë jini, pa kur oshëtini,
 Udhëtaritë në zëmrë frikë të madhe i vini;
 Kini shkëmbënj, gërxhe, lisa, lumënj dhe dëborë ndë gji,
-Përsiprë lule' e gjethe dhe brënda ergjënt e flori:
+Përsiprë lul' e gjethe dhe brënda ergjënt e flori:
 E ju fusha bukuroshe, edhe të majm' e pjellore,
 Ju sheshet e lulëzuar ju bregore gjelbërore.
 Q' u fali Zoti të mira, u mba me shumë pekule,
 U dha bar e gjeth e veri, zoq e flutura e lule,
 Zëmrën' e varfërë t' ime, aty ndër ju e kam mbuluar,
-Jam lark jush i dëshëruar, edhe s' e duronj det mallë,
+Jam lark jush i dëshëruar, edhe s' e duronj dot mallë,
 Po s'e di si dua unë do t' i shoh një herë vallë!
 
 
-Të paskësha vrapn' e veriut, të kisha krahë pëllumbi.
+Të paskësha vrapn' e veriut, të kisha krahë pëllumbi,
 Nxitimn' e lumit me valë, q'ikën me verik si plumbi,
-E të vinja në gkit' t' uaj nj' ujë të ftohtë të pinja,
+E të vinja në gjit' t' uaj nj' ujë të ftohtë të pinja,
 Edhe në për ato hije një copë herë të rrinja,
 Syt' e ballit t'i zbavitnje, zëmërënë ta dëfrenje,
 Gazë, që paçë një herë, prap' aty ndër ju ta gjenje.
@@ -164,7 +162,7 @@ O ditët' e djalërisë! o moj kohëz' e të rit t' im!
 O flutura krahë-shkruar! që fluturon në për erë,
 As mer dhe zëmërënë t'ime, me vet-hezë dhe ma shpjerë
 Nër male e Shqipërisë, tek kullosën bagëtija,
-Tek i fryn bariu xhurasë, tek, më rrinë mënt' e mija,
+Tek i fryn bariu xhurasë, tek më rrinë mënt' e mija,
 Ku shkon me zile të madhe, ogiçi për mes lajthisë,
 Po zjen oshëtin mali, ngaha zër' i bagëtisë;
 Marrënë vrapn' e nxitojnë, derdhen në gjollë për kripë,
@@ -193,7 +191,7 @@ S' i trëmbetë syri kurrë, vetëm ajy dit' e natë,
 Nga ujku e nga kusari s'ka frik' as nga lis' i gjatë,
 As nga shkëmbënjt' e nga pylli; as gogolëtë s' e hanë,
 Armëtë ka shok e vëlla, mëm' e motërë xhuranë,
-Miqt' e ti shqerratë janë, kecëritë, dhite dhëntë,
+Miqt' e ti shqerratë janë, kecëritë, dhitë, dhëntë,
 Cjeptë, ziletë, këmborët, deshtë, e më tepre qëntë,
 Që s'flenë, po rrin' e rruajnë bagëtinë dhe barine,
 Kur e shohin, tundin bishtin, dhe me gaz të math i vinë:
@@ -202,12 +200,12 @@ Se njohën, po të liknë, egërsirënë, kusarë.
 Vjen nata, e lë në t' errët, del hëna i përhap dritën,
 Vjen mëngjezi, zbardhëllehet, lint diell' i bije ditën;
 Yjtë, hëna, djelli, shënja, lindin e prapë perndojnë,
-Gjithë c' lëvrijnë nër qiej, përpara syvet i shkojnë;
+Gjithë ç' lëvrijnë nër qiej, përpara syvet i shkojnë;
 Mblidhen ret' e hapësira, bënetë e zezë sterrë
 Vetëtimat e gjëmimet nisin, e shiu zë të bjerë,
 Bariu vë gunën më kokë, z' eshkën me herë të parë,
 Ndes shkarpat sakaqëhërë, a lisnë fyl, dhe bën zjarë;
-Fishkëllen e thërret qentë si cilën me emër veçan,
+Fishkëllen e thërret qentë sicilën me emër veçan,
 Pa kur derdhetë baliku! ujkun e zë edh' e përlan,
 Se bisha, që bie dëmnë, errësir, e mjergull kërkon,
 Papo bariu shum' ahere vë re dhe mba vesh e dëgjon:
@@ -215,7 +213,7 @@ Dhe sokëllin me zë të math, tunden malet e shkëmbenjtë,
 Gumzhitin pyjet e veshur, e oshëtijnë përrënjtë!
 
 
-Eshtë' e lehtë dhi e stanit, që kullot gjethin e malit,
+Esht' e lehtë dhi e stanit, që kullot gjethin e malit,
 Dhe bij' e fle majë shkëmbit e pi ujëthit e zallit,
 Dhi e shtëpis' ësht' e plokshtë, fle në vath' e nënë strehë,
 E pi ujët e rrëkesë edhe shtrihetë në plehë,
@@ -226,11 +224,11 @@ Nukë është si malsorja, andaj i thonë bravare.
 Në fshat, posa zbardhëllehet, sheh një plakëzë të gjorë,
 Ngrihet, hap derën nga-dale e del me kusi në dorë,
 Rri në derëzët të shtrungës, dhe djali duke dremitur
-I nget bagëtin' e dalën, i mjel plalkëz' e drobitur;
+I nget bagëtin' e dalën, i mjel plakëz' e drobitur;
 Plaku le shkopnë më nj' anë e bën gardhin e zë shteknë,
 Bariu vë tufën përpara, vasha përkëdhel sheleknë,
 Nusja fshi e ndreq shtëpinë, edhe bën bukën e gjellën,
-I shoqi sheh kanë, lopën, viçin, denmë, kalën, pelën,
+I shoqi sheh kanë, lopën, viçin, demnë, kalën, pelën,
 Mushkën, që ësht' e harbuar, edhe bashkë me gomarë,
 Rahënë të hedhin murë, të hanë bimën e barë;
 Një grua vete në krua, e tjatëra zë të tuntnjë,
@@ -248,14 +246,14 @@ Nukë pjell mirë, si duam, po s' e patmë plehëruar.
 
 O shokët e njeriut! Zoti u shtoftë e u bekoftë,
 Dhe shpirti im mik për jetë sindëkur ka qën' u qoftë.
- 
+
 
 Kafshët edhe bagëtinë, që u ka kaqë nevojë,
 Njeriu duhet t'i shohë, t'i ketë kujdesë, t'i dojë.
 
 Të mos t' i mundojmë kurrë, po si fëmijë, t' i kemi,
 Eshtë mëkat edhe fjalë të ligë për to të themi.
- 
+
 
 Dellëndyshe bukuroshe! që thua mijëra fjalë,
 Dhe të k' ënda vahn' e lumën, që vjen me vrap e me valë,
@@ -264,7 +262,7 @@ Me këto mijëra fjalë e me gjuhë perëndije?
 Apo vjen nga Labërija, pra më duke kaqë trime?
 Edhe fjalëtë që thua, më gëzojnë zëmrën t' ime,
 Q'është thyer, bërë, mijë copë, posi një pasqirë,
-Duke këputur nga spangu që s'e kanë vartur mirë;'
+Duke këputur nga spangu që s'e kanë vartur mirë;
 Apo vjen nga fush' e Korçës, nga vënd' i mir' e i gjerë,
 Pe zembrësë Shqipërisë, që del gjithë bot' e ndjerë?
 A më vjen pej Malësije, pej Skrapari, pej Dobreje,
@@ -274,16 +272,16 @@ Të mundjam të fluturonja e të kishnjam krahë si ti!
 Me gaz të madh do t'i vinjam Shqipërisë brënda në gji!
 Për të marrë drejt Shkumbinë edh' Elbasan' e Tiranën;
 E te ty të vinja, Shkodrë, të shoh Drinin e Bujanën!
-Krujënë e Skënder-Beut, q'i ka dhënë nder Shqypris,
+Krujënë e Skënder-Beut, q'i ka dhënë nder Shqipërisë,
 Që luftoi trimërishtë, mundi Mbretin e Turqisë.
 Durrës! o qytet' i bukur, që je kërthis' e Mëmëdheut;
 Edhe ti Lezhi e emrë! që ke eshtrat' e Skënder-Beut,
-Edhe gjithë Shqipëtarët, ti mbajë armiku ynë?
+Edhe gjithë Shqipëtarët, t'i mbajë armiku ynë?
 Nukë më ngjan, e s' e besonj kam te Zoti shumë shpresë,
 Shqipërija këtej-tutje kshtu po nukë do, të mbesë.
 Dua të dal majë malit, të shoh gjithë Arbërinë,
 Vëllezërit Shqipëtarë, që venë në pun' e vinë,
-Burratë trirma me besë dhe shpirt-mir'e punëtorë,
+Burratë trima me besë dhe shpirt-mir'e punëtorë,
 Dhe fushatë gjithë lule e maletë me dëborë.
 
 
@@ -303,7 +301,7 @@ Duaj edhe fusharakët dhe arat e bujqësinë.
 
 Edhe Ti o Mëmëz' e dheut! q' i fale dheut aq' uratë,
 Sa pjell mijëra të mira e kurrë s' mbete e thatë!
-I dhe lul' e bar e, gjethe, bim' e drith' e pem' e drurë,
+I dhe lul' e bar e gjethe, bim' e drith' e pem' e drurë,
 Mblodhe gjithë bukuritë, edhe kanisk ja ke prurë.
 
 
@@ -345,18 +343,16 @@ Si të punosh dit' e natë, e të bësh ç' duhenë gjithë,
 Ahere kërko nga zoti, të t' apë bukëz' e drithë.
 
 
-Njeri! puno, mos pusho kurrë, dhe lark nga makutërija.
-
-
+Njeri! puno, mos pusho kurrë, dhe lark nga makutërija,
 Zëmërën kije të gjërë, mos ki keq, t'ep Perëndija.
 Puna ka duke uratë. Zot' i math e ka bekuar,
-Njërinë mi faqe të dheut e dërgoj për të punuar.
+Njerinë mi faqe të dheut e dërgoj për të punuar.
 
 
 Ver' o e bukura verë! që po vjen nga i madhi Zot,
 Me mirësi me bukuri, me gas të math, me duar plot,
 Sindëkur çel trëndafilë, e i fal bilbilit zënë,
-Ashtu na bije nga qjelli një gas në zëmërën t' ënë.
+Ashtu na bije nga qielli një gas në zëmërën t' ënë.
 
 
 Zot i madh e i vërtetë, për të ushqyer njerinë,
@@ -371,30 +367,28 @@ S' është çudi pse na dëfren ver' e bukur zëmrën t'ënë,
 Ç' ka punuar Perëndija edhe njeriu sa e bënë!
 Ju shokë kur pini verën, mos dehi, mos zemërohi,
 Mos u zihni, mos u shani, mos lëvdohi, mos qërtohi;
-Se pëçmoni Perëndinë, q'i ka falur hardhia rush,
+Se përçmoni Perëndinë, q'i ka falur hardhia rush,
 Edhe kërkon dashurinë e ndodhet fshehtazi ndaj jush;
-Po gëzohi, prehi, qeshni, duhi, zbaviti, defreni,
+Po gëzohi, prehi, qeshni, duhi, zbaviti, dëfreni,
 Flisni fjalë të pëlqyera, loni, këndoni, kërceni,
 Bëjeni zëmërn të gjërë, edhe shtoni dashurinë,
 Mirësinë, njerëzinë, dhe besën e miqësinë;
 Se në breng e në të keqe, në punë e në të pirë,
 Miretë vesh njeriu i lik, njihet njeriu i mirë.
- 
+
 A e shihni gjithësinë? yjtë, diellinë, hënën,
 Dhenë, erën, retë, kohën, kashtën' e kumtërit, shënjën,
 Si janë përveshur gjithë, edhe lëçijn' e punojnë,
 Njëri tjatërit i ndihin, ashtu punën e mbarojnë!
 Në mest të këti rëmeti, të punëtorëve shumë,
 Njeriu duhet të lëçinjë? a po të bjerë në gjumë?
- 
+
 
 Mundohet punëtori, po në zëmërzët të qetë
 Sa gas të madh ndjen, kur njera, që hodh, i pjell dymbëdhjetë!
 Kur e sheh kaln' e plotë të kurrusurë nga barra,
 Dhe parajsen e vërtetë të çfaqur nëpër ara,
-Kur hedh lëmën e mbledh toknë, ndan bukn' e kashtën më nj' anë
- 
-
+Kur hedh lëmën e mbledh toknë, ndan bukn' e kashtën më nj' anë,
 U hedh kuajvet e qevet, që janë lodhur të hanë
 Kur e përmbush plot shtëpinë, me drith' e me gjë të gjallë,
 Shtronet me uri në bukë e ha me djersë në ballë.
@@ -415,8 +409,8 @@ N' apin dyllëtë, q'ep dritë! dhe mjaltë fjesht' ëmbëlsirë!
 Dhe punëtorët e mirë m' atë mënyrë punojnë,
 Edhe gjithë njerëzija me mundim t' atyre shkojnë,
 Njëri mih, tjatëri lëron, njëri mbjell, tjatri prashit,
-Kush than, kush kor, kush mbledh duaj, kush shin, kush sharton, kush krashit'
-Një bën pluar' e sëpatën, një panmëndën, një shtëpinë,
+Kush than, kush kor, kush mbledh duaj, kush shin, kush sharton, kush krashit,
+Një bën pluar' e sëpatën, një parmëndën, një shtëpinë,
 Një pret e qep, një mer e ep, një mbath, një shikon mullinë,
 Ç'do njeri një farë pune bën në mes të shoqërisë
 Kjo ësht' udh' e Perëndisë, ky ë nom i gjithësisë,
@@ -429,7 +423,7 @@ Kshtu e ka thënë me kohë Zot' i math e i vërtetë.
 ... Bujku mundohet në verë, po në dimër ri e prëhet,
 Sheh shtëpizënë me kamje, edhe zëmëra i bëhet,
 Gratë të gjitha punojnë n' avlëmënt e në të tjera,
-Edhe jashtë fryn e bije, po' kur na trokëllin dera,
+Edhe jashtë fryn e bije, po kur na trokëllin dera,
 Eshtë nj' udhëtar i gjorë, që ka mbetur në dëborë,
 I kanë ngrirë të mjerit vesh' e goj' e këmbë, e dorë,
 Ngrihet i zot' i shtëpisë, edhe të huajthin e mer,
@@ -454,7 +448,7 @@ Bujku nget pëndën e lëron, mbjell e bën gati ugarë,
 Kalorësi i shkon pranë dhe i thotë - puna mbarë -
 Papo mer anën e lumit, me zëmërë të gëzuar,
 Këndon, fishkëllen, a vete nga-dale, duke mejtuar,
-Vë re lumin e kulluar, që ikën me ligjërmne,
+Vë re lumin e kulluar, që ikën me ligjërime,
 E ndër mënt të ti i bije ca t' ëmbëla shumë mejtime.
 Vashëzatë bukuroshe, posi shqerratë manare,
 Si kapërrollet e malit, si thëllëzatë mitare,
@@ -468,13 +462,13 @@ Dhe mëshqer' e përkëdhelur vjen në lumë të pij' ujë,
 A të prehetë në hije, a të bënjë gjë rrëmujë.
 
 
-Bari, bima vatur më bres, e buj, ku shum' i gëzuar,
+Bari, bima vatur më bres, e bujku shum' i gëzuar,
 Si bariu kur merr kerthinë edh' e përkëdhel ndër duar.
 
 
 Bilbili ja thotë bukur, lumi vete gjithë valë,
 Ep erën e Perëndisë trëndafili palë-palë.
-Veç një vajz' e mjerë qan të motrënë q'e e ka lënë,
+Veç një vajz' e mjerë qan të motrënë q'e ka lënë,
 O! është mbuluar në dhe vashëza fytyrë-hënë!
 Mëma dhe motëra mbetur në zi e në vaj të shumë,
 Dhe shqera manarez' e saj e pëzishmez' e për lumë!
@@ -482,7 +476,7 @@ Të këput shpirtinë plaka, kur zë dhe nëmëron e qan,
 Ah! i ziu njeri në jetë sa heq e sa duron e mban!
 
 
-Vashën vërtet' e mbuluan, po shpirt" i saj në qiej shkoi,
+Vashën vërtet' e mbuluan, po shpirt' i saj në qiej shkoi,
 Hapi krahëthit e lehtë, në hapësirët fluturoi,
 Bukuri e saj u-përzje me bukurizat e Prillit,
 Me fjalëzët e bilbilit, me erët e trendafilit;
@@ -490,13 +484,13 @@ Gjësendi s' humbetë kurrë, e gjë s' vdes me të vërtetë
 Mase ndryshohenë pakë, po janë në këtë jetë,
 As shtohet, as pakësohet, as prishetë gjithësija,
 Vdesën e ngjallenë prapë si gjit' edhe njerëzija,
-Këtu janë gjithë ç' janë, e gjithë c' gjë munt të jetë,
+Këtu janë gjithë ç' janë, e gjithë ç' gjë munt të jetë,
 Engjëllitë, Perënditë dhe ajy Zot' i vërtetë!
-Se një trup e një shpirt është gjithësija, që ska anë,
+Se një trup e një shpirt është gjithësija, që s'ka anë,
 Të gjallë edhe të vdekur, gjithë brënda në të janë.
 
 
-Perendija njerin' e parë e mori prej dore vetë,
+Perëndija njerin' e parë e mori prej dore vetë,
 E zbriti mi faqet të dheut, q' ish me lulez' e me fletë.
 Me të drejtënë të themi mbi faqet të dheut e ngriti,
 E bëri të zotthin' e dheut edhe kështu e porositi:
@@ -504,14 +498,12 @@ Nga kjo baltë të kam bërë, rri më paç uratë,
 Mos u loth e mos pusho kurrë, po përpiqu dit' e natë,
 Sheh si punon gjithësija! ashtu të punosh edhe ti,
 Të mos rrish kurrë pa punë, e të vesh duar në gji.
-Mos u bëj i lik e i keq, i paudh' e i pabesë.
-
-
+Mos u bëj i lik e i keq, i paudh' e i pabesë,
 I rrem, i ndyrë, i dëmshim, i rënduar e pashpresë,
 Mërgohu nga të këqijat, prej vjedhje, prej marrëzije,
 Mos vra, mos merr tek s' ke vënë, edhe ki nom dashurinë,
 Bes' e fe ki urtësinë, të drejtënë, mirësinë;
-Në bëfsh mirë liksht s' gjën kurrë, po në bëfsh liksht, mos prit mire.
+Në bëfsh mirë liksht s' gjën kurrë, po në bëfsh liksht, mos prit mirë.
 Ki dëshirë për të mirë, dhe në zëmërë mëshirë,
 Ji i but' i urt' i vyer, e mos u bë kurrë makut,
 I egër' e i mërzitur, dhe i mahnitur e hajdut,
@@ -519,13 +511,13 @@ Mos j'u afro dhelpërisë, po së drejtësë j' u nis pas;
 Në dëgjofsh fjalët e mija, do të jesh, gjithënjë në gas.
 Nga gjithë ç'pat gjithësija të kam dhënë dhe ty pjesë
 Në u bëfsh, si themi, i mirë, emër' i math do të mbesë
-Të bam dhënë mënt, të mësosh të vërtetën me të ta shohç'
+Të kam dhënë mënt, të mësosh të vërtetën me të ta shohç'
 Dhe zëmër' e vetë-dijë, të mir' e të drejtën ta njohç,
 Do të të le dhe nevojën, udhënë të tregojë,
-Të të ndihnj më c'do punë, të të psonj e të të zgjonjë.
+Të të ndihnj më ç'do punë, të të psonj e të të zgjonjë.
 
 
-Gjithë të mirat që janë, këtu në dhet i kam, mbluar,
+Gjithë të mirat që janë, këtu në dhet i kam mbluar,
 Po gjësendi në shesh s' nxjerr dot pa dirsur e pa munduar,
 I gjen të gjitha me kohë, po rrëmo thell' e më thellë,
 Ç'do gjë të duhet kërkoje, barku i tij do ta pjellë,
@@ -543,7 +535,7 @@ Po që u bëre i urtë, mua më ke afër teje,
 Ndryshe, - qofsh i mallëkuar, edhe mërguarë meje. -
 
 
-Të parit t' enë Perëndija këto fjalë vetëm i tha,
+Të parit t' ënë Perëndija këto fjalë vetëm i tha,
 I fali gjithë të mirat, i dha uratën dhe e la.
 
 
@@ -559,7 +551,7 @@ E drurëvet epu pemë, dhe uratë bagëtisë,
 Dërgo dhëmbj' e kujdes për to në zemër të njerëzisë,
 Epi pjergulles' e veshit rush dhe vozësë fali verë,
 Mos e lërë pa të kurrë, kurrë thatë mos e lerë,
-Fali diellit; flak' e zjar, dhe hënës' e yjvet dritë,
+Fali diellit flak' e zjar, dhe hënës' e yjvet dritë,
 Yjtë le të vinë rrotull, dhe njerëzit të punojnë,
 Të dëfrejn e të gëzohen, si vëllezërë të shkojnë,
 

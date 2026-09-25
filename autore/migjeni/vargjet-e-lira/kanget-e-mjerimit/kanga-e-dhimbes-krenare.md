@@ -4,7 +4,7 @@ author: Migjeni
 respectLineBreaks: true
 parent: Kangët e mjerimit
 grandparent: Vargjet e lira
-order: 8
+order: 26
 ---
 
 O dhimbë krenare e shpirtit që vuen

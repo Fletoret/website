@@ -4,7 +4,7 @@ author: Migjeni
 respectLineBreaks: true
 parent: Kangët e fundit
 grandparent: Vargjet e lira
-order: 6
+order: 43
 ---
 
 Në vendin tonë
@@ -13,7 +13,7 @@ flamujt e një melankolije
 të trishtueshme…
 … dhe askush s’mund të thotë
 se këtu rron
-një popull që nderton
+një popull që ndërton
 diçka të re.
 Aty këtu nën hijet
 e flamujvet

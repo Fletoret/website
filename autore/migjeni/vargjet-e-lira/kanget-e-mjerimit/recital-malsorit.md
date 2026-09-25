@@ -4,10 +4,10 @@ author: Migjeni
 respectLineBreaks: true
 parent: Kangët e mjerimit
 grandparent: Vargjet e lira
-order: 3
+order: 21
 ---
 
-0, si nuk kam një grusht të fortë
+O, si nuk kam një grusht të fortë
 t'i bij mu në zemër malit që s'bëzanë,
 ta dij dhe ai se ç'domethanë i dobët -
 n'agoni të përdihet si vigan i vramë.
@@ -27,7 +27,7 @@ E unë vuej - dhe në vuejtje vdes.
 Po unë, kur? heu! kur kam për t'u qesh?
 Apo ndoshta duhet ma parë të vdes?
 
-0, si nuk kam një grusht të fuqishëm!
+O, si nuk kam një grusht të fuqishëm!
 Malit, që hesht, mu në zemër me ia njesh!
 Ta shof si dridhet nga grusht' i paligjshëm…
 E unë të kënaqem, të kënaqem tu' u qesh.

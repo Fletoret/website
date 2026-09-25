@@ -5,13 +5,13 @@ author: Fan Noli
 respectLineBreaks: true
 parent: Albumi
 grandparent:
-order: 7
+order: 8
 keywords:
 published: true
 ---
 
 Allalla, o rezil e katil, allalla,
-Shtroni udhën me hithr" e me shtok turfanda,
+Shtroni udhën me hithr' e me shtok turfanda,
 Gumëzhit, o zinxhir e kamçik, batërma,
 Lehni, laro, kaba: Hosanna, Barabba!
 
@@ -20,8 +20,8 @@ Ti na çthure, na çkule, na çduke çdo fe,
 Varfëri, poshtërsi, robëri ti na dhe,
 Derbeder, ujk e derr: Hosanna, Barabba!
 
-O stërnip i Kainit, tepdil Si bari,
-Ti na shyp e na shtryth e ti gjakun na pi,
+O stërnip i Kainit, tepdil si bari,
+Ti na shtyp e na shtryth e ti gjakun na pi,
 Ti na ther e na grin e për qejf na bën fli,
 O kokuth e lubi: Hosanna, Barabba!
 

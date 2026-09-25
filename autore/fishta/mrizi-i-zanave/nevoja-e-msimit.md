@@ -9,12 +9,12 @@ order: 8
 keywords: nevoja e mesimit
 ---
 
-Na jem't'bijt e nji fisi t'permendun,
+Na jem' t'bijt e nji fisi t'permendun,
 N'dorë, qi i ndriti si rrfeja çeliku,
-Qi e qestisë veç tu'u dridhun anmiku,
+Qi e qestisë veç tu' u dridhun anmiku,
 Qi t'tanë bota kah besa e nderon.
 
-N'Perendin na veç shpresen tue mbajtun,
+N'Perendín na veç shpresen tue mbajtun,
 Per fron t'Mbretit per t'shêjtat t'Verteta
 Gjâ s'na dhimbet — s'na dhimbet, jo, jeta:
 Gjallë Shqyptari Lirín nuk e lshon.
@@ -29,12 +29,12 @@ E t'lum nierin s'e bân veç trimnija,
 Kû thue, fatin do t'ndeshë Shqyptarija?
 Kush Shqyptarit do t'i apë perparim?
 
-Vetun Shkolla, qi lidhur me Fé
+Vetun Shkolla, qi lidhun me Fé
 Bijvet t'nierit ep msime të mbara;
 Vetun Shkolla Shqyptarët, po, perpara
 Kah lumnija me u njitun i bân.
 
-Menden nierit, pse, Shkolla tu'i shndritun,
+Menden nierit, pse, Shkolla tu' i shndritun,
 I a zbutë zêmren me t'ndieme të hiejshme,
 I ep gajretin per vepra të viejshme,
 Prej mjerijet larg jeten i a mban.
@@ -47,12 +47,12 @@ E poshtnueme sá mote gjimoi.
 M'kambë Piramidat i ngrehi shkolla,
 I dha hije të gjalla mermerit;
 M'pelhurë jeten ravizi të njerit,
-Kohën e shkueme perpara i a shtroi.
+Kohët e shkueme perpara i a shtroi.
 
-Kush msoi nierin mbi rê me fluturue?
+Kush msoi nierin mbi rê me flutrue?
 Me njehë hyjt? me mâtë rrezet e diellit?
 N'pûnë m'e qitun vetimen e qiellit?
-në m'ânë t'botes me ngrehun kuvend?
+Ânë m'ânë t'botes me ngrehun kuvend?
 
 Kush msoi nierin me ngâ porsi rrfeja?
 Jetës m'i a njoftun të mshefta burrimet,
@@ -61,11 +61,11 @@ Edhè vendin m'e avitun me vend?
 
 Vetun Shkolla kta mrekuj pertrîni,
 E i msoi popujt ndertime sundimit;
-E u dha dorë edhè vegla gjallimit:
+E u dha n'dorë edhè vegla gjallimit:
 Larg mjerimit t'qetë jeten u a mbân.
 
 Oh! po, Shkolla, qi lidhun me Fé
-Bijve t'nierit ep msime të mbara,
+Bijvet t'nierit ep msime të mbara,
 Ajo vetun sod popujt perpara
 Kah lumnija m'u njitun i bân.
 
@@ -75,16 +75,16 @@ Qi e qestisë veç t'u dridhun anmiku,
 Qi t'tânë bota kah besa e nderon,
 
 Na, po, n'daçim, qi sod Shqyptarija
-T'marrë hovin ka'i drejtë gjytetnimi,
+T'marrë hovin ka' i drejtë gjytetnimi,
 Shkollët do t'ndjekim, kû nepet mësimi,
 Fén e Dijen, qi n'mênde bashkon.
 
 Oh! po, at herë, kúr n'Shkollë zbutun Shqyptari,
-N'mni t'két marrun aj gjakun e dhûnen,
+N'mní t'két marrun aj gjakun e dhûnen,
 E me dije t'két kapun aj pûnen,
 Shqypnís fati do t'çilet taman.
 
-E njatune, mbi né qi sod binden,
+E njatyne, mbi né qi sod binden,
 Ká m'u u thânun se fisi i Shqyptarit
 S'e koritë, jo, kurr nâmin e t'Parit
 Se ky âsht fisi mâ i pari n'Balkan.

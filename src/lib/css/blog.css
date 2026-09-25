@@ -610,6 +610,21 @@
   text-indent: 30px;
 }
 
+/* Law codes (the Kanuni): a numbered section's title, centred as in the
+   print, and the maxims printed under it, `{.section-heading}` / `{.maxims}`. */
+.post-container p.section-heading {
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: 0.6rem;
+}
+
+.post-container p.maxims {
+  text-align: center;
+  font-size: 90%;
+  color: var(--text-secondary);
+  line-height: 1.6;
+}
+
 /* Definition lists */
 .post-container dl dt {
   font-weight: 500;

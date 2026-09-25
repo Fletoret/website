@@ -74,7 +74,7 @@ Do t'a bâj pleqní ket fjalë,
 Palè 'i herë si mund t'na dalë;
 Se me u ngutë s'e kam zanát.
 
-    Sa rrin Mbreti tuj u matë,
+  Sa rrin Mbreti tuj u matë,
 Tuj u matë e tuj u shmatë,
 N'at harem aj tue gerhatë:
 Si tash s'voni e ká zanát:

@@ -25,7 +25,7 @@ Ku shpesh her mi 'ta kalova,
 Ku me t'dashtnen zêmren shkriva:
 Shpirt e zêmer permallova.....
 Edhe buzët gjith zjarmië
-Çfaqne t'madhen dashunië!—
+Çfaqne t'madhen dashunië! —
 
 Po, atje n'ato blerime
 Fluturim me shkumun doshe!
@@ -46,4 +46,4 @@ Sa dishron kjo zêmer mjera,
 Prap të rrish ti prane mejet,
 T'knaqëm n'dashunië nji hera,
 E prap t'rrokna tuj këja,
-Si at ças kur kjeme da!
+Si at ças kur kjeme da! —

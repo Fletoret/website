@@ -222,6 +222,7 @@ Vrap shko e eja, kush per t' shue
 Zjárr, tjerët çaklat mos t' humasin:
 Kshtû e pergjakshme lufta at hera
 Erdh tue u ndezë, e t' krisi brima,
+Larg e larg ushtoi bumllima
 T' u dha vigma edhè potera,
 Kah urdija e Mark Milanit
 Sulmin lshoi m' ushtrí shqyptare
@@ -453,6 +454,7 @@ Shì tash, qi m'ushtrí shqyptare
 Mâ kobshim randon rreziku,
 Pushkë e top kah rreh batare?
 S'âsht, jo, fis, qi hikë Kelmendi:
+Se atŷ djelmt i ké sokola
 Se sa herë qi e qiti rendi,
 Si ajo e lashta këndon shkrola,
 Me luftue me Turk a Shkjá,
@@ -687,7 +689,7 @@ Se kahdo qi sŷni t' priret,
 M' mal a m' fushë, a m' shpat a m' lak,
 Ké per t' pám, ofshé! si pliret
 Anë e kand vendi në gjak.
-Atje lshue Shqyptarët rrféé,
+Atje lshue Shqyptarët rrfé,
 Si zanát luften qi e kan,
 Vû t' kan para nji çetë Shkjé,
 Lehtë tue i ndjekun neper plan.
@@ -1024,7 +1026,7 @@ Q' se zanë vend ká n' Karadak.
     Grykë per grykë e flok per flok
 Ora e Zana ashtû perlá,
 Ç' t' janë dermishë shoqe me shoqe!
-M' dhâmë e m' thoj se ç' t' janë lyyrë!
+M' dhâmë e m' thoj se ç' t' janë lvyrë!
 Ç' po u shkon gjaku rrkajë nper ftyrë!
 Ftuturim neper ajrí,
 Idhtë n' mjet vedit kaperthye,
@@ -1168,7 +1170,7 @@ Hupë i kan n'at log mejdanit,
 Treqind krena edhè i kjenë pré,
 Rob janë zanun treqind Shkjé!
 
-    Zana e Madhe ç'po lumnon;
+  Zana e Madhe ç'po lumnon;
 Kep më kep po fluturon;
 Ká marrë kangen e po kndon;
 Po këndon m'kep t'Vizitorit,

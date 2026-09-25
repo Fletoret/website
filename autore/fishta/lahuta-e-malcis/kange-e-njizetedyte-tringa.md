@@ -13,6 +13,7 @@ Tash, qi zû drita me dalë,
 Prej Nokshiqit ç'po veton,
 Peja e vogel fort gjimon:
 Mark Milani po lufton
+Mark Milani, Mark Milica
 Po rreh «huta» edhè «novica»
 Prej Nokshiqit lak e m'lak,
 Kah Shqypní e Karadak
@@ -676,7 +677,7 @@ Mêrr e i bân me tê kryq m' ballë.
 Tue thirrë Krisht e tue thirrë Zojë,
 Dér qi i vllaj per t' mbramen herë
 Hoq e u dá kso jete s'mjerë.
-Ç'po bân Tringa e mjerë t'u lyyrë
+Ç'po bân Tringa e mjerë t'u lvyrë
 Rrokë ká vllán e ftyrë per ftyrë
 Puth e kjáj e me lot láj;
 Dnes e fshâj e shkrifu n'váj:

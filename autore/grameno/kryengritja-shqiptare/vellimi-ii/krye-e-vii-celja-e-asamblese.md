@@ -7,22 +7,6 @@ grandparent: Kryengritja shqiptare
 order: 18
 ---
 
-Kishin arësye që të gëzohen, se me këtë veprë Kisha Orthodhokse
-Autoqefale shqipe do të forcoheshe me themeltarin, kështu që
-bashkërisht të tri Pishkopët do të përpiqeshin t'e naltësonin Kishën
-Orthodhokse në themele të forta për lavdi të atdheut.
-
-Me këtë veprë rodhë urimet nga Këshilla e Naltë, Qeveria edhe nga
-gjithë anëtë të Shqipërisë e mergimit. Që të gjithë shprehnin se,
-paskëtaj, Pishkopi Noli do të hidheshe në fushën fetare, për të cilën
-është prikosurë, edhe politikën militante do t'ua linte politikanëvet
-që janë të hedhur në këtë luftë.
-
-Për fat të keq Korça e zgjodhi përfaqësonjës në Asamblenë, kështu që
-rekeja politike e hoqi me vete, për të humbur gjithë simpathinë që
-kish fituar, edhe, më tjatër anë, për të i sjellë dëme të mëdha edhe
-çkatërime, siç do të shohim, atdheut!
-
 Lufta elektorale u vepërua me një qetësi të madhe në gjithë anëtë. Në
 këto zgjedhje u ndjeh, për herën të parë, lufta elektorale se u
 përpoqnë kundrështarët midis tyre për të fituar besimin e votat të
@@ -154,7 +138,7 @@ Prefekturat që të mos dëgjonin urdhratat të qeverisë po të
 bashkoheshin edhe të vepëronin pas urdhrit që do të jepte pleqësia e
 Vlorës!
 
-Gjakderdhja edhe vëllavrasja ishin afruar në pragun tëd erës, prandaj
+Gjakderdhja edhe vëllavrasja ishin afruar në pragun të derës, prandaj
 për të larguar një katastrofe kaqe të rezikçme Shefqet Verlaci dha
 dorëheqjen me gjithë Kabinetin për të u gjendur nonjë mënyrë paqësore.
 
@@ -172,9 +156,7 @@ dyke dashur që të marin Beratin gjejnë kundrështim nga ana e qeverisë
 vendiake, e cila qendronte besnike tek qeveria. Ushtëria e Beratit
 nënë Kumandë të Majorevet Vei Sevrani edhe Demir Ali Areza ju
 kundrështua ushtërisë kryengritëse edhe kësisoj u goditnë. Lufta
-mbajti
-
-2 dit edhe po të kish arrirë me kohë Osman Gazepi me 600 shpirt
+mbajti 2 dit edhe po të kish arrirë me kohë Osman Gazepi me 600 shpirt
 ndihmës do të ishin thyer kryengritësit edhe punërat do të kishin marë
 tjatër ndryshim, me gjithë që nofta kësisoj shpëtojti atdheu nga nonjë
 gjakderdhje të madhe, dyke u përhapur mbi gjithe anëtë.
@@ -187,7 +169,7 @@ gjakderdhja edhe nga nonjë rezik më të math preferojti të largohet
 prej Shqipërisë dyke lënë kryengritësit t'e marin fuqinë në dorë edhe
 të sundojnë Shqipërinë.
 
-Pas 5 muaj Babillonie, grindje edhe rëmujë që kur se u hap Asambłeja,
+Pas 5 muaj Babillonie, grindje edhe rëmujë që kur se u hap Asambleja,
 pa kujtuar të shkuarat, më 15 Qershor qeveria e Ilias Vrionit bashkë
 me shumë partizanë shkuan për në Itali edhe Greqi, kështu që sundimi
 mbeti në dorë të Sotir Pecit, i vetëmi anëtar i Këshillës Naltë që
@@ -225,7 +207,7 @@ Ahmeti preferojti të duronjë më mirë gjithë pabesitë edhe ligësitë, të
 shokëvet edhe kundrështarëvet, sa të vepëronte një gjë të këtillë, e
 cila do t'e sillte, nofta, në fuqi po do të linte një vulatë të zezë
 mbi emrin e tij edhe në historinë kombëtare. U hoth pra në Serbi dyke
-lënë kohën edhe nevojat e shtetit që t'e thërisnin e te kthesheshe
+lënë kohën edhe nevojat e shtetit që t'e thërisnin e te ktheheshe
 prapë në Shqipëri.
 
 Kryengritësit, triumfallë, muar fuqinë në dorë edhe më 17 Qershor
@@ -289,7 +271,7 @@ qëllimit, me të marë fuqinë në dorë, nuku u përkujdesnë as pak që të
 dëftenin nonjë program vepërimtar për pritmjen të qeverimit. Që në
 krye u duk që programi i këtij Kabineti ishte vetëm për të marë
 fuqinë, të mbushnjë etjen të urejtjes, kundra Ahmet Zogut, edhe as
-fare nonjë menjtim prë lulëzimin të atdheut.
+fare nonjë menjtim për lulëzimin të atdheut.
 
 Pishkopi Noli ishte vetëm me titllin si Kryeministër, se në punërat
 shtetnore, më nj'anë që nuku kishte ditje edhe më tjetër anë nga mos
@@ -311,7 +293,7 @@ kritikuar Lidhjen të Kombeve edhe Përfaqësonjësit. Me një fjalë desh
 të shkelnjë me këmbë gjithë dipllomatinë të Europës edhe gjithë botës!
 
 Mundet që të ishte e arësyeshme theoria e Nolit po jo si Kryeministër
-i një shteti, edhe ca më shumë jo prëpara Lidjes të Kombevet po në
+i një shteti, edhe ca më shumë jo përpara Lidjes të Kombevet po në
 nonjë mbledje të veçantë, ku munte të gjente edhe admironjës e t'e
 prisnin me dorëtrokitje. Këjo e rëzojti Nolin shumë poshtë, po me këtë
 gjë, për fat të keq, rëzojti edhe rezikojti nderin edhe enteresin të
@@ -362,15 +344,15 @@ hedhur tani në dëfrime, dyke nisur që nga Kryeministri Noli edhe gjer
 në Kasëm Qafëzezi që të mësonin tromponën, kur si rufeja lajmëronin që
 Ahmeti zuri të shkundnjë këmbët. Këjo lajmë, e pa pritur edhe e
 pabesuarë, u prishi qetësinë bukuroshëvet edhe me vrap zunë të marën
-masat, për të ju kundrështuar Ahmetit që të kthekeshe në Shqipëri.
+masat, për të ju kundrështuar Ahmetit që të ktheheshe në Shqipëri.
 
 Me këtë rast përfituan të mjerët sundimtarë që të hidhen, si korbet në
 kërmat, për mbi të mjerën Shqipëri e t'e shkretojnë, varfërojnë edhe
 rëmojnë! Si cilido që të ishte, nga të huajt, pandehte që Shqipëria
-ishte në prag të luftës me lëvizjen ushtëriake që vepërohesbe. Tekdo
+ishte në prag të luftës me lëvizjen ushtëriake që vepëroheshe. Tekdo
 që të shkonje edhe udhëtonje nuku shëkonjë tjatër gjësendi përveç se
 fuqira ushtëriake që mblidheshin në kufitë Shqiptaro-Serbe. Shtrëngime
-të mëdha e të repta u vunë më gjithë anëtë për të mbledhur ushëtri pa
+të mëdha e të repta u vunë më gjithë anëtë për të mbledhur ushtëri pa
 pyetur moshën ose ç'farëdo, nga konditat e shendetësisë edhe pas
 regullit të ligjit ushtriak. Gjithë automobillat, qeret, arabatë edhe
 kuajt u vunë në shërbim të ushtërisë, për të transportuar municionet
@@ -390,7 +372,7 @@ vraponin si qenat e kasapanavet, për të marë pjesë në shpëtimin e
 atdheut!!! Katillëk m'i math se i arxhevet nuku munt që të bëhet. Me
 përdorimin, të këtij zanati, që të mos thomi shërbimi se është turp,
 vepërohen gjithë hajdutëritë, prandaj janë gati në ç'do orë që të kesh
-nevojë për kryetarë të arxhevet, se mo këtë zanat të bukur rjepet
+nevojë për kryetarë të arxhevet, se me këtë zanat të bukur rjepet
 lëkura e popullit varfër nga dy anë. Nga njëra anë dyke paguar, pas
 kalemit edhe haterit, për 50 shpirt 500-1000 edhe nga tjatra anë dyke
 rjepur e plaçkitur popullin qetësor!

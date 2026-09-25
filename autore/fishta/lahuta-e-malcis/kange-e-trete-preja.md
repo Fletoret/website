@@ -118,7 +118,7 @@ Se ká mbetë kund gjak pá u kthye,
 A me pare a se me krye,
      O vllau i êm, o vllá!
 Veç ká mbetë njaj gjaku i Avdís,
-     Q vllau i êm, o vllá!
+     O vllau i êm, o vllá!
 Qyqja motra, vaj, e Avdís! —
   Kshtû vajton të vllán Turkina:
 E ndien Lqêni edhè Vranina,
@@ -135,8 +135,8 @@ T' mos t'i lâmë çikat me nâmë.
   Proh! ti o Zot, kur na janë çue,
 Mbathë e zbathë—si kan qillue
 E i kan rrokun armët shqyptare,
-Njato „Itina" e „xheverdare",
-Njato t' bardhat n' zâ „breshâna"
+Njato „ltina“ e „xheverdare“,
+Njato t' bardhat n' zâ „breshâna“
 E i kan njitë njatà tagâna,
 E i kan vû njato calina,
 Se ç' ushtimë ká marrë Vranina!
@@ -239,10 +239,10 @@ Desht ky Jovja 'i herë me hikun,
 Por per vrap s' kisht' pasë kerrçikun ;
 Prandej shokët e lane mbrapa,
 T' cillt po hikshin me t' mdhaj hapa.
-„*Urra!*" m' shpinë, atbotë, si bisha
+„*Urra!*“ m' shpinë, atbotë, si bisha
 I u lshue Kerrni neper plisha,
 Neper plisha e bregut t' uj't,
-M' „*karajfile*" m' nja tue e gjujtë,
+M' „*karajfile*“ m' nja tue e gjujtë,
 M' nja tue e gjuejtë, por veç per ânë :
 Gjallë me dorë dote m' e xânë.
 Por me dorë nuk xêhej djali,

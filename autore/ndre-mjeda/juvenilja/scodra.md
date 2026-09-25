@@ -8,7 +8,7 @@ grandparent: null
 order: 25
 ---
 
-# I
+#### I
 
 O Tarabosh, i mnert, ndéja hyjnore,
 Ku, e rrebt, rrufenat Fromboja farkote,
@@ -29,7 +29,7 @@ E u knaqshin hyjzit qi tinzisht veshtoshin
 Npër heshtime t'pamatuna t'ethirit.
 
 
-# II
+#### II
 
 O dishmitar i shekujve t'panjehun,
 Qi pershkove me sy gjind e ndodhina
@@ -49,7 +49,7 @@ E kjene shkuesa prej Olimpit nisun
 Bind fuqimadhi e Senton hyjnesha
 E dasmor i gjith zotave polemi.
 
-# III
+#### III
 
 Difto si grigjen nëpër shpat kur lshote
 Me lkur' harushet vesh' e njesh' barija,
@@ -70,7 +70,7 @@ Lête gjarpni i helmuem, e mjedis t'logut,
 Ngrehun kryetin perpjet, vrote me shije.
 
 
-# IV
+#### IV
 
 E ti smiren difto qi t'perzêmruemit
 Hyji e Elades germoi, e jasht' zakonit
@@ -91,7 +91,7 @@ E surfull turfullote e flak' lugati
 Qi prej fushës për gjys' malin e shkelte.
 
 
-# V
+#### V
 
 E nji njegull ndër male, e 'j er' qelbsinet
 E i vap' e mnershme për gjith' vend shperndahej,
@@ -99,7 +99,7 @@ Ku ndër lugje ma t'rita e n'pod rudinet
 Me t'perjetshmen sherbel' gjineshtra thahej.
 
 Mjedis t'megjeve i shtangun, prej nalcinet
-Plandoset qjelli rrokollim, e rraheji
+Plandoset qjelli rrokollim, e rrahej
 E ndërkryeme për tok' delja bri trinet,
 E regji i shpevet prej trishtimit kjahet.
 
@@ -112,7 +112,8 @@ E dnesshin nuset për kunor' t'vorfnueme,
 E vjerr' gjinit amtuer, disshin ferishtat.
 
 
-# VI
+#### VI
+
 Por qe prej shpellet, ku n'qeti banote,
 U çfaq tat' gjyshi Polifem, e drodhi
 Rrotllen e rynit qi mbi báll i ndodhi
@@ -128,11 +129,11 @@ Rrethas permnershem malet, e, si zdapa,
 Shkulmat e Drinit pezulli u çuene.
 
 E larg ushtoshin lugjet e Peshtrikut,
-E porsi t'shtyeme prej fortun's,permbrapa
+E porsi t'shtyeme prej fortun's, permbrapa
 Rrokolloheshin val't e Adriatikut.
 
 
-# VII.
+#### VII
 
 Uluronte prej dhimet e perplasun
 Ndër balta t'Buenës, ku fillon koliku,
@@ -150,31 +151,31 @@ Aq e madhe për bind u çue gomilla.
 
 E zbriti s'neltit, buzen n'gaz, e shkeli
 Polifemi mb'at suke, e n'zane t'kthiella,
-“T'Ilirijes, kumboi, “a ktu temeli.”
+“T'Ilirijes,” kumboi, “a ktu temeli.”
 
 
-# VIII
+#### VIII
 
 Kumboi njitas ndër malet Ilirike
-E ndër fushore t'b' gatuna n'grunaje
+E ndër fushore t'b[e]gatuna n'grunaje
 Zâni i kasnec' e e 'j brohori jetike,
 Qi jehona perdridhte mâje n'mâje
 
-E thirrte Kodri: - O djelmëni kreshnike
+E thirrte Kodri: – O djelmëni kreshnike
 Me dhên gur e permend' leni n'bungaje
 Spatat e ngulme, léni tok' t'fisnike
 E léni berret qi kullosin n'zaje;
 
 E hiqni thekshem kah i t'parve a shkámbi,
 Ku n'vetina perher' Fromboja dëfrehej,
-Se nji t'rejes seli po i shtrohet lâmi.-
+Se nji t'rejes seli po i shtrohet lâmi. –
 
 E permbi suken mrekullore u njiti,
 E t'gjytetit mbretnuer rrethin, ku t'ngrehej,
 Me gjak t'kulshedrés tu' e vizat'. Shetiti
 
 
-# IX
+#### IX
 
 Prej krahinet kú i mûjshem Labeati
 Banon me shqype, e ku perté, e Parthinit
@@ -186,7 +187,7 @@ Avulluesa sinjoreve t'Shkodrinit
 Ju veshne Ilirsit me hiti, ku fati
 I atmes ma t'lergun ja perkrahte fqinit.
 
-E kndoshin çetat tui u zbrit' , e ushtoshin
+E kndoshin çetat tui u zbrit', e ushtoshin
 Fush' e lugje t'gjelbrueme e shéna e prroje,
 N'brohorijet t'ushtris kur n'pun' u lshoshin.
 
@@ -195,7 +196,7 @@ Porsi shemet e bletve nëpër zgjoje,
 Tuj ngreh' shka naten hyj mizuer do t'rrxote.
 
 
-# X
+#### X
 
 Ngri prej mneret t'çudimeve s'vetove,
 E permbledhun rreth malesh Ilirija:
@@ -216,7 +217,7 @@ As e flladit ndivnues s'ankohej dredha:
 Por paq i kandshëm prej Hyjnijet shifej.
 
 
-# XI
+#### XI
 
 I madhnueshem shkelzete bregut t'Drinit,
 Prej mermerit katruer t'dhenun, prej arit
@@ -234,4 +235,4 @@ Tymi i erkândshem fjolla fjolla hypë.
 
 Gjimoi moti ne e rrmakt, e zâne t'mbulueme
 Shungulluene prej s'neltit t'nji dritores:
--Aferdita për fli Rozafen lypë-.
+– Aferdita për fli Rozafen lypë. –

@@ -8,22 +8,22 @@ grandparent: null
 order: 13
 ---
 
-Dhe ju po shkoni,
+'Dhe ju po shkoni,
 Bylbyla kshtû!
 Po tretni këndynaj,
 Dallëndysha, ju!
- 
+
 Deken mêndova
 Se m'vjen kúr do;
 Se m'lêni vetun
 S'mêndova jo.
- 
+
 Por, mâ fort zêmren
 M'a brén nji idhnim:
 Çérdhet qi i lêni
 Kujdesit t' im.
- 
+
 Ndoshta, kúr t' ktheni
-Mue vorri m'mba
-E ju kërkoni
+Mue vorri m'mba,
+E ju kerkoni
 Çérdhen qi s'â!

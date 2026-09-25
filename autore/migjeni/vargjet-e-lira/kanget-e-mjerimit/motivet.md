@@ -4,13 +4,13 @@ author: Migjeni
 respectLineBreaks: true
 parent: Kangët e mjerimit
 grandparent: Vargjet e lira
-order: 16
+order: 34
 ---
 
 A ndër kujtime të shkimuna asht motiv' i një vjershe?
 ndër kujtime të bardha të fëminis virgjine,
-kur zemërplotë me mbarë botën defreheshe
-në deshirë, shpresa e t'ambla andrrime?
+kur zemërplotë me mbarë botën dëfreheshe
+në dëshirë, shpresa e t'ambla andrrime?
 
 A ndër kujtime t'afërme të djaleris vullnuese
 asht motiv' i zjarrtë i një vjershe dashunie,
@@ -36,4 +36,4 @@ e pena e poetit me të zhvillon vjershen.
 Gjatë jetesës së njeriut motivet të gjitha ngjyrash
 shkojnë e vijnë pa pramun. Po erdh motiv' i mbramë,
 i tmerrte në fantazi tonë - atbotë një të zbem ftyrash,
-nje hij' e keqe - dhe kumona dam - daaam.
+një hij' e keqe - dhe kumbona dam - daaam.

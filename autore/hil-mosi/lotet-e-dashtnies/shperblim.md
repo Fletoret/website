@@ -18,5 +18,5 @@ E s'di ça t'gjêj në vênt t'shperblimit —
 
 Mêndo, shmëndo, n'funt e kam gjetun
 At shêj qindis me t'ndîme t'mia,
-Qi gjall gjithmon aj ka me t'mbetun—
+Qi gjall gjithmon aj ka me t'mbetun —
 Aj shêj, moj moter âsht «dashtnia».

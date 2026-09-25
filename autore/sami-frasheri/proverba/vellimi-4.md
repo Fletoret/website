@@ -1,16 +1,18 @@
 ---
-title: Proverba - Vëllimi 4
+title: Vëllimi 4
+slug: proverba-vellimi-4
 author: Sami Frashëri
 respectLineBreaks: false
 parent: Proverba
 grandparent: null
 order: 4
 ---
+
 1000. Shumë mbrapështi që shihen te njerëzit, u janë futur me përdhunë nga prindërit
     dhe edukuesit e tyre, duke menduar se po i edukojnë.
 1001. Edukimi nuk është për ta zhveshur njeriun nga natyra, por për të ushqyer moralin
     e tij brenda natyrës së tij.
-1002. Edukimi nuk humb te njeriu me mandje dhe zgjuarësi të kufizuar, por mendja dhe
+1002. Edukimi nuk humb te njeriu me mendje dhe zgjuarësi të kufizuar, por mendja dhe
     zgjuarësia humbin te njeriu i paedukuar.
 1003. S'ka ndryshim në mes të atij që nuk di çka do të bëjë, nga ai që di dhe nuk bën.
 1004. Të bëjsh pa folur është më mirë se të flasish e të mos bësh.
@@ -34,7 +36,7 @@ order: 4
 1016. Çdo ndjenjë e njeriut krijon një paraqitje dhe sjellje të sajën; s'mund të jetë e keqe
     paraqitja e sjellja e njeriut me ndjenja të mira.
 1017. Njeriu i varfër është në errësirë, as gruaja e tij nuk di se ç'njeri është.
-1018. I famshmi Cioeron thotë: "S'ka marri që të mos e ketë mbështetur ndonjë filozof".
+1018. I famshmi Ciceron thotë: "S'ka marri që të mos e ketë mbështetur ndonjë filozof".
 1019. Shumëherë njerëzit e bëjnë mik atë që u bën keq, e armik atë që u bën mirë.
 1020. Kur të shohësh shokët e tu të bashkuar në një mendim, ose edhe ti bashkohu me
     ta, ose largohu; nuk mund të jetosh me ta duke qenë me mendim të kundërt.
@@ -47,12 +49,12 @@ order: 4
 1024. Zemra e ndrydhur është një zjarr që mund të shuhet vetëm me butësi dhe mirësi;
     ta ndrydhish edhe më shumë, do të thotë t'i hedhësh vaj e t'i japësh flakë.
 1025. Njeri i përsosur është ai i cili çka bën në sy të botës mund të bëjë në vetmi dhe
-    çka taën në vetmi mund të bëjë në sy të botës.
-1026. Po deshe ;të bësh mirë, prit rastin; është poshtërsi të presësh rastin për të bërë keq
+    çka bën në vetmi mund të bëjë në sy të botës.
+1026. Po deshe të bësh mirë, prit rastin; është poshtërsi të presësh rastin për të bërë keq
     dhe të zgjedhësh kohën kur armiku yt është dobësuar ose të ketë pësuar ndonjë
     fatkeqësi.
 1027. Nuk është trimëri të veprosh i mëllefosur dhe duke mos ditur ç'ka bën, por të
-    pranosh të sakrifikohesh për një nevoje të vërtetë, duke përbuzur jetën.
+    pranosh të sakrifikohesh për një nevojë të vërtetë, duke përbuzur jetën.
 1028. Nuk i thuhet frikacak çdo njeriu që nuk është trim; ka shumë shkallë në mes
     trimërisë e frikës.
 1029. Njeriu që është trim, është i durueshëm; por ka një pikë që po t'i preket, i zhduket
@@ -66,7 +68,7 @@ order: 4
     luftës bëhen luanë.
 1032. Në cilën anë të luftës sheh se gratë kanë rrokur armët, mos dysho në të drejtën që
     ka ajo anë, sepse gruaja nuk i kap armët pa qenë gjendja e padurueshme.
-1033. Disa njerëz u pëmgjajnë këngëve — një kohë u shetit emri gojë më gojë e pasi u
+1033. Disa njerëz u përngjajnë këngëve — një kohë u shetit emri gojë më gojë e pasi u
     kalon koha, nuk përmenden më.
 1034. Të bëjsh kryeplak të fshatit atë që nuk është i zoti të qeverisë shtëpinë e tij, bën ta
     kthesh atë fshat në gjendjen e shtëpisë së tij.
@@ -87,7 +89,7 @@ order: 4
 1042. Punët bëhen të liga pse u shërbejnë interesave; por nuk mendon njeriu se punët e
     mira më shumë u ndihmojnë interesave.
 1043. Dacka më e hidhur është ajo që të jep rrahësi me të qeshur ose duke u zbavitur.
-1044. Puna e mirë nuk del përherë nga qellimi i mirë, e puna e ligë nuk del përherë nga
+1044. Puna e mirë nuk del përherë nga qëllimi i mirë, e puna e ligë nuk del përherë nga
     qëllimi i keq; ka raste kur qëllimi i mirë jep rezultat të keq, e qëllimi i keq jep një
     rezultat të mirë.
 1045. S'ka dhuratë më të madhe se kur i japim ujë një njeriu të etur.
@@ -115,9 +117,9 @@ order: 4
     e përpjekja dhe jetojnë në kurriz të të tjerëve.
 1057. Nuk duhet të mbash mburojën sipër plagës që ke marrë, por kundrejt shigjetës që
     do të të vijë.
-1058. Mos iu gabo një të mire të atij që të ka bërë njëqind të këqia, mos iu hidhëro një të
+1058. Mos iu gabo një të mirë të atij që të ka bërë njëqind të këqia, mos iu hidhëro një të
     keqeje të atij që të ka bërë njëqind të mira.
-1059. Pama e gënjeshtëxt përhapet më shpejt se fama e vërtetë.
+1059. Fama e gënjeshtërt përhapet më shpejt se fama e vërtetë.
 1060. Po të thotë ndokush një gënjeshtër, menjëherë gjënden njëqind vetë që betohen se
     ajo gënjeshtër është e vërtetë.
 1061. Ka shumë asi që nuk i vejnë vesh pëllitjes së gomarit, por që i besojnë fjalës së
@@ -147,7 +149,7 @@ order: 4
 1072. Po dëshirove ta duash një njeri, ose të të dojë ai ty, shihu shpesh me atë.
 1073. Duke mos e parë për shumë kohë atë që e do, njeriu fillon të mos e dojë, e duke e
     parë shpesh njeriun që nuk e do, fillon ta dojë.
-1074. Madhësia e një pune nuk krahasohet me madhësinë e frytit të saj, por kryesishit
+1074. Madhësia e një pune nuk krahasohet me madhësinë e frytit të saj, por kryesisht
     me masat dhe mjetet e të venit të saj në jetë.
 1075. Shumëherë një përpjekje e madhe jep një fryt të vogël e një nisiativë e vogël, e
     marrë rastësisht, jep një rezultat të madh.
@@ -171,7 +173,7 @@ order: 4
 1084. Dëshira lind zotësinë.
 1085. Njeriu që ka mundësi të bëjë mirë, por i mungon dëshira, i ngjan atij që e ka kalin
     pranë dhe ecën këmbë.
-1086. Mund ta quajmë përtac nje njeri që sheh një gur para portës së tij dhe nuk e
+1086. Mund ta quajmë përtac një njeri që sheh një gur para portës së tij dhe nuk e
     largon; por si mund ta quajmë atë njeri që ai gur i ngatërrohet nëpër këmbë e
     rrëzon një a dy herë dhe prapë nuk e heq së andejmi?
 1087. A mund të quhet vëllazëri ajo kur punët e dy vëllezërve rregullohen duke
@@ -180,10 +182,10 @@ order: 4
     i qëndrueshëm në të dashur, nuk do të të afrohej ty kundrejtë të vëllait.
 1089. Çdo njeri dëgjon fjalën e mirë dhe e lavdon, por kur vjen puna për t'u kryer,
     gjithësecili bën si di vetë.
-1090. Kur njerëzia besonte në alkiminë, një dijetar ka thënë: "Pillimi i kësaj diturie
+1090. Kur njerëzia besonte në alkiminë, një dijetar ka thënë: "Fillimi i kësaj diturie
     është për të mësuar, mesi i saj për të gënjyer dhe fundi për të hyrë në çmendinë."
 1091. Njeriu nuk do njeriun që e do, do njeriun që e çmon dhe e lavdon.
-1092. Ajo që i lidh njerëzit me njëri-tjebrin është shpresa për të pasur përfitim dhe frika
+1092. Ajo që i lidh njerëzit me njëri-tjetrin është shpresa për të pasur përfitim dhe frika
     e dëmtimit; po të mos ishin këto dy gjëra, secili do të jetonte i veçuar, pa miq e pa
     shokë.
 1093. Nuk i dëshirojmë miqtë tanë për t'i pyetur për gjendjen e tyre, por për t'u folur
@@ -205,7 +207,7 @@ order: 4
 1100. Ata që dëshirojnë të lavdohen, po t'i donin gjërat që janë për lavd, do të arrinin
     qëllimin.
 1101. Njeriut që dëshiron t'ia largosh injorancën — qoftë edhe fare pak — lavdoja atë
-    çka di ai; njeriut që don t'ia qortosh koprraeinë, lavdoja bujarinë.
+    çka di ai; njeriut që don t'ia qortosh koprracinë, lavdoja bujarinë.
 1102. Më vështirë është të qeverisë njeriu veten e tij se të qeverisë të tjerët.
 1103. Lajkatari kryesor i njeriut është veta e tij; lajka që na bëhet nga jashtë, na pëlqen
     vetëm pse na vërteton mendimin që kemi për veten tonë.
@@ -221,7 +223,7 @@ order: 4
     se është i zoti t'i çmojë ata.
 1108. Në është se ka tregti që lë të kënaqur edhe atë që shesin edhe atë që blejnë, ajo
     është lajka.
-1109. Në batë mund të gjëndet ndonjë njeri që nuk do një gjë, por s'ka njeri që të mos e
+1109. Në botë mund të gjëndet ndonjë njeri që nuk do një gjë, por s'ka njeri që të mos e
     dojë lajkën dhe lavdin.
 1110. Njeriu në vend që të tregojë veten të varfër, pranon të mbetet i uritur, por ta
     tregojë veten të pasur.
@@ -251,7 +253,7 @@ order: 4
     folur.
 1122. Po deshe të bësh çka nuk ke bërë gjatë jetës sate, s'ke tjetër rrugë veçse të imitosh
     ata që e kanë bërë më parë.
-1123. Kur thotë  një njeri që sot do të bëj këtë punë dhe nesër e përsërit po këtë f jalë,
+1123. Kur thotë një njeri që sot do të bëj këtë punë dhe nesër e përsërit po këtë fjalë,
     preje shpresën se do ta kryejë.
 1124. Të presësh të kryejë punë njeriut që nuk i vjen doresh, është si të presësh nga guri
     të lëvizë.
@@ -267,13 +269,13 @@ order: 4
     përdorimi i dinakërisë dhe i gënjeshtrës vjen nga pazotësia.
 1130. Kush e kujton veten më të zotin se të tjerët, gabon gjithmonë.
 1131. Eleganca e tepruar është një lloj trashine.
-1132. S'ka gjë më të vështirë për njeriun se të ecë vetë në rrugën që u tregori të tjerëve
+1132. S'ka gjë më të vështirë për njeriun se të ecë vetë në rrugën që u tregoi të tjerëve
     për të drejtë.
 1133. Kur i përballojmë epshet tona, nuk tregojmë se jemi të fortë (pse kemi vullnet),
     por se ato nuk janë të forta.
 1134. Njeriu i urtë e quan të drejtë lavdimin që meriton dhe nuk ndikohet fare nga ai
     lavdim; lavdimin që nuk e meriton, nuk e merr përsipër, por e refuzon.
-1135. I marri kënaqet më shumë nga lavdirni që i bëhet pa e merituar dhe përpiqet të
+1135. I marri kënaqet më shumë nga lavdimi që i bëhet pa e merituar dhe përpiqet të
     gënjejë vetveten se e meriton atë lavdim.
 1136. S'mund të jetë punëtor i zellshëm shërbyesi i zotërisë përtac.
 1137. Të mbahesh se s'je krenar, është krenaria më e madhe.
@@ -288,8 +290,8 @@ order: 4
     gatishmëri për t'u mbrojtur.
 1143. Disa, qoftë nga njerëzit, qoftë nga punët, nuk mund të gjykohen po nuk u shikuan
     për së afërmi, e disa mund të gjykohen vetëm për së largu.
-1144. Nuk mund t'i thuhet i urtë atij njeriu që rastssisht e thotë  një f jalë me vend, çdo f
-    jalë e të urtit është me vend dhe e afërt me të vërtetën.
+1144. Nuk mund t'i thuhet i urtë atij njeriu që rastësisht e thotë një fjalë me vend, çdo
+    fjalë e të urtit është me vend dhe e afërt me të vërtetën.
 1145. Për ta ditur mirë një gjë, duhet t'i dish hollësirat e saj; pasi të fshehtat e natyrës
     për ne janë të panjohura, gjërat që dimë janë shumë të sipërfaqshme.
 1146. Fytyrat e shumë njerëzve, që i kanë të cenuara të shumtat e gjymtyrëve të tyre,
@@ -324,7 +326,7 @@ order: 4
 1165. Njerëzit me pak mend ndikohen nga gjërat e vogla, e njerëzit me shumë mend
     mund të ndikohen vetëm nga gjërat e mëdha.
 1166. Nuk i thuhet njeri njeriut të panjerëzishëm.
-1167. Po të mos kishte frikë humbjen e interesit të vet, asnjeri nnk do të përfillte
+1167. Po të mos kishte frikë humbjen e interesit të vet, asnjeri nuk do të përfillte
     interesin e tjetrit.
 1168. Çdo gjë e mirë ka një anë të dobishme dhe një anë të bukur; ana e bukur e
     mendimit është të flasësh në mënyrë që të kënaqësh atë me të cilin je duke
@@ -359,11 +361,11 @@ order: 4
     përvujtëri.
 1185. Më vështirë është të ruhet fama e fituar se të fitohet.
 1186. Kur një kardinal francez po kalonte me karrocë, i doli përpara një qerre me qe dhe
-    i zuri rrugën. Sa do që karrocieri i kardinalit i thotë  disaherë të zotit të qerres t'ia
+    i zuri rrugën. Sa do që karrocieri i kardinalit i thotë disaherë të zotit të qerres t'ia
     lëshojë rrugën, fshatari nuk i vë vesh dhe vijon rrugën e tij. Për këtë zemërohet
-    kardinaii, nxjerr kokën nga karroca dhe duke parë se fshatari ishte i trashë e i
+    kardinali, nxjerr kokën nga karroca dhe duke parë se fshatari ishte i trashë e i
     shëndoshë, i tha: "Biri im, ti e ke ushqyer shumë veten tënde, por pak e ke
-    edukuar." Pshatari, me të dëgjuar këto fjalë, u përgjegj: "Pasi veten tonë e
+    edukuar." Fshatari, me të dëgjuar këto fjalë, u përgjegj: "Pasi veten tonë e
     ushqejmë vetë, në këtë pikë s'kemi ndonjë gabim. Sa për edukatën, po qe mangut,
     faji nuk është yni, sepse edukimi ynë është në duart tuaja".
 1187. Sa e dëmshme është t'i besosh gjithkujt, aq pa vend është të mos i besosh askujt.
@@ -374,9 +376,9 @@ order: 4
 1190. Ata që vajtojnë pse kemi marrë një plagë, shumëherë i kënaq vdekja jonë.
 1191. Për t'u bërë dy vetë miq të vërtetë, duhet t'i kenë të përbashkëta hidhërimet,
     gëzimet, frikën dhe shpresat e tyre.
-1192. Ushqimi i dashurisë është frika e shpresa; posa të ikë frlka e shpresa, zhduket
+1192. Ushqimi i dashurisë është frika e shpresa; posa të ikë frika e shpresa, zhduket
     dashuria.
-1193. Dashurla që kanë njerëzit për drejtësinë lind prej frikës nga tirania.
+1193. Dashuria që kanë njerëzit për drejtësinë lind prej frikës nga tirania.
 1194. Njeriu dëshiron të shohë në vetvete çdo gjë të mirë; vetëm drejtësinë dhe të
     vërtetën te të tjerët.
 1195. Çdo lloj gënjeshtre është e përbuzur, por gënjeshtra e veshur me petk shenjtëror
@@ -399,10 +401,10 @@ order: 4
     mendimi i tij, por zemra s'mund të ndryshojë.
 1206. Ai që nuk është vetë krenar, nuk çmon as krenarinë e të tjerëve.
 1207. Xhelozia ushqehet me anë të dyshimit dhe të mendimit të keq që ka njeriu
-    kurudrejt një tjetri; kur s'mbeten më këto të dyja, zhduket xhelozia.
+    kundrejt një tjetri; kur s'mbeten më këto të dyja, zhduket xhelozia.
 1208. Çdo njeri ka vese të krenarisë dhe të mendjemadhësisë, ka ndryshim në mes të
     njerëzve vetëm sipas llojit të krenarisë dhe mendjemadhësisë së tyre.
-1209. Ajo që na detyron të numërojmë gabimet e të tjerëve, nuk është për t'i korrigjuar,
+1209. Ajo që na detyron të numërojmë gabimet e të tjerëve, nuk është për t'i korrigjuar
     ato, por për të treguar se ne nuk i kemi ato gabime.
 1210. Njeriu mund të premtojë çka shpreson të bëjë, por s'mund të bëjë gjë jashtë forcës
     së tij; prandaj duhet të premtojë më pak se çka shpreson të bëjë.
@@ -434,7 +436,7 @@ order: 4
 1227. Moskthimi i librave që merren hua (për t'u lexuar) vjen nga se zotërimi i
     vëllimeve është më i lehtë se zotërimi i lëndës së tyre.
 1228. Zarathustra thotë: "Jeta në botë përbëhet nga mendimi, fjala dhe puna; shpëtimi i
-    botës varet nga tri gjëra: "Të mendosh mirë, të flasësh mirë, të bësh mirë."
+    botës varet nga tri gjëra: «Të mendosh mirë, të flasësh mirë, të bësh mirë.»"
 1229. Një ilaç i përbashkët për çdo sëmundje: "Të kujdesesh për ruajtjen e shëndetit
     para se të sëmuresh."
 1230. Ka shumë pak pasuri të fituara me të drejtë.
@@ -454,13 +456,13 @@ order: 4
 1239. Lumturia e njerëzve është në duart e grave.
 1240. Fshehtësia e mësimit të madh është të mendosh shumë e të flasish pak.
 1241. Kush bën dëshmi të gënjeshtërt për interesin tënd, mund të bëjë edhe kundër teje.
-1242. Solomoni thotë: "Është mizor kush i thotë  të drejtit mizor dhe mizorit i drejtë".
-1243. Binia është një marrëzi, pleqëria është ilaçi i saj.
+1242. Solomoni thotë: "Është mizor kush i thotë të drejtit mizor dhe mizorit i drejtë".
+1243. Rinia është një marrëzi, pleqëria është ilaçi i saj.
 1244. Dinaku nganjëherë ia arrin qëllimit, por asnjëherë nuk i shpëton rrezikut; njeriut
     të drejtë shumë rrallë i plotësohen dëshirat, por gjithmonë është i sigurt dhe i qetë.
 1245. Shumica e grindjeve që ngjajnë në jetë lindin nga miqësia e tepruar.
 1246. Kush don t'i bëjë keq një njeriu të mirë i përngjan atij që don të pështyjë Diellin;
-    pësbtyma, duke mos arritur Diellin, kthehet dhe bie në fytyrën e tij.
+    pështyma, duke mos arritur Diellin, kthehet dhe bie në fytyrën e tij.
 1247. Kur një njeri zemërohet kundër një mali të lartë dhe përpiqet ta shkulë nga vendi,
     kush dëmtohet: mali apo ai vetë?
 1248. Ka mundësi të hedhësh poshtë fjalët e liga, të padrejta, që thuhen kundër teje; por
@@ -478,7 +480,7 @@ order: 4
     është sikur të lesh një të dashur dhe të dashurosh hijen e saj.
 1255. Miku është pasqyra e përsosmërisë, armiku e të metave.
 1256. Më mirë të vdesësh në mes të shumë shokëve besnikë se të jetosh pa shokë.
-1257. Të jetosh pa shokë, do të thotë të humbasësh pjesën më kënaqësidhënëse të tjetës.
+1257. Të jetosh pa shokë, do të thotë të humbasësh pjesën më kënaqësidhënëse të jetës.
 1258. Mosbjerrja e miqve është më e vështirë se fitimi i tyre.
 1259. Kush dëshiron të duhet, lë të dojë.
 1260. Në qoftë se është lumturi të duhesh, është lumturi më e madhe të duash.
@@ -490,7 +492,7 @@ order: 4
     edhe shumë kohë dhe do të bëjnë të përmendesh për të mirë.
 1264. Po të kërkosh në botë pasuri të vërtetë, e tillë është mendja dhe nderi.
 1265. Nuk është i urtë ai që është i zoti për dinakëri dhe djallëzi, nuk është trim ai që
-    s'mund ta permbajë zemërimin.
+    s'mund ta përmbajë zemërimin.
 1266. Në është se ka njeri të madh në botë, i madh është ai që lumturia nuk e bën të
     qeshë dhe mjerimi të qajë.
 1267. Krejt çka quajmë: e vërtetë, e drejtë, e mirë, e bukur, e dobishme janë një gjë;
@@ -500,13 +502,13 @@ order: 4
 1269. Për të kuvenduar me një mik, duhet të presësh kohën e lirë të tij; mikun që është i
     zënë me punë ose ndihmoje, ose mos i rri pranë.
 1270. Të mjaftuarit me çka ke është një kala kundër robërisë.
-1271. Jeta e pasanikut është një vaudeville, ajo e të vobegëtit — një tragjedl dhe ajo e
+1271. Jeta e pasanikut është një vaudeville, ajo e të vobegëtit — një tragjedi dhe ajo e
     filozofit — një komedi.
-1272. Gjithësecili përpiqet për të arritur një lumturi të plotë dhe të qëndrueshine, por një
-    lumturi e tille nuk është parë fare në botë.
+1272. Gjithësecili përpiqet për të arritur një lumturi të plotë dhe të qëndrueshme, por një
+    lumturi e tillë nuk është parë fare në botë.
 1273. Po deshe të kuptosh fare mirë një punë, drejtoju opinionit publik, sepse më i dituri
     mund të gabojë, opinioni s'gabon.
-1274. Njerëzit aq lehtë kalojnë nga e mira në të iigën dhe nga e liga në të mirën sa po të
+1274. Njerëzit aq lehtë kalojnë nga e mira në të ligën dhe nga e liga në të mirën sa po të
     ngrihet një mur në mes të ligës dhe të mirës, nuk do të qëndronte asnjë ditë, do të
     shembej pra.
 1275. Djali i urtë — lumturia e të jatit; djali i prapë — belaja e nënës.
@@ -533,7 +535,7 @@ order: 4
 1286. Një gjë fare pa rëndësi mund t'i ndajë miqtë më të ngushtë.
 1287. Njeriu duhet të sakrifikojë gjithçka për mikun, përveç nderit dhe sedrës së tij.
 1288. Gjithësecili ankohet nga bota, nga fati, nga koha, asnjëri nuk është i kënaqur me
-    jetën; megjithëkëtë nnk donë të vdesin as ata që çojnë një jetë shumë të vështirë, e
+    jetën; megjithëkëtë nuk donë të vdesin as ata që çojnë një jetë shumë të vështirë, e
     as ata që janë në vuajtje e mundim të madh.
 1289. Koha më e mirë e jetës është fëmijëria e më e hidhura pleqëria. Me kalimin e
     muajve dhe të viteve njeriu largohet nga lumturia, megjithëkëtë çdo njeri dëshiron
@@ -551,10 +553,10 @@ order: 4
 1296. Njerëzit me mendime jo të shëndosha, duket se dinë dobësinë e mendimeve të
     tyre; prandaj posa shohin një njeri me mendime të larta, bashkohen të gjithë
     kundër tij.
-1297. Çortimi është ndihma që njerëzit e mëdhenj i japin shoqërisë njerëzore.
+1297. Qortimi është ndihma që njerëzit e mëdhenj i japin shoqërisë njerëzore.
 1298. Një fjalë e parëndësishme e thënë me vend është më e mirë se një ligjëratë
     elokuente e thënë jo me vend.
-1299. Mos kij frikë nga ujku me taark të ngopur, por nga macja e uritur.
+1299. Mos kij frikë nga ujku me bark të ngopur, por nga macja e uritur.
 1300. Pasuria dhe të mjaftuarit me pak janë armiq të njëri-tjetrit, ku është njëri nuk është
     tjetri.
 1301. Jeta është një lumë që rrjedhë pa pushim; për të soditur si rrjedhë dhe ikën jeta,
@@ -562,7 +564,7 @@ order: 4
     njeri, në një livadh, në një shkëmb, në një buzë deti.
 1302. Puna e bën jetën e njeriut të vlejë edhe pas vdekjes së tij; çthurja, vagabondazhi
     dhe përtimi e kalbin dhe e zhdukin jetën; të soditet natyra bën që jeta të shijohet
-    ashtu siç është. Prandaj bariu është ai që bën jetë të vëntetë.
+    ashtu siç është. Prandaj bariu është ai që bën jetë të vërtetë.
 1303. Një njeri ashtu sikundër mund të ngjallë një komb, edhe mund ta zhdukë.
 1304. S'mund të kryejë punë të mëdha ai që nuk u jep rëndësi punëve të vogla.
 1305. Për kirurgun është më lehtë t'i presë këmbën një trimi se t'i heqë dhëmbin një
@@ -587,10 +589,10 @@ order: 4
     pasqyrës.
 1317. Fatkeqësia ia shtyp zemrën burrit, ia ndrydh shpirtin, ia kalit trupin; gruas ia
     derdhë vetëm lotët dhe e bënë të thërrasë e të bërtasë.
-1318. Bilblli lodhet së kënduari, gruaja s'lodhet së foluri.
+1318. Bilbili lodhet së kënduari, gruaja s'lodhet së foluri.
 1319. Gruaja kur dëshiron — është e kënaqur, kur dëshiron — është e pezmatuar, kur
     dëshiron — është mirë me shëndet dhe kur dëshiron — bëhet e sëmurë.
-1320. Nuk është i fortë ai që e thyen një dru me grusM; i fortë është ai që e drejton një
+1320. Nuk është i fortë ai që e thyen një dru me grusht; i fortë është ai që e drejton një
     dru të thyer ose që e mban për të mos u thyer.
 1321. Kirurgu më i mirë është ai që ka marrë vetë shumë plagë.
 1322. Mos prit të dalë flaka aty ku sheh tym për të kuptuar se ka zjarr.
@@ -602,8 +604,8 @@ order: 4
 1326. Nuk është miqësi ajo e bazuar në interes; por po të përjashtohet kjo lloj miqësie,
     kam frikë që nuk mbetet mik në botë.
 1327. Jungu thotë: "Fija më e hollë që end një insekt është më e fortë se lidhja që lidh
-    njëriun me lumturinë."
-1328. Një familje e përbërë nga burri e gruaja që e donë njëri tjetrin dhe me fëmijë të
+    njeriun me lumturinë."
+1328. Një familje e përbërë nga burri e gruaja që e donë njëri-tjetrin dhe me fëmijë të
     bindur e të edukuar, është një pikturë e gjallë e lumturisë.
 1329. Fytyra e qeshur është kripa e bukurisë.
 1330. Krijuesi shikon qëllimin, njerëzit punën.
@@ -630,7 +632,7 @@ order: 4
 1343. Nëse janë të shumtë ata që martohen, nuk janë të paktë ata që janë penduar.
 1344. Lumturia e një kombi varet nga edukimi i femrës së tij.
 1345. Natyra ndikon dhe sundon në zemrën e njerëzve me anën e grave.
-1346. Gruaja duhet të ketë në dorën e djathtë gjilperën e në të majtën librin.
+1346. Gruaja duhet të ketë në dorën e djathtë gjilpërën e në të majtën librin.
 1347. Njeriu duron çdo padrejtësi, çdo përbuzje, çdo hidhërim që i bëhet nga miku dhe
     mund ta falë; por s'mund të durojë që ndonjeri nga miqtë e tij të arrijë një lumturi,
     e këtë faj nuk ia fal atij asnjëherë.
@@ -667,20 +669,20 @@ order: 4
 1368. Njeriu që nuk e ruan të fshehtën, u ngjan shpalljeve që ngjiten në mur; mos ia
     thuaj atij çka nuk dëshiron t'ia shpallësh botës.
 1369. S'ka njeri që të mos ketë një lloj marrëzie; çka bën njeriu më i urtë në momentet e
-    marrëzisë së tlj nuk bën asnjë i marrë i vërtetë.
+    marrëzisë së tij nuk bën asnjë i marrë i vërtetë.
 1370. Në punët e vogla çdo njeri mund t'i besojë çdo njeriu, por besimi matet me punë
     të mëdha.
 1371. Njeriun nuk e ndrydh puna, e ndrydh mërzitja. Makina nuk prishet nga rrotullimi,
     por nga ndryshku që ze duke mos punuar.
 1372. Shakaja ka dy kondita: të zbavitësh ata që nuk kanë të bëjnë, dhe mos të prekësh
     ata që kanë të bëjnë me të.
-1373. Njeriu që ka mëndjen dhe zemrën të fortë e përdor veten e tij sipas rastit dhe nuk
+1373. Njeriu që ka mendjen dhe zemrën të fortë e përdor veten e tij sipas rastit dhe nuk
     bëhet skllav i iluzioneve e i ndjenjave. Ndërsa njeriu mendjelehtë jepet pas
     iluzioneve, dhe njeriu me zemër të dobët pas ndjenjave duke mos zotëruar
     vetëveten.
 1374. Vaji i derdhur sipër mermerit mbetet aty për shumë kohë dhe nuk thithet prej tij,
     ndërsa vaji i derdhur sipër një dërrase zhduket në pak kohë dhe thithet nga dërrasa
-    e nuk del më. Disa riga njerëzit i ngjajnë mermerit, e tregojnë atë që kanë nxënë,
+    e nuk del më. Disa nga njerëzit i ngjajnë mermerit, e tregojnë atë që kanë nxënë,
     por vetë nuk përfitojnë; dhe ca të tjerë i ngjajnë dërrasës, pasi atë që kanë nxënë e
     mbajnë për vete dhe nuk ia tregojnë njeriut.
 1375. Përvoja është një shkollë, mësimet e së cilës kushtojnë shtrenjtë, por për shumë
@@ -693,21 +695,21 @@ order: 4
     fëmijëve dhe larjen e të lintave.
 1379. Burrat besojnë se bota është krijuar vetëm për ta.
 1380. Po të shohin mangut një kopsë në këmishën e tyre, kritikojnë gratë dhe i bëjnë
-    përgjegjëse sikur të kenë kxyer një krim të madh.
+    përgjegjëse sikur të kenë kryer një krim të madh.
 1381. Pretendojnë që gratë ta qeverisin shtëpinë pa të holla dhe, kur ato kërkojnë të
     holla, i qërtojnë të shkretat me fjalë si: "Ti po më shkatërron!".
 1382. Nuk pranojnë se gruaja ka nevojë për zbavitje, për shetitje, dhe kërkojnë që ajo të
-    qëndrojë gjithmcxnë në shtëpi vetëm dhe të shikojë fëmijët.
+    qëndrojë gjithmonë në shtëpi vetëm dhe të shikojë fëmijët.
 1383. Po të kërkojë gruaja një gjë, qoftë dhe fare të vogël, ata gjejnë shkak për të
     shpallur luftë dhe të grinden.
 1384. Ata presin dashuri nga gratë dhe duan të vinë në shtëpi në mesnatë.
 1385. E kalojnë kohën në shoqëri dhe zbavitje dhe, kur vinë në shtëpi, duan t'i gjejnë
     zgjuar gratë e shkreta, që rrinë e mërziten vetëm.
 1386. Lavdimi që na bëjnë, sado i zmadhuar të jetë, s'mund të jetë aq sa kujtojmë dhe
-    besojrnë.
+    besojmë.
 1387. Një komb që nuk është në gjendje të dallojë lirinë nga robëria, është një fëmijë që
     ka nevojë të vazhdojë në shkollën foshnjore.
-1388. Njeriu i pjekur dëshiron të përparojë për aq sa ka xnerita e zotësi dhe nuk
+1388. Njeriu i pjekur dëshiron të përparojë për aq sa ka merita e zotësi dhe nuk
     mbështetet në fat, soj, përkrahje dhe në hatër.
 1389. Lumturia më e madhe e njeriut është kur i afërmi i tij bëhet i lumtur.
 1390. Godinën e lumturisë, të ndërtuar nga dashamirësia, e stolis mendja dhe zotësia.

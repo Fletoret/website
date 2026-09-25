@@ -5,7 +5,7 @@ author: Gjergj Fishta
 respectLineBreaks: true
 parent: Gomari i Babatasit
 grandparent: Gomari i Babatasit
-order: 1
+order: 2
 keywords:
 published: true
 ---
@@ -16,7 +16,7 @@ published: true
 _(Tuj këndue "Rivistën Pedagogjike", thotë me vedi:)_
 
 Mirë...mirë fort...ma mirë nuk ka...
-Punë e madhe!...(Drejtorit A) Kem' me pa
+Punë e madhe!... _(Drejtorit A)_ Kem' me pa
 Shka do t'thotë, tash, "Hylli i Dritës"
 Edh' aj Frati i dheut t'Mirditës,
 Qi botue ka njat broshuer
@@ -123,7 +123,7 @@ E ka shkrue ndër kto kritika,
 Qi aj bâ i paska "Hyllit t'Dritës".
 Jo, po, vetë në "rend të ditës"
 Do t'a vê emnin e kti,
-Për m' e pru ktu n'Ministri
+Për m'e pru ktu n'Ministri
 Inspektuer ase drejtuer,
 Edhe kta, po, sa mâ parë,
 Shi p'r inat t'Fret'n Shqiptarë,
@@ -155,12 +155,12 @@ Qi atje n'Shkodër Françeskâjt
 T'huej na i rrisin kalamajt,
 E qi ata tue kenë shqiptarë,
 T'jenë, si thue ti, antikombtarë.
-E po ‘imênd — t'ngjatët Zoti jetën! —
+E po 'imênd — t'ngjatët Zoti jetën! —
 Esad Pasha a thue ndër Fretën
 Ka xanë shkollë?... Arif Hiqmeti
 A ndër Fretën apo n'jeti
 Ai kjé rritë?... Haxhi Qamili
-— T' thotë shka t'thotë, po, qaj Nebili —
+— T'thotë shka t'thotë, po, qaj Nebili —
 Osman Bali, Halit Lleshi
 E, sa tjerë, qi fati deshti
 Armët t'i sjellin kundra Atdheut,
@@ -174,7 +174,7 @@ Qaj Luc Nishi e qaj Prengë Tusha,
 Dy djelmoça, dy skyferë,
 Si edhe ata oficjerat tjerë,
 — Gjetun gati kurdoherë
-Për Shqini me ra m'poterë —
+Për Shqipni me ra m'poterë —
 Qi mbas msimit t'Françeskanve,
 M'shpinë u lshuen kta esadjanve
 Edhe i shtypën. Kta, po, janë
@@ -188,19 +188,19 @@ Si tha i moçmi — merret shpesh"
 
 **MINISTRI**
 Pse po thue për Nebil Çikën?
-Po ti kndoje ‘i herë kritikën,
+Po ti kndoje 'i herë kritikën,
 Qi për t'madhe bukuri
 U bân Fretënve n'"Vllazni"
 Nji _(e)S. (e)S_. — kush âsht s'e di:
 _(Me gisht i difton do vjerrsha, botue prej "Vllaznijet", nr.9, nën titullin: "Vallja Popullore")._
 A ké ç'ndien?... Ktu kish' me thanë
-Se njat Fratin n'gojëka xanë,
+Se njat Fratin n'gojë ka xanë,
 Qi dikur shkrou njat broshuer
 Mbi programin t'onë shkolluer.
 E ktu poshtë, si npër tërthuer,
 Fjalët e ashpra t'ktij vjershtorit,
 Kish' me thanë, si shi drejtorit
-T"Hyllit t'Dritës" i janë kushtue.
+T'"Hyllit t'Dritës" i janë kushtue.
 
 **DREJTORI A**
 Ashtu m'duket edhe mue,
@@ -232,7 +232,7 @@ Gjene mirë.
 **MINISTRI**
 Asht edhe moti,
 Qi na kalbi. Kujtoj ka
-Mâ se' i muej qi shiu s'ka dá.
+Mâ se 'i muej qi shiu s'ka dá.
 Me t'mërzitë!
 
 **BABATASI**
@@ -305,13 +305,13 @@ Jo, zotni: S'âsht gjâ ajo lojë.
 Edhe tham se mirë do t'ishte
 Për nji shtet endè ferishte,
 Si Shqipnia, nji Spital
-Me ngrefë kund n'ndo ‘i fushë a mal,
+Me ngrefë kund n'ndo 'i fushë a mal,
 Për me shndoshun "pelivromin"
 Ase "dergjen" qi sot kombin
 Janë tue lshue shakull për dhé,
-E, mu shpòrr Muzeut, Për né,
+E, mu shpòrr Muzeut, për né,
 Qi nuk kemi bukë me u ngî
-Sot Muzeu â ‘i "kabuni",
+Sot Muzeu â 'i "kabuni",
 Qi nuk âsht, jo, për dhambë t'onë;
 Pse Financa, si po thonë,
 Sod ka ardhë e âsht bâ teneqe.
@@ -328,13 +328,13 @@ Edhe bukur aj e ka dredhë,
 A din ti, se sivjet n'kasë,
 (Si ky Kola e ka shpjegue)
 N'Financë t'onë kanë me u grumbullue,
--Tanë fyshekë, ndry ndër kashuj —
+— Tanë fyshekë, ndry ndër kashuj —
 Rrash njizetedy miljuj
 Franga ar. Prandej kuleta...
 
 **BABATASI**
 S'di gjâ Kola — t'u ngjatët jeta! —
-Po t'tham un , po, Babatasi.
+Po t'tham un, po, Babatasi.
 Po a drò m'pare kund aj hasi,
 Qi kështu, n'hamende t'vet,
 Shton miljona në "budget"?...
@@ -342,9 +342,9 @@ Fjala e tij nuk çon kandâr:
 Se atij kasha i ka qitë bár,
 Edhe âsht bâ me dalë me lypë,
 Qysh se rrogat i ka krypë.
-Jo qi ka edhe ‘i tjetër punë:
+Jo qi ka edhe 'i tjetër punë:
 Parja n'kashë kurr nuk i bûnë;
-Pse, ke vetë s'âsht veç se ‘i kukull,
+Pse, ke vetë s'âsht veç se 'i kukull,
 Até shokët e bâjnë krejt sukull,
 E ia shijnë paret përdhuni,
 Si n'Shqipni qi hecë kanuni...
@@ -461,7 +461,7 @@ A di' shka, more bablok,
 Me u bâ nieri Arkeolog
 Punë e vshtirë nuk âsht ndër né.
 Si Arkeolog, ti tjetër s'ké
-Veç me rmue, ndo‘i herë në dhé,
+Veç me rmue, ndo'i herë në dhé,
 Me gjetë vorba a palaré,
 Me mbledhë shtamba e karratyqe
 Hekuraqe e belezyqe:
@@ -477,16 +477,15 @@ Qi edhe n'pleh gjinden herhera.
 A se n'dorë t'ndonji tellallit
 Kur ndokush, ngushtue prej hallit,
 Qet me shitë rraqet e t'et,
-A ndo'i tjeter mallimet.
+A ndo'i tjetër mallimet.
 Sa për kaq, kishem me thanë,
 Mjaftë qi nieri të ketë zanë
 Ndo'i rrushdije — a iptadije,
 E ndo'i fjalë edhe t'a dije
 A latin ase greqisht,
-
 — Por mjafton edhe turqisht —
 Se Arkeolog aj del me nám.
-Pra kto fjalë për tesh poi lámë.
+Pra kto fjalë për tesh po i lámë.
 Ti n'Shqipni Arkeolog sod jé:
 Qé dekretin tèk e ké,
 Me nënshkrim të zyrës s'naltë
@@ -529,7 +528,7 @@ Kush di gjâ, po tham, zotni,
 Se ku i kanë gjak e gjini,
 Se ku i kanë kta plâng e shpi,
 Stane, pleme, vathë e gji?
-Pasaportat kush ua pav ,
+Pasaportat kush ua pav,
 Për me thânë se kta s'janë Slav.
 Nuk janë Slav, Turq, as Bulgarë,
 Por janë fjesht burra Shqiptarë?...
@@ -543,7 +542,6 @@ Kurrkush gjâ nuk di, për tà:
 Nuk di gjâ, por megjithktà,
 Megjithse edhe t'pa zotsi,
 Na po e shofim kè n'Shqipni
-
 — Qeni t'zo'n mâ ku s'po e njeh —
 Na janë ngrefë si gjelat m'pleh,
 E pedanta e "Don Kishjote",
@@ -571,7 +569,7 @@ S'kisht' për pêng as për dorzânë,
 M'kurriz t'and po sjellin patën,
 Edhe m'mjaltë po e mbajn sod spatën:
 T'cillt ngërdheshë m'nipa t'Kastriotit,
-Kndojnë at kangën, si ‘i herë motit:
+Kndojnë at kangën, si 'i herë motit:
 "T'shkojmë e t'hamë na voe t'fergueme
 Ké ajo ndrikulla e hutueme."
 E, kjo ndrikulla e pamênd

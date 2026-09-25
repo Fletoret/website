@@ -25,7 +25,6 @@ parë e shkuam në Çajup pastaj u hothmë në Nemerçkë, në stan të Fejzos
 Gjinokastrës, një atdhetar edhe njeri me mënt e i mirë, dyke na pritur
 e gostitur mirë. Që këtu dërguam Reiz Lanen, në Përmet, me një letrë
 tek Aliu
-
 Abdullahu, Tremishti, i cili kishte marë ruajtjen të qytetit. Aliut i
 shkruanin që të mirte masat e duhura që të hidheshin përtej Viosës,
 dyke e shkuar urën e Petres.
@@ -49,7 +48,7 @@ Toskëri,
 
 Nga Frashëri u hothmë në Orgockë, në shtëpi të Velishahut, ku na priti
 i vëllaj i tij Aliu edhe, me të ngrënë pakëzë bukë, shkuam në
-Selenicë, ne Xhezo beu. Shtëpia e tyre është një nga të parat
+Selenicë, në Xhezo beu. Shtëpia e tyre është një nga të parat
 kombëtare, prandaj Xhezo beu na priti me gëzim të math. Na thotë që të
 qendrojmë në stan të tyreve për të mbledhur, nesër, krerët e Kolonjës
 në një mbledhje, se edhe ata e kishin biseduar, midis tyre, për një
@@ -133,9 +132,9 @@ edhe q'atje të vinim në Starovë për të u hasur me Niazi benë.
 
 Me Baba Hysenin biseduam, gjër e gjatë, mbi çeshtjet kombëtare edhe
 vecanërisht mbi hasjen tonë me Niazi benë edhe qellimin të tij, me
-qënë që neve nukn kishim dijë të sigurtë, për këtë. Baba Hyseni na
-thotë që edhe Naziu gjithë programin tonë ka, prandaj e kemi përkrahur
-që të bënjë propagande edhe shokë. Sa për nonjë frikë nga Naziu të mos
+qënë që neve nuku kishim dijë të sigurtë, për këtë. Baba Hyseni na
+thotë që edhe Niaziu gjithë programin tonë ka, prandaj e kemi përkrahur
+që të bënjë propagande edhe shokë. Sa për nonjë frikë nga Niaziu të mos
 kini se me ka dhënë besa besën si Shqiptar që është, andaj udhe të
 mbarë edhe Zoti me juve.
 
@@ -181,7 +180,7 @@ dyshim do të mbushnjë gjithë dëshirat edhe kërkimet të Shqipëtarëvet,
 prandaj na fton në Poradec ku na priste Niazi beu.
 
 Niazi beu, siç na thanë Jashar beu edhe Arsllan beu, ishte dëshpëruar
-edhe mërzitur, më në funt, nga Xhon Tyrqit, me qënë që nuku e kushin
+edhe mërzitur, më në funt, nga Xhon Tyrqit, me qënë që nuku e kishin
 gjyrmuar, prandaj vendosi të punonte si Shqipëtar për Shqipërinë. Me
 këtë program po fitonte simpathinë, të Shqipëtarëvet, të cilët e
 besonin edh' e gjyrmonin. Mbi këte program, pra, na shkojti edhe neve

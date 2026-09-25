@@ -24,4 +24,4 @@ Ah..., a mos u helmò.
 Pasje, pasje, kjo e shkretë,
 Sa e dobët për njerzië;
 Që të prish ç'do gjë në jetë,
-Gjer më t'ëmblën dashurië!
+Gjer më t'ëmblën dashurië! —

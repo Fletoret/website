@@ -267,7 +267,7 @@ M'e ndezë flakë, edhè m'e kallë,
 Knjaz Nikollen me e zânë gjallë;
 Edhe lidhë n'Stamollë m'e çue,
 M'e lânë mshilun në katue,
-Kû rriñ kali tue hingllue.
+Kû rrin kali tue hingllue.
 
 Heshtu, Zânë, mos qesh me mue;
 Se merzitshim kam qillue!

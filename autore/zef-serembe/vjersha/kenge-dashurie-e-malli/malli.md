@@ -14,7 +14,7 @@ Gjindja fle, nata është e qetë
 veç i ziu unë jam i paqetë.
 Vashëz që te gjumi rri
 zgjohu e shih me vrejtje ti
-se ç'do thotë këtë natë.
+se ç'do thotë këtë natë
 Muza me këtë serenatë:
 "Koha vjen, vjen dhe shkon
 bashkë me mua kush gëzon?
@@ -23,11 +23,12 @@ Kush më hyn te zemra thellë?
 Është kjo e fundit natë
 që t'këndon dashnori i ngratë,
 Tani nisem unë i shkreti,
-thuaj: "Shpirt, të prift shëndeti!"
+thuaj: ‘Shpirt, të prift shëndeti!’"
 
-N'Shkavuni  anija arriu, ja, po nisem unë i ziu.
+N'Shkavuni anija arriu,
+ja, po nisem unë i ziu.
 
-“Duall me diellin, vjen te sheshi!"
+"Duall me diellin, vjen te sheshi!"
 zëri yt më rri te veshi,
 Dha nga sheshi i bekuar
 shoh katundin e larguar
@@ -47,7 +48,7 @@ Bota e tërë më mëshiroi
 zemra jote nuk rënkoi
 Shoh katunde, vende shoh
 vasha si bora kudo.
-Zemra mbushet me pshërëtime
+Zemra mbushet me psherëtime
 t'i dërgon, vashëza ime.
 I shikoj trimat kaluar
 vallet duke kënduar

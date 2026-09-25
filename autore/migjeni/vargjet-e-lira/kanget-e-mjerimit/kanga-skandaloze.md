@@ -4,7 +4,7 @@ author: Migjeni
 respectLineBreaks: true
 parent: Kangët e mjerimit
 grandparent: Vargjet e lira
-order: 12
+order: 30
 ---
 
 Një murgeshë e zbetë, që bashkë me mkatet e botës
@@ -19,7 +19,7 @@ pshertimet që mbysin
 ma la der' vonë kujtimin, kujtimin e ftohtë të kalesës.
 
 Prej lutjesh (jo tallse!) duel dhe në lutje prap po shkon…
-Lutjet i flejnë gjithkund: ndër sy, ndër buzë, ndër Gishta.
+Lutjet i flejnë gjithkund: ndër sy, ndër buzë, ndër gishta.
 Pa lutjet e saj bota, kushedi, ç'fat do kishte?
 Por dhe nga lutjet e saj ende s'i zbardhi drita.
 

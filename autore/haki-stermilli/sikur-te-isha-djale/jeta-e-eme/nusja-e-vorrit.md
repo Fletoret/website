@@ -10,7 +10,7 @@ order: 7
 
 ## 6 Mars
 
-Prej kohësh nuk kam shkrue në këto fletë. E përse me shkrue: Çfarë
+Prej kohësh nuk kam shkrue në këto fletë. E përse me shkrue? Çfarë
 vlere mund të kenë shkrimet e mija, mbasi un u mjerova plotsisht dhe
 tash, që të plotsohet tragjedia, mungon vetëm vdekja? Të shkruejsh në
 këto fletë don me thanë të flasish me gojën e të mjeruemes për me e
@@ -18,11 +18,11 @@ llastue ma fort mjerimin. Sidoqoftë do të shkruej nga ndonji herë që
 të shfrej, se s'kam kuj me ia hapë zemrën dhe me e shprazë vënerin. E
 me këtë mënyrë e nxjerr dufin. Pas? Po.
 
-Pardje më suellën këtu, në shtëpi të tim ët, kinse për të ndrrue ajr.
+Pardje më suellën këtu, në shtëpi të t'im et, kinse për të ndrrue ajr.
 Menjiherë e pranova propozimin që më bani em atë për të ardhë këtu,
 sepse më kandet të dergjem e të vdes në shtëpin e nanës, ku kam nji
 grumbull kujtime t'ambla e të hidhta. Im atë tash asht paqtue me mue.
-Më flet, më gjith që me serjozitetin ma të madh, me nji mënyrë të butë
+Më flet, me gjith që me serjozitetin ma të madh, me nji mënyrë të butë
 dhe sikur nuk ka ngjamë gja në mes t'onë. Por kurrë nuk prek kah
 arratisja, kah gjyqi ose kah dashunia e eme. Ka kujdes që të mos i
 shpëtojë as ma e vogla fjalë që mund të ketë lidhje me to. Qëndron
@@ -56,7 +56,7 @@ dhe pa u qeshë zemra makar nji herë. Kush e din se sa yj xixëllues pat
 në mes të tyne dhe u shqimën pa ndriçue kënd; kush e din se sa
 dallëndyshe pat n'at varg që u thyen krahësh mu n'at ças që dojshin me
 fluturue për me e gëzue lirin dhe me e shijue jetën. Edhe un u
-përplsasa për dheu mu n'at ças që dojsha me i dhanë hof shfrimi
+përplasa për dheu mu n'at ças që dojsha me i dhanë hof shfrimi
 dëshirit t'argëtimit të ndiesive të zemrës dhe ajo, menjiherë, u dënue
 me vdekje. Ka plot njerës në këtë botë që qajnë kot, por ka edhe asish
 që qeshin fare kot. Njena palë qan tue kujtue se e lut dhe e ndjell
@@ -66,7 +66,7 @@ kuptoj, ndodhem në mes të këtyre dy palëve dhe kam kalue në një
 shkallë të tretë, pse kam qamë e kam qeshë mjaft për vetëhe. Tash qaj
 e qesh ma shumë për tjerët se sa për vetëhe, pse un i lava duert ma
 nga vetja. Shkurt jam bamë si ato që kangëtojnë ndër dasma të hueja
-dhe katrrojnë ndër morde të tjerëve. Por në mundshme lanë vragë e
+dhe katrrojnë ndër morde të tjerëve. Por në mundsha me lanë vragë e
 vragë ndër zemrat e atyne që kanë me e ndigjue kangën ose vajin t'em,
 do të jem e kënaqun, do të jem e lumtun.
 
@@ -127,8 +127,8 @@ drejtën kjo sillet mjaft mirë.
 ## 27 Mars
 
 Em atë duket pak si i shtypun e i vramë prej sëmundjes s'eme. A thue e
-ka kuptue se, pjepërisht, ai asht fajtuer për këtë gjendje? Përparimi
-i shpejtë i sëmundjes dhe me hapa të mbëdha, pa dyshim, i detyrohet
+ka kuptue se, pjesërisht, ai asht fajtuer për këtë gjendje? Përparimi
+i shpejtë i sëmundjes dhe me hapa të mëdha, pa dyshim, i detyrohet
 dëshpërimit që më shkaktoi martesa me kët tregtarin e jo me Shpendin
 t'em. Ai ndoshta nashti e ka kuptue gabimin trashanik që bani, por
 asht tepër vonë dhe s'mund të ndreqet ma. Me gjith këtë më duket sikur
@@ -144,7 +144,7 @@ ma mirë e ma shum. Zemra e tij kurrë nuk do të jetë msye prej
 rrebeshit të dashunis. Në syt e tij kurrë nuk do të jetë dukë dëshiri
 i zjarrtë për t'i argëtue pjerrjet e zemrës, as edhe mallëngjimi i
 pambaruem e ndonji dashunis së humbun. Prandaj asht kaq i egër dhe i
-pamëshirshëm kundrejet meje. Për kët shkak nuk don të më fali, me
+pamëshirshëm kundrejt meje. Për kët shkak nuk don të më fali, me
 gjith që i vjen keq për vdekjen e trupit t'em. Sa për zemrën dhe
 vdekjen e sajë s'din dhe s'kupton gja.
 
@@ -173,7 +173,7 @@ jeta në nji fabrikë që të gatohesh simbas dëshirit t'onë. Në nji rasë
 të tillë un do t'isha bashkue me Shpendin dhe ky tregtari do t'a
 kishte gjetë shoqen e vet të përshtatëshme.
 
-Përse nuk u lumnova e nuk e shjjova edhe un jetën? Ç'faj i bana
+Përse nuk u lumnova e nuk e shijova edhe un jetën? Ç'faj i bana
 njerëzis ose Perëndis që më ndeshkuen me mjerim? A nuk asht mëkat që
 un, në moshën ma të bukur të jetës s'eme, të vdes pa u kënaqë me
 dhantit e natyrës? Edhe un të kisha ngrehë nji fole lumnije, ku të
@@ -202,7 +202,7 @@ por sigurisht e pakson fuqin dërmuese t'atij farmaku tue e ulë gradën
 e hidhësinës. Un besoj se po t'a shifsha edhe nji herë Shpendin t'em,
 pa u drashtë dhe me krahë hapët, do t'a pritsha mordjen. Por ku asht
 se?! Ah un e shkreta! Sot në mëngjes i dërgova nji letër. Me sa më qe
-e mundun e pershkrova gjendjen e zemrës s'eme të mbushun me plot zjarm
+e mundun e përshkrova gjendjen e zemrës s'eme të mbushun me plot zjarm
 mallëngjimi e dashunije për të, por pena e shkretë, në rasa të tilla,
 asht e pafuqishme dhe e vorfën. Nuk mundet me i interpretue ndiesit e
 zemrës së shitueme për vdekje. Iu luta që të më dërgojë edhe nji
@@ -237,11 +237,11 @@ disa ndeshkime të lehta për fajtorët e këtij lloji. Kodi civil që u vu
 në zbatim, në mes të tjerave, ka edhe nji pikë me randësi kryesore për
 femnën: Nuk lejon martesë pa u marrë hiri e pëlqimi i të dy palëve.
 Bukuri, por deri ku do të jetë e mundun me u zbatue kjo pikë asht e
-dyshimtë, pse - si thashë edhe me naltë - nuk ka ndrrue mendësia, pse
+dyshimtë, pse - si thashë edhe ma naltë - nuk ka ndrrue mendësia, pse
 ligja nuk ka fuqin magjike apo mystike që të bajë vetë nji ndryshim të
 njiherëshëm e të mbrekullueshëm në shpirtin e popullit.
 
-E martesa që bahet sy mbyllazi asht e errët dhe n'errësin, pa dyshim,
+E martesa që bahet symbyllazi asht e errët dhe n'errësin, pa dyshim,
 kalon jeta e bashkëshortëve. Po të më pyesin, mbasi të vdes, se a
 dishëroj të ringjallem ndoshta do të them po, por me kusht që të jem e
 lirë me e zgjedhë vetë bashkëshortin. Përndryshe nuk do të bindem dhe
@@ -250,8 +250,8 @@ popullit Shqiptar, natyrisht, e përban femna, por ajo nuk gëzon asnji
 të drejtë. Të gjitha të drejtat i ka mashkulli, ai që në çdo kohë e në
 çdo vend ka pasë - ka edhe sot - privilegjin me e shtypë femnën. Por
 që të sigurohet lumnia e nji kombi lypset të pajiset femna me kulturë,
-duhët hjekë dorë nga mendësia e skllavënimit të saj dhe asht nevoja të
-shkundet pluhni i asajë së shkuemeje plot përbuzje e mjer ime për na
+duhet hjekë dorë nga mendësia e skllavënimit të saj dhe asht nevoja të
+shkundet pluhni i asajë së shkuemeje plot përbuzje e mjerime për na
 të gjorat. Ma sa mundet të bahet e mirë dhe e fortë nji godinë që
 ndërtohet me landë të kalbët, aq mund të bahet e lumtun nji shoqni që
 përbahet prej të mjerësh. Na sot jemi plotsisht si kafshët shtëpijake
@@ -272,7 +272,7 @@ vdesim e të shuhemi dalë-nga-dalë si ata që mbarojnë prej vemzës.
 ## 6 Prill
 
 Oh sa dëshiroj me i argëtue e me i puth fëmijt. Ata vijnë rreth e
-rrotull shtratit t'em dhe më shofin me.... dashuni e dhimshuni.
+rrotull shtratit t'em dhe më shofin me... dashuni e dhimshuni.
 Afrohen dhe kërkojnë, me veshtrime lutës, që t'i ledhatoj e t'i puth
 si parandej. Por unë, nga droja se mos u ngjis ndonjë mikrop, i largoj
 pa i prekë fare.
@@ -296,10 +296,10 @@ bëlbëzue dhe me një za gati të përvajshëm.
 
 — Nuk të puth se jam sëmunë - i thashë.
 
-— E ç'ka se je sëmunë? Edhe tata dikur që sëmunë, por më puthte - ia
+— E ç'ka se je sëmunë? Edhe tata dikur qe sëmunë, por më puthte - ia
 bani.
 
-— Po, por ....
+— Po, por...
 
 — S'më don ma. Je hidhnue me mue.
 
@@ -321,7 +321,7 @@ Edhe un shpërtheva në vaj dhe qava nji copë herë.
 
 ## 9 Prill
 
-Në nji kohë, kur isha vetëm, u çova nga dale dhe shkova në fund të
+Në nji kohë, kur isha vetëm, u çova ngadalë dhe shkova në fund të
 kthinës për t'u pamë në pasqyrë. Ka shumë kohë që s'e kam pamë
 vetëhen. Prandaj më kapi nji trill që më shtynte të shof se çfarë
 ndryshimi kam bamun në fëtyrë, pse gishtat e duervet më janë hollue aq
@@ -337,7 +337,7 @@ edhe prej nji rrethit të zi. Qepallat kishin nisë me u rralue e me u
 ngjitë në njena tjetrën. Vetullat e holla dukeshin si dy nepërka që
 rrijnë gati me i kafshue ata dy sy. Ngjyra e trandafiltë e fëtyrës
 ishte zavendësue me nji bardhëni neveritëse që duket vetëm ndër fëtyra
-të vdekunish. Mollzat e faqeve ishin skuqë pa shijshëm tue u
+të vdekunish. Mollzat e faqeve ishin skuqë pashijshëm tue u
 grumbullue gjaku ndër to. Flegrat e hundës ishin të hollue dhe hapë
 jasht masës. Buzët e kuqe ishin zbemë e gjelbëruem. Veshët ishin të
 hollue shum dhe gjajshin si fletë të verdha. Gusha ishte zhdukë dhe
@@ -347,12 +347,12 @@ parë. Aty dukej nji skelet që ende nuk asht zveshë krejt nga mishi.
 Duket se po afron koha që t'i them lamtumirë kësaj bote. Oh sa mirë do
 t'ishte që të vinte sa ma shpejt ajo orë, pse do të shpëtojsha nga
 vuejtjet, nga mundimet, nga brengjet dhe dëshpërimet e kësaj jete.
-Ç'më duhet të rroj dhë përse të rroj? Jeta, për mue, s'ka kuptim ma.
+Ç'më duhet të rroj dhe përse të rroj? Jeta, për mue, s'ka kuptim ma.
 Asht e randë dhe e padurueshme. Ajo duhet të shuhet sa ma parë.
 
 Oh sikur të vinte Shpendi e të më shifte se sa jam prishë e tretë, se
 sa jam denatyrue dhe sa fort më ka ndryshue sëmundja. Pa dyshim do të
-derdhte lot dësbpërimi. Por ai asht mbyllë mbrenda katër mureve për me
+derdhte lot dëshpërimi. Por ai asht mbyllë mbrenda katër mureve për me
 mos u pamë me mue, ndoshta për jetë. Oh ma mirë të kishte qenë larg,
 tej maleve e detnave, se sa i mbyllun në burg.
 
@@ -394,8 +394,10 @@ t'u lutet që të qetësohen. Sa ngushullim ndiu zemra e eme prej vizitës
 së tyne e sidomos prej dhimbjes që shfaqën tue derdhë lot. Më kishte
 marrë malli shum për ta. Jam mjaft e ngushullueme sot, mbasi munda me
 u shmallë me ta. Ndoshta mbas pak ditësh do t'i mbyll syt e nuk do t'i
-shof ma. Sa mirë bani im atë që më lejoj të shifem me ta dhe sa bekime
-ka marrë prej zemrës s'eme. Qysh nga kjo datë e deri në mbarim
+shof ma. Sa mirë bani im atë që më lejoi të shifem me ta dhe sa bekime
+ka marrë prej zemrës s'eme.
+
+— Qysh nga kjo datë e deri në mbarim
 shënimet janë bamë me plumbsh dhe shkrimi asht mjaft i keq.
 
 ## 15 Prill
@@ -418,7 +420,7 @@ zani i atyne që ndijnë dhimë në shpirt. Natyrisht ato u pezmatuen dhe
 u helmuen kur kuptuen se shoqja e tyne mbas pak kohë nuk do të jetë ma
 në mes të tyne. Ikën tue m'urue shëndet dhe tue më premtue se prap do
 të vijshin me më pamun. Kush e din. Ndoshta s'kanë me më gjetë ma.
-Ndoshta do të vijnë më vizitue ke Vorrezet e Bamit dhe, në shenjë
+Ndoshta do të vijnë me më vizitue ke Vorrezet e Bamit dhe, në shenjë
 dashunije e mallëngjimi, kanë me vu disa lule mbi vorrin t'em.
 
 ## 18 Prill
@@ -454,14 +456,14 @@ dashuni. Ajo duket se nuk ka me vdekë edhe mbasi të vdesin të gjitha
 gjymtyrët tjera dhe do ta vazhdojë me e dashunue at që e magjepsi me
 nji shiqim.
 
-Tue e kujtue gropën e errët të vorrit, tue e memdue shdukjen e
+Tue e kujtue gropën e errët të vorrit, tue e mendue shdukjen e
 përjetshme, e ndij se më vjen keq të vdes, e kuptoj se po më dhimset
 vetja. Por tue gjykue se rrojtja e eme pa Shpendin asht nji vdekje ma
 se mërzitse, ma shum e pëlqej vdekjen se sa rrojtjen. Në kohët e
 fundme shpesh e kam pamë n'andërr t'eme amë. Edhe dje mbrama e pashë.
 Ajo më muer n'grykë, më puthi, më shtrëngoi me dashuni të madhe dhe,
-tue më kapë për duer, më terhoqi drejt nji lulishtes së bukur që thosh
-se ishe saja. A thue se me të vërtetë do të bashkohem me të në
+tue më kapë për duer, më tërhoqi drejt nji lulishtes së bukur që thosh
+se ishte e saja. A thue se me të vërtetë do të bashkohem me të në
 lulishtet e Parrizit? Kush e din. Vetëm dij se këto andrra janë
 shenjat lajmuese t'afrimit t'orës së fundme. Edhe un jam gati të nisem
 ma.
@@ -481,16 +483,13 @@ kujtimin e fundit të dashunis s'eme të pafat. Si prej Hamitit ashtu
 edhe prej Shpendit do të kërkoj që t'a mprojnë femnën Shqiptare.
 Tirana e ka zakon me i nusënue vajzat që vdesin të pamartueme. I
 mertisin dhe i stolisin si të jenë nuse për të shkue ke burri.
-Mbasandaj i qojnë me pikëllimin ma të madh dhe i përcjellin për në
-vorr. Ky zakon më pëlqen. Prandaj i thashë sot hallë Halixhës që edhe
+Mbasandaj i çojnë me pikëllimin ma të madh dhe i përcjellin për në
+vorr. Ky zakon më pëlqen. Prandaj i thashë sot hallë Hatixhes që edhe
 mue të më përcjellin simbas atij zakoni, mbasi nuk u martova me hirin
-t'em dhe me at që dashunova. Ajo nuk m'u përgjijg. U zhgreh në vaj.
+t'em dhe me at që dashunova. Ajo nuk m'u përgjigj. U zhgreh në vaj.
 S'mund të shkruej ma, se nji tallaz gjaku po më shpërthen nga goja dhe
 dhimbje të forta po ndij në krahënuer. Duket se janë rrenimet e fundit
 që ban sëmundja. Po të la o libër për jetë ma. Lamtumirë se po ndahem
 prej teje e prej jetës s'eme.
 
 — Këtu mbarojnë shënimet e Dijes.
-
-[^1]: Parajsës
-[^2]: fatit

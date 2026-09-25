@@ -14,7 +14,7 @@ E zêmra her âsht n'gzim e her hutumun?
 P'e di mjaft mir, se jam dhe tuj provumun:
 Në zêmer t'ême ndry âsht dashunia,
 E n'mênde t'ême sillet fantazia,
-Tuj m'lân n'dyshim e ka nji her të gzumun.—
+Tuj m'lân n'dyshim e ka nji her të gzumun. —
 
 Un kaq të flakt s'e pata kurr kujtumun!
 E dishe t'vogël krejt sikur shkëndia,

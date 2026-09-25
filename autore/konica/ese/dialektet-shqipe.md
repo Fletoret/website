@@ -62,8 +62,8 @@ mendim; sepse, ndonëse fakti që ata sjellin nuk na duket fort
 bindës, dialekti gegë përmban me qindra trajta të humbura nga
 Toskët e që janë visare të vërteta të trashëguara nga të parët tanë
 të lashtësisë. Mjaft të sjellim në mend mbaresën _-mun_ të pjesores
-gegë, që daton së paku dymijë vjet, e që s'është gjë tjetër veçse -
-_m?noV_ i pjesores greke (khs. _shkrumun, gegramm?noV_).
+gegë, që daton së paku dymijë vjet, e që s'është gjë tjetër veçse
+_-μένος_ i pjesores greke (khs. _shkrumun_, _γεγραμμένος_).
 
 Ndoshta çështja mund të kishte një zgjidhje të lehtë e të shpejtë,
 po qe se toskërishtja do të ruhej si gjuhë e prozës, dhe gegërishtja e poezisë.
@@ -85,9 +85,7 @@ Shqiptarët e shkolluar dhe nga Albanologët - në të cilën të
 gjitha elementet dialektore, të grupuara, të pajtuara, të
 bashkërenditura, sipas një metode racionale e shkencore, do të
 lindnin një gjuhë të përbashkët për të gjithë Shqiptarët, sikurse
-Grekët që kanë _Koïnê glôssa_. [^1] [^2]
-
-<div class="divider text-center" data-content="✱"></div>
+Grekët që kanë _Koïnê glôssa_.[^1][^2]
 
 [^1]: Albania, Bruxelles, Vol. A, II/1898, nr. 10, ff. 173-174.
 [^2]: Përktheu nga frengjishtja: Willy Kamsi

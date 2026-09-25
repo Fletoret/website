@@ -84,7 +84,7 @@ M' tê edhe « huten » tereziti:
 Mu m' grrêç t' krés atij i a njiti:
 Tamth e m' tamth plumen i a qiti!
 Ngordhi sŷt Vasili e u purë
-M' njãnen anë e rá terthuer
+M' njânen anë e rá terthuer
 Dekun m' shkam. At herë prej millit
 Xier tagâ'n, edhè nji fillit
 Msŷn me pré atà krye t' Vasilit.
@@ -201,8 +201,8 @@ N' bukë e n' krypë e n' kupë të shllinës,
 Lête nderë aj me ç'do mik:
 Si gjithmonë, manà, n'ket jetë
 N' shpí të trimit, per trim njefë,
-N' dashtë n'kondosh n'dashtë n'xhokë, ké
-Sofren shtruet e pushken ngrefë.     [gjetë
+N' dashtë n'kondosh n'dashtë n'xhokë, ké gjetë
+Sofren shtruet e pushken ngrefë.
 Se kû gjên trimi bujár...
 Se kû gjên skylferi mish...
 I a nisë mbrapshtë, puna i del marë;
@@ -642,7 +642,7 @@ Sa me idhnim edhè merthye
 Janë me shkjé! Mâ atŷ kush jeten
 Máll s'po e bân; si maluketen
 Por t'kan msŷ atà njani m'tjetrin:
-Plaku m'ttrín, i riu m'të vjetrin,
+Plaku m't'rín, i riu m'të vjetrin,
 Si m'kê t'ndeshte kush mâ s'pari.
 Mnijet sŷt u janë ndezë zhari,
 Kallë llagam frŷ ding u âsht zêmra:
@@ -689,7 +689,7 @@ Neper kneta t' Kakarriqit:
 Por po jishin do djelm nanash,
 Fort me t' lânë, besa, pa krye,
 Po t' zate'n kund n'ndo'i log Zânash,
-Si zatefë t' paskan, qe, tý
+Si zatetë t' paskan, qe, tý
 Nder kto rrgalle të Nokshiqit!
 Ka vikatë, disì tue u tallë,
 Gjeto Staka, 'i trim budallë,
@@ -825,7 +825,7 @@ T' keq, si fjalë e lanë të Parët.
 Njat Gjetë Gegen e ktij varrët
 Po i a lidhte, mâ se 'i kokë
 Rrotullue ká, ofshe! per tokë,
-Idhtë ka' ashtû rrijshin tue u pé
+Idhtë ka' ashtû rrijshin tue u pré
 Shoq me shoq shqyptarë e shkjé.
 Atŷ, 'i herë, mbet Arif Bishi,
 Shyta Pema e Lano Grishi,
@@ -1062,7 +1062,7 @@ Atij Mirkos gerxhelí,
 Kapitanit me kondosh,
 N'zâ per pushkë ky e bujarí:
 Kû jé, Mirko, eh ti mos kjosh!
-Se čikush paska trathtue!
+Se dikush paska trathtue!
 Shkimja, Zot, hisen e diellit!
 Se, pa pritë e pa kujtue
 Prej Sutjesket ardhë nji fillit,

@@ -28,14 +28,14 @@ edhe fati i Shqipërisë, prandaj zunë të shkunden nga drunjësia e të
 njohin vetë vetiu që shpëtimi i atdheut qendronte në një kryengritje
 të përgjithëshme.
 
-Pema dita me ditën po arrijeshe edhe nuku pri­teshe përveç se t'i
+Pema dita me ditën po arrijeshe edhe nuku priteshe përveç se t'i
 jepnim zjar fitilit, po, mjerisht, neve nuku muntnim pa ardhur Bajua
 në Shqipëri, të cilin e prisnim pas një letre që na dërgojti.
 
 Nga këto frikëra Tyrqit kishin lënë më nj'anë e në qetësi të plotë
 komitat Bullgarë edhe andarët Grekë edhe gjithë fuqinë e përkujdesjen
 e kishin hedhur kundra Shqipëtarëvet. Dëshëronin pra edhe kërkonin që
-me çdo mënyrë të qendrojnë n ë lëvizje kryengritëse, të përgjithëshme
+me çdo mënyrë të qendrojnë në lëvizje kryengritëse, të përgjithëshme
 prandaj kishin vënë gjithë fuqinë për të farosur çetat tona,
 kombëtare, edhe ca më tepër çetën t'ënë, e cila kishte marë një famë
 të madhe, në gjithë anët e Shqipërisë!
@@ -60,7 +60,7 @@ mënyrë do të humbisnim gjyrmën t'ënë.
 Këtij pylli veç se ay q'e ka vizituarë munt t'i japë rëndësirën e
 duhur, prandaj shtrëngohemi që t'e përshkruajmë vetëm me pak fjalë.
 Një pyll kaqë i dëndur sa vetëm nonjë shpesh ose nonjë gjë e vogël
-munt t'e shkonte, se tjatërsoj edhe nonj qen po të shkonte ishte e pa
+munt t'e shkonte, se tjatërsoj edhe nonjë qen po të shkonte ishte e pa
 mundur që të mos ndjeheshe. Nuku ishte nonjë pyll nga ata pyje me lisa
 të trashë, po me dëllinja dyke patur midis tyre edhe nga nonjë lis të
 trashë.
@@ -142,23 +142,23 @@ të defryer e të harojmë gjithë hidhërimet.
 
 Ky mik i dashur nuku ishte tjatër përveç se një zog verdhash i vogël,
 i cili, mundet, dyke kupëtuar hidhërimet tona do të vinte të na
-këndonte mbi krye. Kaqë familiarë u bëmë me këtë zog sa nuku druheshc
+këndonte mbi krye. Kaqë familiarë u bëmë me këtë zog sa nuku druheshe
 as pak që të vijë të qendronjë për mbi neve. Me një fjalë ishte shoku
 ynë i pandarë. Shumë herë ndronim limeret, për siguri, kur zogu që me
 natë do të vinte të na gjente. Kur shtronim që të hanim bukë zogu do
 të ishte bashkë me neve.
 
-Unë e donja fort shumë se e pandenja për dërgimtar. i dërguar prej
+Unë e donja fort shumë se e pandenja për dërgimtar, i dërguar prej
 Zotit, që të na gëzonte zemrat tona të zhuritura, prandaj shokët
 qeshnin me mua edhe me të parë zogun më thoshnin: Mihal të ardhi zogu!
-Mjerisht, një ditë prit të na vinjë zogu. po nuku dukeshe, kështu që u
+Mjerisht, një ditë prit të na vinjë zogu, po nuku dukeshe, kështu që u
 pikëlluash kaqë shumë, për të shtrenjtin shok që na çelte zemrat, sa
 m'u preh edhe të ngrënit. Hidhërimi t'im nuku ka rëfim për zogun e
 shtrenjtë! Shokët më ngushëllonin dyke thënë që për një zog të
 brengosem kaqë tepër? Mundet që ngordhi ose e ka ngrënë nonjë shpesh i
 math, mirpo mua cili ma nxirte nga kryeja?
 
-Gjithë atë natë nuku më zuri as pak gjumi, me qênë që mëndjen e kisha
+Gjithë atë natë nuku më zuri as pak gjumi, me qënë që mëndjen e kisha
 tek zogu, se kisha një besim, në vëte t'ime, që humbja e zogut do të
 sillte nonjë rezik për neve. Të dyjtën ditë tek po rinja i brengosur
 shoh që të na vinjë zogu i shtrenjtë, po ishte dobësuar se kish
@@ -220,10 +220,10 @@ Atëhere zura të shkruanj dy artikuj, njërin për mbi luftën të
 Mashkullores, me hollësit' e duhura, edhe tjatrin për mbi dorëzimin të
 të parit prift kombëtar, të cilit i kisha dedikuar këtë strofë:
 
-> *Beko uratë, tinë beko me ndihm të Perëndisë* <br>
-> *Që të çkëlqejnë përsëri armët e Shqipërisë!* <br>
-> *Me atë gjuhë që di ti e kupton çdo Shqipëtar*<br>
-> *Që të dërmojmë zgjedhen të qenitë barbar!*   <br>
+> *Beko uratë, tinë beko me ndihm të Perëndisë*\
+> *Që të çkëlqejnë përsëri armët e Shqipërisë!*\
+> *Me atë gjuhë që di ti e kupton çdo Shqipëtar*\
+> *Që të dërmojmë zgjedhen të qenitë barbar!*
 
 Mjerisht artikujt e mija nuku ranë në dorë të luftëtarit patriot
 Shahin Kolonjës, Direktorit «Dritës».

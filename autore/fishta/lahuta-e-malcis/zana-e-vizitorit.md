@@ -269,7 +269,7 @@ Kshtû gerthitë ká e bardha Zânë,
 Kur ká pá se mbetë kisht' Tringa.
 Edhè e Mira, nalt prej kepit
 Kû kisht' zanë, e thik perpjetë
-Ndê ajo flatrat e pralueme:
+Ndê ajo flatrat e prarueme:
 Si atà pllumat kur prej s' epëri
 Pingul lshohen m' ndo'i lamë gruni:
 Zhgjetë n' teposhtë âsht lshue n'p'r ajrí
@@ -383,7 +383,7 @@ Bashkë me Donen e Berdonen,
 Beken, Çeken e Cerrleken,
 Shpejt me m'endë ju nji kmishë deke
 T'bardhë si drita, edhè nji veshë
-Si e bâjn varzat e Malcís.
+Si e bájn varzat e Malcís.
 E ju Care, Nare, Dare
 Nji rizë t'gjanë, të bardhë e t'hollë,
 Si ato rrezet, per t'm'endë kini
@@ -407,7 +407,7 @@ Edhè kthelltë at herë prej breshtet
 Nisen vrap dŷ ulkoja t'murrme,
 N'at rudinë t'cillat si mrrîjten
 E pá kan Zanen e Madhe,
-Trok m'trok m'tt'katrat tue i rá podit
+Trok m'trok m't'katrat tue i rá podit
 E andej-kndej bishtit tue i dhânun,
 Fíll ka' ajo kan marrë e shkue;
 E si kênë t'i'n dŷ kalina

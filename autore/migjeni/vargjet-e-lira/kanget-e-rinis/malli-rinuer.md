@@ -4,7 +4,7 @@ author: Migjeni
 respectLineBreaks: true
 parent: Kangët e rinis
 grandparent: Vargjet e lira
-order: 10
+order: 16
 ---
 
 Valët muzikore fluturojnë nga përndimi
@@ -23,7 +23,7 @@ edhe më merr malli përjetë ma gazmore.
 
 Malli rinuer përjetë ma shkumbuese
 flen pa fat në mue,
-një tingull pëmdimi
+një tingull përndimi
 asht ngushllim për mue
 kur më mshtjell mashtrimi
 me melankolinë e vet aq trishtuese.

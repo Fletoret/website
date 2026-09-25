@@ -41,7 +41,7 @@ I shtritur n'ato lule e n'atë bar,
 Shpejt ata vjet si në vegim kujtoj
 Kur e kalova jetën plot llahtar,
 E hollë e hollë, e lehtë, e dalngadalë
-Ngrihet vasha e me gaz me këthen fjalë.
+Ngrihet vasha e me gaz më këthen fjalë.
 
 Edhe tek fliste syri i shkrepëtin,
 E i shkreti gaz nga buza që rrëmben,
@@ -103,7 +103,7 @@ E ti, vashë, a mban mënd tani ku rri?
 Mban mënd natën e bukur që t'këndova?
 Fjalën të dhashë e lypa dashuri
 Edhe fqinjëzën tënde ta gëzova,
-Ti ishte gocë, un’ djalë; i gjallë ish ati
+Ti ishe gocë, un’ djalë; i gjallë ish ati
 E shumë i bukur na tregohej fati.
 
 Portokalle në kopsht unë të thashë,

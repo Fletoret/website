@@ -5,7 +5,7 @@ author: Gjergj Fishta
 respectLineBreaks: true
 parent: Visku i Babatasit
 grandparent: Gomari i Babatasit
-order: 1
+order: 5
 keywords:
 published: true
 ---
@@ -14,7 +14,7 @@ published: true
 
 <epigraph>
 
-Kaherë kafazi i Parlamentit, veshë me còhë të kuqe, ka dalë në Parlament e asht ndêjë qiri n'kambë ndërmjet ziles e anës s'Asamblesë. Shërbtorët e Parlamentit mbushin katrovat me ujë për Deputetët, ndërsa "tellalli" njëherë, e mbasandej xhendarët, me bajoneta ngrefë, urdhnojnë qi të mbyllet pazari. Tiranasit kush shkon në shtëpi, kush rri mbas "tarabave" të dugajës, tue u xé në zjarm e tue pritë qi duhija e së kremtes kombtare të kalojë. Rrugat e banimet janë stolisun me flamurë kombtar. Mbi portare t'oborrit të Parlamentit mvaret nji zhel i kuq, me ketë nënshkrim: "Rroftë Parlamentua". Ana e Asamblesë vjen e mbushet pilë e përmaje me zyrtarë, do terzi e "marangona" shkodranë, do tregtarë kontrabandaxhi korçarë, miq Deputetësh. Mbrendë shifën nja tri a katër zoja e zojusha, e disa oficera veshë civil. Dy tribunat, ato edhe janë mbushë, si dy kutija sardelesh. Në njanën anë ka xanë vend Këshilli i Naltë, bashkë me do zotni të tjerë të zgjedhun e me nja dy skrrâje cucash të motnueme të "Kryqit Kuq Amerikan" — të gjata e të thata si dy parë krezhme ortodoksësh. Në tjetrën asht Trupi Diplomatik' Ministri i Anglisë, nji levantin "dora vetë", çubardh e balosh në ftyrë; Ministri i Italisë, burrë i njeshun, çufrrok, por jo krejt antipatik e i pakrypë, si shumica e Diplomatëve të tjerë, ngulë sytë m'anë prej Pekingut; Ministri i Jugosllavisë, nji tesh me t'ngja dishka me me nji hû dullije, por synin kokërr. Në nji skaj t'anës e kermez në ftyrë, asht ndejë Mihajl Grameno, i cili, tash e ma vonë, ndihet kè thotë, si nëpër dhambë: rezilat, surrat-qerepat, maskarenjt. Ka hi edhe Vinjau qi s'duel i zgjedhun për Deputet në prefekturën e Gjirokastrës.
+Kaherë kafazi i Parlamentit, veshë me còhë të kuqe, ka dalë në Parlament e asht ndêjë qiri n'kambë ndërmjet ziles e anës s'Asamblesë. Shërbtorët e Parlamentit mbushin katrovat me ujë për Deputetët, ndërsa "tellalli" njëherë, e mbasandej xhendarët, me bajoneta ngrefë, urdhnojnë qi të mbyllet pazari. Tiranasit kush shkon në shtëpi, kush rri mbas "tarabave" të dugajës, tue u xé në zjarm e tue pritë qi duhija e së kremtes kombtare të kalojë. Rrugat e banimet janë stolisun me flamurë kombtar. Mbi portare t'oborrit të Parlamentit mvaret nji zhel i kuq, me ketë nënshkrim: "Rroftë Parlamentua". Ana e Asamblesë vjen e mbushet pilë e përmaje me zyrtarë, do terzi e "marangona" shkodranë, do tregtarë kontrabandaxhi korçarë, miq Deputetësh. Mbrendë shifën nja tri a katër zoja e zojusha, e disa oficera veshë civil. Dy tribunat, ato edhe janë mbushë, si dy kutija sardelesh. Në njanën anë ka xanë vend Këshilli i Naltë, bashkë me do zotni të tjerë të zgjedhun e me nja dy skrrâje cucash të motnueme të "Kryqit Kuq Amerikan" — të gjata e të thata si dy parë krezhme ortodoksësh. Në tjetrën asht Trupi Diplomatik: Ministri i Anglisë, nji levantin "dora vetë", çubardh e balosh në ftyrë; Ministri i Italisë, burrë i njeshun, çufrrok, por jo krejt antipatik e i pakrypë, si shumica e Diplomatëve të tjerë, ngulë sytë m'anë prej Pekingut; Ministri i Jugosllavisë, nji tesh me t'ngja dishka me me nji hû dullije, por synin kokërr. Në nji skaj t'anës e kermez në ftyrë, asht ndejë Mihajl Grameno, i cili, tash e ma vonë, ndihet kè thotë, si nëpër dhambë: rezilat, surrat-qerepat, maskarenjt. Ka hi edhe Vinjau qi s'duel i zgjedhun për Deputet në prefekturën e Gjirokastrës.
 
 Hin nji çetë Deputetësh. Ma vonë hinë edhe disa të tjerë. Ia mbrrin Kryetari i Parlamentit në "redingot", tanë hundë, tanë veshë e tanë gojë. Ia behin Deputetët e Shkodrës. Nji Deputet i Korçës, Tosku, xen vend në kolltuk të vet e hin me folë me nji Deputet të Tiranës, të cillit tue i mbarue fjalën, ndihet se i thotë për gaz: "Eh!...Baba!..." Kafazi i bjen ziles. Hinë prap do Deputetë të tjerë. Së mbrami ia bèhë Qeverija. Mbas Qeverijet hin edhe Babatasi, da mjekrren dysh si dy lvore pjepni dhe xèn vend diku atje ndër zyrtarë, krej hupë ndër mendime. Atëherë, mbas urdhnit të Kryetarit, shërbëtori mbyll derën e sekretari kndon emnat rresht e rresht mbas rendit alfabetik der në ma të mbramin: Z. Zija Toptanin.
 
@@ -32,7 +32,7 @@ Ktu, pse kombi na ka çue...
 
 **BABATASI**
 _(me vedi)_
-Besà, pra, me ç' m' duket mue,
+Besà, pra, me ç'm'duket mue,
 Ktu kurrkush ju s'ju ka çue,
 Veçse vetë, po, keni rrâ
 Zhaben t'uej mirë për me fâ.
@@ -58,8 +58,7 @@ Qi me mbajtë kombin n'hullí;
 Pse, sa për Statut, s'e di
 Ç'na duhet Statuti né?
 Qeverija për ketë dhé,
-Tham, asht mjaft.
-Statuti asht kot.
+Tham, asht mjaft. Statuti asht kot.
 
 **KRYETARI**
 E vertetë, por, sot për sot,
@@ -119,7 +118,7 @@ I tre muejvet, t'çohet në kamë.
 
 Të gjith Asamblistat, pa ndërlikim partish e intrigash, çohen m'kambë, posë P. Ambroz Marlaskàjt O.F.M. Kryetari vetë ngrihet si hû telegrafe para tryezës së kryesisë. Edhe Ministrat çohen, posë Kryeministrit, i cilli ban se asht tue këndue deklaratën që do t'ia bajë Asamblesë. Zyrtarët zanë e çyçyrisin njani me tjetrin.
 
-Mihajl Grameno nunuron me dikë që ka përbri, e tue folë me té për kushedi për çka, ndihet kè i thotë: Pizavengat! Halldupat! Surrat-qerepat!...Ministri i luftës, me kamë edhe ai, mban sytë n'ajri: Ndoshta aty për aty i bjen m'mend puna e xhendarëvet, të cilët me gjith se prej sish mvaret qetësia e vendit e përparimi i kombit prandej, kanë nandë muej rrogë pa marrë. Ministri i Financavet grisë buzën me dhamë, kah mendon se kashën e ka thatë e si padashtë i shkojnë sytë më Vinjaun, i cilli, përzie me popull, e shikjon si ai nën elter... Sherbtori i Parlamentit, qi edhe ai ka tri rroga pa nxjerrë, rrumbullon thonjt e gishtavet me dhambë. Kryetari, tue mos pasë nevojë me njehë votuesit, thotë:
+Mihajl Grameno nunuron me dikë që ka përbri, e tue folë me té për kushedi për çka, ndihet kè i thotë: Pizavengat! Halldupat! Surrat-qerepat!...Ministri i luftës, me kamë edhe ai, mban sytë n'ajri: Ndoshta aty për aty i bjen m'mend puna e xhendarëvet, të cilët me gjith se prej sish mvaret qetësia e vendit e përparimi i kombit prandej, kanë nandë muej rrogë pa marrë. Ministri i Financavet grisë buzën me dhamë, kah mendon se kashën e ka thatë e si padashtë i shkojnë sytë më Vinjaun, i cilli, përzie me popull, e shikjon si ai nën elter... Shërbtori i Parlamentit, qi edhe ai ka tri rroga pa nxjerrë, rrumbullon thonjt e gishtavet me dhambë. Kryetari, tue mos pasë nevojë me njehë votuesit, thotë:
 
 </epigraph>
 
@@ -206,7 +205,7 @@ Ktu mbretnon, ç'se Qeverija
 Çarmatisë popllin e ká
 E, as me vjedhë s'lèn, as me vrá.
 
-**HUNDLESHI**
+**HUNDËLESHI**
 _(Sjellë prej Kryetarit e tue trakllue me gisht m'tryezë)_
 Lypi fjalën.
 
@@ -218,7 +217,8 @@ Që ka çilë — në krye t'pesë vjet'e —
 Pesqind shkolla...
 
 **BOSKU**
-Mehmurjete, Thuej ma mirë — n'daç me ia gjá —
+Mehmurjete,
+Thuej ma mirë — n'daç me ia gjá —
 Sa për t'majtë miq e akraba:
 Apo vegla politike,
 Vegla fejé n'dorë t'njâjë "klike",
@@ -253,11 +253,11 @@ Po, a për njata tre aeroplana
 Të shkatrruem e nji "Markoni",
 Ndêjë batall n'Durrës, Ju thoni,
 Se jem' shtet oksidental?
-(tue kqyrë kahë "klikarët")
+_(tue kqyrë kahë "klikarët")_
 Me mehmurë endè orjental,
 Që zbutue nuk i ka shkolla
 E qi sytë mbajnë kah Stambolla;
-(Kryetari shkundë ma fort zilën)
+_(Kryetari shkundë ma fort zilën)_
 Që nuk dijnë se shka asht Atdheu
 E, për t'cillt vetë Skanderbeu
 Asht hajdut, mor lum zotnija,
@@ -265,7 +265,7 @@ S'qytetnohet, jo, Shqipnija.
 
 _(Zhurmë n'Asamblé)._
 
-**TERTABUCLECI**
+**TERRTABUCLECI**
 Protestoj "rrebtsisht", zotni Kryetar...
 Ktu s'po ka qetsi.
 Duket, po, se jem' n'Shqipni.
@@ -284,7 +284,7 @@ Ktu turq nuk ká...
 
 **BABATASI**
 _(me vedi e tue kqyrë kahë "klikarët")_
-Var, efendêm, var! [^1]
+Var, efendêm, var![^1]
 
 **KRYETARI**
 _(tue i ra ziles e tue luejt kryet Terrtabuclecit, thotë në zâ)_
@@ -297,7 +297,7 @@ T'ditës.
 Làk s'do bâ kuvendit,
 Por do folë e drejta rrumbull.
 A din ku na bahna grumbull
--Na qi quh'mi "intelektual",
+— Na qi quh'mi "intelektual",
 Edhe mah'mi "okcidentalë"? —
 Në shfrytzim t'Financës s'Shtetit.
 Ktu, po, t'damë na s'jém n'mjet t'vetit,
@@ -342,8 +342,8 @@ Me gjith kta me shoqi-shojnë
 Nuk kan t'keqe ndër punë feje
 — Për posë shka â i ksajë Asambleje —
 Ata s'kan ndo'i kundërshtim
-Edhe kan, po, shum nderim Ndërmjet vedit.
-Qé, po e xâmë,
+Edhe kan, po, shum nderim
+Ndërmjet vedit. Qé, po e xâmë,
 — Ktu po e flasim, ktu po e lâmë,
 Pse s'po flas, jo, për me shá,
 Por ma fort un hàll me kjá —
@@ -387,7 +387,7 @@ Duem Shqipni t'pamvarshme e t'lirë!
 
 _(Duertrokitje...)_
 
-**DEPUTETET QEVERITARË**
+**DEPUTETËT QEVERITARË**
 Kryeministri rroftë!
 
 **BOSKU**
@@ -420,9 +420,9 @@ Mirë a keq t'cillt vendin t'onë
 Në dhé t'huej sod përfaqsojnë
 Qeverinë, edhe lajmojnë
 Për shka bluen bota për né:
-Mirë, po, 'i t' kshtênë ndër tá s'e ké.
+Mirë, po, 'i t'kshtênë ndër tá s'e ké.
 
-_Ktu Terrtabucleci lypë ujë. Vjen shërbtori me gotë e me kungull ujit në dorë e i jep me pi. Pìn edhe Kryekortolla me atë gotë, mandej Veshllapota, mbas tij Kryetuli, Kalangêrrçi e nja dhetë Deputetën të tjerë._
+_Ktu Terrtabucleci lypë ujë. Vjen shërbtori me gotë e me kungull ujit në dorë e i jep me pi. Pìn edhe Kryekortolla me atë gotë, mandej Veshllapota, mbas tij Kryetuli, Kalangerrçi e nja dhetë Deputetën të tjerë._
 
 Prap n'tri mi, a mâ pak, ushtarë
 Kèm', po, ràsh tetë komandarë
@@ -453,10 +453,10 @@ Nieri, a "klikë", a se "Parti" —
 Po don zot me u bâ n'Shqipni,
 Për me lânë Shqipninë Turki.
 
-_Ktu, Terrabucleci çohet e del prej anës s'Asamblesë_
+_Ktu, Terrtabucleci çohet e del prej anës s'Asamblesë_
 
 Kjo asht arsyeja, zotëni,
-Per të cillen shka asht kristjan
+Për të cillen shka asht kristjan
 Lêhêt ujë me rrah n'havan
 Ndër Financa e Punë Botore
 Edhe lêhên krejt mbas dore
@@ -509,7 +509,7 @@ Né kem' bashkë gjak e gjini,
 Né krushqí — né kumarí,
 Né miqsí — né _ortakí_,
 Lagjet m'vedi — e fshatet m'vedi,
-T' dám me _oxhaqé_ — e me _sokaqé_,
+T'dám me _oxhaqé_ — e me _sokaqé_,
 E me petk — e me djalekt,
 Me gojdhana — edhe me tbâna,
 Thue se 'imênd s'jém t'gjith shqiptarë.
@@ -543,7 +543,7 @@ _Zhurmë e poterë e përplasje kambësh prej anës së Deputetënve "klikarë".
 **BABATASI**
 _(me vedi)_
 
-Ky po folka _pravo_, _zdravo_... [^2]
+Ky po folka _pravo_, _zdravo_...[^2]
 
 _Kryeministri i ban me sy Kryetarit, që t'a kpusë bisedën._
 
@@ -563,7 +563,7 @@ _(tue qeshë)_
 
 <epigraph>
 
-Deputetënt dalin prej anës s'Asamblesë, shumica e madhe e tyne tue u zgërdhi njani me tjetrin. Kush ndezë cingarën: Kush shkon me pi ujë n'odë të katrovavet; kush rrethon aty njanin a tjetrin Ministër, për me i porositë për ndo'i zyre vllanë, akrabanë, mikun, bashkbesimtarin e vet, analfabeta, semi-analfabeta, delinkventa atëherë dalë prej burgut — sido kjoshin. — Nji palë flasin vesh m'vesh me kondrabandaxhi, ortakë të vet; tjerët futen në zyre të Kryetarit, ku, bashkë me té intrigojnë për punë të moratoriumit të Korçës, për punë të "misrit" të beglervet të Tosknisë, për konop e jullarë beglerësh, për portogala nipash e stërnipash, për hekura e materjal tjetër lufte t'ushtrivet të hueja, për plane qytetesh e kryeqytetesh, për nandëmijë napoljona t'udhës së Durrësit etj. etj. etj. Ka asish, mandej, që, hû m'kamë para njanës a tjetrës tribunë, xânë kuvend me njanin a tjetrin Ministrash dragomanash të huej. Mbrenda odës së katrovavet e m'prak të dritarës së saj, thye xhamash, që ep m'odë të shkallës, nji sheqerxhi Tirane, ortak me nji deputet shkodran, ka qitë me shitë hallvë, sheqera të kuq me "gjela" m'krânde, limontoz, xhixhi-birrë, mastikë, voe të zijme etj., si me thanë se ka çilë nji "bufet" për parlamentarë. Nji malsuer i Mbishkodrës i kshtênë, qi, tue u ndodhë në Tiranë, kishte pasë shkue me ndie bisedimet e Asamblesë, pvetë nji muhamedan malok prej Skraparit: A turqe kanë folë apo arumçe? — Jo, kanë folë rumunçe, ia kthen 'iskraparasi. Odat e komisjonevet vlojnë me deputetën, si verës kjori me miza. Dikush, vesh m'vesh me ndo'i mik të vetin, flet turçe, kush grekisht, e të gjith nji shqipe mushke, të bastardhueme, me terme e trajta djalektale të ndryshme. Tash a ma vonë, aty — ktu ndër ta ndihen fjalët "demokrat", "aristokrat", "diktator", "feudal", "vagabond", "vagabondazh", "analfabet", "pasha Shqipninë", "për flamur", "i poshtërm", "të poshtërm", e këso fjalësh të tjera bihude. Dikur del Kryetari prej zyrës së vet. Kafazi i bjé ziles e Deputetënt, kokrra — kokrra e pritueshëm — si me kenë tue shkue me ruejtë ndonji të dekun — hinë n'anë t'Asamblesë. Si bahet numri legal, mbyllet dera e kuvendi zen fill.
+Deputetënt dalin prej anës s'Asamblesë, shumica e madhe e tyne tue u zgërdhi njani me tjetrin. Kush ndezë cingarën: Kush shkon me pi ujë n'odë të katrovavet; kush rrethon aty njanin a tjetrin Ministër, për me i porositë për ndo'i zyre vllanë, akrabanë, mikun, bashkbesimtarin e vet, analfabeta, semi-analfabeta, delinkventa atëherë dalë prej burgut — sido kjoshin. — Nji palë flasin vesh m'vesh me kondrabandaxhi, ortakë të vet; tjerët futen në zyre të Kryetarit, ku, bashkë me té intrigojnë për punë të moratoriumit të Korçës, për punë të "misrit" të beglervet të Tosknisë, për konop e jullarë beglerësh, për portogala nipash e stërnipash, për hekura e materjal tjetër lufte t'ushtrivet të hueja, për plane qytetesh e kryeqytetesh, për nandëmijë napoljona t'udhës së Durrësit etj. etj. etj. Ka asish, mandej, që, hû m'kamë para njanës a tjetrës tribunë, xânë kuvend me njanin a tjetrin Ministrash dragomanash të huej. Mbrenda odës së katrovavet e m'prak të dritarës së saj, thye xhamash, që ep m'odë të shkallës, nji sheqerxhi Tirane, ortak me nji deputet shkodran, ka qitë me shitë hallvë, sheqera të kuq me "gjela" m'krânde, limontoz, xhixhi-birrë, mastikë, voe të zijme etj., si me thanë se ka çilë nji "bufet" për parlamentarë. Nji malsuer i Mbishkodrës i kshtênë, qi, tue u ndodhë në Tiranë, kishte pasë shkue me ndie bisedimet e Asamblesë, pvetë nji muhamedan malok prej Skraparit: A turqe kanë folë apo arumçe? — Jo, kanë folë rumunçe, ia kthen 'iskraparasi. Odat e komisjonevet vlojnë me deputetën, si verës kjori me miza. Dikush, vesh m'vesh me ndo'i mik të vetin, flet turçe, kush grekisht, e të gjith nji shqipe mushke, të bastardhueme, me terme e trajta djalektale të ndryshme. Tash a ma vonë, aty-ktu ndër ta ndihen fjalët "demokrat", "aristokrat", "diktator", "feudal", "vagabond", "vagabondazh", "analfabet", "pasha Shqipninë", "për flamur", "i poshtërm", "të poshtërm", e këso fjalësh të tjera bihude. Dikur del Kryetari prej zyrës së vet. Kafazi i bjé ziles e Deputetënt, kokrra-kokrra e pritueshëm — si me kenë tue shkue me ruejtë ndonji të dekun — hinë n'anë t'Asamblesë. Si bahet numri legal, mbyllet dera e kuvendi zen fill.
 
 </epigraph>
 
@@ -574,7 +574,7 @@ Fjalës sho-shojt ndêsh mos me i rá.
 
 **KRYEMINISTRI**
 Ndiç, zotni, si kjeshë tuj thanë,
-— Se për gjysë fjalën paçë lanë, -
+— Se për gjysë fjalën paçë lanë, —
 Qeverija ka ndër mênd,
 Me punue shumë për ketë vênd —
 Për ketë shtet....
@@ -642,7 +642,7 @@ E shka t'mangtë tuj e plotsue.
 
 **TARAVOLI**
 Mirë, po pse, thue, t'mifim n'ujë
-Tue qortue na i'ligjë të huej
+Tue qortue na 'i ligjë të huej
 As ma mirë t'qortojmë ligjët t'ona?
 Të qortojmë, po, sado vona,
 Kanún t'onë? Pse edhe, zotni,
@@ -725,12 +725,13 @@ Me mifun n'ujë....
 T'tana knetat e bregut t'detit;
 Edhe mbrenda këtij vjetit
 Nji udhë hekrit fill me zanë
-Ç' merr prej Durrsit der n'Tiranë.
+Ç'merr prej Durrsit der n'Tiranë.
 Prap ndër mênd ka Qeverija
 Me pré pare....
 
 **NJI DEPUTET QEVERITAR**
-Lum zotnija, Sa për pare kish me t'lutë,
+Lum zotnija,
+Sa për pare kish me t'lutë,
 Tash për tash fort mos me u ngutë.
 
 **NJI DEPUTET TJETËR QEVERITAR**
@@ -771,8 +772,7 @@ Me të tana shtetet tjera.
 Prap shpresojmë se, tue dalë vera,
 Kém' me marrë do pare uhá.
 
-_Deputetënt qeveritarë rrahin shplakët si të tërbuem, ndërsa t'opozitës
-përplasin kambët. Terrtabucleci, Kryekortolla, Kalangerrçi përgzohen me Kryeministrin, i cilli — mbasi vetë as i marrë as bihude s'asht — ua ep dorën disi përdhûni._
+_Deputetënt qeveritarë rrahin shplakët si të tërbuem, ndërsa t'opozitës përplasin kambët. Terrtabucleci, Kryekortolla, Kalangerrçi përgzohen me Kryeministrin, i cilli — mbasi vetë as i marrë as bihude s'asht — ua ep dorën disi përdhûni._
 
 **KRYETARI**
 Ka fjalën Hundëleshi.
@@ -787,7 +787,7 @@ Tue na thanë jo ç'ka punue,
 Por shka n'mënd ká me veprue
 Për Shqipni, kushdi se kurë,
 Herë me 'i rrugë e herë me 'i urë,
-Tash me lumèj 'e tash me kneta,
+Tash me lumèj e tash me kneta,
 Tash me sa tjera fjalë t'shkreta,
 Me t'u bâ se asht fàll tue qitun,
 E jo mâ se do me shndritun
@@ -839,7 +839,8 @@ Si po shef, budgeti â i larmë.
 Nuk asht e vërtetë.
 
 **HUNDËLESHI**
-Zotni, Asht e vërtetë. E, un e di,
+Zotni,
+Asht e vërtetë. E, un e di,
 Se me paré e gjak shqiptarit
 Janë tue u mbajtë do qéj pazarit —
 Do bihúde e derbedérë.
@@ -854,7 +855,8 @@ _(me vedi)_
 Kshtu i dó mushka drutë...
 
 **HUNDËLESHI**
-Mandej, Jem' tue pá si andej e ktej
+Mandej,
+Jem' tue pá si andej e ktej
 Jem' rrethue na me "afije"
 Njerz të zot të çdo tradhtije.
 E po: a Abdul Hamid ktu ká
@@ -874,7 +876,7 @@ Në nji shtet, ku, si n'Turki
 E si ktu, po, në Shqipni,
 Parlamenti as Qeverija
 S'duen me dijt se shka asht "Vllaznija",
-Shka "Lirija" — e "Barazija" ,
+Shka "Lirija" — e "Barazija",
 Tjetër s'asht veç nji pelhurë
 Marimanget endë tërthuer
 Për me xânë me té ndo'i mizë...
@@ -919,7 +921,7 @@ Kamxhik qafës nuk dij se kúj.
 Kâm me ardhë, jo, po mos drúej
 _(Polici shkon)_
 A shef ti! Paska paditë
-Kambë - kujrrili i faqes ngritë....
+Kambë-kujrrili i faqes ngritë....
 Gjâ njimênd për t'u çuditë
 Puna e atij zogut gomarit
 Që páçë blé prej katundarit

@@ -12,7 +12,7 @@ Do t'dshrojn n'pak koh me t'pamun
 Syt e mi.
 
 Ti do t'gjindesh larg prej mejet
-...
+. . . . . . .
 Por gjithmon me mênt ngiat tejet
 Kam me kên.
 
@@ -34,4 +34,4 @@ Kam për t'shku.
 Ty un kurr e kurr kujtimit
 S'do t'largoj;
 Deri n't'fundshmen koh t'jetimit
-Do t'kujtoj.
+Do t'kujtoj —

@@ -64,19 +64,19 @@ gjektë.
 Po për fat të keq zunë e dhelpëritë — të cilat kanë prishur kurdoherë
 Shqipërinë — edhe bintnë nxënësit që të falen prandaj Bajoja shkojti
 në Gjinokastrë për të filluar degë edhe për të mbledhur shokë e Qani
-beu Starja me Riza benë mbetnë në Kolonjë gjer të kthenéshe Bajua.
+beu Starja me Riza benë mbetnë në Kolonjë gjer të ktheneshe Bajua.
 
 Kur këto ngjisnin në Shqipëri dyke marë një bujo të madhe emri i
-Hoxhës, i pa lodhuri atdhetar, Grigor Cilka. ngrihet prej Korçe edhe
+Hoxhës, i pa lodhuri atdhetar, Grigor Cilka, ngrihet prej Korçe edhe
 hidhet në Sofje, të Bullgarisë, e në Bukuresht për të organizuar
 Shqipëtarët e atjeshmë, pas programit të komitetit. Të gjithë e pritnë
 me gëzim të math lëvizjen kombëtare, pastaj si u filluan me degë zunë
 të mledhin ndihma për komitetin.
 
 Në Bukuresht kryesinë të veprimit e kishin marë Pandeli Vangjel
-Shalesi, Vasil I. Zografi, Rafail Shule, Andre Alilozi, Mihal Grimeno,
+Shalesi, Vasil I. Zografi, Rafail Shule, Andre Alilozi, Mihal Grameno,
 Pandeli Durmishi edhe të tjerë, të cilëvet na shpëtojnë emrat. Edhe në
-Misir isbin formuar degë nënë kryesi të Thanas Tashkos, Jani Vruhos e
+Misir ishin formuar degë nënë kryesi të Thanas Tashkos, Jani Vruhos e
 Milo Duçit.
 
 Në këtë kohë tri djem të rinj, Lambi Bimbli, Kole Rikashi edhe Miçe
@@ -113,7 +113,7 @@ mbi Bradvicë më 9 të Shtatorit 1906.
 Si u vra Dhespoti, Foti, një ndjekje e reptë zuri qeveria kundra
 komitave Shqipëtarë si edhe kundra kombëtarvet. Zunë edhe burgjimet me
 dyzina midis të cilvet Jovan Kosturin bashkë me fëmijën, Salih Butkën,
-Grigor Cilkën, Ohran be Pojanin, Ibrahim qesarakën, sot Baba i Teqesë,
+Grigor Cilkën, Ohran be Pojanin, Ibrahim Qesarakën, sot Baba i Teqesë,
 Lazo Progrin e shumë të tjerë.
 
 Fejzi be Alizoti, Qeveritar i Korçës, përpiqet me çdo mënyrë që të
@@ -136,7 +136,7 @@ holla se kishin mbetur pa nonjë para në xhep, sa për shokët i siguruan
 në malet ku u dërgonin të ngrënë edhe të nevojshmet.
 
 Një brëma vendosi edhe Abdyl Mersini, i cili ishte më i zoti edhe më i
-mësuari në ato vende, të shkonjë në Kardhiq, fshat'i ti', e kësisoj
+mësuari në ato vende, të shkonjë në Kardhiq, fshat' i tij, e kësisoj
 mbetnë Apostoli, Zemani, Hasan Nikolica, Malo Çami edhe Rapo
 Mashkullori pa patur nonjë kryetar kur, një natë Rapo Mashkullori u
 vjeth armët Apostolit edhe Zemanit e shkon fshehtazi! Kur u xgjuan
@@ -154,7 +154,7 @@ lirë e të vejë në shtëpi të Bajos.
 Kur mësuan ngjarjen Bajua me Çerçizin u brengosnë tepër edhe kaqë u
 dëshpëruan sa, pa shkuar nër mënt rezikun, duall të armatosur ditën,
 për mes qytetit, që të kërkojnë shokët e çakërdisur. Si kërkuan më
-gjithë anëtë, pa gjetur as nonjë shenjë, u ktkyen natën në shtëpi të
+gjithë anëtë, pa gjetur as nonjë shenjë, u kthyen natën në shtëpi të
 tyre dyke mallkuar fatin. Pa dyshim që çdo e ndenjurë, në Gjinokastrë,
 ishte një rëzik i math për ata, se u xbuluan andaj vendosnë të shkojnë
 që të tre në Sofje të Bullgarisë për të dimëruar.
@@ -195,7 +195,7 @@ kombëtarët.
 Po më përpara se të arrimë në Brindis hoqmë mjaft udhës se në Zejmun,
 kufi i Maxharisë me Serbinë, na ndalojti komiseri, një bark zhabë edhe
 i lik, edhe na kthen në Beligrad. Në Beligrad policia e stacionit na
-dërgon me xharderma në Prefekturë dyke ngrënë, unë, udhës ca kondakë
+dërgon me xhardërma në Prefekturë dyke ngrënë, unë, udhës ca kondakë
 mbi kuris, kur desha të pinja ujë rugës. Atje na pyesin edhe u thomi
 që jemi nisur për në Amerikë, po nuku deshnim të na besonin, e kështu
 urdhruan që të na burgosin edhe të lajmërojnë Ambasadën e Tyrqisë që
@@ -233,7 +233,7 @@ kthejnë me xhandërma në kufi te Bullgarisë. Për këtë ngjarje prisha
 unë shumë të holla, se shokët nuku kishin po u gëzuam kur arrimë në
 Sofje edhe shpëtuam pa u dorëzuar në Tyrqi.
 
-Në Sofje u bashkuam edhe me Bajon, të kthenr nga Viena, teligrafisht,
+Në Sofje u bashkuam edhe me Bajon, të ktheur nga Viena, teligrafisht,
 pastaj ndejmë edhe ca kohë në Sofje gjer u pregatitmë se rish për të
 ikur. Le të mos harojmë shërbimet edhe përpjekjet të atdhetarëvet
 Shahin Kolonja, Kristo Luarasi, Dhimitër Mole edhe Adem Shkaba, të

@@ -5,7 +5,7 @@ author: Fan Noli
 respectLineBreaks: true
 parent: Albumi
 grandparent:
-order: 6
+order: 7
 keywords:
 published: true
 ---
@@ -13,7 +13,7 @@ published: true
 Fryn e çfryn veriu,
 Ngrin, mërdhin i ziu
 Dhe mangallit i afrohet
-që të ngrohet.
+Që të ngrohet.
 
 Krishtin brënda e gjykojnë
 Dhe pas ligjës e dënojnë,
@@ -31,7 +31,7 @@ Kur e pa, u koll këndezi
 Nga qymezi.
 
 Dhe një shërbëtore i tha:
--- "Je dhe ti një nga atal"
+— "Je dhe ti një nga ata!"
 Po Shën Pjetri proteston,
 E mohon.
 
@@ -41,45 +41,45 @@ Se ç'këndon bandill këndezi
 Nga qymezi:
 
 
-"S'ka e s'ka si hercizma,
+"S'ka e s'ka si heroizma,
 Edhe si idealizma,
 Po kur dimër del behari
 S'ka si zjarri."
 
--- "Nga ata je!" - thot" ajo,
-E mohon Shën Pjetri:- "Jo!
+— "Nga ata je!" — thot' ajo,
+E mohon Shën Pjetri: — "Jo!
 As e njoh, as e kam parë,
-moj e marrë!"
+Moj e marrë!"
 
 Kuspull mi mangall mblidhet
-Po djek mjekrën dhë përdridhet;
-Se ç' këndon bandill këndezi
+Po djek mjekrën dhe përdridhet;
+Se ç'këndon bandill këndezi
 Nga qymezi:
 
-"Shkab" e shkëmb me poz e fjalë,
+"Shkab' e shkëmb me poz e fjalë,
 Se ç'na dolle shkrumb e galë,
 Në je trim këtu tregoje,
 Shko shpëtoje."
 
-Thot' ajo: - "Je, mos gënje!"
+Thot' ajo: — "Je, mos gënje!"
 Pjetri e mohon me be:
 "Jo, për Zotin, moj aman,
 S'jam e s'jam."
 
 Kuspull mi mangall mblidhet
 Po djek gjuhën dhe përdridhet;
-Se ç' këndon bandill këndezi
-Nga qynezi:
+Se ç'këndon bandill këndezi
+Nga qymezi:
 
--- "Simon Pjetër, Bar Jona,
+— "Simon Pjetër, Bar Jona,
 Kështu ndahet kjo dynja:
 Kryqi andej, këtej buxhaku
 Dhe allçaku".
 
 Seç e dogje, seç e fike,
-Gjel me gjëm" e këng" armike,
+Gjel me gjëm' e këng' armike,
 Dhe ndërgjegjen se ç'ia çpove,
-Seç ia zqove.
+Seç ia zgjove.
 
 Se ç'vajton Shën Pjetri hidhur,
 Leshlëshuar, duarlidhur,

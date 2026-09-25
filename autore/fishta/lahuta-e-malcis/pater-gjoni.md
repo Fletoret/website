@@ -6,7 +6,7 @@ parent: Lahuta e Malcis
 grandparent: null
 order: 19
 ---
-### Kangë e nandmdhetët
+### Kangë e ndandmdhetët
 
 *Kangë e ndandmdhetët*
 
@@ -79,7 +79,7 @@ Me sa gaca ndezun zhari!
 S'do t'mujë me i perdî pra, as Shkjau,
 T'ketë ky bryna, si ká kau.
 Po ti as ndîen moj Shto-Zot-Vallet!
-Si gjimojn prrojet e zaillet,
+Si gjimojn prrojet e zallet,
 Kah Shqyptarët jânë t'u perlá
 Fyt-a fyt n'Sutjeskë me Shkjá?
 Flutro 'i herë, moj sŷ-qershí,
@@ -92,8 +92,8 @@ Jo, po sod, besa, moj Zanë,
 N'at Sutjeskë kishe me thânë,
 Se shum gjak prap ká me u bâ:
 Pushka e topi enè s'ká prâ.
-Shmangë jânë, po, Shqyptarët rrâzë bje-
-Malazezt janë rrasë Sutjeskës,     [shkës
+Shmangë jânë, po, Shqyptarët rrâzë bjeshkës
+Malazezt janë rrasë Sutjeskës,
 Kû po djegin stane e shpija:
 Por, me kaq s'merret Shqypnija.
 S'merr Shqypnín kush cak më cak,
@@ -368,7 +368,7 @@ Sod per sod; pse lufta s'pret:
 M'armë kushtrimi po na thrret:
 Vllazent t'onë i kem' n'siklet!
 
-    Atŷ trimat m'giûj janë ulë,
+  Atŷ trimat m'giûj janë ulë,
 Kan zhdredhë shall, kan hjekun ksulë
 Edhè rá Zotit n'pendim,
 Pre' atij t'Lumit n'at blerim

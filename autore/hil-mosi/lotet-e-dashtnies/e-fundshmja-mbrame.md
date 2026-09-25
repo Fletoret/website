@@ -14,8 +14,8 @@ order: 46
 > Zephyr meldet ihren Lauf,
 > Und die Birken streun mit Neigen
 > Ihr den süssten Weihrauch auf.
-> 
-> Goethe
+>
+> — Goethe
 
 Qerrja ikte si vetima,
 Ndepër grykat tuj gjarpnu;
@@ -30,4 +30,4 @@ S'di ish kâng, a ish vajtim.
 Ah, se sa un po dishroshe
 Shum ksi mbrâmesh t'shkoj me ty,
 E t'giat tejet moj buk'roshe
-Shpirtin t'em për m'e defry!
+Shpirtin t'em për m'e defry! —

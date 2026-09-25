@@ -5,80 +5,80 @@ author: Ndre Mjeda
 respectLineBreaks: true
 parent: Prei giûhësh të hueja
 grandparent: Juvenilja
-order: 28
+order: 27
 ---
 
-Nëpër terr qi lëshote nata,
+Neper terr qi lëshote nata,
 Ngarkue teshat kaliboç,
-Për nji pyllë ku s'ra kurr spata,
+Per nji pŷllë kû s'rá kurr spata,
 Ndiqte rrugen nji djaloç.
 
-Landët e pyllës si 'j ujk ju dukshin,
-Qi prei ujet n'mal ulron,
-Cuba t'rrebtë, qi n'prit' u strukshin,
+Landët e pýllës si'j ujk ju dukshin,
+Qi prej ûjet n'mal luron;
+Cuba t'rrebtë, qi n'prît' u strukshin,
 Gjethët e lisave kujton.
 
-O Shqypni! Gjimote i shkreti
-Male, mbushë me gjuetarë plot,
-Kësoll' e bardhë, ku por si mbreti
-Shkon barija dit' e mot.
+O Shqypní! gjimote i shkreti,
+Male, mbushë me gjuetarë plot;
+Kësoll' e bardhë, kû porsi mbreti
+Shkon barija dit e mot.
 
-O ju lugje të Prevezës!
-Këtu mue zemra po m'vajton,
-Te ju hana me dritë t'rrezes
-Shtigj't udhtarit ja kallxon.
+O ju lugje te Prevezes!
+Këtû mue zêmra po m'vajton;
+Te ju hâna me dritë t'rrezes
+Shtigjt udhtarit ja kalxon.
 
-Fis i dashtun, ku n'dritë dola
-Afer detit t'papshtjellim;
-Shpi e bardhë ku s'parit fola
-N'prehen t'nanës tui gjetë pshtim.
+Fis i dashtun, kû n'dritë dola
+Afer détit t'pápshtjellim;
+Shpí e bardhë kû s'parit fola
+N'prêhen t'nanës tui gjetë pushim.
 
-Njashtu thot' e me trimni
-U nis udhës shtegtari prap:
-Fishklloj landa tu' u perzi
+Njeshtû thote e me trimní
+U nis udhës shtegtari prap;
+Fishklloj landa tu' u perzí
 E prei frigës ngau djali vrap.
 
-Por nji cub mbas gardhit hasi;
-Ndalu, i thotë, nuk ke ka mban
-Nji kobure n'bri ja rrasi
+Por m'nji cub mbas gardhit hasi;
+Ndalu, i thotë, nuk ké kah mba!
+Nji kubure n'brí ja rrasi.
 E mbi tokë permbyz e la.
 
-Ah! Nanë shkreta! – I shuemi briti,
-E permbyz u lëshue mbi ‘j curr;
-Për tre muej e shkreta m'priti,
-E tekëndej nuk m'shef ma kurr.
+Ah! nanë shkreta! i shuemi bríti,
+E permbyz u lëshue mbî'j curr;
+Per tre muej e shkreta m'priti,
+E tekëndej nuk m'shef mâ kurr.
 
-Po jot' amë", si për qesti,
-Ja ban gjaksi me idhnim plot; –
-"Ti m'difto ku rri me shpi,
-Fjala jote nuk hupë dot".
+Po jot' âmë, si per qestí,
+Ja bân gjaksi me idhnim plot;
+Ti m'diftò kû rri me shpí,
+Fjala e jote nuk hupë dot.
 
-N'skaj t'Shqypnis shkon vorfnisht jeten,
-E pa djelm e mjera mbet;
-Dy ma t'mëdhajt ndër luftna i mbetën,
-E këtu i treti qé po jèt.
+N'skâj t'Shqypnís shkon vorfnisht jeten,
+E pá djelm e mjera mbet;
+Dy mâ t'mdhajt nder luftna mbeten,
+E këtû i treti qe po jet.
 
-Pat nji tjeter … Fija e zanit
+Pat nji tjetrë… fija e zânit
 Ju kput djalit e gjimoj;
-U dridh gjaksi, e aj farë luanit
-Pushken n' tokë me ‘j herë e lëshoj.
+U dridh gjaksi, e aj farë luânit
+Pushken n'tokë me'j herë e lëshoj.
 
-"Pat njitjeter, qi ajo e dote
-Permbi dritë të syve t'vet;
-Kurr prei prehnit nuk e lëshonte:
-Shokë ndër cuba vojt e gjet".
+Pat nji tjetrë, qi ajò e dote
+Permbî dritë të sŷve t'vet;
+Kurr prei prêhnit nuk e lëshote:
+Shokë nder cuba vojt e gjet.
 
-"Vlla" – i përgjegji zëmervshtiri, –
-Njitu t'vrava e këtu po des;
-Nuk kam sy me m'pa ma njeri,
-Ngryk' me ty njitu po jes".
+Vllá, i pergjegji zêmervshtiri,
+Njitû t'vrava e këtû po des;
+Nuk kam sŷ me m'pá mâ nieri,
+Ngryk' me tý njitû po jes.
 
-"Jo, ti shëndosh e fill te shpija,
-Te nanë zeza fluturo;
-Pa asnji fëmij, e mbytë vetmija,
-E mbëlon skami: Mos e lësho!
+Jo, ti shndosh! e fíll te shpija,
+Te nanë zeza fluturò:
+Pá asnji fëmij', e mbytë vetmija,
+E mbëlon skami: mos e lësho:
 
-"Shka t'i tham mandej nanës ngratë
-N'kjoftë se pvetë për ty ndo'j send?" –
-Thuej se mora nji rrugë t'giatë
-Se bashkë n'Qiell dikur xam vend.
+Shka t'i tham mandej nanës ngratë
+N'kjoftë se pvetë per tý ndo 'j sênd?
+Thuej se mora nji rrugë t'giatë,
+Se bashkë n'qiell dikúr xâm vênd.

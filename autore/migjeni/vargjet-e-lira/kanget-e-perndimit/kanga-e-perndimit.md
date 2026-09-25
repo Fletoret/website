@@ -4,13 +4,13 @@ author: Migjeni
 respectLineBreaks: true
 parent: Kangët e Përndimit
 grandparent: Vargjet e lira
-order: 1
+order: 36
 ---
 
-Kangë Përndimi, kangë njeri të dehun nga besimi në vete…
+Kangë Përndimi, kangë njeriu të dehun nga besimi në vete…
 Kanga e tij një fé tjetër, me tempuj të tjerë, me meshë solemne,
 ku prej mëngjezit deri në mbramje shkrihen ndjesitë, trutë njerzore
-n’apotheozën e hekurt; shpirtent pershkohen në tymore,
+n’apotheozën e hekurt; shpirtënt përshkohen në tymore,
 
 të cilat në fishkllim i përqeshen zotit të vjetër edhe qiellit
 e me ré të ndyt’ tymi të dendun ndriçimin ja vrasin diellit.

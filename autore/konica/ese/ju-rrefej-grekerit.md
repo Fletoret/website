@@ -40,7 +40,7 @@ sfondit historik të konfliktit që po vjen rrotull.
 ### (I)
 
 Siç dihet nga të gjithë, në periudhën e lashtë shqiptarët
-quheshin ilire. Rajoni i diskutueshëm në lashtësi njihej si
+quheshin ilirë. Rajoni i diskutueshëm në lashtësi njihej si
 Iliria e jugut dhe më vonë është quajtur Shqipëria e Jugut,
 ndërsa grekët kanë vendosur ta quajnë Epir, një emër që do
 të thotë "kontinent" dhe në zanafillë përdorej për këtë rajon
@@ -59,7 +59,7 @@ libër të famshëm që e njohin mirë studiuesit, "Fjalor i antikiteteve klasik
 të Lybkerit, tek artikulli për Kërkyrën (Korfuzin) vihet në
 dukje se ai ishull "në zanafillë banohej nga ilirët". Kurse
 ata që do të marrin mundimin të lexojnë veprën e studiuesit
-të njohur suedez, Martin P. Nilson, botuar nëLundmë 1909 me
+të njohur suedez, Martin P. Nilson, botuar në Lund më 1909 me
 titullin "Studime mbi historinë e Epirit të Lashtë", do të
 shërohen nga prirje për të menduar se Epiri ka qenë ndonjëherë
 grek. Ky rajon e ka ruajtur natyrën e vet ilire të pandryshuar.
@@ -128,10 +128,10 @@ dhe Grevena. Ato janë regjistruar përkatësisht Dhelvinon dhe
 Grebene. Turqit e hershëm kanë qenë të përpiktë me hollësi të
 madhe për shënimin e emrave të vendeve, duke parapëlqyer
 gjithmonë trajtat e mirëfillta popullore. Për shembull, pas
-rrethimit të parë të Vjenës, turqit nisën ta shkruanin Ëian
+rrethimit të parë të Vjenës, turqit nisën ta shkruanin Wian
 me një A të gjatë, që është trajta e vërtetë popullore dhe sa
 kohë zgjati Perandoria Osmane, ata iu përmbajtën kësaj trajte,
-duke flakur trajtën artificiale Ëien. Në traktatin e Ajzenburgut
+duke flakur trajtën artificiale Wien. Në traktatin e Ajzenburgut
 të nënshkruar më 1664 ndërmjet Turqisë dhe Perandorisë Romake
 të Shenjtë e të hartuar turqisht e latinisht, kur numërohen
 titujt e perandorit Habsburg, teksti latin e quan atë mbret
@@ -192,7 +192,7 @@ që t'ia bënin të njohur të gjithë botës çdo gjë që ata e
 quanin si një nga krimet më të mëdha të organizuara të të
 gjithë kohërave. Për fat të keq, plasi Lufta Botërore dhe
 e tërhoqi vëmendjen e të gjithëve. Por më 1920, me titullin
-"Njëzet vjet ngatërresa ballkanike". Mis Durham botoi një libër,
+"Njëzet vjet ngatërresa ballkanike", Mis Durham botoi një libër,
 ku një kapitull i plotë u kushtohet njoftimeve për këto masakra.
 Kushdo që dëshiron ta kuptojë konfliktin e sotëm nuk mund të
 bëjë pa e parë këtë libër.
@@ -216,7 +216,7 @@ për shkëmbimin e popullsisë e zbuloi mashtrimin në pak raste
 dhe e ndaloi, por shumë herë të tjera atij ia hodhën me mjeshtëri.
 
 
-Potë shqyrtohen dëshmitë e vjetra për gjendjen e kombësisë në
+Po të shqyrtohen dëshmitë e vjetra për gjendjen e kombësisë në
 viset e ndryshme të rajonit të diskutuar, habitesh me
 ndryshimet që janë bërë nëpërmjet dredhive dhe mashtrimeve
 të organizuara. Në fillim të shekullit të nëntëmbëdhjetë,
@@ -282,5 +282,5 @@ a mund të bjerë poshtë automatikisht kjo e vërtetë vetëm e
 vetëm sepse e thonë edhe italianët? Fakti është i qartë, se
 Italia ka këtu një përligje të mirë e të fortë, sepse rastis
 që kërkesat e saj përputhen me një akt të vonuar drejtësie
-kundër Shqipërisë.Pondodh që një herë perënditë hakmarrëse
+kundër Shqipërisë. Po ndodh që një herë perënditë hakmarrëse
 janë në anën e legjioneve të Çezarit.

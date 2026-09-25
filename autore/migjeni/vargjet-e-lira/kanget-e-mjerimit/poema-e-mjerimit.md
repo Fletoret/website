@@ -4,7 +4,7 @@ author: Migjeni
 respectLineBreaks: true
 parent: Kangët e mjerimit
 grandparent: Vargjet e lira
-order: 1
+order: 19
 ---
 
 Kafshatë që s'kapërdihet asht, or vlla, mjerimi,
@@ -84,7 +84,7 @@ dhe për at shërbim ka për të marrë do franga
 ndër çarçafë, ndër fëtyra dhe në ndërgjegje danga.
 
 Mjerimi gjithashtu len dhe n'trashigim
--jo veç nëpër banka dhe në gja të patundshme,
+– jo veç nëpër banka dhe në gja të patundshme,
 por eshtnat e shtrembta e n'gjoks ndoj dhimbë,
 mund që t'len kujtim ditën e dikurshme
 kur pullaz' i shpis u shemb edhe ra
@@ -92,7 +92,7 @@ nga kalbsin' e kohës, nga pesha e qiellit,
 kur mbi gjithçka u ndi një i tmerrshmi za
 plot mallkim dhe lutje si nga fund i ferrit,
 ish zan' i njeriut që vdiste nën tra.
-Kështu nën kambët'randë t'zotit t'egërsuem -
+Kështu nën kambët' randë t'zotit t'egërsuem -
 thotë prifti - vdes ai që çon jetë të dhunuem.
 Dhe me këto kujtime, ksi lloj fatkeqësinash
 mbushet got' e helmit në trashigim brezninash.
@@ -102,24 +102,24 @@ Në pijetore të qelbta, pranë tryezës plot zdrale
 të neveritshme, shpirti me etje derdh gotën
 n'fyt për me harrue nandhetenand' halle.
 E gota e turbull, gota satanike
-tu' e ledhatue e pickon si gjarpni-
+tu' e ledhatue e pickon si gjarpni –
 dhe kur bie njeriu, si gruni nga drapni,
 nën tryezë qan-qeshet në formë tragjikomike.
-Tê gjitha hallet skami n'gotë i mbyt
+Të gjitha hallet skami n'gotë i mbyt
 kur njiqind i derdh një nga një në fyt.
 Mjerimi ndez dëshirat si hyjet errsina
 dhe bajnë tym si hejt q'i ban shkrum shkreptima.
 
 Mjerimi s'ka gëzim, por ka vetëm dhimba,
-dhimba paduruese qe t'bajnë t'çmendesh,
-që t'ap in litarin të shkojsh fill' e t'varesh
+dhimba paduruese që t'bajnë t'çmendesh,
+që t'apin litarin të shkojsh fill' e t'varesh
 ose bahe fli e mjerë e paragrafesh.
 
 Mjerimi s'don mshirë. Por don vetëm të drejt!
 Mshirë? Bijë bastardhe e etënve dinakë,
 t'cilt n'mnyrë pompoze posi farisejt
 i bijnë lodërtinës me ndjejt dhelparak
-tu' ia lëshue lypsiti një grosh të holl' n'shplakë.
+tu' ia lëshue lypsit një grosh të holl' n'shplakë.
 
 Mjerimi asht një njollë e pashlyeme
 n'ballë të njerzimit që kalon nëpër shekuj.

@@ -11,7 +11,7 @@ Më të u përndarë Bedri Pejen që të nesërmet e burgosnë kur
 pregatiteshe për të u hedhur në Rumani, Bektashi me Bakinë shkuan për
 në Vlorë me anën të Korfuzit, ku do të qendronin 2-3 dit për të u
 bashkuar e biseduar me Ismail Qemalin, Gurakuqin e të tjerë Shqipëtarë
-që n lodheshin atje. Hil Mosi shkojti për në Shkodrë edhe unë për në
+që ndodheshin atje. Hil Mosi shkojti për në Shkodrë edhe unë për në
 Korçë.
 
 Gjithë udhës po menjtonesha për barrën e rëndë që kisha marë, aqë më
@@ -34,7 +34,7 @@ vendosim programin. Mblidhemi edhe formojmë një komitet, i përbërë
 prej meje, Tefik Panaritit, të ndyervet patriotë Vangjel Gjika e Ferit
 Frashëri, Goni Katundi, Jaup Dishnica, Lambi Bimbli, të ndyetët e të
 pandarët Kristaq Aristidhi, Gaqi Thanas Viso e Qamil Panariti, Doktor
-Hakiu, Lazo Progri, Skendo Pojani, Stavre Karoli, i ndveri Aleks Koçi,
+Hakiu, Lazo Progri, Skendo Pojani, Stavre Karoli, i ndyeri Aleks Koçi,
 Nepsi Kerenxhiu, Shaban Plasa djaloshi Gavril Pëppo, Stefan Kondillari
 etj.
 
@@ -69,7 +69,7 @@ burg të Janinës kështu edhe Kolë Rodhen me Vasil Tromarën i burgosnë
 në Gjinokastrë. Nonjë shenjë nuku dukeshe q' as gjëkundi. Neshat be
 Vrioni me të ndyerin Ferit Lumanin vinë nga Berati që të mësonin ç'
 bëheshe në Korçë. U thamë që jemi gati po ata ç' presin, kur se as
-nonj vënt nuku ka si pengimet e Korçës me qarket e sajë ?
+nonj vënt nuku ka si pengimet e Korçës me qarket e sajë?
 
 Duheshe nisja, të cilën as një nuku guxonte, prandaj u mblothmë në një
 qark të ngushtë edhe u vendos që Korça të japë shenjën e parë.
@@ -77,7 +77,7 @@ Flamurin pra të kryengritjes e rëmbyen Doktor Haki Mborja Vangjel
 Gjika, Dervish Ibrahimi edhe Nepci Kërënxhiu dyke marë malet përpjetë,
 më 16 Qershor kur Sulltan Reshati ardhi në Manastir.
 
-Këjo nisje bëri një bujo të madhe në të gjithë anët e Shqipsrisë edhe
+Këjo nisje bëri një bujo të madhe në të gjithë anët e Shqipërisë edhe
 ca më tepër kur duallë, pas një javë, Qamil Panariti, Lambi Bimbli,
 Sabri Lamariti, Kostaq Kosturi, Odhisea N. Kotta, Tushi Krastafilaqi,
 Kristaq M. Furxhiu, Nuçi V. Lapi, Fetah Qinami e të tjerë. Armët më të
@@ -87,9 +87,9 @@ Kristaqi një, Sabriu dy, Jaupi një, Skendoja një, Goni dy e kësisoj
 zumë mblithnim për të tjerët. Të holla për të i veshur te pakën me
 guna edhe opinga, hë për hë, shtimë si cilido pas fuqisë.
 
-Po të holla dusheshin pas këtaj më shumë edhe zumë të mbledhim nga
+Po të holla duheshin pas këtaj më shumë edhe zumë të mbledhim nga
 atdhëtarët që nuku trazoheshin në lëvizjen kryengritëse. Sjell nër
-mënt këto emra : Spiridon Ilo 15 lira, Selim Mborja 10, Stavre Karoli
+mënt këto emra: Spiridon Ilo 15 lira, Selim Mborja 10, Stavre Karoli
 15 lira, Fuat be Frashëri 10 lira edh' u zotua të na dërgonte 5-6
 Tugra, Nikollaq Zoji 15, Aleks Koçi 15, Mahmut be Pojani 10, Jorgaq
 Raci 10, Thodhoraq V. Mano 10, Kostaq Fundo 10, Lytfi be Zavalani 10,
@@ -99,7 +99,7 @@ nër mënt.
 
 Qani be Dishnica zuri të mblethë edh' ajy midis të njohurvet si në
 Korçë kështu edhe në Starovë. Të tjerë gjetkë për të përmbajtur
-Komitetin. i cili kish harxhe të mëdha se për dita po shtoheshin
+Komitetin, i cili kish harxhe të mëdha se për dita po shtoheshin
 komitat, kështu që duheshin veshur e armatosur.
 
 Gegëria gjithë me malësin' e Shkodrës ishin në kryengritje të plotë, e
@@ -136,11 +136,10 @@ të lidhur e suall në burg bashkë me Reufin, vëlla me dëshmorin Ali
 Çaushin.
 
 Kësisoj u mblothmë në burg 26 shpirt si suall e
-
 Themistokli Gërmenjin lidhur, nga Janina e Dervish Hajderin, sot Baba
 në Teqe të Turanit Korçës. Ishim pra këta, me sa sjell nër mënt, të
 burgosur: Unë, Tefik Panariti, Ferit be Frashëri, Idomenë Kosturi,
-Mehmet Bidincka me Hasan e Haxhiuë, Stavre Faroli, Jaup be Dishnica,
+Mehmet Bidincka me Hasan e Haxhinë, Stavre Karoli, Jaup be Dishnica,
 Kristaq Kosturi, Skendo be Pojani, Baba Hajderi, Themistokli Gërmenji,
 Istref Verleni, Kristaq Aristidhi, Reuf Verleni, Bido Tepelena, Gaqi
 Thanas Viso, Dervish Ibrahimi, Rexhep Vinçani edhe Alim Tragjasi, nga
@@ -282,7 +281,7 @@ Toskëri, e shtrënguan qeverinë Tyrke të menjtonet që të përdorë tjatër
 mënyrë, për pushimin të kryengritjeve. Si e pa që me gjithë ushtërinë
 të madhe, që dërgojti, si e me masat barbare që u vepëruan, kundra
 Shqipëtarëvet, nuku munte të sjellë nonjë dobi vendosi të dërgonjë
-Komisione paqësore edhe këshillonjëse, prej Shqipëtarësh, që të bindiu
+Komisione paqësore edhe këshillonjëse, prej Shqipëtarësh, që të bindin
 Shqipëtarët që të mos vazhdojnë me armë në dorë të lëftojnë kundra
 qeverisë.
 
@@ -312,7 +311,6 @@ ndodhi të burgosur!
 
 Jemi të lumtur, thotë Fejzi beu, që fituam amnistinë e për Toskërinë,
 e cila ishte dhënë vetëm për
-
 Gegërinë, se tjatër soj do të jepeshin vetë edhe të na mbeteshe një
 turp i math gjithëvet.
 

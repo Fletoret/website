@@ -4,7 +4,7 @@ author: Migjeni
 respectLineBreaks: true
 parent: Kangët e mjerimit
 grandparent: Vargjet e lira
-order: 14
+order: 32
 ---
 
 Nga mshira e pamshirve
@@ -15,7 +15,7 @@ nëpër skajë t'errta,
 nëpër pragje të ngurta,
 ndër besime të rrejta.
 Por një ditë, kur mshira e diellit shteri,
-ne gjoks ndjeu si e theri
+në gjoks ndjeu si e theri
 një dhimbë e re - që mnia
 e përfton ndër flia
 të skamit.
@@ -32,5 +32,5 @@ Por i hutuem, mbet nejun
 në kryqzimin e udhve.
 Rrotat e autve
 shpejt mbi te kaluen
-dhe e…  qetesuen
+dhe e… qetësuen
 

@@ -18,7 +18,7 @@ Kaq sa me mênt e mia faret treta!
 
 Me t'shpejt atje te ti me shkoj kujt'mi
 Me zemren an e kan t'pershkume m'zhgjeta,
-E dola jasht, se s'mlête t'qet helmimi!—
+E dola jasht, se s'mlête t'qet helmimi! —
 
 Kto mênt e mia t'bâme shqimit t'leta,
 Nuk m'lâne t'qet, e shpesh me xû turbllimi,

@@ -4,7 +4,7 @@ author: Migjeni
 respectLineBreaks: true
 parent: Kangët e mjerimit
 grandparent: Vargjet e lira
-order: 2
+order: 20
 ---
 
 Mbramë
@@ -13,7 +13,7 @@ një ngjarje të trishtueme panë:
 Hije… jo! - por një grue
 me ftyrë të zbetë edhe me sy
 të zez si jeta e saj,
-me buzën të vyshkuna në vaj,
+me buzë të vyshkuna në vaj,
 me plagë në gjoks e stolisun
 me veshje dhe me shpirt të grisun,
 me hije grueje,
@@ -34,7 +34,7 @@ atëherë e dashunojshin shum zotni.
 E sot?)
 Jeta e saj asht kjo vall' e çmendun
 në rrugat e qytetit tonë,
-një jetën e fikun, një jetë e shterun,
+një jetë e fikun, një jetë e shterun,
 shpin i molisun, zemër e therun,
 një za vorri, një jehonë
 që vallzon natën vonë

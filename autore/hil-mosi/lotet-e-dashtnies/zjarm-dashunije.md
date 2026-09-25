@@ -44,4 +44,4 @@ E kshtu si nji i lânun t'vdes e t'shkoj!
 Edhe në vdeksha e t'më ken vorrumun,
 Mêndimin t'êm un kurr nnk kam m'e ndrru,
 Me eshtna t'mi n'vorr t'êm kam për t'a shkrumun,
-Se un e deshta, s'm'desht, e prap e du!—
+Se un e deshta, s'm'desht, e prap e du! —

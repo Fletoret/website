@@ -13,7 +13,7 @@ u përplas për granitet e ndërtesave kolosale, u vërvit mbi
 majet e qypave që pa ia da tym villin, uluroi në luginat e
 maleve të nalta dhe u derdh ndër fusha t'ulta, e jehona e
 këtij lajmi dërrmoi themelet e ekzistences njerzore. Ndër
-tru të njerzisë u përftue njv vibracion dejesh, një vibracion
+tru të njerzisë u përftue një vibracion dejesh, një vibracion
 aq i fortë, sa njerzia qe në rrezik të çmendet. Por njerzia
 e sundoi veten. Mbasi ultimatumi ishte tepër brutal e
 shartet tepër të rënda, u lëshue kushtrimi. Kushtrimi kishte
@@ -27,8 +27,8 @@ Tashti entuziazmi u ftof, u ftof dhe u ba akull. Armët u suellën
 përtokë, kundra thneglave, të cilat në këtë rast ishin të pafajshme.
 Tek atëherë prisit e taboret, u kujtuen... U suellën përballë
 taboreve e në ball të secilit ushtar lexuen një fjali tragjike
-ne ball, rrudhash të shëmtueme. Njerzia kundër njerzisë, domethanë
-lufta në vetvete, me një fjale tjetër: revolucion! Kështu filloi
+në ball, rrudhash të shëmtueme. Njerzia kundër njerzisë, domethanë
+lufta në vetvete, me një fjalë tjetër: revolucion! Kështu filloi
 epopeja njerzore. Sikur Hamleti n'orë të fundit, qashtu
 njerzia pushoi të lozi rolin mashtrues dhe u vu në veprim,
 për të pasë përfundime ma konkrete. Vërtet, në veprim u përzien,
@@ -53,7 +53,7 @@ të çmendun apo të fillojë lojën e Don Kishotit, lojën plot aventura.
 (por aventura të domosdoshme!). Plasi ultimatumi në ndërgjegjen
 e njerzisë, mbrenda, dhe si eho-ja e tij në tru asht përftue
 vibracioni i dyshimit, q'i prin një aktit serioz. Tash sa e sa shekuj
-ka punue njerzia, pa ditë, për kompletimin e këtij utlimatumi, i cili
+ka punue njerzia, pa ditë, për kompletimin e këtij ultimatumi, i cili
 plasi n'orën e ma të madhes krizë njerzore, n'orën e krizës morale
 e jo landore, se ky si një polip gjithmonë ka thithë trut e njerzisë.
 

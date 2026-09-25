@@ -13,7 +13,7 @@ Tue zbardhun mosha e dhetepêsët e jona
 Atje prej shtojesh t'Anadollit t'plleshem
 Hânza pergjakshim nisë mbi Europë t'kukzohet
 Ishte zot-madhi i Turqvet, qi në krye
-Të mâ s'rrebtës ushtrí së jetës s'atëhershme
+Të mâ s'rrebtes ushtrí së jetës s'atëhershme
 Ujnat e njelmta dilte t'Helespontit,
 Edhe betohej n'mní të vet mizore,
 Se shpirti trupit s'do t'i dahej para
@@ -32,14 +32,14 @@ Eshti edhè kânga e nji mjerí e shemtueme,
 I rá mbarë dheut.
 Kúr, qe, mbi kep të Kruejes
 Titanike po del nji hije burri,
-Vetllat ngerthye, si dý hulli rrufeje,
+Vetllat ngerthye, si dý hullí rrufeje,
 Me do sŷ zjami e 'i mjekerr t'thîjtë, e cilla
-Shllungë giatë nofllash i derdhej, si ajo njegulla
-Rreth njai curri t'thepisun. M'krye trishtueshim
+Shllungë gjatë nofllash i derdhej, si ajo njegulla
+Rreth njaj curri t'thepisun. M'krye trishtueshim
 Flakë i shkelqán tarogza brynatake,
 Qi, tmershim ka'i vezllon nen rreze t'diellit,
 Kometë zharitse dán nder sŷ t'anmikut.
-Aj âsht fatosi i ndiemun Gjergi Kastrjota,
+Aj âsht fatosi i ndiemun Gjergj Kastrjota,
 I Madhi Gjergj Kastrjota Skanderbegu,
 Qi, pre'atij kepi, si nji shqype mali
 Kundron kahë forca e barbarsís lindore
@@ -47,18 +47,18 @@ Shkon tue rrëmye mbretní e fise e popuj,
 E gjithshka t'mbarë perftue kisht'mêndja e nierit:
 Si rribë Verit, qi rêt i fshîn prej qiellit
 E e lên token me u thá. Edhè tue pamun
-Se anmiku i rrebtë i gjytetnís nierzore
+Se anmiku i rrebtë i gjytetnís njerzore
 Po nisë per s'afermi Shqypnís t'kercnohej
 E se prej nierit s'kisht'pse ndimë me pritun,
-Çon sŷt kah qiella, e zêmra gjak tu’ i shkue,
-«O Zot ! - gerthet, — o Zot i Madhi i Ushtrivet!
+Çon sŷt kah qiella, e zêmra gjak tu'i shkue,
+«O Zot! — gerthet, — o Zot i Madhi i Ushtrivet!
 E po a njimend se mâ s'do t'két Shqypnija
 Nji vend kû me t'u lutë?... e se grát t'ona
 Djepat n'Azí mbas sodit do t'perkundin?...
 E se Shqyptari token do të punoje
 Veç per me kndellun n'mish gocat qerkeze;
 Qi nji Tirani t'i sherbejn mâ kandshim?
-Oh! pse i a mrrim ksajë ditë, e s'ká shperthye
+Oh! pse i a mrrîm ksajë ditë, e s'ká shperthye
 Toka q'me kohë, me na perpî per s'gjalli!
 Ti, o Zot i Madh i Ushtrivet, ti prej qiellet
 Zêmer e forcë m'dergo, qi ktij Tartari
@@ -67,27 +67,27 @@ S'merret pá gjak, e se per Fé e Atdhé
 Din t'desë Shqyptari». Permbi flatra
 Të bardha t'Fés kjo lutë u çue kahë qiella
 E i shkoi n'vesh Perendís e e preku n'zêmer.
-I Amshuemi, atëhera, prej visarit t’ qiellvet
+I Amshuemi, atëhera, prej visarit t'qiellvet
 Zjerrë nji pelhurë të njŷme «kuq e zî»,
 Qi Êngjujt vetë n'Parríz êndun e kishin:
 E mbasi e puthë i Lumi e vên në báll,
-Nji Kerubini t'lét i urdhnon tu’ i thânun,
-« Na, e ket Flamur Skanderbegut çoja
+Nji Kerubini t'lét i urdhnon tu'i thânun,
+«Na, e ket Flamur Skanderbegut çoja
 Atje poshtë n'Krue, e thuej'prej ane s'ême,
 Se dér sa t'rrije tok fisi i Shqyptarit
 Nen hije t'ktij emblemi t'êm t'bekuem,
-Zot m'vedi e i lír gjithmonë aj ká me kênun ».
-Kshtû tha i Amshuemi ; e ai Kerubini i qiellvet
+Zot m'vedi e i lír gjithmonë aj ká me kênun».
+Kshtû tha i Amshuemi; e aj Kerubini i qiellvet
 Palosun m'parsme Flamrin e Shqypnís,
 Hapë flatrat e prarueme, e poshtë Empirit
 Zhgjetë nper nji rreze drite dirgjet n'Krue.
-Kû Skanderbegut n'dorë dhantîn e Zotit --
+Kû Skanderbegut n'dorë dhantîn e Zotit —
 Flamurin e Shqypnís — i a nep e kshillin
 E t'Lumit i a difton: se si Shqyptari
 Zot m'vedi e i lír gjithmonë do t'mund qindroje.
 
 Si aj nieri, qi trishtue njaj andrre s'keqe,
-Kúr giûmi i del, me vedi zên e gzohet,
+Kúr gjûmi i del, me vedi zên e gzohet,
 Se n'hije e jo i njimendtë i u tfaq rreziku:
 Kshtû Skanderbegu nise me u gzue me vedi,
 Si Lajmi i qiellvet n'dorë i a dha Flamurin
@@ -98,12 +98,12 @@ Njeshë pallen n'ijet — pallen t'rrebtë, mizore,
 E m'patershanë, me pafta arenzit t'mathne,
 Njet Flamrin kuq e zí, qi vetë i Amshuemi
 E kishte puthë, edhè mbi shpinë të kalit,
-Qi, frŷ turîjt, njuhatte erë të giakut,
+Qi, frŷ turîjt, njuhatte erë të gjakut,
 Hidhet porsi duhí e rrebtë. Prej millit
 E zjerrë pallen mizore, e drejtë kahë qiella
-Heshten e ngrefë. Nji fllad i lét, i amel --
+Heshten e ngrefë. Nji fllad i lét, i amel —
 Flladi i Dashtnís — po e zhdrivillon Flamùrin.
-— Flamùrin e Atdheut t'êm - qi tue gufue
+— Flamùrin e Atdheut t'êm — qi tue gufue
 Madhnueshim neper ajr të lír t'Shqypnís,
 Nisë me u valvitë si fleta e Kerubinit,
 Si njaj skundilli i petkut t'Perendís,
@@ -114,15 +114,15 @@ Kahë, pshtetë m'stuhí e m'flatra t'rribës s'Murranit
 Sheston boshtin e moknes s'rrukullís.
 E ashtû n'at dukë të rrebtë e t'perfrigueshme
 Me 'i zâ, si tue ulrue, prej kepit t'Kruejes
-Po u thrret Shqyptarvet t'vet e u thote «Ktû burra,
-Ktû eni, o t'bijt e Malevet ! Shqypnija
+Po u thrret Shqyptarvet t'vet e u thotë «Ktû burra!
+Ktû eni, o t'bijt e Malevet! Shqypnija
 Gjindet n'rrezik!» N'at bulurimë ushtuene
 Malet e fushat e Shqypnís kreshnike,
 Edhe nji çetë e vogel homeridash,
-— Burrash si motit veç qi i bâte nâna --
-Per rreth tij mblidhen, e nen hije t’ Flàmurit
-Nji bé të madhe e bâjn e lidhin besën,
-Se 'i pllâmë toket t'Atoheut s'i a lshon Tartarit,
+— Burrash si motit veç qi i bâte nâna —
+Per rreth tij mblidhen, e nen hije t'Flàmurit
+Nji bé të madhe e bâjn e lidhin besen,
+Se 'i pllâmë toket t'Atdheut s'i a lshojn Tartarit,
 Po s'e lán para me gjak t'tij t'perdhosun.
 
 T'forcuem me at bé, t'forcuem me shêjtní tagresh
@@ -146,7 +146,7 @@ Me kurma t'zeshkët barbarësh â mblue. Hidhet,
 Hingllon, trûmhaset kali i Skanderbegut
 Kahë thundra e mbathne kthelltë i hûmbë në dhé
 Të rîjtun m'gjak t'barbarit. M'dhâmbë brén buzen,
-Atëherë zot — madhi i Turqvet e pendohet
+Atëherë zot-madhi i Turqvet e pendohet
 Qi i rá kurr n'mend t'mësŷjë Shqypnín mizore.
 E shef, po, vetë gjakbâsi, se rob s'bâhet
-Aj dhé, kû Flamri kuq e zi valvitet.
+Aj dhé, kû Flamri kuq e zí valvitet.

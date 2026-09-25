@@ -158,7 +158,7 @@ Me e pasë pré, gjak s' do t' kisht' bâ:
 Kaq u pî, kur ndjeu se marë
 Punët s' i kishte me Shqyptarë.
 Nji copë herë ndêi tue mendue,
-Qatje vonë ūlet me shkrue,
+Qatje vonë ulet me shkrue,
 Me shkrue leter Mark Milanit,
 Me u largue prej fushës s' mejdanit:
 Mark Milan, bre faqja e bardhë,
