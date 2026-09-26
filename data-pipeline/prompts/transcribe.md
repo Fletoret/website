@@ -31,6 +31,15 @@ you are being asked instead.
   `mëndershëm` (dread) are different words and take `ë`.
 - Do not add a diacritic the page does not show, and do not drop one it does.
 
+# Tosk books
+
+Some books are Tosk (`një`, `që`, `nuk`, `-uar` participles, `ë` for the
+unstressed vowel, no nasal vowels). The nasal rules above are Gheg rules: on a
+Tosk page, do not add `â ê î û ŷ` the print does not show, and do not apply the
+`nd`/`mb` or `mênd-` defaults — `këmbë`, `mend`, `vend` are plain there. Keep
+the print's own Tosk forms and elisions just as faithfully (`Kish'e`, `fron'i`,
+`u'` for *unë*, `s'`, `ç'`), still with no space after the apostrophe.
+
 # Gheg forms to leave exactly as printed
 
 `qi` (not *që*), `nji`, `un`, `tue`, `mbas`, `mbandej`, `kenë`, `kje`, the

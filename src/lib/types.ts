@@ -69,6 +69,12 @@ export type ExtendedBookType = WithContext<Book> & {
   compiledBy?: string;
   /** Set by db.ts from `compiledBy`: the compiler's name, for display. */
   compilerName?: string;
+  /**
+   * Name of the translator, for a book whose text on Fletoret is a translation
+   * (Pashko Vasa's French study, in Mehdi Frashëri's Albanian). Credited on the
+   * profile, the EPUB title page and colophon, and as schema.org `translator`.
+   */
+  translatedBy?: string;
 };
 
 export type Author = {

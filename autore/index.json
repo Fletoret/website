@@ -545,5 +545,82 @@
         "epub": true
       }
     ]
+  },
+  "pashko-vasa": {
+    "folder": "pashko-vasa",
+    "name": "Pashko Vasa",
+    "description": "Pashko Vasa (1825–1892), i njohur edhe si Vaso Pasha, ka qenë poet, publicist e burrë shteti shkodran, një nga figurat e para të Rilindjes Kombëtare. Luftoi në revolucionin e Venedikut më 1848, shërbeu gjatë në administratën osmane dhe më 1878–1879 ishte ndër udhëheqësit e Komitetit të Stambollit për mbrojtjen e të drejtave të shqiptarëve e të Shoqërisë për shtypjen e shkronjave shqip. Autor i vjershës “Mori Shqypni, e mjera Shqypni”. Nga 1883 deri në vdekje ishte guvernator i Malit të Libanit.",
+    "thumbnail": "/images/pashko-vasa.avif",
+    "progressState": "partial",
+    "author": {
+      "@type": "Person",
+      "givenName": "Pashko",
+      "familyName": "Vasa",
+      "birthDate": "1825-09-17",
+      "birthPlace": {
+        "@type": "Place",
+        "address": "Shkodër, Shqipëri"
+      },
+      "deathDate": "1892-06-29",
+      "deathPlace": {
+        "@type": "Place",
+        "address": "Bejrut, Liban"
+      },
+      "image": "/images/pashko-vasa.avif"
+    },
+    "books": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Book",
+        "name": "E vërteta mbi Shqipninë dhe shqiptarët",
+        "folder": "pashko-vasa/e-verteta-mbi-shqipnine",
+        "genre": "classic",
+        "datePublished": "1879",
+        "thumbnail": "/images/covers/e-verteta-mbi-shqipnine.avif",
+        "subtitle": "Studim historik",
+        "translatedBy": "Mehdi Frashëri",
+        "abstract": "Studimi që Pashko Vasa botoi në frëngjisht në Paris më 1879, «La vérité sur l'Albanie et les Albanais», në ditët e Lidhjes së Prizrenit, për t'i treguar Evropës kush janë shqiptarët dhe çfarë kërkojnë. Nisur nga teoria pellazgjike, kalon nëpër Epirin e Pirros e Maqedoninë e Aleksandrit, besimet e vjetra, Skënderbeun dhe shekujt osmanë, zakonet e ligjet e maleve, dhe mbyllet me një program për një Shqipëri të bashkuar e të vetëqeverisur brenda Perandorisë. Këtu jepet në përkthimin e Mehdi Frashërit (Tiranë, 1935), me komentet e tij pas shumicës së kapitujve dhe me vjershën «Mori Shqypni» në krye.",
+        "publishedFletoret": true,
+        "epub": true
+      }
+    ]
+  },
+  "cajupi": {
+    "folder": "cajupi",
+    "name": "Andon Zako Çajupi",
+    "description": "Andon Zako Çajupi (1866–1930) ka qenë poet, dramaturg e avokat nga Sheperi i Zagorisë, një nga zërat kryesorë të Rilindjes Kombëtare. Mori mësimet e para në Egjipt, studioi drejtësi në Gjenevë dhe jetoi pjesën më të madhe të jetës në Kajro, ku mori pjesë në shoqëritë patriotike të mërgimit. Më 1902 botoi aty “Baba-Tomorri”, përmbledhjen e vjershave të tij për atdheun, dashurinë dhe jetën e fshatit. Përktheu përrallat e La Fontaine-it, Rubairat e Omar Khajamit dhe “Gitanxhalin” e Tagores. Vdiq në Heliopolis më 1930.",
+    "thumbnail": "/images/andon-zako-cajupi.avif",
+    "progressState": "partial",
+    "author": {
+      "@type": "Person",
+      "givenName": "Andon Zako",
+      "familyName": "Çajupi",
+      "birthDate": "1866-03-27",
+      "birthPlace": {
+        "@type": "Place",
+        "address": "Sheper, Shqipëri"
+      },
+      "deathDate": "1930-07-11",
+      "deathPlace": {
+        "@type": "Place",
+        "address": "Heliopolis, Egjipt"
+      },
+      "image": "/images/andon-zako-cajupi.avif"
+    },
+    "books": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Book",
+        "name": "Baba-Tomorri",
+        "subtitle": "Vjersha",
+        "folder": "cajupi/baba-tomorri",
+        "genre": "albanian poetry classics",
+        "datePublished": "1902",
+        "thumbnail": "/images/covers/baba-tomorri.avif",
+        "abstract": "Përmbledhja me vjersha e Çajupit, botuar në Kajro më 1902 dhe ribotuar në Tiranë nga trashëgimtarët e tij më 1935. Ndahet në tri pjesë: «Atdheu», me vjershat për Shqipërinë e robëruar, që hapet me thirrjen drejtuar malit të shenjtë; «Dashuria», me këngë dashurie, vaje e ciklin «Dëshirë»; dhe «Përralla të verteta dhe të rreme», me fabula e satira, disa të shqipëruara nga La Fontaine-i. Mbyllet me komedinë në vargje «Katrëmbëdhjetë vjeç dhëndërr!», satirë e martesave të fëmijëve në fshatin shqiptar.",
+        "publishedFletoret": true,
+        "epub": true
+      }
+    ]
   }
 }

@@ -84,6 +84,7 @@ BOOK_META = {
     "fishta/lahuta-e-malcis": {"kind": "Epos", "unit": "këngë"},
     "leke-dukagjini/kanuni": {"kind": "Kanun", "unit": "libra"},
     "gjecovi/agimi-i-gjytetniis": {"kind": "Edukatë qytetare", "unit": "pjesë"},
+    "pashko-vasa/e-verteta-mbi-shqipnine": {"kind": "Studim historik", "unit": "krerë"},
     "sami-frasheri/shqiperia": {"kind": "Traktat", "unit": "krerë"},
     "sami-frasheri/proverba": {
         "kind": "Fjalë të urta",
@@ -102,6 +103,11 @@ BOOK_META = {
     "haki-stermilli/sikur-te-isha-djale": {"kind": "Roman", "unit": "kapituj"},
     "zef-serembe/vjersha": {"kind": "Vjersha", "unit": "vjersha"},
     "grameno/kryengritja-shqiptare": {"kind": "Kujtime", "unit": "krerë"},
+    "cajupi/baba-tomorri": {
+        "kind": "Vjersha",
+        "unit": "pjesë",
+        "quote": "Baba-Tomorr, Kish'e Shqipërisë",
+    },
     "hil-mosi/lotet-e-dashtnies": {
         "kind": "Vjersha dashtnore",
         "unit": "vjersha",

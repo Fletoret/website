@@ -51,6 +51,16 @@ often says "none" (`leçit-`, `vath-`, `plandos-`).
   chapters at the page, not at the printed heading, so when a heading falls
   mid-page the end of one chapter is filed at the start of the next (twice in
   Grameno's *Kryengritja*).
+  When it happens at every chapter (Vasa's *E vërteta*: the translator's
+  «Shënime» start mid-page after each chapter), don't patch file by file:
+  rebuild the files from `pages/*.json` with a script that takes the split
+  point (page, paragraph index) read off each scan.
+- **Check the scans are in print order.** Compare each image's printed page
+  number with its neighbours, and the rhyme across page joins. In Çajupi's
+  *Baba-Tomorri* images 31 and 33 were swapped (pp. 28 and 27).
+- **A heading can be misread as a new piece** — lettered or numbered sections
+  (`B!`, `IV.`) inside one poem came out as separate files. Use the printed
+  table of contents to decide what a piece is.
 - **Diff the chapters against each other.** A whole poem can be filed twice
   under two titles (Mjeda's *Juvenilja*: `liria.md` was `dimri.md`).
 - **Watch for a change of subject mid-sentence.** It can be a silent gap where
@@ -98,6 +108,8 @@ often says "none" (`leçit-`, `vath-`, `plandos-`).
 | Modern-text OCR | `ta`/`taa`/`tae` for `b` (`taërë` → `bërë`), `P` for `F` (`Pjala`), in a standard-Albanian translation (Sami's *Proverba*) |
 | Print damage kept by scan transcription | turned `n`/`u` (`nukn`, `uga`), a gap for missing type (`k tu` → `këtu`), worn comma read as a full stop before a lowercase word, spaced proclitics (`t' onë` → `t'onë`), blank lines at page turns |
 | Letter swaps | `I 1` → `l`; `rn tn in` → `m`; `AA` → `M`; `11` → `u`/`na`; `f` → `t`; `h` read as `f` (`befi` → `behi`) |
+| Words fused by the transcriber | a short word run onto the next, most often before `ësht` (`dheësht`, `nukësht`, `vjedhjejeësht` in Vasa 1935). Grep `ësht\b` preceded by a letter. |
+| Broken dotless `i` read as `j` | a worn `i` whose dot is lost (Vasa 1935: `Iljrjanët`, `hasjm`, `serjoze`). Check every `j` between consonant and vowel against the scan; the transcriber fixed some silently, not all. |
 | `qe`/`që` swapped | Both directions: "Që një çupë" → *Qe* (was); "Ajo qe e quajmë" → *që* (that) |
 | Split/merged words | across spaces as well as within words (`g otérak í` → `gotë rakí`; `lanë shtëpi` → `la në shtëpi`) |
 | Right-margin loss | line ends turned to garbage (`c mr 1`, `T iii`, `st jriri TË "TI`). Rebuild from syntax and context. |
