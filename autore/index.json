@@ -546,6 +546,45 @@
       }
     ]
   },
+  "pashko-vasa": {
+    "folder": "pashko-vasa",
+    "name": "Pashko Vasa",
+    "description": "Pashko Vasa (1825–1892), i njohur edhe si Vaso Pasha, ka qenë poet, publicist e burrë shteti shkodran, një nga figurat e para të Rilindjes Kombëtare. Luftoi në revolucionin e Venedikut më 1848, shërbeu gjatë në administratën osmane dhe më 1878–1879 ishte ndër udhëheqësit e Komitetit të Stambollit për mbrojtjen e të drejtave të shqiptarëve e të Shoqërisë për shtypjen e shkronjave shqip. Autor i vjershës “Mori Shqypni, e mjera Shqypni”. Nga 1883 deri në vdekje ishte guvernator i Malit të Libanit.",
+    "thumbnail": "/images/pashko-vasa.avif",
+    "progressState": "partial",
+    "author": {
+      "@type": "Person",
+      "givenName": "Pashko",
+      "familyName": "Vasa",
+      "birthDate": "1825-09-17",
+      "birthPlace": {
+        "@type": "Place",
+        "address": "Shkodër, Shqipëri"
+      },
+      "deathDate": "1892-06-29",
+      "deathPlace": {
+        "@type": "Place",
+        "address": "Bejrut, Liban"
+      },
+      "image": "/images/pashko-vasa.avif"
+    },
+    "books": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Book",
+        "name": "E vërteta mbi Shqipninë dhe shqiptarët",
+        "folder": "pashko-vasa/e-verteta-mbi-shqipnine",
+        "genre": "classic",
+        "datePublished": "1879",
+        "thumbnail": "/images/covers/e-verteta-mbi-shqipnine.avif",
+        "subtitle": "Studim historik",
+        "translatedBy": "Mehdi Frashëri",
+        "abstract": "Studimi që Pashko Vasa botoi në frëngjisht në Paris më 1879, «La vérité sur l'Albanie et les Albanais», në ditët e Lidhjes së Prizrenit, për t'i treguar Evropës kush janë shqiptarët dhe çfarë kërkojnë. Nisur nga teoria pellazgjike, kalon nëpër Epirin e Pirros e Maqedoninë e Aleksandrit, besimet e vjetra, Skënderbeun dhe shekujt osmanë, zakonet e ligjet e maleve, dhe mbyllet me një program për një Shqipëri të bashkuar e të vetëqeverisur brenda Perandorisë. Këtu jepet në përkthimin e Mehdi Frashërit (Tiranë, 1935), me komentet e tij pas shumicës së kapitujve dhe me vjershën «Mori Shqypni» në krye.",
+        "publishedFletoret": true,
+        "epub": true
+      }
+    ]
+  },
   "cajupi": {
     "folder": "cajupi",
     "name": "Andon Zako Çajupi",

@@ -92,6 +92,9 @@ export function getAuthorsIndex(excludeEmpty = false): Map<string, Author> {
           book.compilerName = compiler.name;
           book.editor = compiler.author;
         }
+        if (book.translatedBy) {
+          book.translator = { '@type': 'Person', name: book.translatedBy };
+        }
       }
     }
 

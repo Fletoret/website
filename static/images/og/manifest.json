@@ -197,6 +197,17 @@
     "pieces": 1,
     "lines": 90
   },
+  "pashko-vasa/e-verteta-mbi-shqipnine": {
+    "image": "/images/og/pashko-vasa/e-verteta-mbi-shqipnine.jpg",
+    "width": 1200,
+    "height": 628,
+    "alt": "E vërteta mbi Shqipninë dhe shqiptarët, Pashko Vasa — 16 krerë, 31.027 fjalë të transkriptuara në Fletoret.",
+    "unit": "krerë",
+    "unitCount": 16,
+    "words": 31027,
+    "pieces": 16,
+    "lines": 501
+  },
   "sami-frasheri/proverba": {
     "image": "/images/og/sami-frasheri/proverba.jpg",
     "width": 1200,

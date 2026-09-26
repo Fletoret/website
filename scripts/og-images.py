@@ -84,6 +84,7 @@ BOOK_META = {
     "fishta/lahuta-e-malcis": {"kind": "Epos", "unit": "këngë"},
     "leke-dukagjini/kanuni": {"kind": "Kanun", "unit": "libra"},
     "gjecovi/agimi-i-gjytetniis": {"kind": "Edukatë qytetare", "unit": "pjesë"},
+    "pashko-vasa/e-verteta-mbi-shqipnine": {"kind": "Studim historik", "unit": "krerë"},
     "sami-frasheri/shqiperia": {"kind": "Traktat", "unit": "krerë"},
     "sami-frasheri/proverba": {
         "kind": "Fjalë të urta",

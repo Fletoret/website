@@ -424,7 +424,7 @@ function composeBook({ folder, author, book, compiler, parts, modified }) {
       `<section id="titlepage" epub:type="titlepage">
 ${subtitle ? `<hgroup>\n<h1 epub:type="title">${escapeXml(title)}</h1>\n<p epub:type="subtitle">${escapeXml(subtitle)}</p>\n</hgroup>` : `<h1 epub:type="title">${escapeXml(title)}</h1>`}
 <p class="author">${escapeXml(author.name)}</p>
-${compiler ? `<p class="compiler">Mbledhur dhe kodifikuar nga ${escapeXml(compiler)}</p>\n` : ''}</section>`,
+${compiler ? `<p class="compiler">Mbledhur dhe kodifikuar nga ${escapeXml(compiler)}</p>\n` : ''}${book.translatedBy ? `<p class="compiler">Përktheu ${escapeXml(book.translatedBy)}</p>\n` : ''}</section>`,
     ),
   });
 
@@ -527,6 +527,7 @@ ${rendered.html.trim()}
   }
 
   const published = book.datePublished ? ` dhe u botua më ${escapeXml(book.datePublished)}` : '';
+  const translated = book.translatedBy ? `; u përkthye nga ${escapeXml(book.translatedBy)}` : '';
   docs.push({
     file: 'colophon.xhtml',
     title: 'Kolofoni',
@@ -535,7 +536,7 @@ ${rendered.html.trim()}
       'Kolofoni',
       'backmatter',
       `<section id="colophon" epub:type="colophon" aria-label="Kolofoni">
-<p><i>${escapeXml(title)}</i><br/>${compiler ? `u mblodh dhe u kodifikua nga ${escapeXml(compiler)}` : `u shkrua nga ${escapeXml(author.name)}`}${published}.</p>
+<p><i>${escapeXml(title)}</i><br/>${compiler ? `u mblodh dhe u kodifikua nga ${escapeXml(compiler)}` : `u shkrua nga ${escapeXml(author.name)}`}${published}${translated}.</p>
 <hr/>
 <p>Ky botim elektronik u përgatit nga vullnetarët e <a href="${BASE_URL}/">Fletoreve</a> dhe u përditësua më ${format(modified, 'd MMMM yyyy', { locale: sq }).toLowerCase()}.</p>
 <p>Versioni më i ri gjendet gjithmonë te <a href="${url}">fletoret.com/${escapeXml(folder)}</a>.</p>
@@ -665,7 +666,7 @@ function opfDocument({ folder, author, book, compiler, modified }, docs, images)
 ${book.subtitle ? `<dc:title id="subtitle">${escapeXml(book.subtitle)}</dc:title>\n<meta property="title-type" refines="#subtitle">subtitle</meta>\n<meta property="title-type" refines="#title">main</meta>\n` : ''}<dc:creator id="author">${escapeXml(author.name)}</dc:creator>
 <meta property="file-as" refines="#author">${escapeXml(fileAs(author.name))}</meta>
 <meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-${compiler ? `<dc:contributor id="compiler">${escapeXml(compiler)}</dc:contributor>\n<meta property="file-as" refines="#compiler">${escapeXml(fileAs(compiler))}</meta>\n<meta property="role" refines="#compiler" scheme="marc:relators">com</meta>\n` : ''}<dc:language>sq</dc:language>
+${compiler ? `<dc:contributor id="compiler">${escapeXml(compiler)}</dc:contributor>\n<meta property="file-as" refines="#compiler">${escapeXml(fileAs(compiler))}</meta>\n<meta property="role" refines="#compiler" scheme="marc:relators">com</meta>\n` : ''}${book.translatedBy ? `<dc:contributor id="translator">${escapeXml(book.translatedBy)}</dc:contributor>\n<meta property="file-as" refines="#translator">${escapeXml(fileAs(book.translatedBy))}</meta>\n<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>\n` : ''}<dc:language>sq</dc:language>
 <dc:publisher>Fletoret</dc:publisher>
 <dc:date>${iso}</dc:date>
 <meta property="dcterms:modified">${iso}</meta>

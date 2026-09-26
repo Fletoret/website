@@ -26,6 +26,18 @@
       "author_name": "Andon Zako Çajupi"
     },
     {
+      "slug": "e-verteta-mbi-shqipnine",
+      "title": "E vërteta mbi Shqipninë dhe shqiptarët",
+      "manifest": "libra1!HASH01fe!ff7391d4.dir",
+      "author": "Vasa, Pashko",
+      "year": "1935",
+      "pages": 140,
+      "source": "https://bibliotekadigjitale.bksh.al/iiif/Manifester/IIIF/libra1!HASH01fe!ff7391d4.dir",
+      "author_folder": "pashko-vasa",
+      "book_folder": "e-verteta-mbi-shqipnine",
+      "author_name": "Pashko Vasa"
+    },
+    {
       "slug": "juvenilia",
       "title": "Juvenilia",
       "manifest": "libra1!HASH01f0.dir",

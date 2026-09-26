@@ -28,6 +28,9 @@
       {#if book?.compilerName}
         Mbledhur dhe kodifikuar nga <a href="/{book.compiledBy}/">{book.compilerName}</a>.
       {/if}
+      {#if book?.translatedBy}
+        Përktheu {book.translatedBy}.
+      {/if}
     </div>
     <div class="author-wrapper">
       <BreadcrumbItem
