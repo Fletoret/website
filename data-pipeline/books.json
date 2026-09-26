@@ -14,6 +14,18 @@
       "author_name": "Shtjefën Gjeçovi"
     },
     {
+      "slug": "baba-tomorri",
+      "title": "Baba-Tomorri",
+      "manifest": "libra1!HASHd871.dir",
+      "author": "Çajupi, Andon Zako.",
+      "year": "1935",
+      "pages": 202,
+      "source": "https://bibliotekadigjitale.bksh.al/iiif/Manifester/IIIF/libra1!HASHd871.dir",
+      "author_folder": "cajupi",
+      "book_folder": "baba-tomorri",
+      "author_name": "Andon Zako Çajupi"
+    },
+    {
       "slug": "juvenilia",
       "title": "Juvenilia",
       "manifest": "libra1!HASH01f0.dir",

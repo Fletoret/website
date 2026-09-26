@@ -1,4 +1,15 @@
 {
+  "cajupi/baba-tomorri": {
+    "image": "/images/og/cajupi/baba-tomorri.jpg",
+    "width": 1200,
+    "height": 628,
+    "alt": "Baba-Tomorri, Andon Zako Çajupi — 59 pjesë, 14.309 fjalë të transkriptuara në Fletoret.",
+    "unit": "pjesë",
+    "unitCount": 59,
+    "words": 14309,
+    "pieces": 59,
+    "lines": 3166
+  },
   "fan-noli/albumi": {
     "image": "/images/og/fan-noli/albumi.jpg",
     "width": 1200,

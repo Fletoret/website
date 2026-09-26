@@ -102,6 +102,11 @@ BOOK_META = {
     "haki-stermilli/sikur-te-isha-djale": {"kind": "Roman", "unit": "kapituj"},
     "zef-serembe/vjersha": {"kind": "Vjersha", "unit": "vjersha"},
     "grameno/kryengritja-shqiptare": {"kind": "Kujtime", "unit": "krerë"},
+    "cajupi/baba-tomorri": {
+        "kind": "Vjersha",
+        "unit": "pjesë",
+        "quote": "Baba-Tomorr, Kish'e Shqipërisë",
+    },
     "hil-mosi/lotet-e-dashtnies": {
         "kind": "Vjersha dashtnore",
         "unit": "vjersha",

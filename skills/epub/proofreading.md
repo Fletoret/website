@@ -51,6 +51,12 @@ often says "none" (`leçit-`, `vath-`, `plandos-`).
   chapters at the page, not at the printed heading, so when a heading falls
   mid-page the end of one chapter is filed at the start of the next (twice in
   Grameno's *Kryengritja*).
+- **Check the scans are in print order.** Compare each image's printed page
+  number with its neighbours, and the rhyme across page joins. In Çajupi's
+  *Baba-Tomorri* images 31 and 33 were swapped (pp. 28 and 27).
+- **A heading can be misread as a new piece** — lettered or numbered sections
+  (`B!`, `IV.`) inside one poem came out as separate files. Use the printed
+  table of contents to decide what a piece is.
 - **Diff the chapters against each other.** A whole poem can be filed twice
   under two titles (Mjeda's *Juvenilja*: `liria.md` was `dimri.md`).
 - **Watch for a change of subject mid-sentence.** It can be a silent gap where
