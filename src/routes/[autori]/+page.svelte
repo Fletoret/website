@@ -3,6 +3,7 @@
   import Footer from '$lib/components/BookFooter.svelte';
   // import TocItemList from '$lib/components/TocItemList.svelte';
   import CONFIG from '$lib/config';
+  import { bookSchema, jsonLd } from '$lib/schema';
   import '$lib/css/app.css';
   import BookEntryPoint from '$lib/components/BookEntryPoint.svelte';
   import type { Author, ExtendedBookType, Post } from '$lib/types.js';
@@ -85,15 +86,11 @@
   {/if}
   <meta property="og:site_name" content={CONFIG.info.title} />
   <meta property="og:locale" content="sq_AL" />
-  {#each author?.books || [] as bookSchema}
-    {@html `<script type="application/ld+json"> ${JSON.stringify(
-      bookSchema,
-    )} </script>`}
+  {#each bookEntries || [] as [book]}
+    {@html jsonLd(bookSchema(book))}
   {/each}
 
-  {@html `<script type="application/ld+json"> ${JSON.stringify(
-    BreadcrumbList,
-  )}</script>`}
+  {@html jsonLd(BreadcrumbList)}
 </svelte:head>
 
 <main>

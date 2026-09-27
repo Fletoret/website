@@ -5,6 +5,7 @@ import type { Post, BlogPost, FAQ, Author } from '$lib/types';
 import { addTrailingSlash } from '$lib/utils';
 import CONFIG from '$lib/config';
 import { epubHref } from '$lib/epub';
+import { personSchema } from '$lib/schema';
 
 const sortedPosts = (posts: Post[]) => {
   return posts.sort(function (a: Post, b: Post) {
@@ -66,7 +67,7 @@ export function getAuthorsIndex(excludeEmpty = false): Map<string, Author> {
   for (const entry of Object.values(idx)) {
     if (entry.books) {
       for (const book of entry.books) {
-        book.author = entry.author;
+        book.author = personSchema(entry);
         book.inLanguage = 'sq';
         if (book.folder) {
           book.url = addTrailingSlash(`${CONFIG.info.base_url}/${book.folder}`);
@@ -90,7 +91,7 @@ export function getAuthorsIndex(excludeEmpty = false): Map<string, Author> {
         const compiler = book.compiledBy ? idx[book.compiledBy] : undefined;
         if (compiler) {
           book.compilerName = compiler.name;
-          book.editor = compiler.author;
+          book.editor = personSchema(compiler);
         }
         if (book.translatedBy) {
           book.translator = { '@type': 'Person', name: book.translatedBy };
