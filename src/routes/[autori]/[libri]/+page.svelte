@@ -2,6 +2,7 @@
   import Footer from '$lib/components/BookFooter.svelte';
   import TocItemList from '$lib/components/TocItemList.svelte';
   import CONFIG from '$lib/config';
+  import { bookSchema, jsonLd } from '$lib/schema';
   import '$lib/css/app.css';
   import BookProfile from '$lib/components/BookProfile.svelte';
   // import { generateImageID } from "imagetools-core";
@@ -90,15 +91,11 @@
   {/if}
   <meta property="og:site_name" content={CONFIG.info.title} />
   <meta property="og:locale" content="sq_AL" />
-  {#each author?.books || [] as bookSchema}
-    {@html `<script type="application/ld+json"> ${JSON.stringify(
-      bookSchema,
-    )} </script>`}
-  {/each}
+  {#if book}
+    {@html jsonLd(bookSchema(book))}
+  {/if}
 
-  {@html `<script type="application/ld+json"> ${JSON.stringify(
-    BreadcrumbList,
-  )}</script>`}
+  {@html jsonLd(BreadcrumbList)}
 </svelte:head>
 
 <main>
