@@ -622,5 +622,43 @@
         "epub": true
       }
     ]
+  },
+  "kostandin-kristoforidhi": {
+    "folder": "kostandin-kristoforidhi",
+    "name": "Kostandin Kristoforidhi",
+    "description": "Kostandin Kristoforidhi (1827–1895), i lindur Kostandin Nelko në Elbasan, ka qenë gjuhëtar e përkthyes, një nga themeluesit e shqipes së shkruar. Mbaroi gjimnazin “Zosimea” të Janinës, ku u njoh me albanologun Johann Georg von Hahn. Për Shoqërinë Biblike përktheu Dhiatën e Re në të dy dialektet, gegërisht e toskërisht, si dhe libra të tjerë të Biblës; më 1869 ishte anëtar i komisionit për alfabetin e shqipes në Stamboll. La tregimin e parë origjinal në prozë shqipe, “Gjahu i malësorëvet”, dhe fjalorin e madh të shqipes, botuar pas vdekjes në Athinë më 1904. Vdiq në Elbasan më 1895.",
+    "thumbnail": "/images/kostandin-kristoforidhi.avif",
+    "progressState": "partial",
+    "author": {
+      "@type": "Person",
+      "givenName": "Kostandin",
+      "familyName": "Kristoforidhi",
+      "birthDate": "1827-05-22",
+      "birthPlace": {
+        "@type": "Place",
+        "address": "Elbasan, Shqipëri"
+      },
+      "deathDate": "1895-03-07",
+      "deathPlace": {
+        "@type": "Place",
+        "address": "Elbasan, Shqipëri"
+      },
+      "image": "/images/kostandin-kristoforidhi.avif"
+    },
+    "books": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Book",
+        "name": "Gjaja e Malësorvet",
+        "subtitle": "Hieja e Tomorrit",
+        "folder": "kostandin-kristoforidhi/gjaja-e-malesorvet",
+        "genre": "classic",
+        "datePublished": "1930",
+        "thumbnail": "/images/covers/gjaja-e-malesorvet.avif",
+        "abstract": "Tregimi që Kristoforidhi e shkroi më 1884 «në gegënishte qi flitet në Shqipnit të Mesme», i quajtur shpesh proza e parë origjinale në shqip. Është një dialog pa emra folësish: malësorët e Elbasanit bien në ujdi të dalin për gja në malin e Tomorrit, dhe gjahtari plak Mark-shalë-gjati jep urdhrat e paralajmëron shërbëtorët e huaj se Hieja e Tomorrit vret me rrufe këdo që nuk është shqiptar. Një shënim i autorit shpjegon nderimin e lashtë të shqiptarëve për Tomorrin si mal i shenjtë, pastaj djemtë këndojnë për Skënderbeun, e nis gjaja me brinin, qentë e pushkët: thi, dre, ujk, dhi e egër, harushë, skile e lepur, gjersa nata i kthen me gjanë në katund. Këtu jepet botimi i Korçës (1930), që e nxori familja e autorit.",
+        "publishedFletoret": true,
+        "epub": true
+      }
+    ]
   }
 }

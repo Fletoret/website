@@ -38,6 +38,18 @@
       "author_name": "Pashko Vasa"
     },
     {
+      "slug": "gjaja-e-malesorvet-hieja-e-tomorrit",
+      "title": "Gjaja e malësorvet. Hieja e Tomorrit",
+      "manifest": "libra1!HASH0181!7f1bfa1f.dir",
+      "author": "Kristoforidhi, Konstandin",
+      "year": "1930",
+      "pages": 36,
+      "source": "https://bibliotekadigjitale.bksh.al/iiif/Manifester/IIIF/libra1!HASH0181!7f1bfa1f.dir",
+      "author_folder": "kostandin-kristoforidhi",
+      "book_folder": "gjaja-e-malesorvet",
+      "author_name": "Kostandin Kristoforidhi"
+    },
+    {
       "slug": "juvenilia",
       "title": "Juvenilia",
       "manifest": "libra1!HASH01f0.dir",

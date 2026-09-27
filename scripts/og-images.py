@@ -113,6 +113,11 @@ BOOK_META = {
         "unit": "vjersha",
         "quote": "Me t'gjith zêmer kto i shkrova…",
     },
+    "kostandin-kristoforidhi/gjaja-e-malesorvet": {
+        "kind": "Tregim",
+        "unit": "tregim",
+        "quote": "Rri Zoti atie, rri ai qi run shqipërinë",
+    },
 }
 
 
