@@ -24,7 +24,7 @@
     <a href="https://github.com/Fletoret/website/stargazers"><img alt="Yje" src="https://img.shields.io/github/stars/Fletoret/website?style=flat-square&color=e3b341"></a>
   </p>
 
-  <sub><b>17 autorë</b> · <b>23 vepra</b> · <b>559 kapituj e poezi</b> · <b>~626 mijë fjalë</b> · <b>22 e-book</b> &nbsp;<i>(shtator 2026)</i></sub>
+  <sub><b>18 autorë</b> · <b>24 vepra</b> · <b>560 kapituj e poezi</b> · <b>~629 mijë fjalë</b> · <b>23 e-book</b> &nbsp;<i>(shtator 2026)</i></sub>
 </div>
 
 <br>
@@ -67,12 +67,17 @@
       <sub>E vërteta mbi Shqipninë dhe shqiptarët</sub>
     </td>
     <td align="center" width="25%" valign="top">
+      <a href="https://fletoret.com/kostandin-kristoforidhi/"><img src="static/images/kostandin-kristoforidhi.webp" height="118" alt="Kostandin Kristoforidhi"></a><br>
+      <b><a href="https://fletoret.com/kostandin-kristoforidhi/">Kostandin Kristoforidhi</a></b><br>
+      <sub>Gjaja e Malësorvet</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%" valign="top">
       <a href="https://fletoret.com/zef-serembe/"><img src="static/images/zef-serembe.png" height="118" alt="Zef Serembe"></a><br>
       <b><a href="https://fletoret.com/zef-serembe/">Zef Serembe</a></b><br>
       <sub>Vjersha</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="25%" valign="top">
       <a href="https://fletoret.com/naim-frasheri/"><img src="static/images/naim-frasheri.webp" height="118" alt="Naim Frashëri"></a><br>
       <b><a href="https://fletoret.com/naim-frasheri/">Naim Frashëri</a></b><br>
@@ -88,13 +93,13 @@
       <b><a href="https://fletoret.com/cajupi/">Andon Zako Çajupi</a></b><br>
       <sub>Baba-Tomorri</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="25%" valign="top">
       <a href="https://fletoret.com/ndre-mjeda/"><img src="static/images/ndre-mjeda.webp" height="118" alt="Ndre Mjeda"></a><br>
       <b><a href="https://fletoret.com/ndre-mjeda/">Ndre Mjeda</a></b><br>
       <sub>Juvenilja · Lirija</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="25%" valign="top">
       <a href="https://fletoret.com/fishta/"><img src="static/images/gjergj-fishta.webp" height="118" alt="Gjergj Fishta"></a><br>
       <b><a href="https://fletoret.com/fishta/">Gjergj Fishta</a></b><br>
@@ -110,13 +115,13 @@
       <b><a href="https://fletoret.com/gjecovi/">Shtjefën Gjeçovi</a></b><br>
       <sub>Agimi i Gjytetniis · <i>mbledhës i Kanunit</i></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="25%" valign="top">
       <a href="https://fletoret.com/konica/"><img src="static/images/faik-konica.webp" height="118" alt="Faik Konica"></a><br>
       <b><a href="https://fletoret.com/konica/">Faik Konica</a></b><br>
       <sub>Doktor Gjilpëra · Ese</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="25%" valign="top">
       <a href="https://fletoret.com/fan-noli/"><img src="static/images/fan-noli.webp" height="118" alt="Fan Noli"></a><br>
       <b><a href="https://fletoret.com/fan-noli/">Fan Noli</a></b><br>
@@ -132,13 +137,13 @@
       <b><a href="https://fletoret.com/haki-stermilli/">Haki Stërmilli</a></b><br>
       <sub>Sikur t'isha djalë</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="25%" valign="top">
       <img src="static/images/ernest-koliqi.webp" height="118" alt="Ernest Koliqi"><br>
       <b>Ernest Koliqi</b><br>
       <sub><i>së shpejti</i></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="25%" valign="top">
       <a href="https://fletoret.com/migjeni/"><img src="static/images/migjeni.webp" height="118" alt="Migjeni"></a><br>
       <b><a href="https://fletoret.com/migjeni/">Migjeni</a></b><br>
@@ -159,6 +164,7 @@
 | Lekë Dukagjini | [Kanuni](https://fletoret.com/leke-dukagjini/kanuni/) | 1933 | E drejtë zakonore | 17 | [EPUB](https://fletoret.com/epub/leke-dukagjini/kanuni.epub) |
 | Frang Bardhi | [Apologjia e Skënderbeut](https://fletoret.com/frang-bardhi/skenderbeu/) | 1636 | Apologji | 7 | [EPUB](https://fletoret.com/epub/frang-bardhi/skenderbeu.epub) |
 | Pashko Vasa | [E vërteta mbi Shqipninë dhe shqiptarët](https://fletoret.com/pashko-vasa/e-verteta-mbi-shqipnine/) | 1879 | Studim historik | 16 | [EPUB](https://fletoret.com/epub/pashko-vasa/e-verteta-mbi-shqipnine.epub) |
+| Kostandin Kristoforidhi | [Gjaja e Malësorvet](https://fletoret.com/kostandin-kristoforidhi/gjaja-e-malesorvet/) | 1930 | Tregim | 1 | [EPUB](https://fletoret.com/epub/kostandin-kristoforidhi/gjaja-e-malesorvet.epub) |
 | Zef Serembe | [Vjersha](https://fletoret.com/zef-serembe/vjersha/) | 1926 | Poezi | 35 | [EPUB](https://fletoret.com/epub/zef-serembe/vjersha.epub) |
 | Naim Frashëri | [Bagëti e Bujqësija](https://fletoret.com/naim-frasheri/bageti-e-bujqesi/) | 1886 | Poemë | 1 | [EPUB](https://fletoret.com/epub/naim-frasheri/bageti-e-bujqesi.epub) |
 | Sami Frashëri | [Proverba](https://fletoret.com/sami-frasheri/proverba/) | 1878 | Fjalë të urta | 4 | [EPUB](https://fletoret.com/epub/sami-frasheri/proverba.epub) |
