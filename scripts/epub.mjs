@@ -31,13 +31,82 @@ import mdAttrs from 'markdown-it-attrs';
 import mdFootnote from 'markdown-it-footnote';
 import sharp from 'sharp';
 import { format } from 'date-fns/format';
-import { sq } from 'date-fns/locale';
+import { fr, sq } from 'date-fns/locale';
 import { epubStaticPath } from '../src/lib/epub.ts';
+import { expandEditions, languageOf } from '../src/lib/editions.ts';
+import { typographyFor } from '../src/lib/typography.ts';
+import { chapterPath } from '../src/lib/slug.ts';
 
 const INDEX_PATH = 'autore/index.json';
 const BASE_URL = 'https://fletoret.com';
 const ISSUES_URL = 'https://github.com/Fletoret/website/issues';
 const LICENSE_URL = 'https://creativecommons.org/licenses/by/4.0/deed.sq';
+
+/**
+ * The words the book itself supplies (title page, imprint, colophon, table of
+ * contents), in the language of its text. Albanian unless an edition is in
+ * another language (src/lib/editions.ts); add a language here before flagging
+ * an edition in it `"epub": true`.
+ */
+const STRINGS = {
+  sq: {
+    locale: sq,
+    license: LICENSE_URL,
+    languages: { sq: 'shqip', fr: 'frëngjisht', it: 'italisht', en: 'anglisht', de: 'gjermanisht' },
+    titlePage: 'Faqja e titullit',
+    imprint: 'Për këtë botim',
+    imprintText: (url, folder) =>
+      `<p>Ky libër elektronik vjen nga <a href="${BASE_URL}/">Fletoret</a>, nisma e dixhitalizimit të veprave letrare në shqip që janë në domenin publik. Të plota, falas, kontribuar nga vullnetarë.</p>
+<p>Teksti lexohet edhe në <a href="${url}">fletoret.com/${escapeXml(folder)}</a>. Nëse ndeshni gabime, na i tregoni te <a href="${ISSUES_URL}">GitHub</a>.</p>`,
+    alsoIn: (language, original, href, folder) =>
+      `<p>Vepra lexohet edhe në ${language}${original ? ', në origjinal' : ''}: <a href="${href}">fletoret.com/${escapeXml(folder)}</a>.</p>`,
+    rightsText: `<p>Vepra origjinale është në domenin publik. Transkriptimi dhe ky botim elektronik shpërndahen nën licencën <a href="${LICENSE_URL}">Creative Commons Attribution 4.0</a> (CC BY 4.0).</p>`,
+    compiledBy: (name) => `Mbledhur dhe kodifikuar nga ${name}`,
+    translatedBy: (name) => `Përktheu ${name}`,
+    endnotes: 'Shënime',
+    colophon: 'Kolofoni',
+    colophonWork: ({ title, author, compiler, published, translator }) =>
+      `<i>${title}</i><br/>${compiler ? `u mblodh dhe u kodifikua nga ${compiler}` : `u shkrua nga ${author}`}${published ? ` dhe u botua më ${published}` : ''}${translator ? `; u përkthye nga ${translator}` : ''}.`,
+    colophonEdition: (date, url, folder) =>
+      `<p>Ky botim elektronik u përgatit nga vullnetarët e <a href="${BASE_URL}/">Fletoreve</a> dhe u përditësua më ${date}.</p>
+<p>Versioni më i ri gjendet gjithmonë te <a href="${url}">fletoret.com/${escapeXml(folder)}</a>.</p>`,
+    toc: 'Përmbajtja',
+    landmarks: 'Pikat kryesore',
+    rights: `Vepra origjinale është në domenin publik. Transkriptimi dhe ky botim elektronik: CC BY 4.0, ${LICENSE_URL}`,
+    accessibility: 'Tekst me tituj semantikë, tabelë të përmbajtjes dhe shënime të lidhura në të dy drejtimet.',
+  },
+  fr: {
+    locale: fr,
+    license: 'https://creativecommons.org/licenses/by/4.0/deed.fr',
+    languages: { sq: 'albanais', fr: 'français', it: 'italien', en: 'anglais', de: 'allemand' },
+    titlePage: 'Page de titre',
+    imprint: 'À propos de cette édition',
+    imprintText: (url, folder) =>
+      `<p>Ce livre numérique vient de <a href="${BASE_URL}/">Fletoret</a>, l’initiative bénévole qui numérise les œuvres d’auteurs albanais tombées dans le domaine public, pour les lire en ligne ou les télécharger gratuitement.</p>
+<p>Le texte se lit aussi sur <a href="${url}">fletoret.com/${escapeXml(folder)}</a>. Si vous y trouvez des erreurs, signalez-les sur <a href="${ISSUES_URL}">GitHub</a>.</p>`,
+    alsoIn: (language, original, href, folder) =>
+      `<p>L’œuvre se lit aussi en ${language}${original ? ', dans l’original' : ''}\u00a0: <a href="${href}">fletoret.com/${escapeXml(folder)}</a>.</p>`,
+    rightsText: `<p>L’œuvre originale est dans le domaine public. La transcription et cette édition numérique sont diffusées sous la licence <a href="https://creativecommons.org/licenses/by/4.0/deed.fr">Creative Commons Attribution 4.0</a> (CC BY 4.0).</p>`,
+    compiledBy: (name) => `Recueilli et codifié par ${name}`,
+    translatedBy: (name) => `Traduit par ${name}`,
+    endnotes: 'Notes',
+    colophon: 'Colophon',
+    colophonWork: ({ title, author, compiler, published, translator }) =>
+      `<i>${title}</i><br/>${compiler ? `a été recueilli et codifié par ${compiler}` : `a été écrit par ${author}`}${published ? ` et publié en ${published}` : ''}${translator ? `\u00a0; traduit par ${translator}` : ''}.`,
+    colophonEdition: (date, url, folder) =>
+      `<p>Cette édition numérique a été préparée par les bénévoles de <a href="${BASE_URL}/">Fletoret</a> et mise à jour le ${date}.</p>
+<p>La version la plus récente se trouve toujours sur <a href="${url}">fletoret.com/${escapeXml(folder)}</a>.</p>`,
+    toc: 'Table des matières',
+    landmarks: 'Repères',
+    rights: 'L’œuvre originale est dans le domaine public. Transcription et édition numérique\u00a0: CC BY 4.0, https://creativecommons.org/licenses/by/4.0/deed.fr',
+    accessibility: 'Texte avec titres sémantiques, table des matières et notes liées dans les deux sens.',
+  },
+};
+
+const stringsFor = (lang) => {
+  if (!STRINGS[lang]) throw new Error(`no EPUB strings for language "${lang}" (see STRINGS in scripts/epub.mjs)`);
+  return STRINGS[lang];
+};
 const CSS_PATH = fileURLToPath(new URL('./epub.css', import.meta.url));
 
 // ---------------------------------------------------------------------------
@@ -136,6 +205,7 @@ const WORD_START_ELISION =
   /(^|[\s(«“"—–-])'(?=(?:[iìíîju]|am|[aâ]sht|or|[dD]h[eè]|Madh\p{L}*|[Ff]ort\p{L}*|i(?:m[eê]nd|z[eè]t|qind|her[eë])|m)(?!\p{L}))/gu;
 
 function elisionRule(state) {
+  if ((state.env.lang ?? 'sq') !== 'sq') return;
   for (const block of state.tokens) {
     if (block.type !== 'inline' || !block.children) continue;
     for (const token of block.children) {
@@ -187,6 +257,18 @@ const editorNotesHtml = (html) =>
 const editorNoteIds = (body) =>
   new Set([...body.matchAll(/(?:^|\n\n)\s*(\d+)\./g)].map(([, id]) => id));
 
+/** The typography of the chapter's language (src/lib/typography.ts), e.g. French spacing. */
+function languageRule(state) {
+  const typography = typographyFor(state.env.lang ?? 'sq');
+  if (!typography) return;
+  for (const block of state.tokens) {
+    if (block.type !== 'inline' || !block.children) continue;
+    for (const token of block.children) {
+      if (token.type === 'text') token.content = typography(token.content);
+    }
+  }
+}
+
 function textToken(state, content) {
   const token = new state.Token('text', '', 0);
   token.content = content;
@@ -236,6 +318,7 @@ function makeParser(breaks) {
   md.core.ruler.before('smartquotes', 'epub_elision', elisionRule);
   md.core.ruler.push('epub_editor_notes', editorNoteRule);
   md.core.ruler.push('epub_typography', typographyRule);
+  md.core.ruler.push('epub_language', languageRule);
   endnoteRules(md);
   return md;
 }
@@ -263,9 +346,9 @@ const siteHtmlToXhtml = (body) =>
   SITE_HTML.reduce((text, [pattern, replacement]) => text.replace(pattern, replacement), body);
 
 /** Render one chapter body; returns its XHTML and the endnotes it defines. */
-function renderChapter(body, verse, file, noteBase, editorNotes) {
+function renderChapter(body, verse, file, noteBase, editorNotes, lang) {
   const md = verse ? parsers.verse : parsers.prose;
-  const env = { file, noteBase, editorNotes };
+  const env = { file, noteBase, editorNotes, lang };
   const tokens = md.parse(siteHtmlToXhtml(body), env);
   const split = tokens.findIndex((t) => t.type === 'footnote_block_open');
   const bodyTokens = split < 0 ? tokens : tokens.slice(0, split);
@@ -294,7 +377,12 @@ function renderChapter(body, verse, file, noteBase, editorNotes) {
 // Book model
 
 function loadIndex() {
-  return JSON.parse(readFileSync(INDEX_PATH, 'utf-8'));
+  const index = JSON.parse(readFileSync(INDEX_PATH, 'utf-8'));
+  // Language editions are books of their own (src/lib/editions.ts).
+  for (const author of Object.values(index)) {
+    if (author.books) author.books = expandEditions(author.books);
+  }
+  return index;
 }
 
 /**
@@ -323,6 +411,8 @@ function loadBook(folder, index = loadIndex()) {
       const { attributes, body } = frontmatter(readFileSync(file, 'utf-8'));
       return {
         ...attributes,
+        // Its URL on the site, so links between chapters can stay in the book.
+        path: chapterPath(folder.split('/')[0], attributes),
         title: typesetTitle(attributes.title),
         subtitle: typesetTitle(attributes.subtitle),
         file,
@@ -349,7 +439,8 @@ function loadBook(folder, index = loadIndex()) {
   // A compiler who isn't the author (the Kanuni's Gjeçovi) is credited too.
   const compiler = book.compiledBy ? index[book.compiledBy]?.name : undefined;
 
-  return { folder, author, book, compiler, parts, modified: lastModified(folder) };
+  const lang = languageOf(book);
+  return { folder, author, book, compiler, parts, lang, modified: lastModified(folder) };
 }
 
 /**
@@ -383,9 +474,9 @@ function fileAs(name) {
 // ---------------------------------------------------------------------------
 // Documents
 
-const xhtml = (title, bodyType, content) => `<?xml version="1.0" encoding="utf-8"?>
+const xhtml = (title, bodyType, content, lang = 'sq') => `<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="sq" lang="sq">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="${lang}" lang="${lang}">
 <head>
 <title>${escapeXml(title)}</title>
 <link href="../css/core.css" rel="stylesheet" type="text/css"/>
@@ -403,45 +494,66 @@ function heading(level, title, subtitle) {
     : h;
 }
 
+/** Front-matter chapters, by their `epubType` frontmatter field. */
+const FRONT_MATTER_TYPES = new Set(['dedication', 'epigraph']);
+
 /**
  * Lay the book out as spine documents. Returns
  * `{ docs: [{ file, title, xhtml, toc, landmark? }], notes }`, where `toc` is
  * the nesting depth in the table of contents (0 = not listed).
  */
-function composeBook({ folder, author, book, compiler, parts, modified }) {
+function composeBook({ folder, author, book, compiler, parts: allParts, lang, modified }) {
   const title = book.name;
   const subtitle = book.subtitle;
   const url = `${BASE_URL}/${folder}/`;
   const docs = [];
+  const T = stringsFor(lang);
+  const page = (docTitle, bodyType, content) => xhtml(docTitle, bodyType, content, lang);
+  const translator = book.translatedBy
+    ? escapeXml(book.translationNote ? `${book.translatedBy} (${book.translationNote})` : book.translatedBy)
+    : '';
+  // The same work in other languages, pointed to from the imprint.
+  const alsoIn = (book.editions ?? [])
+    .filter((e) => e.folder !== folder)
+    .map((e) => T.alsoIn(T.languages[e.inLanguage] ?? e.inLanguage, e.original, `${BASE_URL}/${e.folder}/`, e.folder))
+    .join('\n');
 
   docs.push({
     file: 'titlepage.xhtml',
-    title: 'Faqja e titullit',
+    title: T.titlePage,
     toc: 1,
-    xhtml: xhtml(
+    xhtml: page(
       title,
       'frontmatter',
       `<section id="titlepage" epub:type="titlepage">
 ${subtitle ? `<hgroup>\n<h1 epub:type="title">${escapeXml(title)}</h1>\n<p epub:type="subtitle">${escapeXml(subtitle)}</p>\n</hgroup>` : `<h1 epub:type="title">${escapeXml(title)}</h1>`}
 <p class="author">${escapeXml(author.name)}</p>
-${compiler ? `<p class="compiler">Mbledhur dhe kodifikuar nga ${escapeXml(compiler)}</p>\n` : ''}${book.translatedBy ? `<p class="compiler">Përktheu ${escapeXml(book.translatedBy)}</p>\n` : ''}</section>`,
+${compiler ? `<p class="compiler">${T.compiledBy(escapeXml(compiler))}</p>\n` : ''}${translator ? `<p class="compiler">${T.translatedBy(translator)}</p>\n` : ''}</section>`,
     ),
   });
 
   docs.push({
     file: 'imprint.xhtml',
-    title: 'Për këtë botim',
+    title: T.imprint,
     toc: 1,
-    xhtml: xhtml(
-      'Për këtë botim',
+    xhtml: page(
+      T.imprint,
       'frontmatter',
-      `<section id="imprint" epub:type="imprint" aria-label="Për këtë botim">
-<p>Ky libër elektronik vjen nga <a href="${BASE_URL}/">Fletoret</a>, nisma e dixhitalizimit të veprave letrare në shqip që janë në domenin publik. Të plota, falas, kontribuar nga vullnetarë.</p>
-<p>Teksti lexohet edhe në <a href="${url}">fletoret.com/${escapeXml(folder)}</a>. Nëse ndeshni gabime, na i tregoni te <a href="${ISSUES_URL}">GitHub</a>.</p>
-<p>Vepra origjinale është në domenin publik. Transkriptimi dhe ky botim elektronik shpërndahen nën licencën <a href="${LICENSE_URL}">Creative Commons Attribution 4.0</a> (CC BY 4.0).</p>
+      `<section id="imprint" epub:type="imprint" aria-label="${T.imprint}">
+${T.imprintText(url, folder)}
+${alsoIn ? `${alsoIn}\n` : ''}${T.rightsText}
 </section>`,
     ),
   });
+
+  // A chapter marked `epubType: dedication` (or `epigraph`) is front matter:
+  // it comes before the first part, without a heading, as Standard Ebooks sets
+  // it. The site keeps it where its `parent` and `order` put it.
+  const isFront = (chapter) => FRONT_MATTER_TYPES.has(chapter.epubType);
+  const front = allParts.flatMap((part) => part.chapters.filter(isFront));
+  const parts = allParts
+    .map((part) => ({ ...part, chapters: part.chapters.filter((c) => !isFront(c)) }))
+    .filter((part) => part.chapters.length > 0);
 
   // A book whose chapters share one parent (usually the book itself) is flat;
   // otherwise each parent is a part with its own divider page.
@@ -449,6 +561,28 @@ ${compiler ? `<p class="compiler">Mbledhur dhe kodifikuar nga ${escapeXml(compil
   const notes = [];
   let noteBase = 0;
   let firstBody = true;
+
+  front.forEach((chapter, i) => {
+    const id = front.filter((c) => c.epubType === chapter.epubType).length > 1
+      ? `${chapter.epubType}-${i + 1}`
+      : chapter.epubType;
+    const file = `${id}.xhtml`;
+    const rendered = renderChapter(chapter.body, chapter.respectLineBreaks !== false, file, noteBase, null, lang);
+    noteBase += rendered.noteCount;
+    if (rendered.notes) notes.push(rendered.notes);
+    docs.push({
+      file,
+      source: chapter.file,
+      path: chapter.path,
+      title: chapter.title,
+      toc: 1,
+      xhtml: page(
+        chapter.title,
+        'frontmatter',
+        `<section id="${id}" epub:type="${chapter.epubType}" aria-label="${escapeXml(chapter.title)}">\n${rendered.html.trim()}\n</section>`,
+      ),
+    });
+  });
 
   // Chapter ids are positional, so work out where the editor's notes land.
   let editorNotes = null;
@@ -469,7 +603,7 @@ ${compiler ? `<p class="compiler">Mbledhur dhe kodifikuar nga ${escapeXml(compil
         title: part.title,
         toc: 1,
         landmark: firstBody,
-        xhtml: xhtml(
+        xhtml: page(
           part.title,
           'bodymatter',
           `<section id="part-${p + 1}" epub:type="part">\n${heading(2, part.title)}\n</section>`,
@@ -488,6 +622,7 @@ ${compiler ? `<p class="compiler">Mbledhur dhe kodifikuar nga ${escapeXml(compil
         file,
         noteBase,
         editorNotes,
+        lang,
       );
       if (chapter.editorNotes) rendered.html = editorNotesHtml(rendered.html);
       noteBase += rendered.noteCount;
@@ -500,10 +635,11 @@ ${rendered.html.trim()}
       docs.push({
         file,
         source: chapter.file,
+        path: chapter.path,
         title: chapter.title,
         toc: flat ? 1 : 2,
         landmark: firstBody,
-        xhtml: xhtml(
+        xhtml: page(
           chapter.title,
           'bodymatter',
           flat ? section : `<section id="part-${p + 1}" epub:type="part">\n${section}\n</section>`,
@@ -516,33 +652,45 @@ ${rendered.html.trim()}
   if (notes.length) {
     docs.push({
       file: 'endnotes.xhtml',
-      title: 'Shënime',
+      title: T.endnotes,
       toc: 1,
-      xhtml: xhtml(
-        'Shënime',
+      xhtml: page(
+        T.endnotes,
         'backmatter',
-        `<section id="endnotes" epub:type="endnotes">\n<h2 epub:type="title">Shënime</h2>\n<ol>\n${notes.join('').trim()}\n</ol>\n</section>`,
+        `<section id="endnotes" epub:type="endnotes">\n<h2 epub:type="title">${T.endnotes}</h2>\n<ol>\n${notes.join('').trim()}\n</ol>\n</section>`,
       ),
     });
   }
 
-  const published = book.datePublished ? ` dhe u botua më ${escapeXml(book.datePublished)}` : '';
-  const translated = book.translatedBy ? `; u përkthye nga ${escapeXml(book.translatedBy)}` : '';
   docs.push({
     file: 'colophon.xhtml',
-    title: 'Kolofoni',
+    title: T.colophon,
     toc: 1,
-    xhtml: xhtml(
-      'Kolofoni',
+    xhtml: page(
+      T.colophon,
       'backmatter',
-      `<section id="colophon" epub:type="colophon" aria-label="Kolofoni">
-<p><i>${escapeXml(title)}</i><br/>${compiler ? `u mblodh dhe u kodifikua nga ${escapeXml(compiler)}` : `u shkrua nga ${escapeXml(author.name)}`}${published}${translated}.</p>
+      `<section id="colophon" epub:type="colophon" aria-label="${T.colophon}">
+<p>${T.colophonWork({
+        title: escapeXml(title),
+        author: escapeXml(author.name),
+        compiler: compiler && escapeXml(compiler),
+        published: book.datePublished && escapeXml(book.datePublished),
+        translator,
+      })}</p>
 <hr/>
-<p>Ky botim elektronik u përgatit nga vullnetarët e <a href="${BASE_URL}/">Fletoreve</a> dhe u përditësua më ${format(modified, 'd MMMM yyyy', { locale: sq }).toLowerCase()}.</p>
-<p>Versioni më i ri gjendet gjithmonë te <a href="${url}">fletoret.com/${escapeXml(folder)}</a>.</p>
+${T.colophonEdition(format(modified, 'd MMMM yyyy', { locale: T.locale }).toLowerCase(), url, folder)}
 </section>`,
     ),
   });
+
+  // A link to another chapter of the book on the site (`/author/book/part/title/`,
+  // as a volume's table of contents has) goes to that chapter's file instead.
+  const chapterFiles = new Map(docs.filter((d) => d.path).map((d) => [`/${d.path}`, d.file]));
+  for (const doc of docs) {
+    doc.xhtml = doc.xhtml.replace(/(<a\b[^>]*\bhref=")(\/[^"#]+\/)(#[^"]*)?"/g, (whole, before, href, hash = '') =>
+      chapterFiles.has(href) ? `${before}${chapterFiles.get(href)}${hash}"` : whole,
+    );
+  }
 
   // Images the site serves from static/images/ travel inside the book.
   const images = new Map(); // site path -> package path
@@ -565,7 +713,8 @@ const IMAGE_TYPES = {
   '.webp': 'image/webp',
 };
 
-function navDocument(title, docs) {
+function navDocument(title, docs, lang) {
+  const T = stringsFor(lang);
   const items = [];
   let open = 0;
   for (const doc of docs.filter((d) => d.toc > 0)) {
@@ -584,20 +733,20 @@ function navDocument(title, docs) {
   const start = docs.find((d) => d.landmark);
   return `<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="sq" lang="sq">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="${lang}" lang="${lang}">
 <head>
-<title>Përmbajtja</title>
+<title>${T.toc}</title>
 <link href="css/core.css" rel="stylesheet" type="text/css"/>
 </head>
 <body epub:type="frontmatter">
 <nav id="toc" epub:type="toc">
-<h2 epub:type="title">Përmbajtja</h2>
+<h2 epub:type="title">${T.toc}</h2>
 <ol>
 ${items.join('\n')}
 </ol>
 </nav>
 <nav id="landmarks" epub:type="landmarks" hidden="hidden">
-<h2 epub:type="title">Pikat kryesore</h2>
+<h2 epub:type="title">${T.landmarks}</h2>
 <ol>
 <li><a href="text/${start.file}" epub:type="bodymatter">${escapeXml(title)}</a></li>
 </ol>
@@ -607,7 +756,7 @@ ${items.join('\n')}
 `;
 }
 
-function ncxDocument(uid, title, docs) {
+function ncxDocument(uid, title, docs, lang) {
   let playOrder = 0;
   const points = [];
   let open = 0;
@@ -623,7 +772,7 @@ function ncxDocument(uid, title, docs) {
   for (let level = open; level > 0; level--) points.push('</navPoint>');
 
   return `<?xml version="1.0" encoding="utf-8"?>
-<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="sq">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="${lang}">
 <head>
 <meta name="dtb:uid" content="${escapeXml(uid)}"/>
 <meta name="dtb:depth" content="${Math.max(...docs.map((d) => d.toc))}"/>
@@ -638,8 +787,9 @@ ${points.join('\n')}
 `;
 }
 
-function opfDocument({ folder, author, book, compiler, modified }, docs, images) {
+function opfDocument({ folder, author, book, compiler, lang, modified }, docs, images) {
   const uid = `${BASE_URL}/${folder}/`;
+  const T = stringsFor(lang);
   const iso = modified.toISOString().replace(/\.\d{3}Z$/, 'Z');
   const id = (file) => file.replace(/\.xhtml$/, '').replace(/[^\w-]/g, '-');
 
@@ -659,26 +809,26 @@ function opfDocument({ folder, author, book, compiler, modified }, docs, images)
   const spine = docs.map((d) => `<itemref idref="${id(d.file)}"/>`);
 
   return `<?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uid" xml:lang="sq">
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uid" xml:lang="${lang}">
 <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 <dc:identifier id="uid">${escapeXml(uid)}</dc:identifier>
 <dc:title id="title">${escapeXml(book.name)}</dc:title>
 ${book.subtitle ? `<dc:title id="subtitle">${escapeXml(book.subtitle)}</dc:title>\n<meta property="title-type" refines="#subtitle">subtitle</meta>\n<meta property="title-type" refines="#title">main</meta>\n` : ''}<dc:creator id="author">${escapeXml(author.name)}</dc:creator>
 <meta property="file-as" refines="#author">${escapeXml(fileAs(author.name))}</meta>
 <meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-${compiler ? `<dc:contributor id="compiler">${escapeXml(compiler)}</dc:contributor>\n<meta property="file-as" refines="#compiler">${escapeXml(fileAs(compiler))}</meta>\n<meta property="role" refines="#compiler" scheme="marc:relators">com</meta>\n` : ''}${book.translatedBy ? `<dc:contributor id="translator">${escapeXml(book.translatedBy)}</dc:contributor>\n<meta property="file-as" refines="#translator">${escapeXml(fileAs(book.translatedBy))}</meta>\n<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>\n` : ''}<dc:language>sq</dc:language>
+${compiler ? `<dc:contributor id="compiler">${escapeXml(compiler)}</dc:contributor>\n<meta property="file-as" refines="#compiler">${escapeXml(fileAs(compiler))}</meta>\n<meta property="role" refines="#compiler" scheme="marc:relators">com</meta>\n` : ''}${book.translatedBy ? `<dc:contributor id="translator">${escapeXml(book.translatedBy)}</dc:contributor>\n<meta property="file-as" refines="#translator">${escapeXml(fileAs(book.translatedBy))}</meta>\n<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>\n` : ''}<dc:language>${lang}</dc:language>
 <dc:publisher>Fletoret</dc:publisher>
 <dc:date>${iso}</dc:date>
 <meta property="dcterms:modified">${iso}</meta>
 <dc:source>${escapeXml(uid)}</dc:source>
-<dc:rights>Vepra origjinale është në domenin publik. Transkriptimi dhe ky botim elektronik: CC BY 4.0, ${LICENSE_URL}</dc:rights>
+<dc:rights>${escapeXml(T.rights)}</dc:rights>
 ${book.abstract ? `<dc:description>${escapeXml(book.abstract)}</dc:description>\n` : ''}<meta property="schema:accessMode">textual</meta>
 <meta property="schema:accessModeSufficient">textual</meta>
 <meta property="schema:accessibilityFeature">readingOrder</meta>
 <meta property="schema:accessibilityFeature">structuralNavigation</meta>
 <meta property="schema:accessibilityFeature">tableOfContents</meta>
 <meta property="schema:accessibilityHazard">none</meta>
-<meta property="schema:accessibilitySummary">Tekst me tituj semantikë, tabelë të përmbajtjes dhe shënime të lidhura në të dy drejtimet.</meta>
+<meta property="schema:accessibilitySummary">${T.accessibility}</meta>
 <meta name="cover" content="cover.jpg"/>
 </metadata>
 <manifest>
@@ -951,8 +1101,8 @@ export async function buildEpub(folder, index = loadIndex()) {
     { name: 'mimetype', data: Buffer.from('application/epub+zip'), store: true },
     { name: 'META-INF/container.xml', data: Buffer.from(CONTAINER_XML) },
     { name: 'epub/content.opf', data: Buffer.from(opfDocument(model, docs, images)) },
-    { name: 'epub/toc.xhtml', data: Buffer.from(navDocument(model.book.name, docs)) },
-    { name: 'epub/toc.ncx', data: Buffer.from(ncxDocument(uid, model.book.name, docs)) },
+    { name: 'epub/toc.xhtml', data: Buffer.from(navDocument(model.book.name, docs, model.lang)) },
+    { name: 'epub/toc.ncx', data: Buffer.from(ncxDocument(uid, model.book.name, docs, model.lang)) },
     { name: 'epub/css/core.css', data: readFileSync(CSS_PATH) },
     { name: 'epub/images/cover.jpg', data: await coverJpeg(model.book), store: true },
     ...[...images].map(([src, href]) => ({
@@ -986,6 +1136,8 @@ export async function buildEpub(folder, index = loadIndex()) {
 
 /** Folders of the books that opt in with `"epub": true`. */
 export function epubBookFolders(index = loadIndex()) {
+  // loadIndex has flattened language editions into `books`, so a flagged
+  // edition gets its own EPUB.
   return Object.values(index)
     .flatMap((author) => author.books ?? [])
     .filter((book) => book.epub === true)

@@ -18,7 +18,8 @@ indistinguishable here (checked on the type, which is what would suffer) and a
 sixth of the bytes. These are regenerated whenever the corpus changes, so every
 kilobyte lands in git history more than once.
 
-Design follows design.md: the dark theme's tokens verbatim, Instrument Serif for
+Design follows design.md: the theme tokens verbatim (dark unless a book asks
+for light), Instrument Serif for
 display type, Source Serif 4 for prose and figures, Inter for anything scanned
 (eyebrow, labels, URL). Rendered at 2x and downsampled, which is cheaper than
 hinting text at final size and keeps the hairlines from disappearing.
@@ -47,12 +48,34 @@ F_SERIF = f"{NM}/@fontsource-variable/source-serif-4/files/source-serif-4-latin-
 F_SERIF_IT = f"{NM}/@fontsource-variable/source-serif-4/files/source-serif-4-latin-wght-italic.woff2"
 F_SANS = os.path.join(ROOT, "static/fonts/InterVariable.woff2")
 
-# --- colour: dark theme tokens, verbatim from src/lib/css/app.css ----------
-BG = (26, 23, 18)  # --bg-primary-dark
-INK = (230, 223, 207)  # --text-primary-dark
-INK_DIM = (151, 141, 123)  # --text-secondary-dark
-ACCENT = (231, 154, 114)  # --link-primary-dark
-LINE = (46, 42, 34)  # --border-color-dark
+# --- colour: theme tokens, verbatim from src/lib/css/app.css ---------------
+# Dark is the default; a book opts into light with `"theme": "light"` in
+# BOOK_META. Light follows design.md's glow rule: less opacity, more saturation,
+# since a blurred cover over near-white paper otherwise turns grey.
+THEMES = {
+    "dark": {
+        "bg": (26, 23, 18),  # --bg-primary-dark
+        "ink": (230, 223, 207),  # --text-primary-dark
+        "ink_dim": (151, 141, 123),  # --text-secondary-dark
+        "accent": (231, 154, 114),  # --link-primary-dark
+        "line": (46, 42, 34),  # --border-color-dark
+        "glow": (1.0, 1.0),  # opacity, saturation multipliers
+        "shadow": 150,
+        "edge": (255, 240, 220, 26),  # hairline round the cover
+        "grain": (255, 245, 225),
+    },
+    "light": {
+        "bg": (253, 253, 251),  # --bg-primary-light
+        "ink": (34, 32, 27),  # --text-primary-light
+        "ink_dim": (125, 118, 106),  # --text-secondary-light
+        "accent": (176, 74, 47),  # --link-primary-light
+        "line": (236, 235, 228),  # --border-color-light
+        "glow": (0.55, 1.25),
+        "shadow": 70,
+        "edge": (34, 32, 27, 30),
+        "grain": (60, 50, 35),
+    },
+}
 
 S = 2  # supersample factor — every measurement below is logical px
 W, H = 1200, 628  # the Reddit/OG frame used in src/routes/social-images
@@ -85,6 +108,12 @@ BOOK_META = {
     "leke-dukagjini/kanuni": {"kind": "Kanun", "unit": "libra"},
     "gjecovi/agimi-i-gjytetniis": {"kind": "Edukatë qytetare", "unit": "pjesë"},
     "pashko-vasa/e-verteta-mbi-shqipnine": {"kind": "Studim historik", "unit": "krerë"},
+    "dora-distria/per-grate-nga-nje-grua": {"kind": "Letra", "unit": "pjesë", "theme": "light"},
+    "dora-distria/des-femmes-par-une-femme": {
+        "kind": "Letra · origjinali frëngjisht",
+        "unit": "pjesë",
+        "theme": "light",
+    },
     "sami-frasheri/shqiperia": {"kind": "Traktat", "unit": "krerë"},
     "sami-frasheri/proverba": {
         "kind": "Fjalë të urta",
@@ -146,6 +175,20 @@ def clean_body(raw):
     return text
 
 
+# What an edition takes from its work (src/lib/editions.ts, INHERITED).
+EDITION_INHERITED = ("genre", "datePublished", "compiledBy", "publishedFletoret")
+
+
+def expand_editions(books):
+    """A work's language editions (its `editions` list) as books of their own."""
+    out = []
+    for work in books:
+        out.append(work)
+        for edition in work.get("editions") or []:
+            out.append({**{k: work[k] for k in EDITION_INHERITED if k in work}, **edition})
+    return out
+
+
 def read_book(folder):
     """Walk a book's markdown and return (pieces, words, lines, numbered)."""
     pieces = words = lines = numbered = 0
@@ -182,6 +225,8 @@ def describe(folder, pieces):
         else:
             meta["unit"] = "vjersha" if verse else "krerë"
     meta.setdefault("count", "files")
+    meta.setdefault("kind", "")
+    meta.setdefault("theme", "dark")
     return meta
 
 
@@ -325,6 +370,9 @@ def circle_crop(img, d, focus=(0.5, 0.42), zoom=0.82):
 # --------------------------------------------------------------------- render
 def render(book):
     """One book in, one 2x RGBA frame out."""
+    t = THEMES[book["theme"]]
+    BG, INK, INK_DIM, ACCENT, LINE = t["bg"], t["ink"], t["ink_dim"], t["accent"], t["line"]
+    glow_op, glow_sat = t["glow"]
     canvas = Image.new("RGBA", (W * S, H * S), BG + (255,))
     draw = ImageDraw.Draw(canvas)
 
@@ -354,10 +402,10 @@ def render(book):
     ):
         g = cover.resize((64, 96), Image.LANCZOS).resize((glow_d, glow_d), Image.BICUBIC)
         g = g.filter(ImageFilter.GaussianBlur(blur))
-        g = ImageEnhance.Color(g).enhance(sat)
+        g = ImageEnhance.Color(g).enhance(sat * glow_sat)
         g = ImageEnhance.Brightness(g).enhance(bright)
         g = g.convert("RGBA")
-        g.putalpha(radial_mask((glow_d, glow_d)).point(lambda v: int(v * opacity)))
+        g.putalpha(radial_mask((glow_d, glow_d)).point(lambda v: int(v * opacity * glow_op)))
         canvas.alpha_composite(
             g, ((cx + cw // 2 + dx) * S - glow_d // 2, (cy + ch // 2) * S - glow_d // 2)
         )
@@ -368,7 +416,7 @@ def render(book):
     ImageDraw.Draw(shadow).rounded_rectangle(
         [(cx - 2) * S, (cy + 6) * S, (cx + cw + 2) * S, (cy + ch + 16) * S],
         radius=6 * S,
-        fill=(0, 0, 0, 150),
+        fill=(0, 0, 0, t["shadow"]),
     )
     canvas.alpha_composite(shadow.filter(ImageFilter.GaussianBlur(18 * S)))
 
@@ -378,7 +426,7 @@ def render(book):
     draw.rounded_rectangle(
         [cx * S, cy * S, (cx + cw) * S - 1, (cy + ch) * S - 1],
         radius=5 * S,
-        outline=(255, 240, 220, 26),
+        outline=t["edge"],
         width=max(1, S // 2),
     )
 
@@ -455,7 +503,7 @@ def render(book):
                 )
                 draw.ellipse(
                     [col * S, y * S, (col + PORTRAIT_D) * S - 1, (y + PORTRAIT_D) * S - 1],
-                    outline=(231, 154, 114, 70),
+                    outline=ACCENT + (70,),
                     width=max(1, S // 2),
                 )
             # Several authors have no dates or birthplace in autore/index.json.
@@ -490,12 +538,12 @@ def render(book):
             w_url = measure(draw, url, f_url, 0.02)
             draw.rectangle(
                 [col * S, (y + h + 8) * S, (col + w_url) * S, (y + h + 8) * S + S - 1],
-                fill=(231, 154, 114, 70),
+                fill=ACCENT + (70,),
             )
         y += h
 
     # Grain: keeps the flat dark ground from banding, and reads as paper.
-    grain = Image.new("RGBA", canvas.size, (255, 245, 225, 0))
+    grain = Image.new("RGBA", canvas.size, t["grain"] + (0,))
     grain.putalpha(Image.effect_noise(canvas.size, 22).convert("L").point(lambda v: int(abs(v - 128) * 0.10)))
     canvas.alpha_composite(grain)
 
@@ -532,7 +580,7 @@ def collect(filters):
             span = f"{birth}–{death}"
         author_meta = " · ".join(p for p in (city.upper(), span) if p)
 
-        for book in author.get("books") or []:
+        for book in expand_editions(author.get("books") or []):
             folder = book.get("folder") or ""
             if not book.get("publishedFletoret") or not folder:
                 continue
@@ -554,10 +602,12 @@ def collect(filters):
                     "author_name": author.get("name") or "",
                     "author_meta": author_meta,
                     "quote": meta.get("quote"),
+                    "theme": meta["theme"],
                     "url": f"fletoret.com/{folder}",
                     "stats": [
                         (sq(first), meta["unit"].upper()),
-                        (sq(words), "FJALË TË TRANSKRIPTUARA"),
+                        # Fletoret's own translations (with a translationNote) weren't transcribed.
+                        (sq(words), "FJALË TË PËRKTHYERA" if book.get("translationNote") else "FJALË TË TRANSKRIPTUARA"),
                     ],
                     "counts": {
                         "unit": meta["unit"],

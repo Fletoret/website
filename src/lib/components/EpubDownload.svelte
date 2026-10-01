@@ -29,7 +29,7 @@
   {:else}
     <span class="label">
       Shkarko e-book
-      <span class="format">EPUB falas · Kindle, Kobo, Apple Books</span>
+      <span class="format">EPUB · Kindle, Kobo, Apple Books</span>
     </span>
   {/if}
 </a>

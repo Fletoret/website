@@ -145,6 +145,57 @@ p.maxims {
   text-indent: 0;
 }
 
+/* Front matter (see src/lib/css/blog.css): a motto and a dedication. */
+div.motto {
+  font-size: 0.9em;
+  font-style: italic;
+  margin: 2em 0 0 40%;
+}
+
+div.motto p {
+  text-indent: 0;
+}
+
+div.motto p:last-child {
+  font-style: normal;
+  font-variant: small-caps;
+  text-align: right;
+}
+
+div.dedication {
+  margin-top: 30%;
+  text-align: center;
+}
+
+div.dedication p {
+  letter-spacing: 0.12em;
+  line-height: 2.4;
+  text-indent: 0;
+  text-transform: uppercase;
+}
+
+/* Letters (Dora d'Istria): `{.argument}` (upright and small, as the print's
+   table of contents sets it), `{.toc-argument}` and `{.dateline}`. */
+p.argument,
+p.toc-argument {
+  font-size: 0.85em;
+  hyphens: auto;
+  -epub-hyphens: auto;
+  margin: 1em 0 2em;
+  text-align: justify;
+  text-indent: 0;
+}
+
+p.toc-argument {
+  margin: 0.3em 0 1.5em;
+}
+
+p.dateline {
+  font-style: italic;
+  text-align: right;
+  text-indent: 0;
+}
+
 span.caps {
   font-size: 0.85em;
 }

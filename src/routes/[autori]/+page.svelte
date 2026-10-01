@@ -17,7 +17,7 @@
   let description = $derived.by(() => {
     let desc = `${author?.name} - veprat e plota. `;
     if (author?.books) {
-      desc += author.books.map((x) => x.name).join(', ') + '.';
+      desc += author.books.filter((x) => !x.editionOf).map((x) => x.name).join(', ') + '.';
     }
     if (bookEntries?.some(([book]) => book.epub)) {
       desc += ` ${bookEntries.filter(([book]) => book.epub).length > 1 ? EPUB_BLURB_PLURAL : EPUB_BLURB}`;
@@ -134,7 +134,7 @@
     display: flex;
     gap: 3rem;
     justify-content: center;
-    padding: var(--spacing-xl) var(--spacing-xxl);
+    padding: var(--spacing-2xxl) var(--spacing-xxl) var(--spacing-xl);
     margin: auto;
   }
   main #content {
@@ -142,7 +142,7 @@
     min-width: 0;
     display: flex;
     flex-direction: column;
-    gap: 2rem;
+    gap: var(--spacing-2xxl);
   }
   /* Sized to the 300px cover/author card, not a percentage that can fall below it. */
   aside {
@@ -153,7 +153,6 @@
     display: flex;
     flex-direction: column;
     gap: var(--spacing-sm);
-    padding-bottom: var(--spacing-lg);
   }
   .shelf .count {
     color: var(--text-secondary);

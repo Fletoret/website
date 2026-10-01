@@ -1,4 +1,4 @@
-import { getAllEntries, getAuthorInfo } from '$lib/db';
+import { getAllEntries, getAuthorInfo, getEditionCounterparts } from '$lib/db';
 import { getUrlParts } from '$lib/utils';
 import { error } from '@sveltejs/kit';
 import type { Post } from '$lib/types';
@@ -32,10 +32,15 @@ export function load({ url }) {
     }
   }
 
+  const authorInfo = getAuthorInfo(author);
+  const book = authorInfo?.books?.find((b) => `${b.folder}/` === post.relativeUrlBook);
+
   return {
     post,
     // postBefore,
     postAfter,
-    authorInfo: getAuthorInfo(author),
+    authorInfo,
+    // This chapter in the book's other languages (src/lib/editions.ts).
+    counterparts: getEditionCounterparts(post, posts, book),
   };
 }

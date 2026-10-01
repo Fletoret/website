@@ -27,6 +27,8 @@
 //   --author-size <rem>       default: 1.05
 //   --timeout <ms>            per-step browser timeout (default 120000)
 //   --keep-png                also keep the intermediate PNG alongside avif/webp
+//
+// CHROMIUM_PATH=<executable> uses that browser instead of Playwright's own.
 
 import { readFileSync, writeFileSync, unlinkSync, mkdirSync } from 'node:fs';
 import { join, dirname, extname } from 'node:path';
@@ -34,6 +36,7 @@ import { execFileSync } from 'node:child_process';
 import { tmpdir } from 'node:os';
 import { createServer } from 'vite';
 import { chromium } from 'playwright';
+import { expandEditions } from '../src/lib/editions.ts';
 
 const PALETTE_IDS = [
   'classic',
@@ -125,11 +128,14 @@ function parseArgs(argv) {
   return { folder, options };
 }
 
-/** Finds a book (and its author entry) by "folder" across autore/index.json. */
+/**
+ * Finds a book (and its author entry) by "folder" across autore/index.json,
+ * language editions included (src/lib/editions.ts).
+ */
 function findBook(folder) {
   const index = JSON.parse(readFileSync('autore/index.json', 'utf-8'));
   for (const authorEntry of Object.values(index)) {
-    const book = authorEntry.books?.find((b) => b.folder === folder);
+    const book = expandEditions(authorEntry.books).find((b) => b.folder === folder);
     if (book) return { author: authorEntry, book };
   }
   return null;
@@ -273,7 +279,11 @@ async function main() {
   }
   console.log('ok');
 
-  const browser = await chromium.launch();
+  // CHROMIUM_PATH runs an already-installed browser when Playwright's own
+  // download for this version is missing.
+  const browser = await chromium.launch(
+    process.env.CHROMIUM_PATH ? { executablePath: process.env.CHROMIUM_PATH } : {},
+  );
   try {
     const context = await browser.newContext({
       viewport: { width: 1280, height: 900 },

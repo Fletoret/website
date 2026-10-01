@@ -1,7 +1,12 @@
 <script lang="ts">
+  // The book page's side panel: cover, e-book download and language switch.
+  // The title, author and description are in the page's main column (see
+  // src/routes/[autori]/[libri]/+page.svelte). On a phone this panel dissolves
+  // (`display: contents`) so the page can interleave its pieces with the title:
+  // cover, title and author, download, description, chapters.
   import EpubDownload from './EpubDownload.svelte';
+  import EditionSwitch from './EditionSwitch.svelte';
   import type { Author, ExtendedBookType } from '$lib/types';
-  import BreadcrumbItem from './BreadcrumbItem.svelte';
 
   interface Props {
     book?: ExtendedBookType;
@@ -22,32 +27,18 @@
   {#if book?.epub}
     <EpubDownload bookFolder={book.folder} authorName={author?.name ?? ''} />
   {/if}
-  <div class="book-details">
-    <div class="intro">
-      {book?.abstract} Botuar në {book?.datePublished}.
-      {#if book?.compilerName}
-        Mbledhur dhe kodifikuar nga <a href="/{book.compiledBy}/">{book.compilerName}</a>.
-      {/if}
-      {#if book?.translatedBy}
-        Përktheu {book.translatedBy}.
-      {/if}
-    </div>
-    <div class="author-wrapper">
-      <BreadcrumbItem
-        item={{
-          thumbnail: author?.thumbnail,
-          text: author?.name ?? '',
-          url: author?.folder ?? '',
-        }}
-      />
-    </div>
-  </div>
+  {#if book?.editions && book.editions.length > 1}
+    <EditionSwitch editions={book.editions} current={book.folder} />
+  {/if}
 </div>
 
 <style lang="scss">
   #book-side-panel {
     position: sticky;
-    top: 6rem;
+    /* Where the panel sits at rest: under the 69px header, after the page's
+       top padding. Sticking any lower would nudge the cover down on long
+       pages, out of line with the title beside it. */
+    top: calc(69px + var(--spacing-xl));
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -75,22 +66,6 @@
       object-fit: cover;
       object-position: center;
     }
-
-    .book-details {
-      display: flex;
-      flex-direction: column;
-      gap: var(--spacing-md);
-
-      .intro {
-        color: var(--text-secondary);
-        line-height: 1.5;
-        font-size: var(--text-sm);
-      }
-
-      .author-wrapper {
-        width: 100%;
-      }
-    }
   }
 
   /* The glow is a mobile treatment: on desktop the card sits in a narrow sticky
@@ -101,23 +76,29 @@
     }
   }
 
+  /* On a phone the panel's pieces join the page's single column, in the
+     order the page sets: cover (1), title and author (2), download (3),
+     language switch (4), description (5), chapters (6). */
   @media (max-width: 900px) {
     #book-side-panel {
-      max-width: var(--container-width);
-      position: relative;
-      top: 0;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      gap: 1rem;
-      padding: 0 var(--spacing-lg);
+      display: contents;
 
       .card {
         --width: 200px;
         --height: 250px;
 
-        /* Room for the halo to fall below the card before the abstract. */
+        order: 1;
+        align-self: center;
+        /* Room for the halo to fall below the card before the title. */
         margin-bottom: var(--spacing-xl);
+      }
+
+      :global(.download) {
+        order: 3;
+      }
+
+      :global(.editions) {
+        order: 4;
       }
     }
   }

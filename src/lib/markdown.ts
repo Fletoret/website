@@ -14,6 +14,9 @@ import mdLinkAttributes from 'markdown-it-link-attributes';
 import slugify from 'slugify';
 import { addTrailingSlash } from '$lib/utils';
 import { editorNotesPlugin, parseEditorNotesFile } from '$lib/markdown-editor-notes';
+import { languageOf } from '$lib/editions';
+import { typographyFor } from '$lib/typography';
+import { chapterPath } from '$lib/slug';
 
 import type { BlogPost, Post, Author } from '$lib/types';
 
@@ -58,12 +61,15 @@ interface MarkdownParserOptions {
   codeHighlighting?: boolean;
   latex?: boolean;
   editorNoteIds?: Set<string>;
+  /** Language of the text, for its typography (src/lib/typography.ts). */
+  lang?: string;
 }
 
 function getMarkdownParser({
   respectLineBreaks = true,
   codeHighlighting = true,
   editorNoteIds,
+  lang,
 }: MarkdownParserOptions = {}) {
   const mdconfig: MarkdownItOptions = {
     html: true,
@@ -122,6 +128,17 @@ function getMarkdownParser({
     })
     .use(editorNotesPlugin, editorNoteIds ?? new Set());
 
+  const typography = lang ? typographyFor(lang) : undefined;
+  if (typography) {
+    parser.core.ruler.push('language_typography', (state) => {
+      for (const block of state.tokens) {
+        for (const token of block.children ?? []) {
+          if (token.type === 'text') token.content = typography(token.content);
+        }
+      }
+    });
+  }
+
   return parser;
 }
 
@@ -143,6 +160,27 @@ function loadEditorNotes(filepath: string): Record<string, string> {
   });
 
   return parseEditorNotesFile(body, notesRenderer);
+}
+
+/** The line that opens a collapsed `{.argument}`, in the text's language. */
+const ARGUMENT_LABEL: Record<string, string> = {
+  sq: 'Çfarë trajton kjo letër',
+  fr: 'Sommaire de la lettre',
+};
+
+/**
+ * A chapter's summary (`{.argument}`: in Dora d'Istria's letters, the topics
+ * the print lists in its table of contents) opens the chapter collapsed, so the
+ * text itself starts at the top of the page, which matters most on phones. The
+ * EPUB keeps it as a plain block (scripts/epub.mjs), since e-readers handle
+ * `<details>` unreliably.
+ */
+function collapseArgument(html: string, lang: string): string {
+  return html.replace(
+    /<p class="argument">([\s\S]*?)<\/p>/,
+    (_, text) =>
+      `<details class="argument"><summary>${ARGUMENT_LABEL[lang] ?? ARGUMENT_LABEL.sq}</summary><p>${text}</p></details>`,
+  );
 }
 
 /**
@@ -191,17 +229,9 @@ export function parse(
     body,
   } = frontmatter<PostFrontmatter>(content);
 
-  const toSlug = (x: string | undefined) =>
-    slugify(x ? x.toLowerCase() : 'p')
-      .replaceAll(' ', '-')
-      .replace(/[^\w-]/g, '')
-      .replace(/[-]+/g, '-');
-
   // `slug` overrides the URL segment a post would get from its title. Needed
   // where a book repeats a title: Hil Mosi has three poems called «Lamtumir!».
-  const parts = [toSlug(grandparent), toSlug(parent), toSlug(slug || title)];
-
-  const relativeUrl = addTrailingSlash(`${authorFolder}/${parts.join('/')}`);
+  const relativeUrl = chapterPath(authorFolder, { grandparent, parent, title, slug });
 
   const editorNotes = loadEditorNotes(filepath);
 
@@ -210,13 +240,14 @@ export function parse(
     respectLineBreaks: respectLineBreaks,
     latex: false,
     editorNoteIds: new Set(Object.keys(editorNotes)),
+    lang: languageOf(book),
   });
 
   slugify.extend({
     '—': '-',
   });
 
-  const html = md.render(body);
+  const html = collapseArgument(md.render(body), languageOf(book));
   const tagsArray = tags.trim().split(/\s*,\s*/g);
 
   const post = {
@@ -240,6 +271,7 @@ export function parse(
     // human_date: format(date, 'do MMMM yyyy'),
     // last_update: last_update ? format(last_update, 'do MMMM yyyy') : '',
     bookName: String(book.name || ''),
+    lang: languageOf(book),
     relativeUrl,
     relativeUrlBook: addTrailingSlash(`${book.folder}`),
     url: `${config.info.base_url}/${relativeUrl}`,

@@ -58,14 +58,17 @@
     display: flex;
     align-items: center;
     gap: 1rem;
-    padding: var(--spacing-lg) var(--spacing-xl);
+    /* 1px in for the list's border, and the numeral as wide as an entry's
+       icon, so a part's name starts where its entries' names do. */
+    padding: var(--spacing-lg) var(--spacing-xl) var(--spacing-lg)
+      calc(var(--spacing-xl) + 1px);
     margin-top: var(--spacing-xxl);
   }
   .header .chapter-number {
     color: var(--text-secondary);
     font-size: 90%;
     display: block;
-    min-width: 22px;
+    min-width: 24px;
     text-align: right;
   }
 
@@ -124,7 +127,8 @@
 
   @media only screen and (min-width: 320px) and (max-width: 576px) {
     .header {
-      padding: var(--spacing-lg) var(--spacing-lg);
+      padding: var(--spacing-lg) var(--spacing-lg) var(--spacing-lg)
+        calc(var(--spacing-lg) + 1px);
     }
 
     .item-list .item {
@@ -132,6 +136,9 @@
     }
     .item-list .item .icon {
       --size: 22px;
+    }
+    .header .chapter-number {
+      min-width: 22px;
     }
   }
 </style>
