@@ -29,7 +29,8 @@ export const GET: RequestHandler = () => {
     if (!authorIndex) continue;
 
     const entry = parse(author, content, filepath, authorIndex);
-    if (!entry) continue;
+    // Snippets are Albanian; editions in other languages stay out.
+    if (!entry || entry.lang !== 'sq') continue;
 
     // Split body into paragraphs for random snippet selection
     const snippets = entry.body

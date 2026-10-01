@@ -1,4 +1,5 @@
 import type { Person, Book, WithContext } from 'schema-dts';
+import type { EditionLink } from '$lib/editions';
 
 export type Post = {
   title: string;
@@ -22,6 +23,8 @@ export type Post = {
   urlBook: string;
   html: string;
   editorNotes?: Record<string, string>;
+  /** Language of the text: the book's `inLanguage`, `sq` unless an edition says otherwise. */
+  lang: string;
   previewSnippet?: string;
   human_date?: string;
   last_update?: string;
@@ -75,6 +78,21 @@ export type ExtendedBookType = WithContext<Book> & {
    * profile, the EPUB title page and colophon, and as schema.org `translator`.
    */
   translatedBy?: string;
+  /**
+   * How the translation was made, shown in brackets after `translatedBy`:
+   * "përkthim i ri me ndihmën e AI-së, 2026" for Fletoret's own translations.
+   */
+  translationNote?: string;
+  /**
+   * This book in other languages (src/lib/editions.ts). Written in the index as
+   * full book entries; db.ts flattens them into the author's `books` and
+   * replaces this with the whole family, this book included.
+   */
+  editions?: EditionLink[];
+  /** Set by db.ts on an edition: the folder of the work it's an edition of. */
+  editionOf?: string;
+  /** The edition in the language the work was written in. */
+  original?: boolean;
 };
 
 export type Author = {

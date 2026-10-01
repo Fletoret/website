@@ -24,7 +24,7 @@
     <a href="https://github.com/Fletoret/website/stargazers"><img alt="Yje" src="https://img.shields.io/github/stars/Fletoret/website?style=flat-square&color=e3b341"></a>
   </p>
 
-  <sub><b>18 autorë</b> · <b>24 vepra</b> · <b>560 kapituj e poezi</b> · <b>~629 mijë fjalë</b> · <b>23 e-book</b> &nbsp;<i>(shtator 2026)</i></sub>
+  <sub><b>19 autorë</b> · <b>25 vepra</b> · <b>613 kapituj e poezi</b> · <b>~1 milion fjalë</b> · <b>25 e-book</b> &nbsp;<i>(shtator 2026)</i></sub>
 </div>
 
 <br>
@@ -150,6 +150,11 @@
       <sub>Vargjet e lira · Novelat e qytetit të veriut</sub>
     </td>
     <td align="center" width="25%" valign="top">
+      <a href="https://fletoret.com/dora-distria/"><img src="static/images/dora-distria.webp" height="118" alt="Dora d'Istria"></a><br>
+      <b><a href="https://fletoret.com/dora-distria/">Dora d'Istria</a></b><br>
+      <sub>Për gratë, nga një grua · <i>Des femmes</i></sub>
+    </td>
+    <td align="center" width="25%" valign="top">
       <br>
       <b><a href="#-si-mund-të-ndihmoj">+ Autori tjetër</a></b><br>
       <sub>Radha e tij varet<br>nga ti</sub>
@@ -165,6 +170,7 @@
 | Frang Bardhi | [Apologjia e Skënderbeut](https://fletoret.com/frang-bardhi/skenderbeu/) | 1636 | Apologji | 7 | [EPUB](https://fletoret.com/epub/frang-bardhi/skenderbeu.epub) |
 | Pashko Vasa | [E vërteta mbi Shqipninë dhe shqiptarët](https://fletoret.com/pashko-vasa/e-verteta-mbi-shqipnine/) | 1879 | Studim historik | 16 | [EPUB](https://fletoret.com/epub/pashko-vasa/e-verteta-mbi-shqipnine.epub) |
 | Kostandin Kristoforidhi | [Gjaja e Malësorvet](https://fletoret.com/kostandin-kristoforidhi/gjaja-e-malesorvet/) | 1930 | Tregim | 1 | [EPUB](https://fletoret.com/epub/kostandin-kristoforidhi/gjaja-e-malesorvet.epub) |
+| Dora d'Istria | [Për gratë, nga një grua](https://fletoret.com/dora-distria/per-grate-nga-nje-grua/) · origjinali: [Des femmes, par une femme](https://fletoret.com/dora-distria/des-femmes-par-une-femme/) | 1865 | Letra | 27 | [EPUB](https://fletoret.com/epub/dora-distria/per-grate-nga-nje-grua.epub) · [FR](https://fletoret.com/epub/dora-distria/des-femmes-par-une-femme.epub) |
 | Zef Serembe | [Vjersha](https://fletoret.com/zef-serembe/vjersha/) | 1926 | Poezi | 35 | [EPUB](https://fletoret.com/epub/zef-serembe/vjersha.epub) |
 | Naim Frashëri | [Bagëti e Bujqësija](https://fletoret.com/naim-frasheri/bageti-e-bujqesi/) | 1886 | Poemë | 1 | [EPUB](https://fletoret.com/epub/naim-frasheri/bageti-e-bujqesi.epub) |
 | Sami Frashëri | [Proverba](https://fletoret.com/sami-frasheri/proverba/) | 1878 | Fjalë të urta | 4 | [EPUB](https://fletoret.com/epub/sami-frasheri/proverba.epub) |
@@ -294,7 +300,22 @@ Nën autorin përkatës, shto një zë te `books`:
 }
 ```
 
-`publishedFletoret: false` e mban veprën jashtë faqes derisa të jetë gati. Kur vepra ka një përmbledhës që nuk është autori (Kanuni: ligji i Lekë Dukagjinit, i mbledhur nga Gjeçovi), `"compiledBy": "gjecovi"` e shfaq veprën edhe te faqja e përmbledhësit, me shënimin «Mbledhur dhe kodifikuar nga…», pa e kopjuar tekstin. Kur teksti është përkthim, `"translatedBy": "Mehdi Frashëri"` e shënon përkthyesin te profili i veprës dhe te e-book-u. Nëse autori është i ri, shto edhe zërin e tij me `folder`, `name`, `description`, `thumbnail`, `progressState` (`complete` | `partial` | `missing`) dhe `author` (të dhënat schema.org).
+`publishedFletoret: false` e mban veprën jashtë faqes derisa të jetë gati. Kur vepra ka një përmbledhës që nuk është autori (Kanuni: ligji i Lekë Dukagjinit, i mbledhur nga Gjeçovi), `"compiledBy": "gjecovi"` e shfaq veprën edhe te faqja e përmbledhësit, me shënimin «Mbledhur dhe kodifikuar nga…», pa e kopjuar tekstin. Kur teksti është përkthim, `"translatedBy": "Mehdi Frashëri"` e shënon përkthyesin te profili i veprës dhe te e-book-u; `"translationNote"` shton në kllapa si u bë përkthimi (p.sh. «përkthim i ri me ndihmën e AI-së, 2026»).
+
+Një vepër mund të ketë edhe botime në gjuhë të tjera, p.sh. origjinalin frëngjisht krah përkthimit shqip. Ato shkojnë te `editions` i veprës, secili me `name`, `folder`, `inLanguage` (`fr`, `it`, `en`…), `abstract`, `thumbnail` dhe, po deshe, `"original": true` e `"epub": true`. Çdo botim është libër më vete, me dosjen, kapitujt, faqen dhe e-book-un e vet (teksti merr `lang` e gjuhës, e-book-u fjalët e veta në atë gjuhë), por te faqja e autorit del një herë, te vepra. Profili ka një ndërrues gjuhe, dhe çdo kapitull lidhet me kapitullin që i përgjigjet në botimin tjetër (sipas pjesës dhe `order`).
+
+```json
+{
+  "name": "Për gratë, nga një grua",
+  "folder": "dora-distria/per-grate-nga-nje-grua",
+  "inLanguage": "sq",
+  "editions": [
+    { "name": "Des femmes, par une femme", "folder": "dora-distria/des-femmes-par-une-femme",
+      "inLanguage": "fr", "original": true, "publishedFletoret": true, "epub": true }
+  ]
+}
+```
+ Nëse autori është i ri, shto edhe zërin e tij me `folder`, `name`, `description`, `thumbnail`, `progressState` (`complete` | `partial` | `missing`) dhe `author` (të dhënat schema.org).
 
 </details>
 
@@ -328,6 +349,7 @@ e varrosën lagjen pranë,
 | `respectLineBreaks` | | `true` për poezinë — ruan thyerjet e rreshtave ashtu siç janë. |
 | `slug` | | Mbivendos segmentin e URL-së. I duhet aty ku një vepër përsërit një titull (Hil Mosi ka tre poezi «Lamtumir!»). |
 | `subtitle`, `keywords` | | Metadata shtesë, opsionale. |
+| `epubType` | | `dedication` ose `epigraph`: në e-book kapitulli del si faqe hyrëse, para pjesës së parë dhe pa titull. Në faqe mbetet aty ku e vënë `parent` dhe `order`. |
 
 > [!IMPORTANT]
 > URL-ja e një kapitulli ndërtohet nga `grandparent`, `parent` dhe `title` te ballina e skedarit — **jo** nga emrat e dosjeve. Dosjet i mban njeriu, URL-në e mban ballina.

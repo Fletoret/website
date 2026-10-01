@@ -19,6 +19,7 @@
 // tooling and server code, never from a component.
 
 import * as fs from 'fs';
+import { expandEditions } from './editions';
 import type { Author } from './types';
 
 const AUTHORS_INDEX = 'autore/index.json';
@@ -53,7 +54,7 @@ export function getRedirects(indexPath = AUTHORS_INDEX): Redirect[] {
   const claimed: Array<{ from: string; to: string; label: string }> = [];
 
   for (const author of Object.values(index)) {
-    for (const entry of [author, ...(author.books ?? [])]) {
+    for (const entry of [author, ...expandEditions(author.books ?? [])]) {
       if (!entry.folder) continue;
 
       const to = toPath(entry.folder);

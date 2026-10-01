@@ -132,6 +132,62 @@
       }
     ]
   },
+  "dora-distria": {
+    "folder": "dora-distria",
+    "name": "Dora d'Istria",
+    "description": "Dora d'Istria (1828–1888), emri letrar i Elena Gjikës, ka qenë shkrimtare, udhëtare dhe mbrojtëse e të drejtave të grave, nga dera e princave Gjika të Vllahisë, me prejardhje shqiptare. U rrit nëpër oborret e Evropës, shkroi më së shumti në frëngjisht dhe jetoi kryesisht në Zvicër e në Itali. Me studimin “La nationalité albanaise d'après les chants populaires” (1866) u bë një nga zërat e parë që e mbrojti kombin shqiptar në Evropë.",
+    "thumbnail": "/images/dora-distria.avif",
+    "progressState": "partial",
+    "author": {
+      "@type": "Person",
+      "givenName": "Elena",
+      "familyName": "Gjika",
+      "alternateName": [
+        "Elena Ghica",
+        "Helena Koltsova-Massalskaya"
+      ],
+      "birthDate": "1828-01-22",
+      "birthPlace": {
+        "@type": "Place",
+        "address": "Bukuresht, Rumani"
+      },
+      "deathDate": "1888-11-17",
+      "deathPlace": {
+        "@type": "Place",
+        "address": "Firence, Itali"
+      },
+      "image": "/images/dora-distria.avif"
+    },
+    "books": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Book",
+        "name": "Për gratë, nga një grua",
+        "folder": "dora-distria/per-grate-nga-nje-grua",
+        "inLanguage": "sq",
+        "genre": "classic",
+        "datePublished": "1865",
+        "thumbnail": "/images/covers/per-grate-nga-nje-grua.avif",
+        "translatedBy": "Fletoret",
+        "translationNote": "përkthim i ri me ndihmën e AI-së, 2026",
+        "abstract": "Dy vëllime letrash që Dora d'Istria i shkroi një mikeshe në Aleksandri mbi gjendjen e grave në Perëndim, botuar në Paris më 1865: i pari për “shoqërinë latine”, nga Mesjeta te francezet, italianet e spanjollet; i dyti për “shoqërinë gjermanike”, nga gjermanet te anglezet e skandinavet. Vepër polemike që mbron barazinë e gjinive, divorcin dhe shkollimin e vajzave. Këtu jepet në një përkthim të ri shqip nga origjinali frëngjisht.",
+        "publishedFletoret": true,
+        "epub": true,
+        "editions": [
+          {
+            "name": "Des femmes, par une femme",
+            "folder": "dora-distria/des-femmes-par-une-femme",
+            "inLanguage": "fr",
+            "original": true,
+            "thumbnail": "/images/covers/des-femmes-par-une-femme.avif",
+            "abstract": "Deux volumes de lettres adressées par Dora d'Istria à une amie d'Alexandrie sur la condition des femmes en Occident, publiés à Paris en 1865 : le premier sur « la société latine », du moyen âge aux Françaises, aux Italiennes et aux Espagnoles ; le second sur « la société germanique », des Allemandes aux Anglaises et aux Scandinaves. Œuvre de combat qui défend l'égalité des sexes, le divorce et l'instruction des filles. Texte de l'édition originale.",
+            "publishedFletoret": true,
+            "epub": true
+          }
+        ]
+      }
+    ]
+  },
   "leke-dukagjini": {
     "folder": "leke-dukagjini",
     "name": "Lekë Dukagjini",
@@ -185,7 +241,7 @@
         "genre": "classic",
         "datePublished": "1899",
         "thumbnail": "/images/covers/shqiperia-sami-frasheri-cover.avif",
-        "abstract": "Mendime për shpëtimt të mëmëdheut nga reziket që e kanë rethuarë.",
+        "abstract": "Mendime për shpëtimin e mëmëdheut nga rreziqet që e kanë rrethuar.",
         "publishedFletoret": true,
         "epub": true,
         "subtitle": "Mendime për shpëtimt të mëmëdheut nga reziket që e kanë rethuarë"
@@ -198,7 +254,7 @@
         "genre": "classic",
         "datePublished": "1878",
         "thumbnail": "/images/covers/sami-frasheri-proverba.avif",
-        "abstract": "Fjalë të urta, thënje filozofike. Si fillim u botua me emrin Emsâl në 4 vëllime.",
+        "abstract": "Fjalë të urta, thënie filozofike. Si fillim u botua me emrin Emsâl në 4 vëllime.",
         "publishedFletoret": true,
         "subtitle": "Fjalë të urta, thënje filozofike",
         "epub": true
@@ -236,7 +292,7 @@
         "genre": "classic",
         "datePublished": "1886",
         "thumbnail": "/images/covers/bageti-e-bujqesi.avif",
-        "abstract": "Poemë baritore lirike, në te cilën Naim Frashëri përshkruan fshatin ku ishte lindur e rritur. Një përshkrim idilik, ku asgjë nuk e cënon euforinë mistike dhe të gjitha konfliktet gjejnë pajtim.",
+        "abstract": "Poemë baritore lirike, në të cilën Naim Frashëri përshkruan fshatin ku ishte lindur e rritur. Një përshkrim idilik, ku asgjë nuk e cënon euforinë mistike dhe të gjitha konfliktet gjejnë pajtim.",
         "publishedFletoret": true,
         "epub": true
       }
@@ -245,7 +301,7 @@
   "noli": {
     "folder": "fan-noli",
     "name": "Fan Noli",
-    "description": "",
+    "description": "Fan Noli (1882–1965), i lindur Theofan Stilian Noli në Ibrik Tepe të Thrakës, ka qenë klerik, politikan, poet e përkthyes. Më 1908 mbajti në Boston meshën e parë në shqip dhe u bë themelues i Kishës Ortodokse Shqiptare. Më 1924 udhëhoqi Revolucionin e Qershorit dhe ishte kryeministër për gjashtë muaj. Shqipëroi Shekspirin, Ibsenin, Servantesin e Khajamin dhe shkroi historinë e Skënderbeut. Vdiq në Florida.",
     "thumbnail": "/images/fan-noli.avif",
     "progressState": "partial",
     "author": {
@@ -262,7 +318,7 @@
         "@type": "Place",
         "address": "Florida, SHBA"
       },
-      "image": "/images/naim-frasheri.avif"
+      "image": "/images/fan-noli.avif"
     },
     "books": [
       {
@@ -293,19 +349,19 @@
   "frang-bardhi": {
     "folder": "frang-bardhi",
     "name": "Frang Bardhi",
-    "description": "",
+    "description": "Frang Bardhi (1606–1643), në latinisht Franciscus Blancus, ka qenë klerik katolik e shkrimtar nga Zadrima, një nga autorët e vjetër të letërsisë shqipe. Studioi në Loreto e në Romë dhe më 1635 u bë ipeshkv i Sapës. Po atë vit botoi në Romë “Dictionarium latino-epiroticum”, fjalorin e parë latinisht-shqip, e më 1636 në Venedik “Apologjinë e Skënderbeut”, ku mbrojti prejardhjen shqiptare të heroit.",
     "thumbnail": "/images/frang-bardhi.avif",
     "progressState": "partial",
     "author": {
       "@type": "Person",
       "givenName": "Frang",
       "familyName": "Bardhi",
-      "birthDate": "1635",
+      "birthDate": "1606",
       "birthPlace": {
         "@type": "Place",
         "address": "Zadrimë, Lezhë, Shqipëri"
       },
-      "deathDate": "1644",
+      "deathDate": "1643",
       "image": "/images/frang-bardhi.avif"
     },
     "books": [
@@ -371,12 +427,6 @@
         "epub": true
       }
     ]
-  },
-  "koliqi": {
-    "folder": "koliqi",
-    "name": "Ernest Koliqi",
-    "description": "",
-    "thumbnail": "/images/ernest-koliqi.avif"
   },
   "haki-stermilli": {
     "folder": "haki-stermilli",
@@ -465,7 +515,7 @@
         "genre": "albanian memoir classics",
         "datePublished": "1925",
         "thumbnail": "/images/covers/kryengritja-e-shqiptareve.avif",
-        "abstract": "Kujtimet e Gramenos nga vitet e çetërisë kundër ushtrive turke e greke, krah më krah me Çerçiz Topullin. Rrëfim historik i kryengritjeve shqiptare të fillimit të shekullit XX, i shkruar si dëshmi për trimërinë e luftëtarëve dhe shembull për brezat që vijnë.",
+        "abstract": "Kujtimet e Gramenos nga vitet e çetave kundër ushtrive turke e greke, krah më krah me Çerçiz Topullin. Rrëfim historik i kryengritjeve shqiptare të fillimit të shekullit XX, i shkruar si dëshmi për trimërinë e luftëtarëve dhe shembull për brezat që vijnë.",
         "publishedFletoret": true,
         "epub": true
       }
@@ -502,7 +552,7 @@
         "genre": "albanian poetry classics",
         "datePublished": "1916",
         "thumbnail": "/images/covers/lotet-e-dashtnies.avif",
-        "abstract": "Dyzet e shtatë vjersha dashtnore në gegnishten shkodrane, botuar me shpenzimet e vetë autorit në Shkodër. Vargje malli, xhelozie e humbjeje — dashuri të mbetuna përgjysmë, netë pa gjumë, rini që ikën — ndër to edhe gjashtëmbëdhjetë përkthime e përshtatje nga Gëte, Shileri, Hajne, Lesingu, Petëfi e Katuli. Në parathanie Mosi pyet veten nëse i kishte ardhur koha Shqipërisë për një libër të tillë.",
+        "abstract": "Dyzet e shtatë vjersha dashurie në gegërishten shkodrane, botuar me shpenzimet e vetë autorit në Shkodër. Vargje malli, xhelozie e humbjeje — dashuri të mbetura përgjysmë, netë pa gjumë, rini që ikën — ndër to edhe gjashtëmbëdhjetë përkthime e përshtatje nga Gëte, Shileri, Hajne, Lesingu, Petëfi e Katuli. Në parathënie Mosi pyet veten nëse i kishte ardhur koha Shqipërisë për një libër të tillë.",
         "publishedFletoret": true,
         "subtitle": "Vjersha dashtnore",
         "epub": true
@@ -540,7 +590,7 @@
         "genre": "classic",
         "datePublished": "1910",
         "thumbnail": "/images/covers/agimi-i-gjytetniis.avif",
-        "abstract": "Libër edukate qytetare për rininë shqiptare, i shkruem në gegnishten e veriut dhe i ndamë në paragrafë me pyetje e përgjigje, citate nga Aristoteli e Ciceroni. Gjeçovi flet për shoqninë e detyrat e njeriut ndaj shokëve, për vllaznimin, besimin e atdheun, atdhedashtninë, dhe për gjuhën shqipe si detyrë që i ka çdo shqiptar ndaj të parëve.",
+        "abstract": "Libër edukate qytetare për rininë shqiptare, i shkruar në gegërishten e veriut dhe i ndarë në paragrafë me pyetje e përgjigje e me citate nga Aristoteli e Ciceroni. Gjeçovi flet për shoqërinë e detyrat e njeriut ndaj shokëve, për vëllazërimin, besimin e atdheun, atdhedashurinë, dhe për gjuhën shqipe si detyrë që i ka çdo shqiptar ndaj të parëve.",
         "publishedFletoret": true,
         "epub": true
       }
@@ -579,7 +629,7 @@
         "thumbnail": "/images/covers/e-verteta-mbi-shqipnine.avif",
         "subtitle": "Studim historik",
         "translatedBy": "Mehdi Frashëri",
-        "abstract": "Studimi që Pashko Vasa botoi në frëngjisht në Paris më 1879, «La vérité sur l'Albanie et les Albanais», në ditët e Lidhjes së Prizrenit, për t'i treguar Evropës kush janë shqiptarët dhe çfarë kërkojnë. Nisur nga teoria pellazgjike, kalon nëpër Epirin e Pirros e Maqedoninë e Aleksandrit, besimet e vjetra, Skënderbeun dhe shekujt osmanë, zakonet e ligjet e maleve, dhe mbyllet me një program për një Shqipëri të bashkuar e të vetëqeverisur brenda Perandorisë. Këtu jepet në përkthimin e Mehdi Frashërit (Tiranë, 1935), me komentet e tij pas shumicës së kapitujve dhe me vjershën «Mori Shqypni» në krye.",
+        "abstract": "Studimi që Pashko Vasa botoi në frëngjisht në Paris më 1879, «La vérité sur l'Albanie et les Albanais», në ditët e Lidhjes së Prizrenit, për t'i treguar Evropës kush janë shqiptarët e çfarë kërkojnë: nga pellazgët e Skënderbeu te zakonet e maleve, deri te programi për një Shqipëri të bashkuar e të vetëqeverisur. Këtu jepet në përkthimin e Mehdi Frashërit (Tiranë, 1935), me komentet e tij.",
         "publishedFletoret": true,
         "epub": true
       }
@@ -588,7 +638,7 @@
   "cajupi": {
     "folder": "cajupi",
     "name": "Andon Zako Çajupi",
-    "description": "Andon Zako Çajupi (1866–1930) ka qenë poet, dramaturg e avokat nga Sheperi i Zagorisë, një nga zërat kryesorë të Rilindjes Kombëtare. Mori mësimet e para në Egjipt, studioi drejtësi në Gjenevë dhe jetoi pjesën më të madhe të jetës në Kajro, ku mori pjesë në shoqëritë patriotike të mërgimit. Më 1902 botoi aty “Baba-Tomorri”, përmbledhjen e vjershave të tij për atdheun, dashurinë dhe jetën e fshatit. Përktheu përrallat e La Fontaine-it, Rubairat e Omar Khajamit dhe “Gitanxhalin” e Tagores. Vdiq në Heliopolis më 1930.",
+    "description": "Andon Zako Çajupi (1866–1930) ka qenë poet, dramaturg e avokat nga Sheperi i Zagorisë, një nga zërat kryesorë të Rilindjes Kombëtare. Studioi drejtësi në Gjenevë dhe jetoi pjesën më të madhe të jetës në Egjipt, mes patriotëve të mërgimit. Përktheu La Fontaine-in, Rubairat e Khajamit dhe “Gitanxhalin” e Tagores. Vdiq në Heliopolis më 1930.",
     "thumbnail": "/images/andon-zako-cajupi.avif",
     "progressState": "partial",
     "author": {
@@ -617,7 +667,7 @@
         "genre": "albanian poetry classics",
         "datePublished": "1902",
         "thumbnail": "/images/covers/baba-tomorri.avif",
-        "abstract": "Përmbledhja me vjersha e Çajupit, botuar në Kajro më 1902 dhe ribotuar në Tiranë nga trashëgimtarët e tij më 1935. Ndahet në tri pjesë: «Atdheu», me vjershat për Shqipërinë e robëruar, që hapet me thirrjen drejtuar malit të shenjtë; «Dashuria», me këngë dashurie, vaje e ciklin «Dëshirë»; dhe «Përralla të verteta dhe të rreme», me fabula e satira, disa të shqipëruara nga La Fontaine-i. Mbyllet me komedinë në vargje «Katrëmbëdhjetë vjeç dhëndërr!», satirë e martesave të fëmijëve në fshatin shqiptar.",
+        "abstract": "Përmbledhja me vjersha e Çajupit, botuar në Kajro më 1902 dhe ribotuar në Tiranë më 1935. Ndahet në tri pjesë: «Atdheu», me vjershat për Shqipërinë e robëruar; «Dashuria», me këngë dashurie e vaje; dhe «Përralla të vërteta dhe të rreme», me fabula e satira, disa nga La Fontaine-i. Mbyllet me komedinë «Katrëmbëdhjetë vjeç dhëndërr!», satirë e martesave të fëmijëve.",
         "publishedFletoret": true,
         "epub": true
       }
@@ -626,7 +676,7 @@
   "kostandin-kristoforidhi": {
     "folder": "kostandin-kristoforidhi",
     "name": "Kostandin Kristoforidhi",
-    "description": "Kostandin Kristoforidhi (1827–1895), i lindur Kostandin Nelko në Elbasan, ka qenë gjuhëtar e përkthyes, një nga themeluesit e shqipes së shkruar. Mbaroi gjimnazin “Zosimea” të Janinës, ku u njoh me albanologun Johann Georg von Hahn. Për Shoqërinë Biblike përktheu Dhiatën e Re në të dy dialektet, gegërisht e toskërisht, si dhe libra të tjerë të Biblës; më 1869 ishte anëtar i komisionit për alfabetin e shqipes në Stamboll. La tregimin e parë origjinal në prozë shqipe, “Gjahu i malësorëvet”, dhe fjalorin e madh të shqipes, botuar pas vdekjes në Athinë më 1904. Vdiq në Elbasan më 1895.",
+    "description": "Kostandin Kristoforidhi (1827–1895), i lindur Kostandin Nelko në Elbasan, ka qenë gjuhëtar e përkthyes, një nga themeluesit e shqipes së shkruar. Për Shoqërinë Biblike përktheu Dhiatën e Re e libra të tjerë të Biblës në gegërisht e në toskërisht. La tregimin e parë origjinal në prozë shqipe, “Gjahu i malësorëvet”, dhe fjalorin e madh të shqipes, botuar pas vdekjes në Athinë më 1904.",
     "thumbnail": "/images/kostandin-kristoforidhi.avif",
     "progressState": "partial",
     "author": {
@@ -655,7 +705,7 @@
         "genre": "classic",
         "datePublished": "1930",
         "thumbnail": "/images/covers/gjaja-e-malesorvet.avif",
-        "abstract": "Tregimi që Kristoforidhi e shkroi më 1884 «në gegënishte qi flitet në Shqipnit të Mesme», i quajtur shpesh proza e parë origjinale në shqip. Është një dialog pa emra folësish: malësorët e Elbasanit bien në ujdi të dalin për gja në malin e Tomorrit, dhe gjahtari plak Mark-shalë-gjati jep urdhrat e paralajmëron shërbëtorët e huaj se Hieja e Tomorrit vret me rrufe këdo që nuk është shqiptar. Një shënim i autorit shpjegon nderimin e lashtë të shqiptarëve për Tomorrin si mal i shenjtë, pastaj djemtë këndojnë për Skënderbeun, e nis gjaja me brinin, qentë e pushkët: thi, dre, ujk, dhi e egër, harushë, skile e lepur, gjersa nata i kthen me gjanë në katund. Këtu jepet botimi i Korçës (1930), që e nxori familja e autorit.",
+        "abstract": "Tregimi që Kristoforidhi e shkroi më 1884 «në gegënishte qi flitet në Shqipnit të Mesme», i quajtur shpesh proza e parë origjinale në shqip. Malësorët e Elbasanit dalin për gjah në malin e Tomorrit, ku sipas gjahtarit plak Hieja e malit vret me rrufe këdo që nuk është shqiptar; këndojnë për Skënderbeun dhe gjuajnë gjer në mbrëmje. Këtu jepet botimi i Korçës (1930), që e nxori familja e autorit.",
         "publishedFletoret": true,
         "epub": true
       }

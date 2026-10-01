@@ -28,6 +28,7 @@ All pass EPUBCheck 5.4 with no errors, warnings or infos.
 | `src/lib/components/EpubDownload.svelte` | Download button: `full` on the book profile, `compact` on the author page's book cards. |
 | SEO | Books with an EPUB get: "lexo online, shkarko EPUB falas" in the page title; a bilingual (sq/en) sentence in the book and author meta descriptions (`EPUB_BLURB` in `src/lib/epub.ts`); `<link rel="alternate" type="application/epub+zip">` on the book and chapter pages; a schema.org `workExample` (`bookFormat: EBook`, `encodingFormat: application/epub+zip`) in the book JSON-LD (`src/lib/db.ts`); a download line under every chapter; and an FAQ entry on the homepage (`faq/a-mund-ti-shkarkoj-librat.md`). |
 | `vite.config.ts` → `EpubPlugin` | Builds every flagged book when `dev` or `build` starts. |
+| `src/lib/editions.ts`, `src/lib/typography.ts` | Language editions (see below) and per-language typography, shared by the builder and the site. |
 | `autore/index.json` | `"epub": true` opts a book in; optional `"subtitle"` goes on the title page; `"compiledBy"` (an author folder) credits a compiler on the title page, colophon and as `dc:contributor` (MARC `com`); `"translatedBy"` (a name) credits a translator the same way (MARC `trl`), and on the profile and in the JSON-LD. |
 
 - Output goes to `static/epub/<author>/<book>.epub`, which is **gitignored**. It is
@@ -136,6 +137,7 @@ A stress test on 2026-09-25 built each of these without flagging it.
 | `hil-mosi/lotet-e-dashtnies` | **Shipped** | Proofread against the scans for pp. 5–92; pp. 93–122 (files `order` 106–141) only against the page transcriptions, with 43 `uncertain` items left, so a scan pass there is still due. The markdown's post-processor had dropped the closing dashes, cut ellipses, invented subtitles and lost the preface (now `parathanje.md`). |
 | `cajupi/baba-tomorri` | **Shipped** | Transcribed from the 1935 second edition's scans (BKSH `libra1!HASHd871.dir`, slug `baba-tomorri`) and proofread against every page. Tosk, so the transcription prompt gained a Tosk section (no Gheg nasal defaults). Scans 31 and 33 are swapped (pp. 28/27); assembled in print order. Titles follow the headings above the poems, not the table of contents. Obvious typesetter's slips corrected (`Nnkë`, `gjjthë`, `Perëhdia`, `Shipërinë`); the print's own spellings kept (`Grâ`, `gjynae`, `tô`, `bê`). The comedy is its own section after Part III. |
 | `kostandin-kristoforidhi/gjaja-e-malesorvet` | **Shipped** | Transcribed from the 1930 Korçë edition (BKSH `libra1!HASH0181!7f1bfa1f.dir`, pipeline slug `gjaja-e-malesorvet-hieja-e-tomorrit`) and proofread against every page. Scan 32 is a faded duplicate of p. 28 and is ignored. An unlabelled dialogue: an indented line in the print starts a new speaker, so every spoken turn is its own paragraph opened with an em dash (narration, sound cues and the author's notes get none), and runs of cries (`Ha ha ha!`, `Taf tuf!`) are grouped with `\` line breaks. The Greek title page of 1884 is kept at the head; every Greek passage has a footnote translating it into Albanian. The print's Greek-style punctuation (`;` and `:` closing some questions) is kept; obvious typesetter's slips are fixed (`Shqiqëtarë`, `pët`, `For mirë`, `shërbëtotë`, `ty iy ty`). |
+| `dora-distria/per-grate-nga-nje-grua` + `dora-distria/des-femmes-par-une-femme` | **Shipped** | The first book with language editions: the French original (1865, 2 vols, 26 letters) transcribed from the Columbia OCR against the archive.org scans (vol. I `bub_gb_AxRBAAAAcAAJ`, vol. II `desfemmes01istrgoog`), with the book's errata applied; and a new Albanian translation made with AI (`translationNote`), both built as separate EPUBs with their own language. Done by 50 parallel agents from a shared brief, assembled per letter (footnotes renumbered in reading order). The vol. II scan lacks pp. 245–256, so those pages rest on the OCR alone (italics and guillemets unverified). The table of contents' per-letter summaries sit at the head of each letter (`{.argument}`); the dedication is `epubType: dedication`. |
 | `fan-noli/albumi` | **Shipped** | Its author's index key is `noli`, not `fan-noli`, which the builder used to assume (now it finds a book by folder). No scans (~65 fixes); `order` tie between two poems resolved. `fan-noli/vjershat-e-para` is unpublished. |
 
 **Raw HTML in markdown** that isn't valid XHTML is fixed in the sources (for
@@ -150,6 +152,30 @@ See `skills/epub/proofreading.md`. It covers:
 - what not to change
 - the `[conjecture]` / `[…]` conventions
 - verification greps
+
+- **Front matter.** A chapter with `epubType: dedication` (or `epigraph`) in its
+  frontmatter becomes `dedication.xhtml`, `epub:type="dedication"`, placed
+  after the imprint and before the first part, with no heading. Its markup can
+  use `<div class="motto">` (a motto, set small and to the right, its last
+  paragraph the source) and `<div class="dedication">` (centred, spaced
+  capitals; type it in normal case).
+- **Links between chapters.** A link to another chapter of the same book as the
+  site writes it (`/author/book/part/title/`, see `src/lib/slug.ts`) becomes a
+  link to that chapter's file, so a table-of-contents page (Dora d'Istria's
+  *Tabela e lëndës*) works inside the book.
+- **Chapter summaries** (`{.argument}`) stay a small upright block at the head of
+  the chapter; the site collapses them into a `<details>` (`collapseArgument` in
+  `src/lib/markdown.ts`), which e-readers don't handle reliably.
+- **Language editions.** A work lists its other-language texts under
+  `editions` (e.g. Dora d'Istria's French original next to the Albanian
+  translation). `loadIndex` flattens them into books (`expandEditions`), so an
+  edition with `"epub": true` gets its own EPUB. Its `inLanguage` sets
+  `xml:lang`, `dc:language`, the words of the title page, imprint, notes,
+  colophon and contents (`STRINGS` in `scripts/epub.mjs`; add a language there
+  first), the date format and the typography (`typographyFor`: French gets
+  no-break spaces inside « » and before `: ; ! ?`; Gheg elisions are Albanian
+  only). The imprint links the other editions. `"translationNote"` goes in
+  brackets after the translator's name.
 
 ## Design decisions (and why)
 
@@ -172,7 +198,9 @@ See `skills/epub/proofreading.md`. It covers:
   - Greek runs tagged `grc` (polytonic) or `el` (monotonic)
 
   Quotes are `“ ”` to match the site; Albanian print often uses `„ “` or `« »`.
-  That's an open question for the maintainer.
+  For new text (translations), the maintainer's rule is `"…"` in the source,
+  which both the site and the EPUB curl to `“ ”`. Older books keep their print's
+  marks.
 - **Opt-in per book** (`"epub": true`), so each book is reviewed before it ships.
 - **Built at dev/build time, not committed**, so text fixes flow into the download
   automatically. SvelteKit reloads the vite config for its second bundle, so the

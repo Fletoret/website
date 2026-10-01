@@ -46,6 +46,8 @@ export function bookSchema(book: ExtendedBookType) {
     author: book.author,
     editor: book.editor,
     translator: book.translator,
+    translationOfWork: book.translationOfWork,
+    workTranslation: book.workTranslation,
     workExample: book.workExample,
   };
 }

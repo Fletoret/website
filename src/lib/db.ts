@@ -1,11 +1,12 @@
 import * as fs from 'fs';
 import { globSync } from 'glob';
 import { parse, parseBlogPost, parseFAQ } from '$lib/markdown';
-import type { Post, BlogPost, FAQ, Author } from '$lib/types';
+import type { Post, BlogPost, FAQ, Author, ExtendedBookType } from '$lib/types';
 import { addTrailingSlash } from '$lib/utils';
 import CONFIG from '$lib/config';
 import { epubHref } from '$lib/epub';
 import { personSchema } from '$lib/schema';
+import { expandEditions, languageOf } from '$lib/editions';
 
 const sortedPosts = (posts: Post[]) => {
   return posts.sort(function (a: Post, b: Post) {
@@ -66,9 +67,12 @@ export function getAuthorsIndex(excludeEmpty = false): Map<string, Author> {
 
   for (const entry of Object.values(idx)) {
     if (entry.books) {
-      for (const book of entry.books) {
+      // Language editions become books of their own (src/lib/editions.ts).
+      const books = expandEditions(entry.books);
+      entry.books = books;
+      for (const book of books) {
         book.author = personSchema(entry);
-        book.inLanguage = 'sq';
+        book.inLanguage = languageOf(book);
         if (book.folder) {
           book.url = addTrailingSlash(`${CONFIG.info.base_url}/${book.folder}`);
         }
@@ -83,7 +87,7 @@ export function getAuthorsIndex(excludeEmpty = false): Map<string, Author> {
             name: `${book.name} (EPUB)`,
             bookFormat: 'https://schema.org/EBook',
             encodingFormat: 'application/epub+zip',
-            inLanguage: 'sq',
+            inLanguage: book.inLanguage,
             isAccessibleForFree: true,
             url: `${CONFIG.info.base_url}${epubHref(book.folder)}`,
           };
@@ -94,7 +98,25 @@ export function getAuthorsIndex(excludeEmpty = false): Map<string, Author> {
           book.editor = personSchema(compiler);
         }
         if (book.translatedBy) {
-          book.translator = { '@type': 'Person', name: book.translatedBy };
+          // Fletoret's own translations are credited to the project, not a person.
+          book.translator =
+            book.translatedBy === CONFIG.info.title
+              ? { '@type': 'Organization', name: book.translatedBy, url: `${CONFIG.info.base_url}/` }
+              : { '@type': 'Person', name: book.translatedBy };
+        }
+        // Translations point at the original, the original at its translations.
+        const others = (book.editions ?? []).filter((e) => e.folder !== book.folder);
+        const asBook = (e: (typeof others)[number]) => ({
+          '@type': 'Book' as const,
+          name: e.name,
+          inLanguage: e.inLanguage,
+          url: addTrailingSlash(`${CONFIG.info.base_url}/${e.folder}`),
+        });
+        if (book.original) {
+          book.workTranslation = others.map(asBook);
+        } else {
+          const original = others.find((e) => e.original);
+          if (original) book.translationOfWork = asBook(original);
         }
       }
     }
@@ -166,6 +188,35 @@ export function getAllEntries(author: string): Post[] {
   return entries;
 }
 
+/**
+ * The same chapter in the other language editions of its book
+ * (src/lib/editions.ts), for a link between the two texts. Chapters are
+ * matched by position, not title: the part they sit in (in reading order) and
+ * their `order` inside it. `posts` is every chapter of the author.
+ */
+export function getEditionCounterparts(post: Post, posts: Post[], book?: ExtendedBookType) {
+  const inBook = (folder: string) =>
+    posts.filter((p) => p.relativeUrlBook === addTrailingSlash(folder));
+  const position = (chapters: Post[], chapter: Post) => [
+    Object.keys(sortedChapters(groupBy(chapters, 'parent'))).indexOf(chapter.parent),
+    chapter.order,
+  ];
+
+  const [part, order] = position(inBook(post.relativeUrlBook), post);
+  return (book?.editions ?? [])
+    .filter((edition) => addTrailingSlash(edition.folder) !== post.relativeUrlBook)
+    .flatMap((edition) => {
+      const chapters = inBook(edition.folder);
+      const match = chapters.find((c) => {
+        const [p, o] = position(chapters, c);
+        return p === part && o === order;
+      });
+      return match
+        ? [{ lang: match.lang, title: match.title, relativeUrl: match.relativeUrl, original: edition.original }]
+        : [];
+    });
+}
+
 export function getRandomEntry(): Post | undefined {
   const filepaths = globSync('autore/**/*.md');
   const randomFilePath =
@@ -230,6 +281,8 @@ export const getEntries = (
 
   const _books = [];
   for (const book of authorInfo?.books || []) {
+    // An edition is reached from its work's profile, not listed beside it.
+    if (book.editionOf) continue;
     // console.log(author, book?.folder.split('/')[1]);
     const bp = getBookEntries(author, book?.folder.split('/')[1]);
     const bookEntries = sortedPosts(bp);
@@ -254,7 +307,7 @@ export const getEntries = (
   // their own author's folder (see `ExtendedBookType.compiledBy`).
   for (const owner of getAuthorsIndex().values()) {
     for (const book of owner.books ?? []) {
-      if (book.compiledBy !== author || !book.publishedFletoret) continue;
+      if (book.compiledBy !== author || !book.publishedFletoret || book.editionOf) continue;
       const [ownerFolder, bookFolder] = book.folder.split('/');
       const bookEntries = sortedPosts(getBookEntries(ownerFolder, bookFolder));
       if (dropUnusedAttributes) {

@@ -5,6 +5,7 @@
   import ReadNext from '$lib/components/ReadNext.svelte';
   import EpubDownload from '$lib/components/EpubDownload.svelte';
   import { epubHref } from '$lib/epub';
+  import { languageInfo } from '$lib/editions';
   import type { ExtendedBookType } from '$lib/types';
   import CONFIG from '$lib/config';
   import { stripMarkdown } from '$lib/utils';
@@ -15,6 +16,7 @@
   let post = $derived(data.post);
   let postAfter = $derived(data.postAfter);
   let authorInfo = $derived(data.authorInfo);
+  let counterparts = $derived(data.counterparts ?? []);
   // The book this chapter belongs to, for its EPUB link.
   let book = $derived(
     authorInfo?.books?.find((b: ExtendedBookType) => `${b.folder}/` === post.relativeUrlBook),
@@ -71,7 +73,7 @@
     '@type': 'Article',
     headline: post.title,
     description,
-    inLanguage: 'sq',
+    inLanguage: post.lang,
     author: authorInfo?.name
       ? { '@type': 'Person', name: authorInfo.name }
       : undefined,
@@ -92,6 +94,12 @@
 <svelte:head>
   <title>{title}</title>
   <link rel="canonical" href={post.url} />
+  {#if counterparts.length}
+    <link rel="alternate" hreflang={post.lang} href={post.url} />
+    {#each counterparts as other}
+      <link rel="alternate" hreflang={other.lang} href="{CONFIG.info.base_url}/{other.relativeUrl}" />
+    {/each}
+  {/if}
   {#if book?.epub}
     <link
       rel="alternate"
@@ -125,7 +133,7 @@
   {/if}
   <meta property="og:description" content={description} />
   <meta property="og:site_name" content={CONFIG.info.title} />
-  <meta property="og:locale" content="sq_AL" />
+  <meta property="og:locale" content={languageInfo(post.lang).locale} />
 
   {@html `<script type="application/ld+json"> ${JSON.stringify(
     BreadcrumbList,
@@ -145,10 +153,16 @@
           <p class="post-tag">{tag}</p>
         {/each}
       </div> -->
-      <h1 class="post-title">{post.title}</h1>
+      <h1 class="post-title" lang={post.lang}>{post.title}</h1>
       {#if post.subtitle}
-        <h2 class="post-subtitle">{post.subtitle}</h2>
+        <h2 class="post-subtitle" lang={post.lang}>{post.subtitle}</h2>
       {/if}
+      {#each counterparts as other}
+        <p class="counterpart">
+          Lexoje në {languageInfo(other.lang).name}{other.original ? ' (origjinali)' : ''}:
+          <a href="/{other.relativeUrl}" hreflang={other.lang} lang={other.lang}>{other.title}</a>
+        </p>
+      {/each}
     </div>
   </div>
 
@@ -185,7 +199,7 @@
 
       <!-- svelte-ignore a11y_click_events_have_key_events -->
       <!-- svelte-ignore a11y_no_static_element_interactions -->
-      <div class="post-body" onclick={handlePostBodyClick}>{@html post.html}</div>
+      <div class="post-body" lang={post.lang} onclick={handlePostBodyClick}>{@html post.html}</div>
 
       {#if post.last_update}
         <p class="last-updated">
@@ -214,6 +228,13 @@
 />
 
 <style>
+  .counterpart {
+    margin: var(--spacing-md) 0 0;
+    font-family: var(--sans-serif);
+    font-size: var(--text-sm);
+    color: var(--text-secondary);
+  }
+
   .epub-offline {
     display: flex;
     flex-wrap: wrap;

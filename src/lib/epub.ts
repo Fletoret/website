@@ -34,3 +34,16 @@ export const EPUB_BLURB =
 export const EPUB_BLURB_PLURAL =
   'Lexoji online ose shkarkoji falas si e-book (EPUB). Read online or download the free EPUB ebooks.';
 export const EPUB_TITLE_SUFFIX = 'lexo online, shkarko EPUB falas';
+
+/**
+ * The same for a book in another language (src/lib/editions.ts): a French
+ * edition is searched for in French, so its page says it in French too.
+ */
+const EPUB_WORDS: Record<string, { blurb: string; titleSuffix: string }> = {
+  fr: {
+    blurb: 'Lire en ligne ou télécharger gratuitement le livre numérique (EPUB). Lexoje online ose shkarkoje falas si e-book (EPUB).',
+    titleSuffix: 'lire en ligne, EPUB gratuit',
+  },
+};
+export const epubBlurb = (lang: string) => EPUB_WORDS[lang]?.blurb ?? EPUB_BLURB;
+export const epubTitleSuffix = (lang: string) => EPUB_WORDS[lang]?.titleSuffix ?? EPUB_TITLE_SUFFIX;

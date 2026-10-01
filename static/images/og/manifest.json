@@ -10,6 +10,28 @@
     "pieces": 59,
     "lines": 3166
   },
+  "dora-distria/des-femmes-par-une-femme": {
+    "image": "/images/og/dora-distria/des-femmes-par-une-femme.jpg",
+    "width": 1200,
+    "height": 628,
+    "alt": "Des femmes, par une femme, Dora d'Istria — 29 pjesë, 170.291 fjalë të transkriptuara në Fletoret.",
+    "unit": "pjesë",
+    "unitCount": 29,
+    "words": 170291,
+    "pieces": 29,
+    "lines": 1510
+  },
+  "dora-distria/per-grate-nga-nje-grua": {
+    "image": "/images/og/dora-distria/per-grate-nga-nje-grua.jpg",
+    "width": 1200,
+    "height": 628,
+    "alt": "Për gratë, nga një grua, Dora d'Istria — 29 pjesë, 184.948 fjalë të transkriptuara në Fletoret.",
+    "unit": "pjesë",
+    "unitCount": 29,
+    "words": 184948,
+    "pieces": 29,
+    "lines": 1918
+  },
   "fan-noli/albumi": {
     "image": "/images/og/fan-noli/albumi.jpg",
     "width": 1200,
