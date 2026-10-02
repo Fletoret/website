@@ -147,6 +147,10 @@ BOOK_META = {
         "unit": "tregim",
         "quote": "Rri Zoti atie, rri ai qi run shqipërinë",
     },
+    "luigj-gurakuqi/kendimet-e-dyta-per-cunat": {
+        "kind": "Libër leximi",
+        "unit": "këndime",
+    },
 }
 
 

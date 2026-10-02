@@ -190,7 +190,8 @@ p.toc-argument {
   margin: 0.3em 0 1.5em;
 }
 
-p.dateline {
+p.dateline,
+section.verse p.dateline {
   font-style: italic;
   text-align: right;
   text-indent: 0;

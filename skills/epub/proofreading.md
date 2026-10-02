@@ -26,6 +26,20 @@ applies here too.
 The OCR's diacritic only says *a diacritic was there*, not which one. The corpus
 often says "none" (`leçit-`, `vath-`, `plandos-`).
 
+**Two independent reads beat one careful read.** When a book is transcribed
+from the scans (by the pipeline or by agents), diff the result word by word
+against the draft OCR in `ocr/<slug>.json`: once on letters only (strip accents,
+fold the OCR's usual `u`/`n`, `q`/`g`, `l`/`i` confusions), once on accents only
+over the words whose letters agree. The two reads err differently, so nearly
+every disagreement is an OCR error and the few that aren't are exactly the
+words to check on the scan. For *Kendimét é dyta per çunat* this cut 138 pages
+to ~35 spots to verify.
+
+**Headings set in capitals are weak evidence for accents.** A printer may set a
+capital heading with whatever accented capitals the case held (`QENI BÊSNIK` over
+a text that writes `bésnik`). Prefer the lowercase table of contents or the
+running text for the title's spelling.
+
 ## Before editing
 
 - **Check the book is complete.** Compare the files against the scans or the

@@ -24,7 +24,7 @@
     <a href="https://github.com/Fletoret/website/stargazers"><img alt="Yje" src="https://img.shields.io/github/stars/Fletoret/website?style=flat-square&color=e3b341"></a>
   </p>
 
-  <sub><b>19 autorë</b> · <b>25 vepra</b> · <b>613 kapituj e poezi</b> · <b>~1 milion fjalë</b> · <b>25 e-book</b> &nbsp;<i>(shtator 2026)</i></sub>
+  <sub><b>20 autorë</b> · <b>26 vepra</b> · <b>700 kapituj e poezi</b> · <b>~1 milion fjalë</b> · <b>26 e-book</b> &nbsp;<i>(tetor 2026)</i></sub>
 </div>
 
 <br>
@@ -155,6 +155,13 @@
       <sub>Për gratë, nga një grua · <i>Des femmes</i></sub>
     </td>
     <td align="center" width="25%" valign="top">
+      <a href="https://fletoret.com/luigj-gurakuqi/"><img src="static/images/luigj-gurakuqi.webp" height="118" alt="Luigj Gurakuqi"></a><br>
+      <b><a href="https://fletoret.com/luigj-gurakuqi/">Luigj Gurakuqi</a></b><br>
+      <sub>Kendimét é dyta per çunat</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%" valign="top">
       <br>
       <b><a href="#-si-mund-të-ndihmoj">+ Autori tjetër</a></b><br>
       <sub>Radha e tij varet<br>nga ti</sub>
@@ -183,6 +190,7 @@
 | Gjergj Fishta | [Lahuta e Malcis](https://fletoret.com/fishta/lahuta-e-malcis/) | 1937 | Epos | 30 | [EPUB](https://fletoret.com/epub/fishta/lahuta-e-malcis.epub) |
 | Mihal Grameno | [Kryengritja shqiptare](https://fletoret.com/grameno/kryengritja-shqiptare/) | 1925 | Kujtime | 21 | [EPUB](https://fletoret.com/epub/grameno/kryengritja-shqiptare.epub) |
 | Shtjefën Gjeçovi | [Agimi i Gjytetniis](https://fletoret.com/gjecovi/agimi-i-gjytetniis/) | 1910 | Edukatë qytetare | 6 | [EPUB](https://fletoret.com/epub/gjecovi/agimi-i-gjytetniis.epub) |
+| Luigj Gurakuqi | [Kendimét é dyta per çunat](https://fletoret.com/luigj-gurakuqi/kendimet-e-dyta-per-cunat/) | 1912 | Libër leximi | 87 | [EPUB](https://fletoret.com/epub/luigj-gurakuqi/kendimet-e-dyta-per-cunat.epub) |
 | Faik Konica | [Doktor Gjilpëra](https://fletoret.com/konica/doktor-gjilpera/) | 1924 | Prozë | 3 | [EPUB](https://fletoret.com/epub/konica/doktor-gjilpera.epub) |
 | Faik Konica | [Ese](https://fletoret.com/konica/ese/) | 1938 | Ese | 18 | [EPUB](https://fletoret.com/epub/konica/ese.epub) |
 | Fan Noli | [Albumi](https://fletoret.com/fan-noli/albumi/) | 1948 | Poezi | 18 | [EPUB](https://fletoret.com/epub/fan-noli/albumi.epub) |
