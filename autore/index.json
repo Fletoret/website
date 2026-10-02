@@ -710,5 +710,42 @@
         "epub": true
       }
     ]
+  },
+  "luigj-gurakuqi": {
+    "folder": "luigj-gurakuqi",
+    "name": "Luigj Gurakuqi",
+    "description": "Luigj Gurakuqi (1879–1925), nga Shkodra, ka qenë mësues, poet e burrë shteti. Studioi në kolegjin arbëresh të Shën Mitrit dhe në Napoli, mori pjesë në Kongresin e Manastirit (1908) e drejtoi Shkollën Normale të Elbasanit. Firmëtar i Pavarësisë dhe ministër i Arsimit në qeverinë e Ismail Qemalit, shkroi tekste shkollore, vjersha dhe një studim mbi vargun shqip. U vra në Bari më 1925.",
+    "thumbnail": "/images/luigj-gurakuqi.avif",
+    "progressState": "partial",
+    "author": {
+      "@type": "Person",
+      "givenName": "Luigj",
+      "familyName": "Gurakuqi",
+      "birthDate": "1879-02-19",
+      "birthPlace": {
+        "@type": "Place",
+        "address": "Shkodër, Shqipëri"
+      },
+      "deathDate": "1925-03-02",
+      "deathPlace": {
+        "@type": "Place",
+        "address": "Bari, Itali"
+      },
+      "image": "/images/luigj-gurakuqi.avif"
+    },
+    "books": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Book",
+        "name": "Kendimét é dyta per çunat",
+        "folder": "luigj-gurakuqi/kendimet-e-dyta-per-cunat",
+        "genre": "classic",
+        "datePublished": "1912",
+        "thumbnail": "/images/covers/kendimet-e-dyta-per-cunat.avif",
+        "abstract": "Libër leximi për klasën e tretë, botuar në Athinë më 1912 me inicialet D. H. të botuesit Diogjen Harito; Biblioteka Kombëtare ia atribuon Gurakuqit. 87 pjesë të shkurtra: mësime për natyrën, shëndetin e mirësjelljen, përralla me kafshë e tregime me mësim, bashkë me figurat e botimit. Drejtshkrimi është i hershëm: e-ja e thjeshtë shënon ë-në, é-ja e-në.",
+        "publishedFletoret": true,
+        "epub": true
+      }
+    ]
   }
 }
