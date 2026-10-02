@@ -77,7 +77,7 @@
     "glob": "13.0.6",
     "html-to-image": "1.11.13",
     "sass": "1.105.1",
-    "schema-dts": "2.0.0",
+    "schema-dts": "2.1.0",
     "super-sitemap": "^2.0.0"
   },
   "module": "index.ts"
