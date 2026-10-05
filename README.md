@@ -24,7 +24,7 @@
     <a href="https://github.com/Fletoret/website/stargazers"><img alt="Yje" src="https://img.shields.io/github/stars/Fletoret/website?style=flat-square&color=e3b341"></a>
   </p>
 
-  <sub><b>20 autorë</b> · <b>26 vepra</b> · <b>700 kapituj e poezi</b> · <b>~1 milion fjalë</b> · <b>26 e-book</b> &nbsp;<i>(tetor 2026)</i></sub>
+  <sub><b>21 autorë</b> · <b>27 vepra</b> · <b>740 kapituj e poezi</b> · <b>~1 milion fjalë</b> · <b>27 e-book</b> &nbsp;<i>(tetor 2026)</i></sub>
 </div>
 
 <br>
@@ -162,6 +162,11 @@
   </tr>
   <tr>
     <td align="center" width="25%" valign="top">
+      <a href="https://fletoret.com/zef-harapi/"><img src="static/images/zef-harapi.webp" height="118" alt="Zef Harapi"></a><br>
+      <b><a href="https://fletoret.com/zef-harapi/">Zef Harapi</a></b><br>
+      <sub>Pushka e Trathtarit</sub>
+    </td>
+    <td align="center" width="25%" valign="top">
       <br>
       <b><a href="#-si-mund-të-ndihmoj">+ Autori tjetër</a></b><br>
       <sub>Radha e tij varet<br>nga ti</sub>
@@ -191,6 +196,7 @@
 | Mihal Grameno | [Kryengritja shqiptare](https://fletoret.com/grameno/kryengritja-shqiptare/) | 1925 | Kujtime | 21 | [EPUB](https://fletoret.com/epub/grameno/kryengritja-shqiptare.epub) |
 | Shtjefën Gjeçovi | [Agimi i Gjytetniis](https://fletoret.com/gjecovi/agimi-i-gjytetniis/) | 1910 | Edukatë qytetare | 6 | [EPUB](https://fletoret.com/epub/gjecovi/agimi-i-gjytetniis.epub) |
 | Luigj Gurakuqi | [Kendimét é dyta per çunat](https://fletoret.com/luigj-gurakuqi/kendimet-e-dyta-per-cunat/) | 1912 | Libër leximi | 87 | [EPUB](https://fletoret.com/epub/luigj-gurakuqi/kendimet-e-dyta-per-cunat.epub) |
+| Zef Harapi | [Pushka e Trathtarit](https://fletoret.com/zef-harapi/pushka-e-trathtarit/) | 1914 | Roman | 40 | [EPUB](https://fletoret.com/epub/zef-harapi/pushka-e-trathtarit.epub) |
 | Faik Konica | [Doktor Gjilpëra](https://fletoret.com/konica/doktor-gjilpera/) | 1924 | Prozë | 3 | [EPUB](https://fletoret.com/epub/konica/doktor-gjilpera.epub) |
 | Faik Konica | [Ese](https://fletoret.com/konica/ese/) | 1938 | Ese | 18 | [EPUB](https://fletoret.com/epub/konica/ese.epub) |
 | Fan Noli | [Albumi](https://fletoret.com/fan-noli/albumi/) | 1948 | Poezi | 18 | [EPUB](https://fletoret.com/epub/fan-noli/albumi.epub) |
@@ -309,6 +315,8 @@ Nën autorin përkatës, shto një zë te `books`:
 ```
 
 `publishedFletoret: false` e mban veprën jashtë faqes derisa të jetë gati. Kur vepra ka një përmbledhës që nuk është autori (Kanuni: ligji i Lekë Dukagjinit, i mbledhur nga Gjeçovi), `"compiledBy": "gjecovi"` e shfaq veprën edhe te faqja e përmbledhësit, me shënimin «Mbledhur dhe kodifikuar nga…», pa e kopjuar tekstin. Kur teksti është përkthim, `"translatedBy": "Mehdi Frashëri"` e shënon përkthyesin te profili i veprës dhe te e-book-u; `"translationNote"` shton në kllapa si u bë përkthimi (p.sh. «përkthim i ri me ndihmën e AI-së, 2026»).
+
+Vendet ku transkriptimi nuk është i sigurt mund të mblidhen te një `README.md` në dosjen e veprës, me lidhje te faqja në BKSH dhe te rreshti i kapitullit (shih [*Pushka e Trathtarit*](autore/zef-harapi/pushka-e-trathtarit/README.md)). GitHub-i e shfaq kur hapet dosja, faqja nuk e lexon si kapitull, dhe `"proofreadingNotes": "README.md"` i shton profilit të veprës një lidhje drejt tij, që lexuesit të ndihmojnë me krahasimin.
 
 Një vepër mund të ketë edhe botime në gjuhë të tjera, p.sh. origjinalin frëngjisht krah përkthimit shqip. Ato shkojnë te `editions` i veprës, secili me `name`, `folder`, `inLanguage` (`fr`, `it`, `en`…), `abstract`, `thumbnail` dhe, po deshe, `"original": true` e `"epub": true`. Çdo botim është libër më vete, me dosjen, kapitujt, faqen dhe e-book-un e vet (teksti merr `lang` e gjuhës, e-book-u fjalët e veta në atë gjuhë), por te faqja e autorit del një herë, te vepra. Profili ka një ndërrues gjuhe, dhe çdo kapitull lidhet me kapitullin që i përgjigjet në botimin tjetër (sipas pjesës dhe `order`).
 

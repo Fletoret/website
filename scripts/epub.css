@@ -108,6 +108,14 @@ p.asterism {
   text-indent: 0;
 }
 
+/* A printer's ornament (vignette, tailpiece) at its printed size, which the
+   markdown sets as a share of the text column. */
+img.ornament {
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+
 /* Poems keep their own line breaks, set in markdown with respectLineBreaks. */
 section.verse p {
   hyphens: none;

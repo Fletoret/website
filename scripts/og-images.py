@@ -151,6 +151,11 @@ BOOK_META = {
         "kind": "Libër leximi",
         "unit": "këndime",
     },
+    "zef-harapi/pushka-e-trathtarit": {
+        "kind": "Roman historik",
+        "unit": "krerë",
+        "quote": "Kjosh bekue e levdue ti, o Zot",
+    },
 }
 
 
@@ -163,6 +168,7 @@ PORTRAIT_FRAMING = {
     "/images/zef-serembe.avif": {"focus": (0.5, 0.38), "zoom": 1.1},
     "/images/mihal-grameno.avif": {"focus": (0.5, 0.38)},
     "/images/ndre-mjeda.avif": {"focus": (0.5, 0.38)},
+    "/images/zef-harapi.avif": {"focus": (0.5, 0.27), "zoom": 1.7},
 }
 
 
@@ -193,10 +199,16 @@ def expand_editions(books):
     return out
 
 
+def chapter_files(folder):
+    """A book's chapters; a README.md beside them is notes for contributors."""
+    paths = glob.glob(os.path.join(ROOT, "autore", folder, "**/*.md"), recursive=True)
+    return sorted(p for p in paths if os.path.basename(p) != "README.md")
+
+
 def read_book(folder):
     """Walk a book's markdown and return (pieces, words, lines, numbered)."""
     pieces = words = lines = numbered = 0
-    for path in sorted(glob.glob(os.path.join(ROOT, "autore", folder, "**/*.md"), recursive=True)):
+    for path in chapter_files(folder):
         with open(path, encoding="utf-8") as fh:
             raw = fh.read()
         body = raw.split("---", 2)[2] if raw.startswith("---") else raw
@@ -211,7 +223,7 @@ def read_book(folder):
 def is_verse(folder):
     """True when most of a book's pieces are laid out as verse."""
     flags = []
-    for path in glob.glob(os.path.join(ROOT, "autore", folder, "**/*.md"), recursive=True):
+    for path in chapter_files(folder):
         with open(path, encoding="utf-8") as fh:
             raw = fh.read()
         frontmatter = raw.split("---")[1] if raw.startswith("---") else ""

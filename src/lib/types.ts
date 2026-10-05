@@ -65,6 +65,12 @@ export type ExtendedBookType = WithContext<Book> & {
   /** Build an EPUB of this book and offer it on the profile (scripts/epub.mjs). */
   epub?: boolean;
   /**
+   * Notes for contributors in the book's folder, usually "README.md": the
+   * places where the transcription is uncertain, with links to the scans. The
+   * profile links to the file on GitHub; the site doesn't render it.
+   */
+  proofreadingNotes?: string;
+  /**
    * Folder of the author who compiled the book without being its author (the
    * Kanuni: Lekë Dukagjini's law, compiled by Gjeçovi). The book is then also
    * listed on that author's page.

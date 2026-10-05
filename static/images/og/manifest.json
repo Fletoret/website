@@ -274,6 +274,17 @@
     "pieces": 36,
     "lines": 469
   },
+  "zef-harapi/pushka-e-trathtarit": {
+    "image": "/images/og/zef-harapi/pushka-e-trathtarit.jpg",
+    "width": 1200,
+    "height": 628,
+    "alt": "Pushka e Trathtarit, Zef Harapi — 40 krerë, 38.704 fjalë të transkriptuara në Fletoret.",
+    "unit": "krerë",
+    "unitCount": 40,
+    "words": 38704,
+    "pieces": 40,
+    "lines": 795
+  },
   "zef-serembe/vjersha": {
     "image": "/images/og/zef-serembe/vjersha.jpg",
     "width": 1200,

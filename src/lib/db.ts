@@ -8,6 +8,12 @@ import { epubHref } from '$lib/epub';
 import { personSchema } from '$lib/schema';
 import { expandEditions, languageOf } from '$lib/editions';
 
+/**
+ * Markdown in `autore/` that is not a chapter: a book's README.md holds notes
+ * for contributors (`proofreadingNotes` in the index) and is read on GitHub.
+ */
+export const NOT_CHAPTERS = { ignore: '**/README.md' };
+
 const sortedPosts = (posts: Post[]) => {
   return posts.sort(function (a: Post, b: Post) {
     return a.order - b.order;
@@ -160,7 +166,7 @@ export function getAuthorInfo(authorName: string): Author | undefined {
 
 function loadEntriesInFolder(author: string, globPattern: string): Post[] {
   const entries: Post[] = [];
-  const filepaths = globSync(globPattern);
+  const filepaths = globSync(globPattern, NOT_CHAPTERS);
   const index = getAuthorsIndex();
   const authorIndex = index.get(author);
 
@@ -218,7 +224,7 @@ export function getEditionCounterparts(post: Post, posts: Post[], book?: Extende
 }
 
 export function getRandomEntry(): Post | undefined {
-  const filepaths = globSync('autore/**/*.md');
+  const filepaths = globSync('autore/**/*.md', NOT_CHAPTERS);
   const randomFilePath =
     filepaths[Math.floor(Math.random() * filepaths.length)];
   const content = fs.readFileSync(randomFilePath, 'utf-8');

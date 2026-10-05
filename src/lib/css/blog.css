@@ -248,6 +248,13 @@
   margin: 0;
 }
 
+/* A printer's ornament (vignette, tailpiece) keeps its printed size, which
+   the markdown sets as a share of the text column; no frame. */
+.post-container .post-body img.ornament {
+  margin: 2.75rem auto;
+  border: none;
+}
+
 .post-container center {
   text-align: center;
   white-space: pre-wrap;

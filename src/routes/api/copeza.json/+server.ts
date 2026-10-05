@@ -2,7 +2,7 @@ import { json } from '@sveltejs/kit';
 import { globSync } from 'glob';
 import * as fs from 'fs';
 import { parse } from '$lib/markdown';
-import { getAuthorsIndex } from '$lib/db';
+import { getAuthorsIndex, NOT_CHAPTERS } from '$lib/db';
 import type { RequestHandler } from './$types';
 
 export const prerender = true;
@@ -17,7 +17,7 @@ interface CopezaEntry {
 }
 
 export const GET: RequestHandler = () => {
-  const filepaths = globSync('autore/**/*.md');
+  const filepaths = globSync('autore/**/*.md', NOT_CHAPTERS);
   const index = getAuthorsIndex();
   const entries: CopezaEntry[] = [];
 

@@ -33,7 +33,15 @@ fold the OCR's usual `u`/`n`, `q`/`g`, `l`/`i` confusions), once on accents only
 over the words whose letters agree. The two reads err differently, so nearly
 every disagreement is an OCR error and the few that aren't are exactly the
 words to check on the scan. For *Kendimét é dyta per çunat* this cut 138 pages
-to ~35 spots to verify.
+to ~35 spots to verify. Where the print uses `ë`, the OCR drops or swaps it
+(`fjale`, `miré`, `kullotö` for `fjalë`), so fold `ö` into `ë` and read the
+accent diff in one direction only: a mark the OCR shows and the transcription
+lacks. For *Pushka e Trathtarit* that left ~45 spots in 199 pages; one agent
+had normalised the print's `pveti` to `pyeti`, which only the diff caught.
+
+**Several agents, one book: give them the same rule for every sort the print
+mixes.** Agents met the print's mixed quotes (`“…„`, `«…»`, even `“…»`) and
+each chose differently. Decide such things once, in the assembler, not per page.
 
 **Headings set in capitals are weak evidence for accents.** A printer may set a
 capital heading with whatever accented capitals the case held (`QENI BÊSNIK` over

@@ -405,7 +405,8 @@ function loadBook(folder, index = loadIndex()) {
   const book = author?.books?.find((b) => b.folder === folder);
   if (!book) throw new Error(`${folder}: no such book in ${INDEX_PATH}`);
 
-  const entries = globSync(`autore/${folder}/**/*.md`)
+  // A README.md beside the chapters is notes for contributors, not text.
+  const entries = globSync(`autore/${folder}/**/*.md`, { ignore: '**/README.md' })
     .sort()
     .map((file) => {
       const { attributes, body } = frontmatter(readFileSync(file, 'utf-8'));
@@ -450,11 +451,13 @@ function loadBook(folder, index = loadIndex()) {
 function lastModified(folder) {
   try {
     const path = `autore/${folder}`;
-    const dirty = execFileSync('git', ['status', '--porcelain', '--', path], {
+    // Notes for contributors (README.md) aren't part of the text.
+    const paths = [path, `:(exclude)${path}/README.md`];
+    const dirty = execFileSync('git', ['status', '--porcelain', '--', ...paths], {
       encoding: 'utf-8',
     }).trim();
     if (!dirty) {
-      const date = execFileSync('git', ['log', '-1', '--format=%cI', '--', path], {
+      const date = execFileSync('git', ['log', '-1', '--format=%cI', '--', ...paths], {
         encoding: 'utf-8',
       }).trim();
       if (date) return new Date(date);
