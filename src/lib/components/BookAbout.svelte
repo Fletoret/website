@@ -2,6 +2,7 @@
   // A book's description on its profile page: the abstract, when it was
   // published, and who compiled or translated it. On a phone it is cut to a
   // few lines, with a toggle, so the chapters stay near the top of the page.
+  import CONFIG from '$lib/config';
   import { languageInfo, languageOf } from '$lib/editions';
   import type { ExtendedBookType } from '$lib/types';
 
@@ -37,6 +38,10 @@
     {/if}
     {#if book.translatedBy}
       Përktheu {book.translatedBy}{book.translationNote ? ` (${book.translationNote})` : ''}.
+    {/if}
+    {#if book.proofreadingNotes}
+      Disa vende në tekst duan ende krahasim me origjinalin:
+      <a href="{CONFIG.repo.tree}/autore/{book.folder}/{book.proofreadingNotes}">ndihmo t'i kontrollojmë</a>.
     {/if}
   </p>
   {#if clamped || open}

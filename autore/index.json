@@ -747,5 +747,39 @@
         "epub": true
       }
     ]
+  },
+  "zef-harapi": {
+    "folder": "zef-harapi",
+    "name": "Zef Harapi",
+    "description": "Zef M. Harapi (1891–1946), nga Shkodra, ishte prift jezuit e mësues. U shkollua në Kolegjin Saverian të Shkodrës dhe dha mësim në Pejë, në Durrës e në qytetin e lindjes. Romani i tij \"Pushka e trathtarit\" (1914) është ndër provat e para të romanit në shqip; më vonë shkroi dramat historike \"Oso Kuka\" (1921) dhe \"Mustafë Pasha i Shkodrës\" (1923). Nuk duhet ngatërruar me françeskanin Anton Harapi.",
+    "thumbnail": "/images/zef-harapi.avif",
+    "progressState": "partial",
+    "author": {
+      "@type": "Person",
+      "givenName": "Zef",
+      "familyName": "Harapi",
+      "birthDate": "1891",
+      "birthPlace": {
+        "@type": "Place",
+        "address": "Shkodër, Shqipëri"
+      },
+      "deathDate": "1946",
+      "image": "/images/zef-harapi.avif"
+    },
+    "books": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Book",
+        "name": "Pushka e Trathtarit",
+        "folder": "zef-harapi/pushka-e-trathtarit",
+        "genre": "albanian novels classics",
+        "datePublished": "1914",
+        "thumbnail": "/images/covers/pushka-e-trathtarit.avif",
+        "abstract": "Roman historik i botuar në Shkodër më 1914, nr. 14 i serisë \"Vepra Pijore\" të shtypshkronjës jezuite. Në Shas, mes rrënojave të qytetit të vjetër, Lula vajton të birin Lekën, të vrarë pabesisht, ndërsa djalin e vogël, Marashin, ia rrëmbejnë cubat. Rrëfimi ndjek fatin e familjes për tridhjetë vjet dhe ndalet edhe te historia e Shasit, e Tivarit e e Malit të Zi. Ruhet drejtshkrimi i botimit.",
+        "publishedFletoret": true,
+        "epub": true,
+        "proofreadingNotes": "README.md"
+      }
+    ]
   }
 }

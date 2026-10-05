@@ -133,6 +133,18 @@
       "author_name": "Gjergj Fishta"
     },
     {
+      "slug": "pushka-e-trathtarit",
+      "title": "Pushka e Trathtarit",
+      "manifest": "libra1!HASH017d!9b5bfa1f.dir",
+      "author": "Harapi, Zef M.",
+      "year": "1914",
+      "pages": 216,
+      "source": "https://bibliotekadigjitale.bksh.al/iiif/Manifester/IIIF/libra1!HASH017d!9b5bfa1f.dir",
+      "author_folder": "zef-harapi",
+      "book_folder": "pushka-e-trathtarit",
+      "author_name": "Zef Harapi"
+    },
+    {
       "slug": "shqiperia",
       "title": "Shqipëria ç’ ka qenë, ç’ është e ç’ do të bëhetë?",
       "manifest": "libra1!HASH0181!8b1ffa07.dir",

@@ -12,4 +12,8 @@ export default {
     twitter: { url: 'https://twitter.com/FletoretSQ', handle: '@FletoretSQ' },
     github: { url: 'https://github.com/fletoret', handle: 'github.com/Fletoret' },
   },
+  repo: {
+    /** Where the files under `autore/` can be read and edited. */
+    tree: 'https://github.com/Fletoret/website/blob/main',
+  },
 };
