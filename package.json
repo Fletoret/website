@@ -47,7 +47,7 @@
     "playwright": "^1.62.1",
     "sharp": "0.35.5",
     "slugify": "1.6.9",
-    "svelte": "5.57.1",
+    "svelte": "5.57.2",
     "svelte-check": "4.7.6",
     "tslib": "2.8.1",
     "typescript": "5.9.3",
